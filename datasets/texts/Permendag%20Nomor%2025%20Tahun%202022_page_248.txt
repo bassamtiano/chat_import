@@ -1,0 +1,32 @@
+- 219 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+yang digunakan dalam pencelupan, penyamakan,
+wewangian, farmasi, atau untuk insektisida,
+fungisida, atau tujuan serupa:
+1798.) 1212.29.11 ---- Dari jenis yang digunakan di farmasi V V
+1799.] 1212.29.19 ---- Lain-lain V V
+1800.| 1212.29.20 --- Lain-lain, segar, didinginkan atau dikeringkan V V
+1801.) 1212.29.30 --- Lain-lain, dibekukan V J
+13.02 Sap dan ekstrak nabati; zat pektik, pektinat
+dan pektat; Agar-agar dan lendir serta bahan
+pengental lainnya, dimodifikasi maupun tidak,
+berasal dari produk nabati.
+- Lendir dan pengental, dimodifikasi maupun
+tidak, berasal dari produk nabati:
+1802.]| 1302.31.00 -- Agar-agar V V
+1302.39 -- Lain-lain:
+--- Karaginan:
+1803.| 1302.39.11 ---- Bubuk, semi-murni V y
+1804.| 1302.39.12 ---- Bubuk, murni V Bl
+1805.) 1302.39.13 ---- Alkali Treated carrageenan chips (ATCC) V V
+1806.| 1302.39.19 ---- Lain-lain V V
+1807.] ex 1302.39.90 | --- Lain-lain Alginate dan V V
+turunannya
+15.04 Lemak dan minyak serta fraksinya, dari ikan
+atau binatang laut menyusui, dimurnikan
+maupun tidak, tetapi tidak dimodifikasi secara
+kimia.
+1504.10 - Minyak hati ikan dan fraksinya:
+1808.] 1504.10.20 -- Fraksi padat V V
+

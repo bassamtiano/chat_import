@@ -1,0 +1,65 @@
+| No. | HS 2017 Uraian 2017 KETERANGAN
+
+- Hati , telur dan sperma dari ikan,
+0305.20 dikeringkan, diasapi, diasinkan atau
+dalam air garam :
+HATI DAN TELUR
+- - Dari ikan air tawar, dikeringkan, | IKAN/LIVERS
+HOB; | SSO0R-20:20 diasinkan atau dalam air garam AND ROES OF
+FISH
+HATI DAN TELUR
+F P IKAN/LIVERS
+169.| 0305.20.90 AND ROES OF
+FISH
+
+- Fillet ikan, dikeringkan, diasinkan
+atau dalam air garam, tetapi tidak
+diasapi :
+
+- - Tilapias (Oreochromis  spp.),
+catfish (Pangasius spp., Silurus spp.,
+Clarias spp., Ictalurus spp.), ikan
+mas (Cyprinus spp., Carassius spp.,
+Ctenopharyngodon idellus, IKAN
+170.| 0305.31.00 | #yPophthalmichthys spp., Cirrhinus | | si~nyA/OTHER
+spp., Mylopharyngodon piceus, Catla FISH
+catla, Labeo spp., Osteochilus
+hasselti, Leptobarbus hoeveni,
+Megalobrama spp.), sidat (Anguilla
+pp.), Nile perch (Lates niloticus) dan
+keluarga
+Bregmacerotidae, Euclichthyidae, | IKAN
+171. | 0305.32.00 | Gadidae, Macrouridae, Melanonidae, | LAINNYA/OTHER
+Merlucciidae, Moridae dan | FISH
+Ikan garfish air tawar
+(Xenentodon cancila), Ikan kambing
+172. | 0305.39.10 | bersirip kuning (Upeneus vittatus)
+dan ikan long-rakered trevally (Ulua
+mentalis
+BIGEYE
+
+- - - Layur (Lepturacanthus savala),
+Belanger’s croakers (Johnius
+173. | 0305.39.20 | belangerii), Reeve’s croakers
+(Chrysochir aureus) dan _ bigeye
+croakers (Pennahia anea)
+CROAKERS
+
+ie == “a
+
+IKAN
+LAINNYA/OTHER
+FISH
+
+LAYUR, GULAMA,
+REEVE'S
+CROAKERS,
+BIGEYE
+CROAKERS
+/SAVALAI
+HAIRTAILS,
+BELANGER'S
+CROAKERS,
+REEVE'S
+CROAKERS,
+

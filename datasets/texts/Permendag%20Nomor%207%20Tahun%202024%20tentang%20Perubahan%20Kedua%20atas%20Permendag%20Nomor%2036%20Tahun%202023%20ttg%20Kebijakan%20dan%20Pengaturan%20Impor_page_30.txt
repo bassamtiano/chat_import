@@ -1,0 +1,56 @@
+-15-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+milik negara atau
+lembaga pemerintah
+yang melaksanakan
+tugas pemerintahan di
+bidang pangan sesuai
+ketentuan peraturan
+perundang-undangan;
+dan
+
+2. Rekomendasi dari
+kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang pertanian.
+
+PERUBAHAN PI
+
+Perubahan PI DOC untuk
+Pemenuhan Stok dan
+Stabilisasi Harga (BUMN
+pemilik API-P atau BUMN
+pemilik API-U):
+
+Perubahan PI DOC untuk
+Pemenuhan Stok dan
+Stabilisasi Harga (BUMN
+pemilik API-P atau BUMN
+pemilik API-U) dapat
+dilakukan dalam hal
+perubahan identitas
+Importir, uraian barang,
+pos tarif/HS, jumlah,
+satuan, negara asal,
+pelabuhan muat,
+

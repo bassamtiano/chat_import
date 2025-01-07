@@ -1,0 +1,180 @@
+- 266 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+a]
+aj
+
+LS
+
+Post
+Border
+
+1214.
+
+7225.30.90
+
+-- Lain-lain
+
+4
+QZ
+ao
+
+1215.
+
+7225.40.10
+
+-- Dari baja high speed
+
+Z
+5
+
+1216.
+
+7225.40.90
+
+-- Lain-lain
+
+Z10
+Be
+
+1217.
+
+7225.50.10
+
+-- Dari baja high speed
+
+Q 2/0
+We Ms
+
+1218.
+
+7225.50.90
+
+-- Lain-lain
+
+Z
+5
+
+1219.
+
+7225.91.10
+
+--- Dari baja high speed
+
+Z
+5
+
+1220.
+
+7225.91.90
+
+--- Lain-lain
+
+Z\5
+Bleek
+
+1221.
+
+7225.92.10
+
+--- Dari baja high speed
+
+Q 2/9
+Ws Plz
+
+1222.
+
+7225.92.20
+
+--- Lain-lain, disepuh atau dilapisi
+dengan paduan seng-aluminium-
+magnesium
+
+A IR SIR SIR SIR SIR SIR IB BIB
+3 s
+
+Q
+KS
+
+1223.
+
+7225.92.90
+
+--- Lain-lain
+
+5
+
+1224.
+
+7225.99.10
+
+--- Dari baja high speed
+
+Z|\O Z
+Be
+
+1225.
+
+7225.99.90
+
+--- Lain-lain
+
+ZlO
+BZEe
+
+1226.
+
+7226.11.10
+
+--- Simpai dan strip, dengan lebar
+tidak melebihi 400 mm
+
+Q 2/9
+ZEs
+
+1227.
+
+7226.11.90
+
+--- Lain-lain
+
+Z
+5
+
+1228.
+
+7226.19.10
+
+--- Simpai dan strip, dengan lebar
+tidak melebihi 400 mm
+
+Z0
+Ble
+
+ADTADADADA RAD
+
+Q
+KS
+
+aoe<2a) 4) 2) 2 242 245 24) 4
+
+aoe<2a) 4) 2) 2 242 245 24) 4
+
+2a; <=) = 24
+
+<2
+

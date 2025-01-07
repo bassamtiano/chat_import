@@ -1,0 +1,33 @@
+- 105 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Beste
+467. | ex 8459.39.10 --- Dioperasikan | Kecuali Mesin Fris V V V
+secara elektrik Manual (Milling
+Machine) dengan
+ukuran meja 1.217
+x 229 mm
+- Mesin pengebor lainnya:
+468. | ex 8459.41.00 -- Dikontrol Kecuali Mesin Bor V V V
+secara numerik dengan diameter
+mata bor
+maksimal 5 inch
+8459.49 -- Lain-lain:
+469. | ex 8459.49.10 -- Dioperasikan Kecuali Mesin Bor V V V
+secara elektrik dengan diameter
+mata bor
+maksimal 5 inch
+- Mesin penggiling, tipe knee:
+8459.59 -- Lain-lain:
+1470. | 8459.59.10 --- Dioperasikan secara elektrik V V V
+- Mesin penggiling lainnya:
+471.) 8459.61.00 -- Dikontrol secara numerik V V V
+8459.69 -- Lain-lain:
+472. | ex 8459.69.10 --- Dioperasikan | Kecuali Mesin V V V
+secara elektrik FrisManual
+(Milling Machine)
+Ukuran meja:
+1217 x 229 mm
+8459.70 - Mesin pembuat ulir atau alur
+lainnya:
+473. | 8459.70.10 -- Dioperasikan secara elektrik V V V
+

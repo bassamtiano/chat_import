@@ -1,0 +1,80 @@
+- 160 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+atau tanpa bahan pengikat, dan tanpa
+pelapis lainnya, diwarnai, dihias atau
+
+dicetak permukaannya maupun tidak, dalam
+
+gulungan atau lembaran empat persegi
+panjang (termasuk bujur sangkar) dari
+berbagai ukuran.
+
+- Kertas dan kertas karton dari jenis yang
+digunakan untuk menulis, mencetak atau
+keperluan grafik lainnya, tidak mengandung
+serat yang diperoleh melalui proses mekanik
+atau kimia mekanik mengandung serat
+tersebut tidak lebih dari 10% menurut berat
+keseluruhan kandungan seratnya:
+
+4810.13
+
+-- Dalam gulungan:
+
+550.
+
+ex 4810.13.10
+
+--- Dicetak, dari
+jenis yang
+digunakan untuk
+aparatus yang
+merekam sendiri,
+dengan lebar 150
+mm atau kurang
+
+Berasal dari kayu
+
+--- Lain-lain: Berasal dari kayu
+
+551.
+
+ex 4810.13.91
+
+---- Dengan lebar | Berasal dari kayu
+150 mm atau
+kurang
+
+552.
+
+ex 4810.13.99
+
+---- Lain-lain:
+
+Berasal dari kayu
+
+4810.14
+
+Dalam lembaran dengan satu sisinya tidak
+melebihi 435 mm dan sisi lainnya tidak
+melebihi 297 mm dan tidak dilipat:
+

@@ -1,0 +1,38 @@
+-121-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+pembudidayaan
+0306.33 -- Kepiting :
+--- Blue crab (Callinectes spp.) dan Snow crab
+(kepiting dari keluarga Oregoniidae) :
+730. | ex ---- Hidup Hanya untuk V V
+0306.33.11 calon induk,
+induk dan benih
+untuk
+pembudidayaan
+--- Lain-lain :
+731. ex ---- Hidup Hanya untuk V V
+0306.33.91 calon induk,
+induk dan benih
+untuk
+pembudidayaan
+732. | ex 0306.34.00 | -- Lobster Norwegia Hanya untuk V V
+(Nephrops norvegicus) calon induk,
+induk dan benih
+untuk
+pembudidayaan
+0306.35 -- Udang dan udang besar air
+dingin (Pandalus spp., Crangon
+crangon):
+733. 0306.35.10 --- Bibit V V
+734. ex 0306.35.20 | --- Lain-lain, hidup Hanya untuk V V
+
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+
+0306.36
+
+-- Udang dan udang besar lainnya:
+

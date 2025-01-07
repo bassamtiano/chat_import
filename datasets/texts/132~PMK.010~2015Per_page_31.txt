@@ -1,0 +1,83 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-28-
+POS/SUB POS
+NO. HEADING/ URAIAN BARANG DESCRIPTION OF GOODS BEA MASUK/
+SUB HEADING IMPORT DUTY
+0) c (2) | (3) (4) ©)
+8223 |8516.79.90.00 ~ - - Lain-lain - - - Other 15%
+85.18 Mikrofon dan penyangganya; pengeras suara, dipasang padajMicrophones and stands therefor; loudspeakers, whether or|
+fumahnya maupun tidak; headphone dan_ earphone,|not mounted in their enclosures; headphones and earphones,
+dikombinasikan dengan mikrofon maupun tidak dan perangkat|whether or not combined with a microphone, and sets
+yang terdiri dari satu mikrofon dan satu atau lebih pengeras|consisting of a microphone and one or more loudspeakers;
+suara; amplifier listrik audio-frequency; perangkat amplifier|audio-frequency electric amplifiers; electric sound amplifier]
+suara listrik. sets.
+- Pengeras suara, dipasang pada rumahnya maupun tidak: - Loudspeakers, whether or not mounted in their enclosures:
+8518.21 - - Pengeras suara tunggal, dipasang pada rumahnya: Single loudspeakers, mounted in their enclosures:
+8266 }8518.21.10.00 - - - Tipe box speaker Box speaker type 15%
+8267 |8518.21.90.00 - - - Lain-lain Other 15%
+8518.22 - - Pengeras suara multipel, dipasang pada rumah yang sama: - - Multiple loudspeakers, mounted in the same enclosure:
+8268 |8518.22.10.00 - - - Tipe box speaker. - Box speaker type 15%
+8269 |8518.22.90.00 - - - Lain-lain - Other 15%
+8518.29 - - Lain-lain: Other:
+8518.29.20 - - - Pengeras suara, tanpa rumah, mempunyai rentang frekuensi| - Loudspeakers, without enclosure, having a frequency range ot
+300 Hz sampai dengan 3.400 Hz dengan diameter tidak| 300 Hz to 3,400 Hz, with a diameter not exceeding 50 mm, for|
+melebihi 50 mm, untuk keperluan telekomunikasi telecommunication use
+8271 |8518.29.90.00 - - - Lain-lain - - - Other 10%
+8518.50 - Perangkat amplifier suara listrik: - Electric sound amplifier sets:
+8282 |8518.50.10.00 - - Mempunyai tingkat kekuatan 240 W atau lebih - - Having a power rating of 240 W or more 15%
+8283 }8518.50.20.00 - - Lainnya, dengan pengeras suara,dari jenis yang cocok untuk}- - Other, with loudspeakers, of a kind suitable for broadcasting, 15%
+penyiaran, mempunyai voltage rating 50 V atau lebih tetapi tidak’ having a voltage rating of 50 V or more but not exceeding 100 V
+melebihi 100 V
+8284 |8518.50.90.00 - - Lain-lain - - Other 15%
+85.19 Aparatus untuk perekam dan reproduksi suara. Sound recording or reproducing apparatus.
+8519.20 - Aparatus yang dioperasikan dengan koin, uang kertas, bank card,]- Apparatus operated by coins, banknotes, bank cards, tokens or by|
+token atau dengan alat pembayaran lainnya: other means of payment:
+8519.30 - Pemutar piringan hitam (record-deck) = Turntables (record-decks)
+8519.50 - Mesin penjawab telepon - Telephone answering machines
+- Aparatus lainnya: - Other apparatus:
+8519.81 - - Menggunakan magnet, media optik atau semi konduktor: - - Using magnetic, optical or semiconductor media:
+8519.81.10 - - - Perekam pita kaset ukuran saku, dengan ukuran tidak melebihi]- - - Pocket size cassette recorders, the dimensions of which do]
+170 mm x 100 mm x 45 mm not exceed 170 mm x 100 mm x 45 mm
+8519.81.20 - - - Perekam pita kaset, dengan amplifier terpasang dan satu atau|- - - Cassette recorders, with built in amplifiers and one or more|
+lebih pengeras suara terpasang, dioperasikan hanya dengan} built in loudspeakers, operating only with an external source of|
+umber tenaga dari luar power
+8296 |8519.81.30.00 |- - - Compact disc player - - - Compact disc players 15%
+Transcribing machine: |- - - Transcribing machines:
+8519.81.50 Mesin dikte tidak dapat dijalankan tanpa sumber tenaga dariJ- - - Dictating machines not capable of operating without anj
+luar external source of power
+- - - Perekam pita magnetik digabung dengan aparatus reproduksij- - - Magnetic tape recorders incorporating sound reproducing}
+suara, tipe audio digital: apparatus, digital audio type:
+- - - Aparatus reproduksi suara lainnya, tipe kaset: - - - Other sound reproducing apparatus, cassette type:
+P Lain-laii - - - Other:
+8519.81.91 - - - - Dari jenis yang cocok untuk sinematografi atau penyiaran _|- - - - Ofa kind suitable for cinematography or broadcasting
+8305 |8519.81.99.00 ---- Lain-lain - - - - Other 15%
+85.21 Aparatus perekam atau pereproduksi video, digabung dengan|Video recording or reproducing apparatus, whether or not,
+video tuner maupun tidak. incorporating a video tuner.
+8521.10 - Tipe pita magnetik: - Magnetic tape-type:
+8521.90 ~ Lain-lain: - Other: .
+- - Laser disc player: - - Laser disc players: . .
+{8521.90.11 - - - Dari jenis yang digunakan dalam sinematografi atau penyiaran}- - - Of a kind used in cinematography or television broadcasting
+televisi 9
+8314 /8521.90.19.00 - - - Lain-lain - - - Other 15%
+- - Lain-lain: - - Other: .
+8521.90.91 - - - Dari jenis yang digunakan dalam sinematografi atau penyiaran|- - - Of a kind used in cinematography or television broadcasting
+televisi :
+8316 |8521.90.99.00 - - + Lain-lain - - - Other 15%
+85.27 Aparatus penerima untuk penyiaran radio, dikombinasi]/Reception apparatus for radio-broadcasting, whether or not
+maupun tidak, dalam rumah yang sama, dengan aparatus|combined, in the same housing, with sound recording or|
+perekam atau pereproduksi suara atau penunjuk waktu. reproducing apparatus or a clock.
+- Penerima siaran radio dapat dioperasikan tanpa sumber tenaga|- Radio-broadcast receivers capable of operating without an|
+dari luar: external source of power:
+- Penerima siaran radio tidak dapat dioperasikan tanpa sumber|- Radio-broadcast receivers not capable of operating without an}
+tenaga dari luar, dari jenis yang digunakan dalam kendaraan} external source of power, of a kind used in motor vehicles:
+bermotor: , .
+8413 |8527.21.00.00 - - Dikombinasikan dengan aparatus perekam atau pereproduksil- - Combined with sound recording or reproducing apparatus 15%
+suara
+- - Lain-lain - - Other 15%
+
+8414 |8527.29.00.00
+
+www.jdih.kemenkeu.go.i
+

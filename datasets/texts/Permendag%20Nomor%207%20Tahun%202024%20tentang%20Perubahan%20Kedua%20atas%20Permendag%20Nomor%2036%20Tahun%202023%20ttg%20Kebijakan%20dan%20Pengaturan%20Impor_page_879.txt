@@ -1,0 +1,104 @@
+- 159 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+bangunan atau sejenisnya:
+
+522.
+
+8479.10.10
+
+-- Dioperasikan secara elektrik
+
+8479.20
+
+- Mesin untuk mengekstraksi atau
+mengolah lemak atau minyak dari
+
+hewan, nabati tertentu atau mikroba:
+
+523.
+
+8479.20.10
+
+-- Dioperasikan secara elektrik
+
+524.
+
+8479.30.00
+
+-Pengepres untuk pembuatan papan
+partikel atau papan bangunan
+berserat dari kayu atau dari bahan
+lignin lainnya dan mesin lainnya
+untuk mengerjakan kayu atau gabus
+
+525.
+
+8479.50.00
+
+- Robot industri, tidak dirinci atau
+termasuk dalam pos lainnya
+
+-Mesin dan peralatan mekanis
+lainnya:
+
+8479.81
+
+-- Untuk mengerjakan logam,
+termasuk penggulung kawat listrik:
+
+526.
+
+8479.81.10
+
+--- Dioperasikan secara elektrik
+
+8479.82
+
+-- Mesin pencampur, pengadon,
+penghancur, penggerinda,
+penyaring, pengubah,
+penghomogen, pengemulsi atau
+pengaduk:
+
+527.
+
+8479.82.10
+
+--- Dioperasikan secara elektrik
+
+528.
+
+ex 8479.83.00
+
+-- Pengepres Dioperasikan
+isostatik dingin secara elektrik
+
+84.80
+
+Kotak cetakan untuk pengecoran
+logam; dasar cetakan; pola
+cetakan; cetakan untuk logam
+(selain cetakan ingot), karbida
+logam, kaca, bahan mineral,
+
+V
+

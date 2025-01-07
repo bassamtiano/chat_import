@@ -1,0 +1,138 @@
+- 477 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+2867.
+
+5703.90.11
+
+--- Babut untuk sembahyang
+
+MTK
+
+2868.
+
+5703.90.19
+
+--- Lain-lain
+
+MTK
+
+--_ Dari serat jute:
+
+2869.
+
+5703.90.21
+
+--- Keset lantai dari jenis yang
+digunakan untuk kendaraan
+bermotor pada pos 87.02, 87.03
+atau 87.04
+
+MTK
+
+2870.
+
+5703.90.22
+
+--- Karpet penutup lantai dari jenis
+yang digunakan untuk kendaraan
+bermotor pada pos 87.02, 87.03
+atau 87.04
+
+MTK
+
+2871.
+
+5703.90.29
+
+--- Lain-lain
+
+MTK
+
+-- Lain-lain:
+
+2872.
+
+5703.90.91
+
+--- Keset lantai dari jenis yang
+digunakan untuk kendaraan
+bermotor pada pos 87.02, 87.03
+atau 87.04
+
+MTK
+
+2873.
+
+5703.90.92
+
+--- Babut untuk sembahyang
+
+MTK
+
+2874.
+
+5703.90.93
+
+--- Karpet penutup lantai dari jenis
+yang digunakan untuk kendaraan
+bermotor pada pos 87.02, 87.03
+atau 87.04
+
+MTK
+
+2875.
+
+5703.90.99
+
+--- Lain-lain
+
+MTK
+
+57.04
+
+Karpet dan penutup lantai tekstil
+lainnya, dari kain kempa, tidak
+berumbai atau tidak dibentuk
+flock, sudah jadi maupun belum.
+
+2876.
+
+5704.10.00
+
+- Ubin, mempunyai luas
+permukaan maksimum 0,3 m?
+
+MTK
+
+2877.
+
+5704.20.00
+
+- Ubin, mempunyai luas
+permukaan maksimum lebih dari
+0,3 m2? tetapi tidak melebihi 1 m2?
+
+MTK
+

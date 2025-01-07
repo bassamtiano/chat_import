@@ -1,0 +1,34 @@
+-25-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+secara elektrik Manual (Boring-
+Milling Machine)
+dengan ukuran
+meja 1.217 x 229
+mm
+- Mesin pengebor lainnya:
+137.| ex 8459.41.00 | -- Dikontrol Kecuali Mesin Bor vj ov V
+secara numerik dengan diameter
+mata bor
+maksimal 5 inch
+8459.49 -- Lain-lain:
+138. | ex 8459.49.10 -- Dioperasikan Kecuali Mesin Bor V V V
+secara elektrik dengan diameter
+mata bor
+maksimal 5 inch
+- Mesin penggiling, tipe knee:
+139. | 8459.51.00 -- Dikontrol secara numerik V V V
+8459.59 -- Lain-lain:
+140. | 8459.59.10 --- Dioperasikan secara elektrik V V V
+- Mesin penggiling lainnya:
+141. | 8459.61.00 -- Dikontrol secara numerik V V V
+8459.69 -- Lain-lain:
+142.| ex 8459.69.10 --- Dioperasikan | Kecuali Mesin V V V
+secara elektrik FrisManual
+(Milling Machine)
+Ukuran meja:
+1217 x 229 mm
+8459.70 - Mesin pembuat ulir atau alur
+lainnya:
+143. | 8459.70.10 -- Dioperasikan secara elektrik V V V
+

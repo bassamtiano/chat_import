@@ -1,0 +1,56 @@
+-~14-
+
+Indonesia dan agar lebih efektif dalam pencapaian tujuan untuk
+meningkatkan kinerja layanan ekspor-impor, konsep kebijakan
+umum sistem National Single Window di Indonesia sedikit
+berbeda dengan negara lain, yaitu dengan menambahkan sistem
+kepelabuhanan/kebandarudaraan (Seaport/Airport System).
+Dengan demikian sistem National Single Window di Indonesia
+tidak hanya memfasilitasi otomasi dan integrasi data yang
+terkait dengan kegiatan trading saja (trade-system) namun juga
+mencakup kegiatan layanan kapal dan barang di pelabuhan
+(port-system). Kebijakan ini sering disebut sebagai “Kebijakan
+Dua Pilar sistem: Trade-System dan Port-System’.
+
+a. Trade System (“TradeNet”):
+
+ditujukan untuk mendorong percepatan dalam penyelesaian
+
+dokumen pelayanan ekspor-impor (Flow of Document) >
+
+Customs Clearance, yang melakukan pertukaran data:
+
+1) dari Customs-System: Data realisasi Impor/Ekspor
+(Utilization-Report}); dan
+
+2) dari Trade-System (GA): Perizinan Ekspor-Impor.
+
+b. Port System (“PortNet”):
+
+ditujukan untuk mendorong percepatan dalam penanganan
+
+lalu lintas fisik barang ekspor-impor (Flow of Goods) >
+
+Cargo Release, yang melakukan pertukaran data:
+
+1) dari Customs-System: Cargo Manifest (Inward dan
+Outward) dan Release Approval (SPPB dan Persetujuan
+Ekspor/PE); dan
+
+2) dari Port-System (GA): Discharge List/Loading List dan
+Gate in/ Gate out List.
+
+Kebijakan Teknis Pembangunan sistem National Single Window
+Untuk melakukan kegiatan teknis dalam pembangunan dan
+pengembangan sistem National Single Window di Indonesia,
+diperlukan kejelasan dan pengaturan yang terkait dengan data
+yang mengalir melalui Portal Indonesia National Single Window
+serta kebijakan atas aspek teknis yang lain dalam pengelolaan
+dan operasional Portal Indonesia National Single Window.
+a. Kebijakan terhadap data dan informasi
+
+Kebijakan atas data dan informasi yang mengalir melalui
+
+Portal Indonesia National Single Window, diputuskan untuk
+
+www jdih.kemenkeu.g¢Fid K

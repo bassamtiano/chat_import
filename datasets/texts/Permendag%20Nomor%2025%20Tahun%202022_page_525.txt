@@ -1,0 +1,33 @@
+-~ 43 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+8477.20 - Pengekstrusi:
+214.) 8477.20.10 -- Untuk mengekstrusi karet V V V
+215.| 8477.20.20 -- Untuk mengekstrusi plastik V V V
+216.| 8477.30.00 - Mesin cetak tiup Viv V
+8477.40 - Mesin cetak hampa udara dan mesin
+thermoforming lainnya:
+217.| 8477.40.20 -- Untuk mencetak atau membentuk V V V
+plastik
+218.) 8477.51.00 -- Untuk mencetak atau menelapaki V V V
+ban pneumatik atau untuk mencetak
+atau membentuk ban dalam secara
+lain
+8477.80 - Mesin lainnya:
+219.| 8477.80.10 -- Untuk mengerjakan karet atau V V V
+untuk pembuatan produk dari karet,
+dioperasikan secara elektrik
+220.| 8477.80.20 -- Untuk mengerjakan karet atau V V V
+untuk pembuatan produk dari karet,
+tidak dioperasikan secara elektrik
+221.) 8477.80.31 --- Pengepres laminasi untuk V V V
+pembuatan printed circuit board atau
+printed wiring board
+222. | 8477.80.39 --- Lain-lain viv V
+84.78 Mesin untuk mengolah atau
+membuat tembakau menjadi barang
+jadi, tidak dirinci atau termasuk
+dalam pos lainnya dalam Bab ini.
+8478.10 - Mesin:
+223. | 8478.10.10 -- Dioperasikan secara elektrik V V V
+

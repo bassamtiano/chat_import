@@ -1,0 +1,34 @@
+-65-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Beste
+262. | 4406.12.00 -- Pohon selain jenis konifera V V
+- Lain-lain:
+263. | 4406.91.00 -- Pohon jenis konifera V V
+264. | 4406.92.00 -- Pohon selain jenis konifera V V
+44.07 Kayu digergaji atau dibelah memanjang, diiris
+atau dikuliti, diketam, diampelas atau end-
+jointed maupun tidak, dengan ketebalan
+melebihi 6 mm.
+- Pohon jenis konifera:
+4407.11 -- Dari pinus (Pinus spp.) :
+265. | 4407.11.10 --- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+266. | 4407.11.90 --- Lain-lain V V
+267. | 4407.12.00 -- Dari fir (Abies spp.) dan spruce (Picea spp.) V Vv
+268. | 4407.13.00 -- Dari S-P-F (spruce (Picea spp.), pinus (pinus V V
+spp.) dan fir (Abies spp.))
+269. | 4407.14.00 -- Dari Hem-fir (Western hemlock (Tsuga V V
+heterophylla) dan fir (Abies spp.))
+4407.19 -- Lain-lain:
+270. | 4407.19.10 --- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+271. | 4407.19.90 --- Lain-lain V V
+- Dari kayu tropis: V V
+4407.21 -- Mahogani (Swietenia spp.):
+272. | 4407.21.10 --- Diketam, diampelas atau end-jointed V V
+273. | 4407.21.90 --- Lain-lain V V
+
+4407.22
+
+-- Virola, Imbuia dan Balsa:
+

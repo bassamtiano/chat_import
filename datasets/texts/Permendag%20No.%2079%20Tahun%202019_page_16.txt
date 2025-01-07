@@ -1,0 +1,64 @@
+26. |Mesin Pengering
+
+27. |Pengering Rambut
+
+28. |Pengisap Debu
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh.
+
+“12
+
+URAIAN BARANG
+
+Mesin pengering untuk kain atau barang tekstil dengan
+kapasitas linen kering tidak melebihi 10 kg.
+
+Pengering rambut.
+
+Dengan kekeuatan tidak melebihi 1500 W dan memiliki
+kantong debu atau penampung lainnya dengan kapasitas
+tidak melebihi 20 L
+
+PENEMPATAN LABEL
+
+KETERANGAN/PENJELASAN
+
+Nama barang;
+Merek barang;
+
+Nama dan alamat produsen untuk barang
+
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+
+Nama barang;
+Merek barang;
+
+Nama dan alamat produsen untuk barang
+
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+
+Nama barang
+Merek barang;
+
+Nama dan alamat produsen untuk barang
+
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+

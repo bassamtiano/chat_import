@@ -1,0 +1,141 @@
+- 466 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+5408.10
+
+- Kain tenunan yang diperoleh dari
+benang kekuatan tinggi dari rayon
+viskose:
+
+2730.
+
+5408.10.90
+
+-- Lain-lain
+
+MTR
+
+- Kain tenunan lainnya,
+mengandung filamen artifisial atau
+strip dari sejenisnya 85 % atau
+lebih menurut beratnya :
+
+2731.
+
+5408.21.00
+
+-- Tidak dikelantang atau
+dikelantang
+
+MTR
+
+2732.
+
+5408.22.00
+
+-- Dicelup
+
+MTR
+
+2733.
+
+5408.23.00
+
+-- Dari benang aneka warna
+
+MTR
+
+- Kain tenunan lainnya,
+mengandung filamen artifisial atau
+strip dari sejenisnya 85 % atau
+lebih menurut beratnya:
+
+2734.
+
+5408.24.00
+
+-- Dicetak
+
+MTR
+
+- Kain tenunan lainnya :
+
+2735.
+
+5408.31.00
+
+-- Tidak dikelantang atau
+dikelantang
+
+MTR
+
+2736.
+
+5408.32.00
+
+-- Dicelup
+
+MTR
+
+2737.
+
+5408.33.00
+
+-- Dari benang aneka warna
+
+MTR
+
+- Kain tenunan lainnya:
+
+2738.
+
+5408.34.00
+
+-- Dicetak
+
+MTR
+
+55.09
+
+Benang (selain benang jahit) dari
+serat stapel sintetik, tidak
+disiapkan untuk penjualan
+eceran.
+
+- Mengandung serat stapel dari
+nilon atau poliamida lainnya 85 %
+atau lebih menurut beratnya :
+
+2739.
+
+5509.11.00
+
+-- Benang tunggal
+
+KGM
+
+2} jefe) =) JJ
+
+=| jet] =] Je
+

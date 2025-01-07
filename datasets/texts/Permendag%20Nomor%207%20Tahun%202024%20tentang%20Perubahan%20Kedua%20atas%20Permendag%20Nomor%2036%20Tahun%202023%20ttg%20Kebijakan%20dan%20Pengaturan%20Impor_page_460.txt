@@ -1,0 +1,37 @@
+- 445 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+renang) untuk wanita atau anak
+perempuan.
+- Setelan:
+2451. | 6204.11.00 -- Dari wol atau bulu hewan halus | PCE Viv
+6204.12 -- Dari kapas:
+2452. | ex 6204.12.90 | --- Lain-lain Selain motif PCE viv
+batik
+2453. | 6204.13.00 -- Dari serat sintetik PCE Viv
+6204.19 -- Dari bahan tekstil lainnya:
+--- Dari sutra:
+2454. | ex 6204.19.19 | ---- Lain-lain Selain motif PCE Viv
+batik
+2455. | ex 6204.19.90 | --- Lain-lain Selain batik dan | PCE viv
+motif batik
+- Ensemble:
+2456. | 6204.21.00 -- Dari wol atau bulu hewan halus_ | PCE viv
+6204.22 -- Dari kapas:
+2457. | ex 6204.22.90 | --- Lain-lain Selain motif PCE Viv
+batik
+2458. | 6204.23.00 -- Dari serat sintetik PCE Viv
+6204.29 -- Bahan tekstil lainnya:
+2459. | 6204.29.10 --- Dari sutra PCE viv
+2460. | 6204.29.90 --- Lain-lain PCE Viv
+- Jas dan blazer:
+2461. | 6204.31.00 -- Dari wol atau bulu hewan halus | PCE Viv
+6204.32 -- Dari kapas:
+2462. | ex 6204.32.90 | --- Lain-lain Selain motif PCE viv
+batik
+2463. | 6204.33.00 -- Dari serat sintetik PCE Viv
+6204.39 -- Dari bahan tekstil lainnya:
+--- Dari sutra:
+2464. | ex 6204.39.19 | ---- Lain-lain Selain motif PCE Viv
+

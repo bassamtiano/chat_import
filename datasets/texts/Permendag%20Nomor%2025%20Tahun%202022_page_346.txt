@@ -1,0 +1,38 @@
+- 317 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+5208.51 -- Tenunan polos, beratnya tidak lebih dari 100 Pelabuhan muat, sebagaimana
+g/m?: dan/atau Pelabuhan dimaksud pada
+2738. | 5208.51.90 --- Lain-lain tujuan: nomor 2 harus vy | Vv
+5208.52 -- Tenunan polos, beratnya lebih dari 100 g/m2: | 1. PI TPT (API-P atau API- dilakukan Verifikasi
+2739. | 5208.52.90 --- Lain-lain U) yang masih berlaku; atau Penelusuran 7T 7T
+5208.59 - Kain lainnya: 2. Data yang tersedia, Teknis oleh Surveyor
+2740. | 5208.59.20 --- Lain-lain, kepar 3-benang atau 4-benang, dalam hal Neraca di: . J J
+termasuk kepar silang Komoditas belum a. Kawasan Berikat,
+F F ditetapkan; dan dalam hal TPT
+2741. | 5208.59.90 --- Lain-lain ; Vv |v
+. 7 3. Neraca Komoditas, asal Impor
+52.09 Kain tenunan dari kapas, mengandung kapas dalam hal Neraca merupakan sisa
+85 % atau lebih menurut beratnya, beratnya Komoditas telah bahan baku;
+lebih dari 200 g/m?. ditetapkan. b. Gudang Berikat;
+- Tidak dikelantang: c. Pusat Logistik
+5209.11 -- Tenunan polos: Berikat;
+2742. | 5209.11.10 --- Duck dan kanvas d. Kawasan V Bl
+2743. | 5209.11.90 --- Lain-lain Perdagangan J V
+2744. | 5209.12.00 -- Kepar 3-benang atau 4-benang, termasuk Bebas dan v [Vv
+kepar silang Pelabuhan Bebas;
+2745. | 5209.19.00 -- Kain lainnya dan ; yy. a
+- Dikelantang: e. Rawasan Ekonomi
+2746. | 5209.21.00 -- Tenunan polos Ketentuan PLTPT J J
+2747. | 5209.22.00 -- Kepar 3-benang atau 4-benang, termasuk dalam Peraturan v [Vv
+kepar silang Menteri ini tidak
+2748. | 5209.29.00 -- Kain lainnya berlaku terhadap TPT Vv [Vv
+- Dicelup: hasil olahan dari
+2749. | 5209.31.00 --_Tenunan polos Kawasan Berikat yang J V
+2750. | 5209.32.00 -- Kepar 3-benang atau 4-benang, termasuk dimasukkan ke V V
+kepar silang tempat lain dalam
+2751. | 5209.39.00 -- Kain lainnya daerah pabean. ; vy [Vv
+- Dari benang aneka warna: Ketentuan Verifikasi
+2752. | 5209.41.00 --_Tenunan polos atau Penelusuran v [Vv
+2753. | 5209.42.00 __| -- Denim Teknis Impor tidak EY
+

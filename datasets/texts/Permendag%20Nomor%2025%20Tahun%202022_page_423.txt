@@ -1,0 +1,36 @@
+- 394 -
+
+: : : CAS Post
+No Pos Tarif/HS Uraian Barang Jenis Barang Number Persyaratan Keterangan IT | IP | PI|/LS Border
+3427. Tetraklorodifluo | CAS tujuan ekspor Viv
+ropropana Number pembebasan.
+(HCFC-232) 134237-39-
+1
+3428. Triklorotrifluoro | CAS Viv
+propana (HCFC- | Number
+233) 134237-40-
+4
+3429. Diklorotetrafluo | CAS Viv
+ropropana Number
+(HCFC-234) 127564-83-
+4
+3430. Kloropentafluor | CAS Viv
+opropana Number
+(HCFC-235) 134237-41-
+5
+3431. Tetraklorofluoro | CAS Viv
+propana (HCFC- | Number
+241) 134190-49-
+1
+3432. Triklorodifluoro | CAS Viv
+propana (HCFC- | Number
+242) 134237-42-
+6
+3433. Diklorotrifluoro | CAS Viv
+propana (HCFC- | Number
+243) 134237-43-
+7
+3434. Klorotetrafluoro | CAS Viv
+propana (HCFC- | Number
+244) 134190-50-
+

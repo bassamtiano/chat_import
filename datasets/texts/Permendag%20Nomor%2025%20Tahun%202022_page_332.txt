@@ -1,0 +1,25 @@
+- 303 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2579. | 6204.61.00 -- Dari wol atau bulu hewan halus V V V
+2580. | 6204.62.00 -- Dari kapas Vv |v V
+2581. | 6204.63.00 -- Dari serat sintetik v/v V
+2582. | 6204.69.00 -- Dari bahan tekstil lainnya V |v V
+
+62.05 Kemeja pria atau anak laki-laki.
+6205.20 - Dari kapas:
+2583. | 6205.20.10 -- Dicetak dengan proses batik tradisional
+2584. | ex 6205.20.20 | -- Barong Tagalog Selain motif
+batik
+2585. | 6205.20.90 -- Lain-lain Vv |v V
+6205.30 - Dari serat buatan:
+2586. | 6205.30.10 -- Barong Tagalog V |v
+2587. | 6205.30.90 -- Lain-lain Vv |v
+6205.90 - Dari bahan tekstil lainnya:
+2588. | 6205.90.10 -- Dari wol atau bulu hewan halus V V V
+-- Lain-lain :
+2589. | 6205.90.91 --- Dicetak dengan proses batik tradisional
+2590. | ex 6205.90.92 | --- Barong Tagalog Selain motif
+batik
+2591. | 6205.90.99 --- Lain-lain Vv |v V
+

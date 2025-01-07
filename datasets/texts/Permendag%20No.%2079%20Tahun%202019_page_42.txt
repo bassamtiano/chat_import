@@ -1,0 +1,66 @@
+PENEMPATAN LABEL
+KETERANGAN /PENJELARAN |__PENEMPATAN LABEL __|
+| _KETERANGAN/PENJELASAN [RANG | KEMASAN |
+
+Ensemble dari kapas, dicetak dengan proses batik
+tradisional.
+
+Ensemble dari kapas, selain dicetak dengan proses batik
+tradisional.
+
+Ensemble dari serat sintetik.
+
+Ensemble dari sutra
+
+Ensemble selain dari sutra, selain dicetak dengan proses
+batik tradisional.
+
+Jas dan blazer dari wol atau bulu hewan halus
+
+Jas dan blazer dari kapas, dicetak dengan proses batik
+tradisional.
+
+Jas dan blazer dari kapas, selain dicetak dengan proses
+batik tradisional.
+
+Jas dan blazer dari serat sintetik.
+
+Jas dan blazer dari sutra, dicetak dengan proses batik’
+tradisional.
+
+Jas dan blazer dari sutra, selain dicetak dengan proses batik
+tradisional.
+
+Jas dan blazer dari bahan tekstil lainnya selain dari sutra.
+
+Gaun dari wol atau bulu hewan halus
+Gaun dari kapas, dicetak dengan proses batik tradisional.
+
+Gaun dari kapas, selain dicetak dengan proses batik
+tradisional.
+
+Gaun dari serat sintetik.
+
+Gaun dari serat artifisial.
+
+Gaun dari sutra, dicetak dengan proses batik tradisional.
+
+Gaun dari sutra, selain dicetak dengan proses batik
+tradisional.
+
+Gaun dari bahan tekstil lainnya selain sutra.
+
+Rok dan rok terpisah, dari wol atau bulu hewan halus
+
+Rok dan rok terpisah dari kapas, dicetak dengan proses
+batik tradisonal
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh;
+
+d. disertakan atau dimasukkan ke dalam barang/kemasan.

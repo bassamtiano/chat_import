@@ -1,0 +1,25 @@
+- 663 -
+
+. : Nama Bahan Nomor Kode Satuan Post
+No Pos Tarif/HS Uraian Barang Kimia CAS Daftar Barang Persyaratan Keterangan IT/IP| PI | LS Border
+Amiton:
+O,O-Diethyl S-
+[2-
+(diethylamino)
+ethyl] TNE;
+phosphorothiol a KGM; V V V
+ate 78-53-5 | 2A01 LTR
+
+dan garam
+alkilasi atau
+protonasi yang
+sesuai
+
+N,N-Dialkyl
+(Me, Et, n-Pr
+or i-Pr)
+aminoethane-
+2-thiols
+
+dan garam
+

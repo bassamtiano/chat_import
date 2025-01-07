@@ -1,0 +1,79 @@
+- 63 -
+
+PETUNJUK PENGISIAN
+Nomor (1) : diisi nama hari saat pelaksanaan pemusnahan.
+Nomor (2) : diisi nama tanggal saat pelaksanaan pemusnahan.
+Nomor (3) ; diisi nama bulan saat pelaksanaan pemusnahan,
+Nomor {4) : diisi nama tahun saat pelaksanaan pemusnahan.
+Nomor (5) : diisi nama tempat (kota) pelaksanaan pemusnahan.
+Nomor (6) : diist kementerian yang =menyelenggarakan  urusan
+pemerintahan di bidang kesekretariatan negara.
+Nomor (7) > diisi nama pejabat kementerian yang menyelenggarakan
+
+urusan pemerintahan di bidang kesekretariatan negara yang
+menyaksikan pemusnahan.
+
+Nomor (8) : diisi Nomor Induk Pegawai (NIP) pejabat kementerian yang
+menyelenggarakan urusan pemerintahan di bidang
+kesekretariatan negara yang menyaksikan pemusnahan.
+
+Nomor (9) : diisi nama unit kerja pejabat kementerian yang
+menyelenggarakan ourusan  pemerintahan di bidang
+kesekretariatan negara yang menyaksikan.
+
+Nomor (10) =: diisi nama jabatan pejabat kementerian yang
+menyelenggarakan urusan pemerintahan di  bidang
+kesekretariatan negara yang menyaksikan pemusnahan.
+
+Nomor (11)  : diisi nama pejabat Kementerian Keuangan yang menyaksikan
+pemusnahan.
+
+Nomor (12) : diisi Nomor Induk Pegawai (NIP) pejabat Kementerian
+Keuangan yang menyaksikan pemusnahan.
+
+Nomor (13) : diisi nama unit kerja pejabat Kementerian Keuangan yang
+menyaksikan pemusnahan.
+
+Nomor (14) =: -diisi nama jabatan pejabat Kementerian Keuangan yang
+menyaksikan pemusnahan.
+
+Nomor (15) : diisi nama Pejabat Badan Internasional yang menyaksikan
+pemusnahan.
+
+Nomor (16) : diisi Nomor IJdentintas Pejabat Badan Internasional yang
+menyaksikan pemusnahan.
+
+Nomor (17) : diisi nama Badan Internasional.
+
+Nomor (18) : diisi nama jabatan Pejabat Badan Internasional yang
+menyaksikan pemusnahan.
+
+Nomor (19) : diisinama pihak yang melakukan pemusnahan.
+
+Nomor (20) : diisi nomor identitas pihak yang melakukan pemusnahan.
+
+Nomor (21) : diisi mama entitas (perusahaan/badan/lainnya) yang
+
+melakukan pemusnahan.
+Nomor (22) : diisi nama jabatan yang melakukan pemusnahan.
+
+Nomor (23) : diisi nama tempat pelaksanaan pemusnahan.
+
+Nomor (24) : disii nama Badan Internasional pemilik Kendaraan Bermotor
+yang dimusnahkan.
+
+Nomor (25) : diisi nomor pemberitahuan pabean barang impor terkait.
+
+Nomor (26) =: diisi tanggal pemberitahuan pabean barang impor terkait.
+
+Nomor (27) : diisi nomor diisi nomor surat keterangan pengimporan
+
+Kendaraan Bermotor berupa Formulir B atau surat
+
+: keterangan lainnya.
+Nomor (28) : diisi tanggal diisi nomor surat keterangan pengimporan
+Kendaraan Bermotor berupa Formulir B atau surat
+
+keterangan lainnya.
+
+Jdih.kemenkeu.go.id

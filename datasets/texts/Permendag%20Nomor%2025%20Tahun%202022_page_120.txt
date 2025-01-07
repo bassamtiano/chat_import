@@ -1,0 +1,27 @@
+-Q9l1-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Beste
+untuk pembuatan joss paper
+531. | ex 4805.91.90 --- Lain-Lain Berasal dari kayu V V
+4805.92 -- Beratnya lebih dari 150 g/m? tetapi kurang dari
+225 g/m?2:
+532. | ex 4805.92.10 | --- Kertas dan kertas karton Berasal dari kayu V V
+multi lapis
+533. | ex 4805.92.90 --- Lain-lain Berasal dari kayu V V
+4805.93 -- Beratnya 225 g/m? atau lebih:
+534. | ex 4805.93.10 --- Kertas dan kertas karton Berasal dari kayu V V
+multi lapis
+535. | ex 4805.93.20 | --- Blotting paper Berasal dari kayu V v
+536. | ex 4805.93.90 --- Lain-lain Berasal dari kayu V V
+48.06 Perkamen nabati, kertas tahan lemak, kertas
+kalkir dan kertas glasin serta kertas transparan
+dikilapkan atau kertas bening lainnya, dalam
+gulungan atau lembaran.
+537. | ex 4806.10.00 | - Perkamen nabati Berasal dari kayu V v
+538. | ex 4806.20.00 - Kertas tahan lemak Berasal dari kayu V V
+539. | ex 4806.30.00 - Kertas kalkir Berasal dari kayu V V
+540. | ex 4806.40.00 | - Kertas glasin dan kertas Berasal dari kayu V Vv
+
+transparan dikilapkan atau
+kertas bening lainnya
+

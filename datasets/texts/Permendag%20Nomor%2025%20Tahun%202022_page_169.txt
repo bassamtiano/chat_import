@@ -1,0 +1,50 @@
+- 140 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+
+maupun tidak
+
+999. 7304.31.10 --- Drillrod casing dan tubing dengan pin dan box V V
+thread
+
+1000. | 7304.31.20 --- Pipa tekanan tinggi mampu menahan tekanan V V
+tidak kurang dari 42.000 psi
+
+1001. | 7304.31.40 --- Lain-lain, mempunyai diameter luar kurang V V
+dari 140 mm dan mengandung karbon kurang
+dari 0,45 % menurut beratnya
+
+1002. | 7304.31.90 --- Lain-lain Vv |v
+
+1003. | 7304.39.20 --- Pipa tekanan tinggi mampu menahan tekanan V V
+tidak kurang dari 42.000 psi
+
+1004. | 7304.39.40 --- Lain-lain, mempunyai diameter luar kurang V V
+dari 140 mm dan mengandung karbon kurang
+dari 0,45 % menurut beratnya
+
+1005. | 7304.39.90 --- Lain-lain Vv {Vv
+
+1006. | 7304.41.00 -- Ditarik dingin atau dicanai dingin (cold- V V
+reduced)
+
+1007. | 7304.49.00 -- Lain-lain Vv |v
+
+1008. | 7304.51.10 --- Drillrod casing dan tubing dengan pin dan box V V
+thread
+
+1009. | 7304.51.20 --- Pipa tekanan tinggi dengan yield strength tidak V V
+kurang dari 42.000 psi
+
+1010. | 7304.51.90 --- Lain-lain Vv {Vv
+
+1011. | 7304.59.10 --- Pipa tekanan tinggi dengan yield strength tidak V V
+kurang dari 42.000 psi
+
+1012. | 7304.59.90 --- Lain-lain Vv |v
+
+1013. | 7304.90.10 -- Pipa tekanan tinggi dengan yield strength tidak V V
+kurang dari 42.000 psi
+
+1014. | 7304.90.30 -- Lain-lain, mempunyai diameter luar kurang V V
+

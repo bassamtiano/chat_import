@@ -1,0 +1,97 @@
+-53-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+--- Aparatus untuk sistem saluran
+pembawa gelombang listrik atau
+sistem saluran digital:
+
+265.
+
+8517.62.49
+
+---- Lain-lain
+
+--- Aparatus transmisi yang digabung
+dengan aparatus penerima lainnya:
+
+266.
+
+8517.62.53
+
+---- Aparatus transmisi lainnya untuk
+radio- telefoni atau radio-telegrafi
+
+- Bagian:
+
+267.
+
+8517.71.00
+
+-- Antena dan reflektor antena dari
+segala jenis; bagian yang cocok untuk
+digunakan padanya
+
+8517.79
+
+-- Lain-lain:
+
+--- Lain-lain:
+
+268.
+
+8517.79.91
+
+---- Dari barang untuk saluran
+telefoni atau telegrafi
+
+--- Lain-lain:
+
+269.
+
+8517.79.99
+
+---- Lain-lain
+
+85.29
+
+Bagian yang cocok untuk digunakan
+semata-mata atau terutama dengan
+aparatus dari pos 85.24 sampai
+dengan 85.28.
+
+8529.10
+
+- Antena dan reflektor antena dari
+segala jenis; bagian yang cocok untuk
+digunakan padanya:
+
+-- Lain-lain:
+
+270.
+
+ex 8529.10.99
+
+--- Lain-lain Hanya untuk 9.3
+meter dual
+reflector earth
+
+station antenna
+

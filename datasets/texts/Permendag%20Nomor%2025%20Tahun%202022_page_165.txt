@@ -1,0 +1,34 @@
+- 136 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+929. 7214.30.10 -- Dengan penampang silang lingkaran v [Vv
+930. | 7214.30.90 -- Lain-lain Vv {Vv
+931. 7214.91.11 ---- Mengandung karbon 0,38 % atau lebih dan V V
+
+mangan kurang dari 1,15 % menurut beratnya
+932. 7214.91.12 ---- Mengandung karbon 0,17 % atau lebih tetapi V V
+tidak lebih dari 0,46 % dan mangan 1,2 % atau
+lebih tetapi kurang dari 1,65 % menurut beratnya
+933. 7214.91.19 ---- Lain-lain Vv |v
+934. 7214.91.20 --- Mengandung karbon 0,6 % atau lebih menurut V V
+beratnya
+935. 7214.99.11 ---- Mengandung mangan kurang dari 1,15 % V V
+menurut beratnya
+936. 7214.99.19 ---- Lain-lain Vv |v
+937. 7214.99.91 ---- Mengandung karbon kurang dari 0,38 %, V V
+fosfor tidak lebih dari 0,05 % dan sulfur tidak
+lebih dari 0,05 % menurut beratnya
+938. 7214.99.92 ---- Mengandung karbon 0,38 % atau lebih dan V V
+mangan kurang dari 1,15 % menurut beratnya
+939. 7214.99.93 ---- Mengandung karbon 0,17 % atau lebih tetapi V V
+kurang dari 0,46 % dan mangan 1,2 % atau lebih
+tetapi kurang dari 1,65 % menurut beratnya
+940. | 7214.99.99 ---- Lain-lain Vv {Vv
+941. 7215.10.10 -- Dengan penampang silang lingkaran V V
+942. 7215.10.90 -- Lain-lain Vv |v
+943. 7215.50.10 -- Mengandung karbon 0,6 % atau lebih menurut V V
+beratnya, selain penampang silang lingkaran
+944. 7215.50.91 --- Dari jenis yang digunakan untuk penguatan V V
+
+beton (rebar)
+

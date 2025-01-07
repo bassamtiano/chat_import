@@ -1,0 +1,110 @@
+- 36-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+tutup dirancang secara khusus
+untuk mesin jahit; jarum mesin
+jahit.
+
+- Mesin jahit lainnya:
+
+94.
+
+8452.21.00
+
+-- Unit otomatis
+
+95.
+
+8452.29.00
+
+-- Lain-lain
+
+84.53
+
+Mesin untuk mengolah, menyamak
+atau mengerjakan jangat, kulit atau
+kulit samak atau untuk membuat
+atau memperbaiki alas kaki atau
+barang lain dari jangat, kulit atau
+kulit samak, selain mesin jahit.
+
+8453.10
+
+- Mesin untuk mengolah, menyamak
+atau mengerjakan jangat, kulit atau
+kulit samak:
+
+96.
+
+8453.10.10
+
+-- Dioperasikan secara elektrik
+
+8453.20
+
+- Mesin untuk membuat atau
+memperbaiki alas kaki:
+
+97.
+
+8453.20.10
+
+-- Dioperasikan secara elektrik
+
+84.54
+
+Converter, ladle, mesin cetakan
+ingot dan mesin tuang, dari jenis
+yang digunakan dalam metalurgi
+atau dalam pengecoran logam.
+
+98.
+
+8454.20.00
+
+- Cetakan ingot dan ladle
+
+99.
+
+ex 8454.90.00
+
+- Bagian Tidak termasuk
+bagian dari
+converter
+
+84.55
+
+Kilang pencanai logam dan
+gilingannya.
+
+- Kilang pencanai lainnya:
+
+100.
+
+8455.21.00
+
+-- Panas atau kombinasi panas dan
+dingin
+
+2| =<]
+
+2| =<]
+

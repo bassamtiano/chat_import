@@ -1,0 +1,34 @@
+- 176-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1359. | 6907.23.93 ---- Ubin paving, ubin perapian atau ubin V
+dinding, diglasir
+1360. | 6907.23.94 ---- Lain-lain, diglasir V V
+1361. | 6907.30.11 --- Yang area permukaan terluasnya dapat V V
+menutupi bujur sangkar dengan sisi kurang dari
+7 cm
+1362. | 6907.30.19 --- Lain-lain V V
+1363. | 6907.30.91 --- Yang area permukaan terluasnya dapat V V
+menutupi bujur sangkar dengan sisi kurang dari
+7 cm
+1364. | 6907.30.99 --- Lain-lain V V
+1365. | 6907.40.10 -- Dari jenis yang digunakan untuk melapisi V V
+penggilingan, tidak diglasir
+1366. | 6907.40.21 --- Tidak diglasir V V
+1367. | 6907.40.22 --- Diglasir V V
+1368. | 6907.40.91 --- Tidak diglasir V y
+1369. | 6907.40.92 --- Diglasir V V
+69.09 Barang keramik untuk laboratorium, kimia
+atau penggunaan teknik lainnya; palung
+keramik, pasu dan wadah semacam itu dari
+jenis yang digunakan dalam pertanian; pot
+keramik, tempayan dan barang semacam itu
+dari jenis digunakan untuk mengangkut atau
+mengepak barang.
+1370. | 6909.11.00 -- Dari porselin atau keramik cina V V
+1371. | 6909.19.00 -- Lain-lain V V
+1372. | 6909.90.00 - Lain-lain V V
+69.10 Bak cuci, wastafel, alas baskom cuci, bak
+
+mandi, bidet, bejana kloset, tangki air
+

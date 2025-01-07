@@ -1,0 +1,56 @@
+- 220 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+1809.| 1504.10.90 -- Lain-lain V
+1504.20 - Lemak dan minyak serta fraksinya, dari ikan,
+selain minyak hati ikan:
+1810.) 1504.20.10 -- Fraksi padat V V
+1811.} 1504.20.90 -- Lain-lain V J
+1812.) 1504.30.00 - Lemak dan minyak serta fraksinya dari binatang V V
+laut menyusui
+39.13 Polimer alam (misalnya, asam alginat) dan Vv V
+polimer alam yang dimodifikasi (misalnya
+protein dikeraskan, turunan kimia dari karet
+alam), tidak dirinci atau termasuk dalam pos
+manapun, dalam bentuk asal.
+1813.| 3913.10.00 - Asam alginat, garam dan Alginate dan V V
+esternya turunannya
+XXV. TELEPON SELULER, KOMPUTER GENGGAM (HANDHELD) DAN KOMPUTER TABLET
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1814. | ex 8471.30.90 | Komputer Tablet adalah satu mesin pengolah IT Telepon Seluler, Penerbitan Persetujuan | V V V
+
+data otomatis portable dengan menggunakan
+layar sentuh datar sebagai monitor dan peranti
+masukan dengan menggunakan stilus, pena
+digital, atau ujung jari, selain menggunakan
+papan ketik atau tetikus, dapat berfungsi sebagai
+alat komunikasi maupun tidak; Komputer
+Genggam (Handheld) termasuk Personal Digital
+Assistant (PDA) dan palmtop adalah suatu mesin
+pengolah data otomatis genggam (handheld).
+
+Komputer Genggam,
+dan Komputer Tablet:
+
+A. 3G dan jaringan di
+bawahnya (API-P
+
+atau API-U)
+1. Surat perjanjian
+kerjasama
+
+distribusi dengan
+paling sedikit 3
+
+Impor berdasarkan:
+
+a. Neraca Komoditas
+dalam hal Neraca
+Komoditas telah
+ditetapkan; atau
+
+b. Data yang tersedia,
+dalam hal Neraca
+Komoditas belum
+ditetapkan.
+

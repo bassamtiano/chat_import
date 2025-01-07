@@ -1,0 +1,40 @@
+- 101 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Beste
+- Mesin jahit lainya:
+439. | 8452.21.00 -- Unit otomatis viv V
+84.53 Mesin untuk mengolah, menyamak
+atau mengerjakan jangat, kulit
+atau kulit samak atau untuk
+membuat atau memperbaiki alas
+kaki atau barang lain dari jangat,
+kulit atau kulit samak, selain
+mesin jahit.
+8453.10 - Mesin untuk mengolah, menyamak
+atau mengerjakan jangat, kulit atau
+kulit samak:
+440. | 8453.10.10 -- Dioperasikan secara elektrik V V V
+8453.20 - Mesin untuk membuat atau
+memperbaiki alas kaki:
+441.) 8453.20.10 -- Dioperasikan secara elektrik V V V
+84.54 Converter, ladle, mesin cetakan
+ingot dan mesin tuang, dari jenis
+yang digunakan dalam metalurgi
+atau pengecoran logam.
+442.| 8454.20.00 - Cetakan ingot dan ladle V V V
+443. | 8454.30.00 - Mesin tuang Vi ov V
+444. | ex 8454.90.00 - Bagian Kecuali bagian dari V V V
+
+converter
+
+84.56
+
+Mesin perkakas untuk mengerjakan
+berbagai bahan dengan penghilangan
+bahan, melalui proses penyinaran
+laser atau sinar lainnya atau sinar
+foton, ultrasonik, pelucutan elektro,
+elektro kimia, sinar elektron, sinar
+ionik atau busur plasma; mesin
+pemotong water-jet.
+

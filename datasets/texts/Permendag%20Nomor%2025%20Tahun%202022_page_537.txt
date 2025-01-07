@@ -1,0 +1,108 @@
+-55-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+87.04
+
+Kendaraan bermotor untuk
+pengangkutan barang.
+
+8704.10
+
+- Damper dirancang untuk
+penggunaan bukan di jalan raya:
+
+-- Completely Knocked Down:
+
+-- Lain-lain:
+
+273.
+
+8704.10.37
+
+--- g.v.w. melebihi 45 t
+
+- Lain-lain, dengan mesin piston
+pembakaran nyala kompresi (diesel
+atau semi diesel):
+
+8704.23
+
+-- g.v.w. melebihi 20 ton:
+
+--- g.v.w. melebihi 24 t tetapi tidak
+melebihi 45 t:
+
+---- Completely Knocked Down:
+
+---- Lain-lain:
+
+274.
+
+8704.23.61
+
+----- Lori (truk) berpendingin
+
+275.
+
+8704.23.63
+
+----- Kendaraan tangki; lori (truk)
+semen curah
+
+276.
+
+8704.23.69
+
+----- Lain-lain
+
+- Dengan kedua mesin piston
+pembakaran dalam nyala kompresi
+(diesel atau semi-diesel) dan motor
+
+listrik sebagai motor untuk penggerak :
+
+8704.43
+
+-- g.v.w. melebihi 20 ton:
+
+--- g.v.w. tidak melebihi 24 t:
+
+---- Completely Knocked Down:
+
+277.
+
+8704.43.61
+
+----- Lori (truk) berpendingin
+
+278.
+
+8704.43.63
+
+----- Kendaraan tangki; lori (truk)
+semen curah
+
+279.
+
+ex 8704.43.69
+
+----- Lain-lain Kecuali damper
+

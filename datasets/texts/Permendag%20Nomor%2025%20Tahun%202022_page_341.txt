@@ -1,0 +1,30 @@
+- 312 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2681. | 6212.20.90 -- Dari bahan tekstil lainnya v [Vv
+6212.30 - Corselettes:
+2682. | 6212.30.10 -- Dari kapas V |v
+2683. | 6212.30.90 -- Dari bahan tekstil lainnya V |v
+6212.90 - Lain-lain:
+-- Dari kapas:
+2684. | 6212.90.11 --- Garmen kompresi dari jenis yang digunakan V V V
+untuk perawatan luka jaringan dan cangkok kulit
+2685. | 6212.90.12 --- Perlengkapan atletik
+2686. | 6212.90.19 --- Lain-lain
+-- Dari bahan tekstil lainnya:
+2687. | 6212.90.91 --- Garmen kompresi dari jenis yang digunakan V V V
+untuk perawatan luka jaringan dan cangkok kulit
+2688. | 6212.90.92 --- Perlengkapan atletik
+2689. | 6212.90.99 --- Lain-lain
+62.13 Saputangan.
+6213.20 - Dari kapas:
+2690. | ex 6213.20.90 | -- Lain-lain Selain motif Vv |v V
+
+batik
+
+6213.90
+
+- Dari bahan tekstil lainnya:
+
+-- Dari sutra atau sisa sutra:
+

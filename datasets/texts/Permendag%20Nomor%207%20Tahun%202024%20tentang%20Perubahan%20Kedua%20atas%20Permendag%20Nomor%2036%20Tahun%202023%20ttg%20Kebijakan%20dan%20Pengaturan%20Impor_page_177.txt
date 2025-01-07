@@ -1,0 +1,81 @@
+- 162 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+4810.22
+
+-- Kertas dengan lapisan tipis:
+
+558.
+
+ex 4810.22.10
+
+--- Dicetak, dari
+jenis yang
+digunakan untuk
+aparatus yang
+merekam sendiri,
+dalam gulungan
+dengan lebar 150
+mm atau kurang,
+atau dalam
+lembaran dengan
+setiap sisi tidak
+melebihi 360 mm
+dalam keadaan
+tidak dilipat
+
+Berasal dari kayu
+
+559.
+
+ex 4810.22.90
+
+--- Lain-lain
+
+Berasal dari kayu
+
+4810.29
+
+-- Lain-lain:
+
+560.
+
+ex 4810.29.10
+
+--- Dicetak, dari
+jenis yang
+digunakan untuk
+aparatus yang
+merekam sendiri,
+dalam gulungan
+dengan lebar 150
+mm atau kurang,
+atau dalam
+lembaran dengan
+setiap sisi tidak
+melebihi 360 mm
+dalam keadaan
+tidak dilipat:
+
+Berasal dari kayu
+
+V
+

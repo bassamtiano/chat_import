@@ -1,0 +1,37 @@
+-33-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bess
+kakao
+182. ex --- Lain-lain Berasal dari hewan V V
+1901.90.39
+183. ex Es krim dan es lainnya | Berasal dari hewan V V
+2105.00.00 | yang dapat dimakan,
+mengandung kakao
+maupun tidak.
+22.02 Air, termasuk air mineral dan air soda,
+mengandung tambahan gula atau bahan
+pemanis lainnya atau pemberi rasa, dan
+minuman yang tidak mengandung alkohol
+lainnya, tidak termasuk jus buah, buah
+bertempurung atau sayuran dari pos 20.09.
+184. ex --- Minuman dengan Berasal dari hewan V V
+2202.99.10 bahan dasar susu UHT
+diberi rasa
+35.01 Kasein, kaseinat dan turunan kasein lainnya;
+lem kasein.
+185. ex - Kasein Berasal dari hewan V V
+3501.10.00
+3501.90 - Lain-lain:
+186. | ex -- Kaseinat dan turunan | Berasal dari hewan V V
+3501.90.10 kasein lainnya
+35.02 Albumin (termasuk konsentrat dari dua atau
+lebih protein whey, yang mengandung protein
+whey lebih dari 80% menurut beratnya, dihitung
+dari bahan kering), albuminat dan turunan
+albumin lainnya.
+187. ex - Albumin susu, Berasal dari hewan V v
+3502.20.00 termasuk konsentrat
+
+dari dua/lebih protein
+whey
+

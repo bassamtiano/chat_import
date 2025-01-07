@@ -1,0 +1,34 @@
+- 281 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+bagian yang cocok untuk digunakan padanya:
+2353. | 8529.10.30 -- Antena teleskopik, antena rabbit dan antena V V
+dipole untuk penerima televisi atau radio
+-- Lain-lain:
+2354. | 8529.10.99 --- Lain-lain V V
+85.39 Lampu filamen atau lampu discharge listrik,
+termasuk unit lampu sealed beam dan lampu
+ultra violet atau infra merah; lampu busur;
+sumber cahaya light-emitting diode (LED).
+- Lampu tabung, selain lampu ultra-violet:
+8539.31 -- Fluoresen, katoda pijar:
+2355. | 8539.31.20 --- Lain-Lain, tabung lurus untuk lampu V V
+fluoresen
+2356. | 8539.31.30 --- Lampu fluoresen kompak swaballast V V
+2357. | 8539.31.90 --- Lain-lain V V
+- Sumber cahaya light-emitting diode (LED):
+8539.52 -- Lampu light-emitting diode (LED)
+2358. | 8539.52.10 --- Dilengkapi dengan dasar tipe sekrup V V
+2359. | 8539.52.90 --- Lain-lain Vv Vv
+85.43 Mesin dan aparatus elektrik, mempunyai
+fungsi tersendiri, tidak dirinci atau termasuk
+pada pos lainnya dalam Bab ini.
+2360. | 8543.40.00 - Rokok elektronik dan peralatan penguapan V V
+elektrik personal semacam itu
+8543.70 - Mesin dan aparatus lainnya:
+2361. | 8543.70.50 -- Penguat gelombang mikro; digital flight-data V V
+
+recorder; pembaca elektronik portabel
+dioperasikan dengan baterai untuk merekam
+dan mereproduksi teks, gambar diam atau
+

@@ -1,0 +1,79 @@
+- 80-
+
+4. De Minimis .
+
+a. Barang dalam daftar PSR yang tidak mengalami perubahan
+klasifikasi harus dianggap originating dalam hal:
+
+1) untuk barang selain yang diatur dalam HS Bab 50
+sampai dengan Bab 63, nilai semua Bahan Non-
+Originating yang digunakan dalam produksi yang tidak
+mengalami perubahan klasifikasi yang dipersyaratkan
+tidak melebihi 10% (sepuluh persen) dari total FOB
+barang;
+
+2) untuk barang yang diatur dalam HS Bab 50 sampai
+dengan Bab 63, berat semua Bahan Non-Originating
+yang digunakan dalam produksi yang tidak mengalami
+perubahan klasifikasi yang dipersyaratkan tidak
+melebihi 10% (sepuluh persen) dari total berat barang.
+
+b. Nilai Bahan Non-Originating sebagaimana dimaksud pada
+angka 1) harus dimasukkan dalam komponen Bahan Non-
+Originating untuk keperluan perhitungan RVC/QVC barang.
+
+5.  Perlakuan Terhadap Kemasan dan Bahan Pengemas
+
+a. Untuk barang yang menggunakan kriteria asal barang
+(origin criteria) RVC/QVC, nilai pengemas untuk penjualan.
+eceran harus ikut dihitung sebagai komponen barang dalam
+RVC/QVC apabila pengemas tersebut dianggap membentuk
+keseluruhan barang.
+
+b. Dalam hal ketentuan pada huruf a tidak dapat diterapkan,
+pengemas untuk penjualan eceran, apabila diklasifikasikan
+dalam satu pos tarif dengan barangnya, tidak
+diperhitungkan dalam menentukan asal barang sepanjang
+kriteria asal barang (origin criteria) yang digunakan yakni
+CTC.
+
+c. Kontainer dan pengemas yang khusus digunakan untuk
+tujuan pengangkutan tidak diperhitungkan untuk
+penentuan keasalan barang.
+
+6. Aksesoris, Spare Parts, dan Peralatan
+
+a. Aksesoris standar, spare parts, dan peralatan dari barang
+jadi yang dikirimkan bersama dengan barang jadi tersebut
+harus dianggap originating apabila barang jadi merupakan
+Barang Originating dan harus diabaikan dalam penentuan
+pemenuhan kriteria asal barang (origin criteria) CTC atas
+Bahan Non-Originating yang digunakan dalam produksi.
+barang jadi, sepanjang:
+
+1) aksesoris, spare parts, dan _ peralatan  tersebut
+diklasifikasikan bersama dengan barang dan tidak
+dalam invoice yang terpisah; dan
+
+2) jumlah dan nilai aksesoris, spare parts, dan peralatan
+tersebut wajar.
+
+b. Dalam hal suatu barang menggunakan kriteria asal barang
+(origin criteria) RVC/QVC, nilai aksesoris, spare parts, dan
+peralatan harus diperhitungkan sebagai Bahan Originating
+maupun Bahan WNon-Originating dalam _perhitungan
+RVC/QVC.
+
+7. Elemen Netral (Neutral Elements)
+
+Dalam menentukan apakah suatu barang merupakan Barang
+
+Originating, barang-barang di bawah ini yang digunakan dalam
+
+proses produksi dan tidak tergabung dengan barangnya, tidak
+
+perlu ditentukan keasalan barangnya, yaitu:
+
+a. bahan bakar dan energi;
+
+jdih.kemenkeu.go.id

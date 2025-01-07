@@ -1,0 +1,81 @@
+mike me
+
+101 | 6402.91.10 - -- Sepatu selam
+- - - Lain-lain :
+
+102 | 6402.91.91 - - - - Dilengkapi pelindung jari dari logam
+103 | 6402.91.92 - - - - Dilengkapi pelindung jari dari bukan logam
+104 | 6402.91.99 ---- Lain-lain
+
+6402.99 - - Lain-lain :
+105 | 6402.99.10 - - - Dilengkapi pelindung jari dari logam
+106 | 6402.99.20 - - - Dilengkapi pelindung jari dari bukan logam
+107 | 6402.99.90 - - - Lain-lain
+
+64.03 Alas kaki dengan sol luar dari karet, plastik, kulit samak atau
+
+kulit komposisi dan bagian atas sepatu dari kulit samak.
+- Alas kaki olahraga :
+
+108 | 6403.12.00 - - Bot ski, alas kaki untuk lintas alam dan Bot papan luncur salju
+6403.19 - - Lain-lain :
+
+109 | 6403.19.10 - - - Dilengkapi dengan spike, cleat atau sejenisnya
+
+110 | 6403.19.20 - - - Bot pengendara; sepatu bowling
+
+111 | 6403.19.30 - - - Alas kaki untuk gulat, angkat beban atau gimnastik
+
+112 6403.19.90 - - - Lain-lain
+
+113 | 6403.20.00 - Alas kaki dengan sol luar dari kulit samak, dan bagian atasnya
+
+terdiri atas pengikat dari kulit samak yang menyilang punggung kaki
+dan sekeliling jempol
+
+114 | 6403.40.00 - Alas kaki lainnya, dilengkapi pelindung jari dari logam
+- Alas kaki lainnya dengan sol luar dari kulit :
+115 | 6403.51.00 - - Menutupi mata kaki
+6403.59 - - Lain-lain :
+116 | 6403.59.10 - - - Sepatu bowling
+117 | 6403.59.90 - - - Lain-lain
+- Alas kaki lainnya :
+6403.91 - - Menutupi mata kaki :
+118 | 6403.91.10 - - - Alas kaki yang dibuat dengan dasar atau platform dari kayu,
+tidak memiliki sol dalam atau pelindung jari dari logam
+119 | 6403.91.20 - - - Bot pengendara
+120 | 6403.91.30 - - - Lain-lain, dilengkapi pelindung jari dari bukan logam
+121 | 6403.91.90 - - - Lain-lain
+6403.99 - - Lain-lain :
+122 | 6403.99.10 - - - Alas kaki yang dibuat dengan dasar atau platform dari kayu,
+tidak memiliki sol dalam atau pelindung jari dari logam
+123 | 6403.99.20 - - - Sepatu bowling
+124 | 6403.99.30 - - - Lain-lain, dilengkapi pelindung jari dari bukan logam
+125 | 6403.99.90 - - - Lain-lain
+64.04 Alas kaki dengan sol luar dari karet, plastik, kulit samak atau
+
+kulit komposisi dan bagian atasnya dari bahan tekstil.
+- Alas kaki dengan sol luar dari karet atau plastik :
+
+6404.11 - - Alas kaki olahraga; sepatu tenis, sepatu bola basket, sepatu
+senam, sepatu latihan dan sejenisnya :
+
+126 | 6404.11.10 - - - Dilengkapi dengan spike, cleat atau sejenisnya
+
+127 | 6404.11.20 - - - Alas kaki untuk gulat, angkat beban atau gimnastik
+
+128 | 6404.11.90 - - - Lain-lain
+6404.19 - - Lain-lain :
+
+129 | 6404.19.10 - - - Dilengkapi pelindung jari
+
+130 | 6404.19.90 - - - Lain-lain
+
+131 6404.20.00 - Alas kaki dengan sol luar dari kulit samak atau kulit komposisi
+64.05 Alas kaki lainnya.
+
+132 | 6405.10.00 - Dengan bagian atasnya dari kulit samak atau kulit komposisi
+
+133 | 6405.20.00 - Dengan bagian atasnya dari bahan tekstil
+
+mah tenant

@@ -1,0 +1,32 @@
+- 66 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+274. | 4407.22.10 --- Diketam, diampelas atau end-jointed V V
+275. | 4407.22.90 --- Lain-lain V V
+
+4407.23 -- Jati:
+276. | 4407.23.10 --- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+277. | 4407.23.20 --- Diketam, diampelas atau end-jointed V v
+278. | 4407.23.90 --- Lain-lain V V
+4407.25 -- Meranti Merah Tua, Meranti Merah Muda dan
+Meranti Bakau:
+--- Meranti Merah Tua atau Meranti Merah Muda:
+279. | 4407.25.12 ---- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+280. | 4407.25.13 ---- Diketam, diampelas atau end-jointed V V
+281. | 4407.25.19 ---- Lain-lain V V
+--- Meranti Bakau:
+282. | 4407.25.21 ---- Diketam, diampelas atau end-jointed V V
+283. | 4407.25.29 ---- Lain-lain V V
+4407.26 -- Lauan Putih, Meranti Putih, Seraya Putih,
+Meranti Kuning dan Alan:
+284. | 4407.26.20 --- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+285. | 4407.26.30 --- Diketam, diampelas atau end-jointed V Vv
+286. | 4407.26.90 --- Lain-lain V Y
+4407.27 -- Sapelli:
+287. | 4407.27.20 --- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+288. | 4407.27.30 --- Diketam, diampelas atau end-jointed V v
+

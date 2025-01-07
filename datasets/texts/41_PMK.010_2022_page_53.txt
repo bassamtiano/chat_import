@@ -1,0 +1,77 @@
+-53 -
+
+62.01 Mantel panjang, car-coat, jubah bertopi, cloak, anorak (termasuk
+jaket-ski), wind-cheater, wind-jacket dan barang semacam itu,
+untuk pria atau anak laki-laki, selain yang dimaksud dalam pos
+
+62.03.
+6201.20 - Dari wol atau bulu hewan halus :
+494 6201.20.10 - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+495 | 6201.20.90 - - Lain-lain
+6201.30 - Dari kapas:
+496 | 6201.30.10 - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+497 | 6201.30.90 - - Lain-lain
+6201.40 - Dari serat buatan :
+498 | 6201.40.10 - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+499 | 6201.40.90 - - Lain-lain
+6201.90 - Dari bahan tekstil lainnya :
+- - Dari sutra :
+500 | 6201.90.11 - - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+501 | 6201.90.19 - - - Lain-lain
+- - Dari rami :
+502 6201.90.21 - - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+503 | 6201.90.29 - - - Lain-lain
+504 6201.90.90 - - Lain-lain
+62.02 Mantel panjang, car-coat, jubah bertopi, cloak, anorak (termasuk
+
+jaket-ski), wind-cheater, wind-jacket dan barang semacam itu,
+untuk wanita atau anak perempuan, selain yang dimaksud dalam
+
+pos 62.04.
+6202.20 - Dari wol atau bulu hewan halus :
+505 | 6202.20.10 - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+506 | 6202.20.90 - - Lain-lain
+6202.30 - Dari kapas :
+507 | 6202.30.10 - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+508 | 6202.30.90 - - Lain-lain
+6202.40 - Dari serat buatan :
+509 | 6202.40.10 - - Mantel panjang, mantel hujan, car-coat, cloak, jubah bertopi,
+
+poncho, mantel three-quarter, greatcoat, hooded cape, mantel duffel,
+trench coat, gabardine dan padded waistcoat
+
+510 | 6202.40.90 - - Lain-lain
+6202.90 - Dari bahan tekstil lainnya :
+511 | 6202.90.10 - - Dari sutra
+512 | 6202.90.20 - - Dari rami
+913 6202.90.90 - - Lain-lain
+
+www jdin.kemenkeu&o i

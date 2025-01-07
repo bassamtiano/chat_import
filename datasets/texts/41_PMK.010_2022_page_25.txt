@@ -1,0 +1,89 @@
+-~25-
+
+458 | 8703.60.33 - - - - Dengan kapasitas silinder melebihi 1.000 cc
+---Ambulan :
+
+459 | 8703.60.34 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+460 | 8703.60.35 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 3.000 cc
+
+461 | 8703.60.36 - --- Lain-lain
+- - - Mobil jenazah :
+
+462 | 8703.60.41 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+463 | 8703.60.42 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+464 | 8703.60.43 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+465 | 8703.60.44 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+466 | 8703.60.45 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+467 | 8703.60.46 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+468 | 8703.60.47 - - - - Dengan kapasitas silinder melebihi 3.000 cc
+- -- Van tahanan :
+
+469 | 8703.60.51 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+470 | 8703.60.52 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+471 | 8703.60.53 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+472 | 8703.60.54 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 3.000 cc
+
+473 | 8703.60.55 - --- Dengan kapasitas silinder melebihi 3.000 cc
+- - - Karavan :
+
+474 | 8703.60.56 - - - - Dengan kapasitas silinder tidak melebihi 1.500 cc
+
+475 | 8703.60.57 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 2.000 cc
+
+476 | 8703.60.58 - - - - Dengan kapasitas silinder melebihi 2.000 cc
+--- Sedan:
+
+477 | 8703.60.61 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+478 | 8703.60.62 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+479 | 8703.60.63 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+480 | 8703.60.64 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+481 8703.60.65 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+482 | 8703.60.66 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+483 | 8703.60.67 - - - - Dengan kapasitas silinder melebihi 3.000 cc, berpenggerak
+empat roda
+
+484 | 8703.60.68 - - - - Dengan kapasitas silinder melebihi 3.000 cc, bukan
+berpenggerak empat roda
+- - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), berpenggerak empat roda :
+
+485 | 8703.60.71 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+486 | 8703.60.72 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+wy jh kemenkoule id
+
+/

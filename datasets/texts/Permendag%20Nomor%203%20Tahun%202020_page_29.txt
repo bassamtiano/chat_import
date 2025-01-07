@@ -1,0 +1,70 @@
+_99- 2020, No.80
+
+351 | 7318.16.90 - - - Lain-lain
+
+5 7318.19.10 - - - Dengan diameter luar shank tidak melebihi 160 mm
+
+EEG
+
+Lain-lain
+
+5 7318.21.00 -- Cincin pipih pegas dan cincin
+7318.22.00 - - Cincin pipih lainnya
+356 | 7318.23.10 Dengan diameter luar tidak melebihi 16 mm
+
+Lain-lain
+358 - - Pasak dan pasak kunci
+
+- - - Dengan diameter luar shank tidak melebihi 16 mm
+
+EE
+[360 [7318.29.90 _[---Lain-lain
+
+7219.32.00 - - Dengan ketebalan 3 mm atau lebih tetapi kurang dari
+4,75 mm
+
+7219.33.00 - - Dengan ketebalan melebihi 1 mm tetapi kurang dari
+3mm
+7219.34.00 - - Dengan ketebalan 0,5 mm atau lebih tetapi tidak
+melebihi 1 mm
+- - Dengan ketebalan kurang dari 0,5 mm
+
+[5 [7219.90.00 | - Lain-lain
+
+- - Simpai dan strip, dengan lebar tidak melebihi 400
+
+7220.20.90 ~ ~ Lain-
+
+7220.90.10 - - Simpai dan strip, dengan lebar tidak melebihi 400
+
+7220.90.90 - - Lain-lain
+7225.11.00 - - Grain-oriented
+
+Lain-lain
+- - Dari baja high speed
+==Lain-lain
+- - Dari baja high speed
+Lain-lain
+| 7225.50.10 _| - - Dari baja high speed
+Lain-lain
+~~ - Dari baja high speed
+
+7226.11.10 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+
+F
+
+|
+
+7226.11.90 - -- Lain-lain
+7226.19.10 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+
+iE
+E
+
+7226.19.90
+
+7226.20.10 - - Simpai dan strip, dengan lebar tidak melebihi +00
+mm
+7226.20.90 - - Lain-lain
+
+www.peraturan.go.id

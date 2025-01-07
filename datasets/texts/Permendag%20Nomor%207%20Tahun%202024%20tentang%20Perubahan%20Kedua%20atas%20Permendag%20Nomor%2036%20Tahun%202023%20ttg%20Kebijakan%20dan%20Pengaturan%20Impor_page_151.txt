@@ -1,0 +1,31 @@
+- 136 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+kayu.
+380. | 4417.00.10 - Kelebut bot atau sepatu V V
+381. | 4417.00.90 = Lain-lain v v
+44.18 Produk pertukangan dan bahan bangunan
+rumah dari kayu, termasuk panel kayu
+seluler, rakitan panel penutup lantai, atap
+sirap dan shake.
+- Jendela, jendela Prancis dan kusennya:
+382. | 4418.11.00 -- Dari kayu tropis V V
+383. | 4418.19.00 -- Lain-lain v v
+- Pintu dan kusennya serta ambang pintu
+384. | 4418.21.00 -- Dari kayu tropis V V
+385. | 4418.29.00 -- Lain-lain V V
+386. | 4418.30.00 - Post dan beam selain produk dari subpos V V
+4418.81 sampai dengan 4418.89
+387. | 4418.40.00 - Penutup untuk pekerjaan kontruksi beton V V
+388. | 4418.50.00 - Atap sirap dan shake V V
+- Rakitan panel penutup lantai:
+389. 4418.74.00 -- Lain-Lain, untuk lantai mosaic V V
+390. | 4418.75.00 -- Lain-Lain, multilayer V V
+391. | 4418.79.00 -- Lain-lain V V
+- Produk engineered structural timber:
+4418.81 -- Glue-laminated timber (glulam):
+392. | ex 4418.81.10 | --- Dalam bentuk | Berasal dari kayu V V
+blok
+393. | ex 4418.81.90 | --- Lain-lain Berasal dari kayu V V
+394. | ex 4418.82.00 | -- Cross- Berasal dari kayu V V
+

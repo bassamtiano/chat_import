@@ -1,0 +1,38 @@
+- 476 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+2853. | 5702.99.19 ---- Lain-lain MTK Vv [iv
+2854. | 5702.99.20 --- Dari serat jute MTK vV |v
+--- Lain-lain:
+2855. | 5702.99.91 ---- Babut untuk sembahyang MTK V V
+2856. | 5702.99.99 ---- Lain-lain MTK Vv [ov
+57.03 Karpet dan penutup lantai tekstil
+lainnya (termasuk turf),
+berumbai, sudah jadi maupun
+belum.
+5703.10 - Dari wol atau bulu hewan halus:
+2857. | 5703.10.10 -- Keset lantai dari jenis yang MTK Vv
+digunakan untuk kendaraan
+bermotor pada pos 87.02, 87.03
+atau 87.04
+2858. | 5703.10.20 -- Babut untuk sembahyang MTK V V
+2859. | 5703.10.30 -- Karpet penutup lantai darijenis | MTK V V
+yang digunakan untuk kendaraan
+bermotor pada pos 87.02, 87.03
+atau 87.04
+2860. | 5703.10.90 --_Lain-lain MTK viv
+- Dari nilon atau poliamida lainnya:
+2861. | 5703.21.00 -- Turf MTK Vv [ov
+5703.29 -- Lain-lain :
+2862. | 5703.29.10 --- Babut untuk sembahyang MTK viv
+2863. | 5703.29.90 --- Lain-Lain MTK Viv
+- Dari bahan tekstil buatan lainnya:
+2864. | 5703.31.00 -- Turf MTK Vv [ov
+5703.39 -- Lain-lain :
+2865. | 5703.39.10 --- Babut untuk sembahyang MTK V V
+2866. | 5703.39.90 --- Lain-Lain MTK viv
+5703.90 - Dari bahan tekstil lainnya:
+
+--_ Dari kapas:
+

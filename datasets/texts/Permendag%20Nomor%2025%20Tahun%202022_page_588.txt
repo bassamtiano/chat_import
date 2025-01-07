@@ -1,0 +1,86 @@
+- 106 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+84.60
+
+Mesin perkakas untuk
+menghaluskan, menajamkan,
+menggerinda, menggosok,
+mengasah, memoles atau
+merampungkan logam atau cermet
+secara lain dengan memakai batu
+gerinda, amplas atau produk
+pemoles, selain mesin pemotong gir,
+penggerinda gir atau mesin untuk
+merampungkan gir dari pos 84.61.
+
+- Mesin penggerinda permukaan datar:
+
+474.
+
+ex 8460.19.00
+
+-- Lain-lain Hanya yang
+dioperasikan
+secara elektrik
+
+- Mesin penggerinda lainnya:
+
+8460.29
+
+-- Lain-lain:
+
+475.
+
+ex 8460.29.10
+
+--- Dioperasikan
+secara elektrik
+
+Hanya untuk
+mesin penggerinda
+yang posisi setiap
+porosnya dapat
+diset dengan
+akurasi paling
+tidak 0,01 mm
+
+- Mesin penajam (perkakas atau
+gerinda pemotong):
+
+8460.39
+
+-- Lain-lain:
+
+476.
+
+8460.39.10
+
+--- Dioperasikan secara elektrik
+
+477.
+
+ex 8460.40.00
+
+- Mesin Dioperasikan
+penggosok atau secara elektrik
+pengasah
+

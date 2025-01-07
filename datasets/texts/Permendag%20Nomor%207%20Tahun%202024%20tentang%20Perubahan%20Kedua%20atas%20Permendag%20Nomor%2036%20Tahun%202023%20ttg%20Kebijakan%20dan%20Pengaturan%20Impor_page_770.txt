@@ -1,0 +1,39 @@
+-50-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bec
+yang dioperasikan
+secara elektrik
+8462.69 --- Lain-lain
+166. | ex 8462.69.10 | --- Mesin Dioperasikan Vv V
+penempa atau secara elektrik
+pengecap dengan
+cetakan
+167. | ex 8462.69.90 | --- Lain-lain Hanya untuk V | v V
+mesin press plate
+dengan pneumatic
+system, supply
+listrik tiga phase
+380V, Duty Cycle
+50%, Feed Stroke
+hingga 35 mm
+8462.90 - Lain-lain
+168. | ex 8462.90.10 | -- Mesin Dioperasikan V| Vv V
+penempa atau secara elektrik
+pengecap dengan
+cetakan
+169. | ex 8462.90.90 | -- Lain-lain Dioperasikan Vv V
+
+secara elektrik,
+tidak termasuk
+Mesin Tekuk
+(Bending Machine)
+dengan Kapasitas:
+panjang max
+1.270 mm; tebal 3
+mm; bending
+angle 25-179
+derajat, dan tidak
+termasuk Mesin
+
+penggunting,
+

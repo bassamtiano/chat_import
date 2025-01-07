@@ -1,0 +1,193 @@
+-~ 26 -
+
+487
+
+488
+
+489
+
+490
+
+491
+
+492
+
+493
+
+494
+
+495
+
+496
+
+497
+
+498
+
+499
+500
+
+501
+
+502
+
+503
+
+504
+
+505
+
+506
+
+507
+
+508
+509
+
+510
+511
+
+512
+
+513
+
+8703.60.73
+
+8703.60.74
+
+8703.60.75
+
+8703.60.76
+
+8703.60.77
+
+8703.60.81
+
+8703.60.82
+
+8703.60.83
+
+8703.60.84
+
+8703.60.85
+
+8703.60.86
+
+8703.60.87
+
+8703.60.91
+8703.60.92
+
+8703.60.93
+
+8703.60.94
+
+8703.60.95
+
+8703.60.96
+
+8703.60.97
+
+8703.60.98
+
+8703.70
+
+8703.70.31
+
+8703.70.32
+8703.70.33
+
+8703.70.34
+8703.70.35
+
+8703.70.36
+
+8703.70.41
+
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 3.000 cc
+
+- - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), bukan berpenggerak empat roda :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 3.000 cc
+
+- - - Lain-lain :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+- - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+- - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+- - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 3.000 cc, berpenggerak
+empat roda
+
+- - - - Dengan kapasitas silinder melebihi 3.000 cc, bukan
+berpenggerak empat roda
+
+- Kendaraan lainnya, dengan kedua mesin piston pembakaran dalam
+nyala kompresi (diesel atau semi-diesel) dan motor listrik sebagai
+motor untuk  penggerak, dapat diisi tenaganya dengan
+menghubungkannya ke sumber tenaga listrik eksternal :
+
+- - Lain-lain :
+
+- - - Gokart
+
+- - - All-Terrain Vehicles (ATV) :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+- - -- Dengan kapasitas silinder melebihi 1.000 cc
+---Ambulan :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.500 cc
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 2.500 cc
+
+- - -- Dengan kapasitas silinder melebihi 2.500 cc
+
+- - - Mobil jenazah :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+A
+
+www.jdih.kemenke
+
+0.id

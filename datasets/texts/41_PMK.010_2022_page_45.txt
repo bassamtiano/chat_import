@@ -1,0 +1,64 @@
+-45 -
+
+- Sarung tangan, mitten dan mitt :
+
+4015.12 - - Dari jenis yang digunakan untuk tujuan medis, bedah, kedokteran
+gigi atau kedokteran hewan :
+264 | 4015.12.10 - - - Dari karet alam divulkanisasi
+265 | 4015.12.90 - - - Dari karet divulkanisasi lainnya
+4015.19 - - Lain-lain :
+266 | 4015.19.10 - - - Dari karet alam divulkanisasi
+267 | 4015.19.90 - - - Dari karet divulkanisasi lainnya
+4015.90 - Lain-lain :
+268 | 4015.90.10 - - Lead apron
+269 | 4015.90.90 - - Lain-lain
+42.02 Peti, koper, vanity-case, tas eksekutif, tas kantor, tas sekolah,
+
+dompet kacamata, tas teropong, tas kamera, tas peralatan musik,
+koper senjata, sarung pistol dan kemasan semacam itu; tas untuk
+bepergian, tas makanan dan minuman bersekat, tas rias, ransel,
+tas tangan, tas belanja, dompet, pundi, tempat peta, tempat
+rokok, kantong tembakau, tas perkakas, tas olahraga, tempat
+botol, kotak perhiasan, kotak bedak, tempat pisau dan kemasan
+semacam itu dari kulit samak atau dari kulit komposisi, dengan
+lembaran dari plastik, atau dari bahan tekstil, atau dari serat
+vulkanisasi atau dari kertas karton seluruhnya atau sebagian
+besar dibungkus bahan tersebut atau dengan kertas.
+
+- Peti, koper, vanity-case, tas eksekutif, tas kantor, tas sekolah dan
+kemasan semacam Itu :
+
+4202.12 - - Dengan permukaan luar dari plastik atau bahan tekstil :
+--- Tas sekolah :
+270 | 4202.12.11 - - -- Dengan permukaan luar dari serat yang divulkanisasi
+271 | 4202.12.19 - --- Lain-lain
+- - - Lain-lain :
+272 | 4202.12.91 - - - - Dengan permukaan luar dari serat yang divulkanisasi
+273 | 4202.12.99 - - -- Lain-lain
+4202.19 - - Lain-lain :
+274 | 4202.19.20 - - - Dengan permukaan luar dari kertas karton
+275 | 4202.19.90 - - - Lain-lain
+- Tas tangan, dengan tali bahu maupun tidak, termasuk yang tanpa
+gagang :
+4202.22 - - Dengan permukaan luar dari lembaran plastik atau dari bahan
+tekstil :
+3276 | 4202.22.10 - - - Dengan permukaan luar dari lembaran plastik
+277 =| 4202.22.20 - - - Dengan permukaan luar dari bahan tekstil
+278 | 4202.29.00 - - Lain-lain
+- Barang dari jenis yang biasa dibawa dalam saku atau dalam tas
+tangan :
+279 | 4202.32.00 - - Dengan permukaan luar dari lembaran plastik atau dari bahan
+tekstil
+280 | 4202.39.00 - - Lain-lain
+- Lain-lain :
+4202.92 - - Dengan permukaan luar dari lembaran plastik atau dari bahan
+tekstil :
+281 | 4202.92.10 - - - Tas rias, dari lembaran plastik
+282 | 4202.92.20 - -- Tas bowling
+283 | 4202.92.90 - - - Lain-lain
+4202.99 - - Lain-lain :
+284 | 4202.99.10 - - - Dengan permukaan luar serat divulkanisasi dari kertas karton
+285 | 4202.99.90 - - - Lain-lain
+42.05 Barang lainnya dari kulit samak atau dari kulit komposisi.
+
+wane

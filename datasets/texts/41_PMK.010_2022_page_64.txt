@@ -1,0 +1,66 @@
+-~ 64 -
+
+71.13 Barang perhiasan dan bagiannya, dari logam mulia atau dari logam
+yang dipalut dengan logam mulia.
+- Dari logam mulia, disepuh atau dipalut dengan logam mulia maupun
+
+tidak :
+7113.11 - - Dari perak, disepuh atau dipalut dengan logam mulia lainnya
+maupun tidak :
+810 7113.11.10 - - - Bagian
+811 7113.11.90 - - - Lain-lain
+7113.19 - - Dari logam mulia lainnya, disepuh atau dipalut dengan logam mulia
+maupun tidak :
+812 | 7113.19.10 - - - Bagian
+813 | 7113.19.90 - - - Lain-lain
+7113.20 - Dari logam tidak mulia yang dipalut dengan logam mulia :
+814 | 7113.20.10 - - Bagian
+815 | 7113.20.90 - - Lain-lain
+TAAT Perhiasan imitasi.
+
+- Dari logam tidak mulia, disepuh dengan logam mulia maupun tidak
+
+TAL Al - - Manset dan kancing kerah :
+
+816 | 7117.11.10 - - - Bagian
+817 | 7117.11.90 - - - Lain-lain
+TILT AG - - Lain-lain :
+818 | 7117.19.10 - - - Bangle
+819 | 7117.19.20 - - - Perhiasan imitasi lainnya
+820 | 7117.19.90 - - - Bagian
+73.12 Kawat dipilin, tali, kabel, ban anyaman, sling dan sejenisnya, dari
+besi atau baja, tidak diisolasi elektrik.
+7312.10 - Kawat dipilin, tali dan kabel :
+821 | 7312.10.30 - - Disepuh atau dilapisi dengan aluminium
+- - Lain-lain :
+822 | 7312.10.91 - - - Kawat baja dipilin untuk beton pra-tekan
+823 | 7312.10.99 - - - Lain-lain
+73.21 Tungku, kompor, tungku terbuka, alat masak (termasuk tungku
+
+dengan ketel tambahan untuk pemanasan sentral), panggangan
+besar, anglo, gelang gas, piring pemanas, dan peralatan rumah
+tangga tanpa listrik semacam itu, dan bagiannya, dari besi atau
+
+baja.
+- Peralatan masak dan piring pemanas :
+824 | 7321.12.00 - - Dengan bahan bakar cair
+- Peralatan lainnya :
+825 | 7321.82.00 - - Dengan bahan bakar cair
+73.23 Barang untuk penggunaan di atas meja, di dapur atau peralatan
+
+rumah tangga lainnya dan bagiannya, dari besi atau baja; wol besi
+atau wol baja; penggosok pot dan bantalan gosok atau pemoles,
+sarung tangan dan sejenisnya, dari besi atau baja.
+
+826 | 7323.10.00 - Wol besi atau wol baja; penggosok pot dan bantalan gosok atau
+pemoles, sarung tangan dan sejenisnya
+- Lain-lain :
+7323.91 - - Dari besi tuang, tidak dienamel :
+827 | 7323.91.10 - - - Perangkat dapur
+828 | 7323.91.20 - - - Asbak
+829 | 7323.91.90 - - - Lain-lain
+830 | 7323.92.00 - - Dari besi tuang, dienamel
+7323.93 - - Dari besi stainless :
+831 | 7323.93.10 - - - Perangkat dapur
+
+wor jn omen fe

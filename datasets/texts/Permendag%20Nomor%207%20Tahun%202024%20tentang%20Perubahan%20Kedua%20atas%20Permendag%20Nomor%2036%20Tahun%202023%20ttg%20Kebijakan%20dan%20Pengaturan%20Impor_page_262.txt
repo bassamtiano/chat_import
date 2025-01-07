@@ -1,0 +1,35 @@
+- 247 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+1036. | 7306.30.21 --- Dengan diameter luar kurang TNE; V V
+dari 12,5 mm KGM
+1037. | 7306.30.29 --- Lain-lain TNE; Vv |v
+KGM
+1038. | 7306.30.49 --- Lain-lain TNE; Vv |v
+KGM
+1039. | 7306.30.91 --- Dengan diameter dalam 12,5 TNE; viv
+mm atau lebih, diameter luar KGM
+kurang dari 140 mm dan
+mengandung karbon kurang dari
+0,45 % menurut beratnya
+1040. | 7306.30.92 --- Dengan diameter dalam kurang | TNE; V V
+dari 12,5 mm KGM
+1041. | 7306.30.99 --- Lain-lain TNE; Vv |v
+KGM
+1042. | 7306.40.11 --- Dengan diameter luar tidak TNE; V [Vv
+melebihi 12,5 mm KGM
+1043. | 7306.40.19 --- Lain-lain TNE; Vv |v
+KGM
+1044. | 7306.40.20 -- Pembuluh dan pipa dari baja TNE; Vv] Vv
+stainless, dengan diameter luar KGM
+melebihi 105 mm
+1045. | 7306.40.30 -- Pipa dan pembuluh mengandung | TNE; V V
+nikel sekurang-kurangnya 30 % KGM
+menurut beratnya, dengan
+diameter luar tidak melebihi 10 mm
+1046. | 7306.40.90 -- Lain-lain TNE; Vv |v
+KG
+1047. | 7306.50.11 --- Dengan diameter luar kurang TNE; V V
+dari 12,5 mm KGM
+

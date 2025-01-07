@@ -1,0 +1,88 @@
+- 55 -
+
+PETUNJUK PENGISIAN
+
+Nomor (1) : diisi nama Kantor Pelayanan Utama Bea dan Cukai atau
+Kantor Pengawasan dan Pelayanan Bea dan Cukai tempat
+SPPBMCP diterbitkan.
+
+Nomor (2) : diisi nomor SPPBMCP.
+
+Nomor (3) : diisi tanggal pendaftaran SPPBMCP.
+
+Nomor (4) : diisi nomor Surat Izin Pemindahtanganan.
+
+Nomor (5) : diisi tanggal Surat Izin Pemindahtanganan.
+
+Nomor (6) : diisi jenis barang impor atau jenis prosedur
+
+Contoh : pemindahtanganan Kendaraan Bermotor’ eks
+fasilitas Badan Internasional.
+
+Nomor (7) : diisi nama importir/penerima fasilitas dan jabatan apabila
+ada. :
+
+Nomor (8) : diisi nomor identitas (KTP/Paspor/Lainnya).
+
+Nomor (9) : diisi Nomor Pokok Wajib Pajak (NPWP) apabila ada.
+
+Nomor (10) : diisi alamat importir/penerima fasilitas.
+
+Nomor (11)  : diisi nama eksportir/penerima pindah tangan.
+
+Nomor (12) =: diisi nomor identitas (KTP/Paspor/Lainnya).
+Nomor (13)  : diisi Nomor Pokok Wajib Pajak (NPWP} apabila ada.
+Nomor (14) : diisi alamat eksportir/penerima fasilitas.
+
+Nomor (15) =: diisi dengan nomor urut.
+
+Nomor (16) : diisi hasil pemeriksaan Pejabat Bea dan Cukai mengenai jenis,
+jumlah, merek, tipe, ukuran, dan spesifikasi dari barang
+impor.
+
+Nomor (17)  : diisi jumlah dan jenis satuan barang yang dipergunakan.
+
+Nomor (18) : diisi nilai pabean yang ditetapkan oleh Pejabat Bea dan Cukai.
+
+Nomor (19) : diisi pada kolom yang disediakan dengan penetapan Pejabat
+
+Bea dan Cukai mengenai:
+a.  klasifikasi barang; dan
+b. besarnya pembebasan bea masuk, cukai, PPN, PPnBM,,.
+dan PPh Pasal 22.
+Nomor (20) : diisi Nilai Dasar Perhitungan Bea Masuk (NDPBM), yaitu nilai
+tukar yang dipergunakan sebagai dasar perhitungan bea
+
+masuk.
+
+Nomor (21)  : diisi nilai pabean dalam Rupiah, yaitu hasil perkalian antara
+nilai pabean pada kolom angka 18 dengan NDPBM pada
+kolom angka 21.
+
+Nomor (22) : diisi tarif bea masuk.
+
+Nomor (23)  : diisi tarif cukai.
+
+Nomor (24) =: diisi tarif PPN.
+
+Nomor (25) =: diisi tarif PPnBM.
+Nomor (26)  : diisi tarif PPh Pasal 22.
+
+Nomor (27) ; diisi tarif denda, apabila terdapat denda yang dihitung dengan
+persen.
+
+Nomor (28) : diisi jumlah bea masuk yang wajib dihunasi.
+
+Nomor (29) =: diisi jumlah cukai yang wajib dilunasi.
+
+Nomor (30) =: diisi jumlah PPN yang wajib dilunasi.
+
+Nomor (31) : diisi jumlah PPnBM yang wajib dilunasi.
+
+Nomor (32) =: diisi dengan jumlah PPh Pasal 22 yang wajib dilunasi.
+
+Nomor (33) : diisi dengan jumlah denda apabila ada.
+
+fi
+
+jdih.kemenkeu.go.id

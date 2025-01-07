@@ -1,0 +1,37 @@
+- 490 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+% atau lebih menurut beratnya
+tetapi tidak mengandung benang
+karet:
+3008. | 6004.10.10 -- Mengandung benang elastomer KGM V V
+tidak lebih dari 20 % menurut
+beratnya
+3009. | 6004.10.90 -- Lain-lain KGM Vv [Vv
+3010. | 6004.90.00 - Lain-lain KGM viv
+60.05 Kain rajut lusi (termasuk kain
+yang dibuat dengan mesin rajut
+galon), selain yang dimaksud
+dalam pos 60.01 sampai dengan
+60.04.
+- Dari kapas:
+3011. | 6005.21.00 -- Tidak dikelantang atau KGM Vv
+dikelantang
+3012. | 6005.22.00 --_ Dicelup KGM Viv
+3013. | 6005.23.00 -- Dari benang aneka warna KGM Viv
+3014. | 6005.24.00 --_Dicetak KGM viv
+- Dari serat sintetik:
+3015. | 6005.35.00 -- Kain yang dirinci dalam catatan | KGM Vv
+subpos 1 pada bab ini
+6005.36 -- Lain-lain, tidak dikelantang atau
+dikelantang:
+3016. | 6005.36.10 --- Kain rajut untuk pakaian KGM Vv] Vv
+renang dari poliester dan
+polibutilena tereftalat dengan
+poliester lebih dominan menurut
+beratnya
+3017. | 6005.36.90 --- Lain-lain KGM Viv
+6005.37 --_Lain-lain, dicelup:
+3018. | 6005.37.10 --- Kain rajut untuk pakaian KGM V [Vv
+

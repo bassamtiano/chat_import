@@ -1,0 +1,201 @@
+-54-
+
+514
+515
+
+516
+517
+
+518
+519
+520
+
+521
+522
+523
+
+524
+525
+
+526
+
+527
+528
+529
+530
+
+531
+
+532
+533
+534
+
+535
+536
+
+537
+
+538
+539
+540
+
+541
+542
+543
+
+62.03
+
+6203.11.00
+6203.12.00
+6203.19
+
+6203.19.11
+6203.19.19
+
+6203.19.21
+6203.19.29
+6203.19.90
+
+6203.22
+
+6203.22.10
+6203.22.90
+6203.23.00
+6203.29
+
+6203.29.10
+6203.29.90
+
+6203.31.00
+6203.32
+
+6203.32.10
+6203.32.90
+6203.33.00
+6203.39.00
+
+6203.41.00
+6203.42
+6203.42.10
+6203.42.90
+6203.43.00
+6203.49
+6203.49.10
+6203.49.90
+62.04
+
+6204.11.00
+6204.12
+6204.12.10
+6204.12.90
+6204.13.00
+6204.19
+
+6204.19.11
+6204.19.19
+6204.19.90
+
+Setelan, ensemble, jas, blazer, celana panjang, pakaian terusan
+berpenutup di depan dan bertali, celana panjang sampai lutut dan
+celana pendek (selain pakaian renang), untuk pria atau anak laki-
+laki.
+
+- Setelan :
+
+- - Dari wol atau bulu hewan halus
+
+- - Dari serat sintetik
+
+- - Dari bahan tekstil lainnya :
+
+- - - Dari kapas:
+
+- - - - Dicetak dengan proses batik tradisional
+
+- - - - Lain-lain
+
+- - - Dari sutra :
+
+- - - - Dicetak dengan proses batik tradisional
+
+- - - - Lain-lain
+
+- - - Lain-lain
+
+- Ensemble :
+
+- - Dari kapas :
+
+- - - Dicetak dengan proses batik tradisional
+
+- - - Lain-lain
+
+- - Dari serat sintetik
+
+- - Dari bahan tekstil lainnya :
+
+- - - Dari wol atau bulu hewan halus
+
+- - - Lain-lain
+
+- Jas dan blazer :
+
+- - Dari wol atau bulu hewan halus
+
+- - Dari kapas :
+
+- - - Dicetak dengan proses batik tradisional
+
+- - - Lain-lain
+
+- - Dari serat sintetik
+
+- - Dari bahan tekstil lainnya
+
+- Celana panjang, pakaian terusan berpenutup di depan dan bertali,
+celana panjang sampai lutut dan celana pendek :
+
+- - Dari wol atau bulu hewan halus
+
+- - Dari kapas:
+
+- - - Pakaian terusan berpenutup di depan dan bertali
+
+- - - Lain-lain
+
+- - Dari serat sintetik
+
+- - Dari bahan tekstil lainnya :
+
+- - - Dari sutra
+
+- - - Lain-lain
+
+Setelan, ensemble, jas, blazer, gaun, rok, rok terpisah, celana
+panjang, pakaian terusan berpenutup di depan dan bertali, celana
+panjang sampai lutut dan celana pendek (selain pakaian renang),
+untuk wanita atau anak perempuan.
+
+- Setelan :
+
+- - Dari wol dari atau bulu hewan halus
+
+- - Dari kapas :
+
+- - - Dicetak dengan proses batik tradisional
+
+- - - Lain-lain
+
+- - Dari serat sintetik
+
+- - Dari bahan tekstil lainnya :
+
+- - - Dari sutra :
+
+- - - - Dicetak dengan proses batik tradisional
+
+- -- - Lain-lain
+
+- - - Lain-lain
+
+www jdin:kemenk

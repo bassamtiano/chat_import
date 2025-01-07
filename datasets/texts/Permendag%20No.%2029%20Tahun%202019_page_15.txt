@@ -1,0 +1,45 @@
+-15-
+
+Pasal 15
+Masa berlaku Persetujuan Impor sebagaimana dimaksud
+dalam Pasal 12 sesuai dengan masa berlaku Rekomendasi.
+
+Pasal 16
+
+(1) Importir wajib melaporkan setiap perubahan yang terkait
+dengan dokumen sebagaimana dimaksud dalam Pasal 13
+ayat (1) huruf a, huruf b, huruf c, huruf d, dan huruf e,
+Pasal 13 ayat (2) huruf a, huruf b, dan hurufc, atau Pasal
+13 ayat (3) huruf a.
+
+(2) Importir harus mengajukan permohonan perubahan
+Persetujuan Impor sebagaimana dimaksud pada ayat (1)
+secara elektronik kepada Direktur Jenderal melalui
+Direktur Impor dengan melampirkan:
+
+a. dokumen yang mengalami perubahan sebagaimana
+dimaksud pada ayat (1); dan
+b. Persetujuan Impor.
+
+(3) Atas permohonan sebagaimana dimaksud pada ayat (2),
+Direktur Impor atas nama Direktur Jenderal menerbitkan
+perubahan Persetujuan Impor dengan menggunakan
+Tanda Tangan Elektronik (Digital Signature) yang tidak
+memerlukan cap dan tanda tangan basah serta
+mencantumkan kode QR (Quick Response) paling lama
+2 (dua) hari kerja terhitung sejak permohonan diterima
+secara lengkap dan benar.
+
+(4) Dalam hal permohonan sebagaimana dimaksud pada
+ayat (2) tidak lengkap dan benar, akan dilakukan
+penolakan secara elektronik paling lama 2 (dua) hari kerja
+
+terhitung sejak tanggal permohonan diterima.
+
+Pasal 17
+(1) Importir dapat mengajukan permohonan perubahan
+Persetujuan Impor dalam hal terdapat perubahan
+mengenai:
+a.  uraian barang;
+b. Pos Tarif/HS 8 (delapan) digit;
+c. jumlah dan satuan barang;

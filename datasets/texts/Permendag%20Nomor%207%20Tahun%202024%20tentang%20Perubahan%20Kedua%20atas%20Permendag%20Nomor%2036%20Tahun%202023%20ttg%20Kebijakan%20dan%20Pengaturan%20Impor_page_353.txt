@@ -1,0 +1,33 @@
+- 338 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+australasicus)
+1543. | 0303.54.20 --- Makarel pasifik (Scomber japonicus) V V
+1544. | 0303.55.00 -- Makarel jack dan makarel kuda (Trachurus V V
+spp.)
+1545. | 0303.56.00 -- Cobia (Rachycentron canadum) V V
+1546. | 0303.57.00 -- Todak (Xiphias gladius) V V
+0303.59 -- Lain-lain:
+1547. | 0303.59.10 --- Makarel Indian (Rastrelliger kanagurta); V V
+Makarel Island (Rastrelliger faughni)
+1548. | 0303.59.20 --- Bawal putih (Pampus spp.) V V
+1549. | 0303.59.90 --- Lain-lain V V
+- Ikan dari keluarga Bregmacerotidae,
+Euclichthyidae, Gadidae, Macrouridae,
+Melanonidae, Merlucciidae, Moridae dan
+Muraenolepididae, tidak termasuk sisa ikan
+yang dapat dimakan dari subpos 0303.91
+sampai dengan 0303.99:
+1550. | 0303.63.00 -- Cod (Gadus morhua, Gadus ogac, Gadus V V
+macrocephalus)
+1551. | 0303.64.00 -- Haddock (Melanogrammus aeglefinus) V V
+1552. | 0303.65.00 -- Coalfish (Pollachius virens) V V
+1553. | 0303.66.00 -- Hake (Merluccius spp., Urophycis spp.) V V
+1554. | 0303.67.00 -- Alaska Pollock (Theragra chalcogramma) V V
+1555. | 0303.68.00 -- Blue whitings (Micromesistius poutassou, V V
+Micromesistius australis)
+1556. | 0303.69.00 -- Lain-lain V V
+
+- Ikan lainnya, tidak termasuk sisa ikan yang
+dapat dimakan dari subpos 0303.91 sampai
+

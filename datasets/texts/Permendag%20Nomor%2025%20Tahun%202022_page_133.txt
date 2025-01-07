@@ -1,0 +1,34 @@
+- 104 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+632. | ex 4823.90.10 | -- Rangka kepompong untuk | Berasal dari kayu V V
+ulat sutra
+633. | ex 4823.90.20 -- Kartu peraga dari jenis Berasal dari kayu V V
+yang digunakan untuk
+perhiasan termasuk benda
+perhiasan pribadi atau barang
+pribadi yang biasa dibawa
+dalam saku, dalam tas tangan
+atau di badan
+634. | ex 4823.90.30 | -- Kertas karton dilapisi Berasal dari kayu V V
+polietilena die-cut dari jenis
+yang digunakan untuk
+pembuatan mangkuk kertas
+635. | ex 4823.90.40 | -- Set selongsong kertas dari | Berasal dari kayu V V
+jenis yang digunakan untuk
+pembuatan kembang api
+-- Kertas kraft dalam gulungan dengan lebar 209
+mm dari jenis yang digunakan sebagai
+pembungkus dynamic stick:
+636. | ex 4823.90.51 --- Berat 150 g/m? atau Berasal dari kayu V V
+kurang
+637. | ex 4823.90.59 --- Lain-lain Berasal dari kayu V V
+638. | ex 4823.90.60 -- Punched jacquard card Berasal dari kayu V V
+639. | ex 4823.90.70 -- Kipas dan handscreen Berasal dari kayu V V
+-- Lain-lain:
+640. | ex 4823.90.91 --- Kertas silikon Berasal dari kayu V V
+641. | ex 4823.90.92 | --- Joss paper Berasal dari kayu V V
+642. | ex 4823.90.94 --- Gumpalan selulosa web Berasal dari kayu V V
+
+serat selulosa, diwarnai atau
+

@@ -1,0 +1,38 @@
+- 661 -
+
+. : Nama Bahan Nomor Kode Satuan Post
+No Pos Tarif/HS Uraian Barang Kimia CAS Daftar Barang Persyaratan Keterangan IT/IP| PI | LS Border
+hidroksietil)sulfida KGM;
+(tiodiglikol (INN)) LTR
+2930.90 - Lain-lain:
+-- Lain-lain O-Alkyl (H or <
+Cio , incl.
+cycloalkyl)
+S-2-dialkyl
+(Me, Et, n-Pr
+or i-Pr)-
+aminoethyl
+alkyl (Me, Et, TNE;
+n-Pr or i-Pr) KGM; V V V
+phosphonothio LTR
+lates
+dan garam
+alkilasi atau
+protonasinya
+3802. | ex 2930.90.90 yang sesuat
+Contoh:
+VX: O-Ethyl S-
+2-
+diisopropylami . TNE;
+noethyl oo 1A03 KGM; V V V
+methyl LTR
+phosphonothio
+late
+Sulfur
+mustards:
+TNE;
+- 2- 2625-76- r
+Chloroethylchl | 5 1A04 re , V V V
+oromethylsulfi
+de
+

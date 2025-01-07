@@ -1,0 +1,26 @@
+-35-
+
+CONTOH FORMAT LAPORAN HASIL PEMERIKSAAN FISIK (LHP)
+
+KOP NASKAH DINAS KANTOR
+
+LAPORAN HASIL PEMERIKSAAN FISIK (LHP)
+
+Nomor KMK Tanggal KMK Doseeeeeeees (2).....ccee.
+Hari/Tanggal
+Jam mulai periksa : Jam selesai periksa : .......... (5)...
+
+Lokasi
+Hasil pemeriksaan :
+
+No. Uraian Barang Jumlah dan Satuan Keterangan
+Barang
+w(7) .. =+(8) ... (9)... «..(10) ...
+Kesimpulan Pemeriksaan:
+sete (11) wee
+Pejabat Pemeriksa Fisik*) Pejabat Pemeriksa Fisik*) Pejabat Pemeriksa Fisik*)
+Tanda Tangan Tanda Tangan Tanda Tangan
+Nama 2 ...(12) ... Nama (12)... Nama 2 ...(12) ...
+NIP 2 ...(13) ... NIP 2 ...(13) ... NIP 2 ...(13) ...
+
+*) Menyesuaikan jumlah Pejabat Pemeriksa Fisik

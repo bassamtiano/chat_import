@@ -1,0 +1,33 @@
+- 343 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+macrocephalus)
+1604. | 0304.72.00 -- Haddock (Melanogrammus aeglefinus) V V
+1605. | 0304.73.00 -- Coalfish (Pollachius virens) V V
+1606. | 0304.74.00 -- Hake (Merluccius spp., Urophycis spp.) V V
+1607. | 0304.75.00 -- Alaska Pollock (Theragra chalcogramma) V V
+1608. | 0304.79.00 -- Lain-lain V V
+- Fillet beku dari ikan lainnya:
+1609. | 0304.81.00 -- Salmon Pasifik (Oncorhynchus nerka, V V
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+Oncorhynchus tschawytscha, Oncorhynchus
+kisutch, Oncorhynchus masou dan
+Oncorhynchus rhodurus), salmon Atlantik
+(Salmo salar) dan salmon danube (Hucho
+hucho)
+1610. | 0304.82.00 -- Trout (Salmo trutta, Oncorhynchus mykiss, V V
+Oncorhynchus clarki, Oncorhynchus aguabonita,
+Oncorhynchus gilae, Oncorhyncus apache dan
+Oncorhynchus chrysogaster)
+1611. | 0304.83.00 -- Ikan pipih (Pleuronectidae, Bothidae, V V
+Cynoglossidae, Soleidae, Scophthalmidae dan
+Citharidae)
+1612. | 0304.84.00 -- Todak (Xiphias gladius) V V
+1613. | 0304.85.00 -- Toothfish (Dissostichus spp.) V V
+1614. | 0304.86.00 -- Herring (Clupea harengus, Clupea pallasii) V V
+1615. | 0304.87.00 -- Tuna (dari genus Thunnus), cakalang (stripe- V V
+bellied bonito) (Katsuwonus pelamis)
+1616. | 0304.88.00 -- Dogfish, hiu lainnya, pari dan skates V V
+
+(Rajidae)
+

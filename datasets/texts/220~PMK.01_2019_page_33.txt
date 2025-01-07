@@ -1,0 +1,67 @@
+-~ 33 -
+
+iii. Sistem National Single Window-SeaPort:
+Paralel-run di Tanjung Priok.
+
+iv. Sistem National Single Window-AirPort:
+Paralel-run di Bandara Soekarno Hatta.
+
+5) Implementasi Tahap Nasional
+a) Target Waktu:
+
+Penerapan sistem National Single Window pada
+
+tahapan Implementasi Nasional ini, ditargetkan
+
+sudah harus diselesaikan mulai April 2009 (sistem
+
+National Single Window Impor) dan paling lambat
+
+pada akhir Juni 2009 (sistem National Single
+
+Window ekspor, seaport dan airport) sehingga
+
+pada awal Juli 2009 seluruh komponen sistem
+
+pada Portal Indonesia National Single Window
+
+sudah diterapkan secara mandatory di 5 (lima)
+
+pelabuhan utama di Indonesia, yaitu:
+
+i. Tanjung Priok (KPU Tipe A Tanjung Priok);
+
+ii. Tanjung Emas (KPPBC Tipe Madya Tanjung
+Emas);
+
+iii. Tanjung Perak (KPPBC Tipe Madya Tanjung
+Perak);
+
+iv. Belawan (KPPBC Tipe Madya Belawan); dan
+
+v. Bandara Udara Soekarno Hatta (KPU
+Soekarno Hatta).
+
+Pemenuhan target waktu pada tahapan ini sangat
+
+penting untuk persiapan mulai bergabung ke
+
+dalam sistem ASEAN Single Window, karena
+
+itulah pada tahapan ini ditargetkan semua
+
+komponen sistem National Single Window (impor,
+
+ekspor, seaport dan airport) sudah secara penuh
+
+bergabung ke dalam Portal Indonesia National
+
+Single Window.
+
+b) Instansi Pemerintah (GA) yang dilibatkan:
+Untuk tahapan Implementasi Tahap Nasional ini,
+diharapkan seluruh instansi pemerintah (GA) yang
+
+akan menjadi Pengguna Portal Indonesia National
+
+www. jdih. kemenkeu.go. /

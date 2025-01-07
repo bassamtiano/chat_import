@@ -1,0 +1,105 @@
+- 20 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+menggulung, melepas gulungan,
+melipat, memotong atau memotong
+bergerigi kain tekstil.
+
+100.
+
+8451.10.00
+
+- Mesin pembersih kering
+
+- Mesin pengering:
+
+101.
+
+8451.29.00
+
+-- Lain-lain
+
+8451.30
+
+- Mesin penyeterika dan pengepres
+(termasuk pengepres fusi):
+
+102.
+
+8451.30.90
+
+-- Lain-lain
+
+103.
+
+8451.40.00
+
+- Mesin pencuci, pengelantang atau
+pencelup
+
+104.
+
+8451.50.00
+
+- Mesin untuk menggulung, melepas
+gulungan, melipat, memotong atau
+memotong bergerigi kain tekstil
+
+84.52
+
+Mesin jahit, selain dari mesin
+penjahit buku yang dimaksud dari
+pos 84.40; perabotan, dasar dan
+tutup dirancang secara khusus
+untuk mesin jahit; jarum mesin
+jahit.
+
+- Mesin jahit lainya:
+
+105.
+
+8452.21.00
+
+-- Unit otomatis
+
+106.
+
+8452.29.00
+
+-- Lain-lain
+
+84.53
+
+Mesin untuk mengolah, menyamak
+atau mengerjakan jangat, kulit atau
+kulit samak atau untuk membuat
+atau memperbaiki alas kaki atau
+barang lain dari jangat, kulit atau
+kulit samak, selain mesin jahit.
+
+8453.10
+
+- Mesin untuk mengolah, menyamak
+atau mengerjakan jangat, kulit atau
+kulit samak:
+
+<2
+

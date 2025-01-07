@@ -1,0 +1,35 @@
+- 124 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+pembudidayaan
+0307.60 - Siput, selain siput laut:
+749. | ex 0307.60.10 | --Hidup Hanya untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+- Remis, tiram dan kerang (dari keluarga Arcidae,
+Arcticidae, Cardiidae, Donacidae, Hiatellidae,
+Mactridae, Mesodesmatidae, Myidae, Semelidae,
+Solecurtidae, Solenidae, Tridacnidae dan
+Veneridae):
+0307.71 -- Hidup, segar atau dingin:
+750. | ex 0307.71.10 | --- Hidup Hanya untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+- Abalon (Haliotis spp.) dan stromboid conchs
+(Strombus spp.):
+0307.81 -- Hidup, segar atau dingin abalone (Haliotis spp.):
+751. | ex 0307.81.10 | --- Hidup Hanya untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+0307.82 -- Hidup, segar atau dingin stromboid conchs
+(Strombus spp.):
+752. | ex 0307.82.10 | --- Hidup Hanya untuk V V
+
+calon induk,
+

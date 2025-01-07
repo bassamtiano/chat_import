@@ -1,0 +1,32 @@
+- 214 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+0307.71 -- Hidup, segar atau dingin:
+1744.| ex 0307.71.10 | --- Hidup Selain untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1745.| 0307.71.20 --- Segar atau dingin V V
+1746.| 0307.72.00 -- Beku V V
+0307.79 -- Lain-lain:
+1747.| 0307.79.30 --- Dikeringkan, diasinkan atau dalam air garam V V
+1748.| 0307.79.40 --- Diasapi V V
+- Abalon (Haliotis spp.) dan stromboid conch
+(Strombus spp.):
+0307.81 -- Abalon (Haliotis spp.) hidup, segar atau dingin
+1749.| ex 0307.81.10 | --- Hidup Selain untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1750.| 0307.81.20 --- Segar atau dingin V V
+0307.82 -- Stromboid conch (Strombus spp.) hidup, segar
+atau dingin :
+1751.] ex 0307.82.10 | --- Hidup Selain untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1752. | 0307.82.20 --- Segar atau dingin V V
+

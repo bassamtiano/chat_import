@@ -1,0 +1,42 @@
+- 24 -
+
+Nilai Barang Impor
+Diisi pada kolom yang disediakan dengan nilai FOB, Freight dan
+Insurance atas barang impor dalam valuta sesuai pada kolom D. Nilai
+dibulatkan menjadi dua angka di belakang koma.
+1) FOB
+Diisi dengan nilai barang sebelum pengapalan (nilai incoterm
+Free on Board).
+2) Freight
+Diisi dengan nilai freight.
+3) Insurance
+Diisi sesuai besarnya nilai asuransi barang impor.
+Contoh:
+Barang impor dengan incoterm FOB sebesar USD5.000,00 (lima ribu
+United State Dollar) memiliki nilai asuransi di luar negeri sebesar
+USD50,00 (lima puluh United State Dollar) dan nilai freight sebesar
+USD500,00 (lima ratus United States Dollar).
+FOB : 5.000,00
+Freight : 500,00
+Insurance : 50,00
+Bea Masuk, Cukai dan Pajak Dalam Rangka Impor
+Diisi pada kolom yang disediakan dengan nilai Bea Masuk, nilai
+Cukai, nilai PPN, nilai PPnBM, dan nilai PPh Pasal 22 atas barang
+impor.
+1) Bea Masuk
+Diisi dengan dengan jumlah bea masuk dalam ribuan Rupiah
+penuh.
+2) Cukai
+Diisi dengan jumlah keseluruhan hasil perhitungan Cukai dalam
+ribuan Rupiah penuh.
+3) PPN
+Diisi dengan jumlah keseluruhan hasil perhitungan PPN dalam
+ribuan Rupiah penuh.
+PPN dihitung dengan menggunakan rumus:
+% PPN x (nilai CIF dalam Rupiah + Bea Masuk + Cukai)
+4) PPnBM
+Diisi dengan jumlah keseluruhan hasil perhitungan PPnBM
+
+dalam ribuan Rupiah penuh.
+
+soe jdin kemenkeu oh if

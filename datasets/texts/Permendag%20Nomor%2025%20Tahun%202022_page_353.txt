@@ -1,0 +1,54 @@
+- 324 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+
+- Dari benang aneka warna:
+
+2848. | 5513.31.00 -- Dari serat stapel poliester, tenunan polos V V
+
+2849. | 5513.39.00 -- Kain tenunan lainnya V V
+- Dicetak:
+
+2850. | 5513.41.00 -- Dari serat stapel poliester, tenunan polos V V
+
+2851. | 5513.49.00 -- Kain tenunan lainnya V V
+
+55.14 Kain tenunan dari serat stapel sintetik,
+
+mengandung serat tersebut kurang dari 85 %
+menurut beratnya, dicampur terutama atau
+semata-mata dengan kapas, dengan berat
+melebihi 170 g/m2.
+- Tidak dikelantang atau dikelantang:
+
+2852. | 5514.11.00 --_ Dari serat stapel poliester, tenunan polos V V
+
+2853. | 5514.12.00 -- Kepar 3-benang atau 4-benang, termasuk V V
+kepar silang, dari serat stapel poliester
+
+2854. | 5514.19.00 -- Kain tenunan lainnya V V
+- Dicelup:
+
+2855. | 5514.21.00 -- Dari serat stapel poliester, tenunan polos V V
+
+2856. | 5514.22.00 -- Kepar 3-benang atau 4-benang, termasuk V V
+kepar silang, dari serat stapel poliester
+
+2857. | 5514.23.00 -- Kain tenunan lainnya dari serat stapel V V
+poliester
+
+2858. | 5514.29.00 -- Kain tenunan lainnya V V
+
+2859. | 5514.30.00 - Dari benang aneka warna V V
+- Dicetak:
+
+2860. | 5514.41.00 -- Dari serat stapel poliester, tenunan polos V V
+
+2861. | 5514.42.00 -- Kepar 3-benang atau 4-benang, termasuk V V
+kepar silang, dari serat stapel poliester
+
+2862. | 5514.43.00 -- Kain tenunan lainnya dari serat stapel V V
+poliester
+
+2863. | 5514.49.00 -- Kain tenunan lainnya V V
+

@@ -1,0 +1,31 @@
+Nomor (25)
+
+Nomor (26)
+Nomor (27)
+
+Nomor (28)
+Nomor (29)
+
+: diisi nama Kantor Pelayanan Utama Bea dan Cukai atau
+
+-40-
+
+diisi nomor urut barang pada Keputusan Menteri mengenai
+
+pembebasan bea masuk atas impor barang untuk keperluan
+
+Badan Internasional beserta Pejabatnya yang bertugas di
+Indonesia.
+diisi negara asal barang.
+
+Kantor Pengawasan dan Pelayanan Bea dan Cukai tempat
+pemasukan barang.
+diisi nomor pemberitahuan pabean dari barang impor terkait.
+
+: diisi tanggal, bulan dan tahun pemberitahuan pabean dari
+
+barang impor terkait.
+
+f}
+
+jdih.kemenkeu.go.id |

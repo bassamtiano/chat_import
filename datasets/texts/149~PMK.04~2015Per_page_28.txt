@@ -1,0 +1,95 @@
+. (22)
+
+. (23)
+
+. (24)
+
+_ (25)
+
+. (26)
+
+. (27)
+. (28)
+
+: Diisi
+
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-3-
+PETUNJUK PENGISIAN
+
+: Diisi jabatan Pejabat Bea dan Cukai yang ditunjuk.
+
+: Diisinama Kepala Perwalilan Negara Asing.
+
+: Diisi nomor identitas Kepala Perwakilan Negara Asing.
+
+: Diisi kebangsaan Kepala Perwakilan Negara Asing.
+
+: Diisi nama Perwakilan Negara Asing.
+
+: Diisi nama jabatan Kepala Perwakilan Negara Asing.
+
+: Diisi nama tempat Perwakilan Negara Asing berdomisili.
+
+: Diisi nomor Pemberitahuan Impor Barang (PIB).
+
+: Diisi tanggal Pemberitahuan Impor Barang (PIB):
+
+: Diisi nomor Formulir B.
+
+: Diisi tanggal Formulir B.
+
+: Diisi nama pemilik/penerima fasilitas yang tercantum dalam Formulir B.
+: Diisi jenis, merek, tipe Kendaraan Bermotor yang akan dipindahtangankan.
+: Diisi tahun pembuatan Kendaraan Bermotor sesuai dengan Invoice.
+
+: Diisi nomor mesin Kendaraan Bermotor yang akan dipindahtangankan.
+
+: Diisi nomor rangka Kendaraan Bermotor yang alan dipindahtangankan.
+
+: Diisi Negara asal tempat pengiriman barang.
+
+: Diisi nomor polisi Kendaraan Bermotor pada saat beroperasi di Indonesia.
+
+alasan Perwakilan Negara Asing melakukan pemindahtanganan
+Kendaraan Bermotor kepada penerima fasilitas lainnya.
+
+: Diisi nama Pejabat Perwakilan Negara Asing/Badan Internasional/penerima
+
+fasilitas pembebasan bea masuk lainnya yang menerima pemindahtanganan
+Kendaraan Bermotor.
+
+: Diisi nomor identitas Pejabat Perwakilan Negara Asing/Badan Internasional/
+
+penerima fasilitas pembebasan bea masuk lainnya yang menerima
+pemindahtanganan Kendaraan Bermotor.
+
+: Diisi nama kebangsaan Pejabat Perwaldlan Negara Asing/Badan Internasional/
+
+penerima fasilitas pembebasan bea masuk lainnya yang menerima
+pemindahtanganan Kendaraan Bermotor.
+
+: Diisi nama Perwakilan Negara Asing/Badan Internasional/penerima fasilitas
+
+pembebasan bea masuk lainnya yang menerima pemindahtanganan Kendaraan
+Bermotor.
+
+: Diisi nama jabatan Perwakilan Negara Asing/Badan Internasional/penerima
+
+fasilitas pembebasan bea masuk lainnya yang menerima pemindahtanganan
+Kendaraan Bermotor.
+
+: Diisi nama tempat Perwakilan Negara Asing/Badan Internasional/penerima
+
+fasilitas pembebasan bea masuk lainnya yang menerima pemindahtanganan
+Kendaraan Bermotor berdomisili.
+
+: Diisi kota tempat pengajuan permohonan.
+: Diisi tanggal pengajuan permohonan pemindahtanganan Kendaraan Bermotor.
+: Diisi nomor persetujuan Menteri Luar Negeri.
+
+oh
+
+www.jdih.kemenkeu.go.id

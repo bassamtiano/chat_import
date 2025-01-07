@@ -1,0 +1,55 @@
+Nomor (1)
+
+Nomor (2)
+
+Nomor (3)
+Nomor (4)
+Nomor (5)
+Nomor (6)
+Nomor (7)
+Nomor (8)
+Nomor (9)
+Nomor (10)
+Nomor (11)
+Nomor (12)
+
+Nomor (13)
+
+- 36 -
+
+PETUNJUK PENGISIAN
+
+diisi nomor Keputusan Menteri mengenai pemberian izin
+pemindahtanganan atau pemusnahan atas impor Peralatan
+dan/atau. Bahan yang diimpor menggunakan fasilitas
+pembebasan bea masuk untuk mencegah pencemaran
+lingkungan.
+
+diisi tanggal Keputusan Menteri mengenai pemberian izin
+pemindahtanganan atau pemusnahan atas impor Peralatan
+dan/atau. Bahan yang diimpor menggunakan fasilitas
+pembebasan bea masuk untuk mencegah pencemaran
+lingkungan.
+
+diisi hari dan tanggal saat pelaksanaan pemeriksaan fisik.
+diisi waktu mulai pelaksanaan pemeriksaan fisik.
+
+diisi waktu selesai pelaksanaan pemeriksaan fisik.
+
+diisi lokasi pelaksanaan pemeriksaan fisik
+
+diisi nomor urut Peralatan dan/atau Bahan.
+
+diisi uraian jenis Peralatan dan/atau Bahan.
+
+diisi jumlah dan satuan Peralatan dan/atau Bahan.
+
+diisi keterangan tambahan yang diperlukan.
+
+diisi kesimpulan hasil pemeriksaan fisik.
+
+diisi nama jabatan Pejabat Bea dan Cukai yang melakukan
+pemeriksaan fisik.
+
+diisi Nomor Induk Pegawai (NIP) Pejabat Bea dan Cukai yang
+melakukan pemeriksaan fisik.

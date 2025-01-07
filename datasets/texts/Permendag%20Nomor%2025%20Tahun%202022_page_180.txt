@@ -1,0 +1,31 @@
+- 151 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+1218. 7315.19.10 --- Dari rantai sepeda roda dua atau sepeda motor V V
+1219. | 7315.19.90 --- Lain-lain viv
+1220. | 7315.20.00 - Rantai penyangga Vi] Vv
+1221. | 7315.81.00 -- Penghubung tanam/paku penghubung v [Vv
+1222. | 7315.82.00 -- Lain-lain, penghubung di las Vv |v
+1223. | 7315.89.10 --- Rantai sepeda roda dua atau sepeda motor Vi] Vv
+1224. | 7315.89.90 --- Lain-lain viv
+1225. 7315.90.20 -- Dari rantai sepeda roda dua atau sepeda motor V V
+1226. 7315.90.90 -- Lain-lain J Rl
+1227. | 7320.10.11 --- Cocok digunakan untuk kendaraan bermotor Vv |v
+
+dari pos 87.02, 87.03 atau 87.04
+1228. 7320.10.12 --- Cocok digunakan untuk kendaraan bermotor V V
+lainnya
+1229. | 7320.10.19 --- Lain-lain v |v
+1230. | 7320.10.90 -- Lain-lain viv
+1231. | 7320.20.11 --- Untuk kendaraan bermotor v [Vv
+1232. 7320.20.12 --- Untuk mesin pengolah tanah V V
+1233. | 7320.20.19 --- Lain-lain viv
+1234. | 7320.20.90 -- Lain-lain viv
+1235. | 7320.90.10 -- Cocok digunakan untuk kendaraan bermotor V [Vv
+1236. | 7320.90.90 -- Lain-lain Vv |v
+1237. 7321.11.00 -- Dengan bahan bakar gas atau gabungan gas V V
+dan bahan bakar lainnya
+1238. | 7321.12.00 -- Dengan bahan bakar cair v |v
+1239. | 7321.19.10 --- Dengan bahan bakar padat Vv |v
+1240. | 7321.19.90 --- Lain-lain viv
+

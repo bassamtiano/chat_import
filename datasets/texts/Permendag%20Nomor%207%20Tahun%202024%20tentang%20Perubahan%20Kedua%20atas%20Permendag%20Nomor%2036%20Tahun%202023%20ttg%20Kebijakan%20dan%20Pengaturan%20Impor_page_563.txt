@@ -1,0 +1,91 @@
+- 548 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+tidak dirinci atau termasuk
+dalam pos lainnya.
+
+8471.30
+
+- Mesin pengolah data otomatis
+digital portabel, dengan berat tidak
+lebih dari 10 kg, terdiri dari paling
+tidak satu unit pengolah pusat,
+keyboard dan display:
+
+3397.
+
+ex. 8471.30.90
+
+-- Lain-lain Selain Komputer
+Tablet dan
+Komputer
+Genggam
+(Handheld).
+
+NIU
+
+- Mesin pengolah data otomatis
+digital lainnya:
+
+8471.41
+
+-- Terdapat dalam wadah yang
+sama paling tidak satu unit
+pengolah pusat dan satu unit
+masukan serta keluaran,
+dikombinasikan maupun tidak:
+
+3398.
+
+8471.41.10
+
+--- Komputer personal tidak
+termasuk komputer portabel dari
+subpos 8471.30
+
+PCE
+
+8471.49
+
+-- Lain-lain, disediakan dalam
+bentuk sistem:
+
+3399.
+
+8471.49.10
+
+--- Komputer personal tidak
+termasuk komputer portabel dari
+subpos 8471.30
+
+PCE
+
+8471.50
+
+- Unit pengolah selain yang
+dimaksud dalam sub pos 8471.41
+atau 8471.49, dalam wadah yang
+sama mempunyai maupun tidak,
+satu atau dua tipe unit berikut:
+

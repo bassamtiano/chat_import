@@ -1,0 +1,37 @@
+- 139 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+- Semi kelantang atau dikelantang:
+423. | 4703.21.00 -- Pohon jenis konifera V V
+424. | 4703.29.00 -- Pohon selain jenis konifera V V
+47.04 Pulp kayu kimia, sulfit, selain dissolving
+grade.
+- Tidak dikelantang:
+425. | 4704.11.00 -- Pohon jenis konifera V V
+426. | 4704.19.00 -- Pohon selain jenis konifera V V
+- Semi kelantang atau dikelantang:
+427. | 4704.21.00 -- Pohon jenis konifera V V
+428. | 4704.29.00 -- Pohon selain jenis konifera V V
+429. | 4705.00.00 Pulp kayu yang diperoleh melalui kombinasi V V
+proses pembuatan pulp secara mekanik dan
+kimia.
+48.02 Kertas dan kertas karton tidak dilapisi, dari
+jenis yang digunakan untuk penulisan,
+pencetakan atau keperluan grafik lainnya,
+serta kertas untuk punch card serta punch
+tape tidak dilubangi, dalam gulungan atau
+lembaran empat persegi panjang (termasuk
+bujur sangkar) dari berbagai ukuran, selain
+dari pos 48.01 atau 48.03; kertas dan kertas
+karton buatan tangan.
+430. | ex 4802.10.00 | - Kertas dan Berasal dari kayu V V
+
+kertas karton
+buatan tangan
+
+4802.20
+
+- Kertas dan kertas karton dari jenis yang
+digunakan sebagai dasar untuk kertas atau
+kertas karton peka cahaya, peka panas atau
+

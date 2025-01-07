@@ -1,0 +1,82 @@
+- Mur Roda untuk Kendaraan Bermotor.
+
+Pelek untuk kendaraan bermotor.
+Pelek tanpa ban terpasang untuk kendaraan
+dari pos 87.01.
+Pelek tanpa ban terpasang untuk kendaraan
+
+dari pos 87.03.
+
+Pelek tanpa ban terpasang untuk kendaraan
+selain dari pos 87.01 dan 87.03.
+
+Pelek untuk sepeda motor.
+
+16. |Per (Coil) untuk Per (Coil) untuk kendaraan bermotor.
+Kendaraan Bermotor
+
+KETERANGAN/PENJELASAN
+
+PENEMPATAN LABEL
+
+a.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen, dan/atau
+
+pemegang merek untuk barang produksi
+
+dalam negeri yang diproduksi berdasarkan
+
+pesanan dari pemegang merek; atau
+
+Nama dan alamat importir, agen, dan/atau
+perwakilan produsen luar negeri untuk barang impor;
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang
+
+Nama dan alamat produsen, dan/atau
+pemegang merek untuk barang produksi
+dalam negeri yang diproduksi berdasarkan
+pesanan dari pemegang merek; atau
+
+Nama dan alamat importir, agen, dan/atau
+perwakilan produsen luar negeri untuk barang impor;
+Ukuran;
+
+Kode Produksi;
+
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang*;
+
+Nama dan alamat produsen, dan/atau
+
+pemegang merek untuk barang produksi
+
+dalam negeri yang diproduksi berdasarkan
+
+pesanan dari pemegang merek; atau
+
+Nama dan alamat importir, agen, dan/atau
+perwakilan produsen luar negeri untuk barang impor;
+Negara Pembuat atau Made in.
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh.
+
+* tidak diwajibkan apabila secara teknis tidak dimungkinkan pelabelannya.
+

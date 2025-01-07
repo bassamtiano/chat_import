@@ -1,0 +1,36 @@
+- 158 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+8477.10 - Mesin cetak injeksi:
+514. | 8477.10.10 -- Untuk mencetak karet V V V
+-- Untuk mencetak plastik:
+515. | 8477.10.31 --- Mesin cetak injeksi untuk poly V V V
+(vinyl chloride)
+8477.20 - Pengekstrusi:
+516. | 8477.20.10 -- Untuk mengekstrusi karet V V V
+517. | 8477.20.20 -- Untuk mengekstrusi plastic V V V
+518. | 8477.30.00 - Mesin cetak tiup Viv V
+8477.40 - Mesin cetak hampa udara dan
+mesin thermoforming lainnya:
+519. | 8477.40.20 -- Untuk mencetak atau membentuk V V V
+plastic
+8477.80 - Mesin lainnya:
+-- Untuk mengerjakan plastik atau
+untuk pembuatan produk dari
+plastik, dioperasikan secara elektrik:
+520. | 8477.80.31 --- Pengepres laminasi untuk V V V
+pembuatan printed circuit board atau
+printed wiring board
+84.78 Mesin untuk mengolah atau
+membuat tembakau menjadi
+barang jadi, tidak dirinci atau
+termasuk dalam pos lainnya dalam
+Bab ini.
+8478.10 - Mesin:
+521. | 8478.10.10 -- Dioperasikan secara elektrik V V V
+84.79 Mesin atau peralatan mekanis,
+mempunyai fungsi tersendiri,
+tidak dirinci atau termasuk
+dalam pos lainnya dalam Bab ini.
+8479.10 - Mesin untuk pekerjaan umum,
+

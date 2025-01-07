@@ -1,0 +1,95 @@
+- 558 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+pelabuhan muat,
+pelabuhan tujuan Impor,
+dan/atau keterangan/
+spesifikasi barang:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan:
+
+1. PI Sepeda Roda Dua
+dan Roda Tiga (API-U)
+yang masih berlaku;
+dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI Sepeda Roda Dua
+dan Roda Tiga (API-U)
+yang masih berlaku;
+dan
+
+2. Perubahan rencana
+Impor.
+
+Dalam hal perubahan Pos
+Tarif/HS, uraian barang,
+jumlah, satuan, negara
+asal, negara muat,
+pelabuhan muat,
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan, perpanjangan
+Masa berlaku PI Sepeda
+Roda Dua dan Roda Tiga
+(API-U), hanya dapat
+dilakukan 1 (satu) kali
+dengan masa berlaku
+perpanjangan PI paling
+lama 30 (tiga puluh) hari
+kalender, terhitung
+setelah berakhirnya masa
+berlaku PI.
+
+Perpanjangan Masa
+berlaku PI Sepeda Roda
+Dua dan Roda Tiga (API-U)
+hanya dapat diajukan
+dalam hal:
+1. Barang telah dimuat
+pada alat angkut; dan
+2. Terjadi keterlambatan
+kedatangan Barang
+yang diakibatkan oleh
+keadaan tertentu
+berupa: keadaan
+kahar, bencana
+kemanusiaan, bencana
+alam, gangguan teknis
+

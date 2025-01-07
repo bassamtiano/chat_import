@@ -1,0 +1,38 @@
+- 553 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI} LS Post
+Barang Border
+untuk radiasi atau tahan radiasi
+sebagaimana dirinci dalam Catatan
+Subpos 2 pada Bab ini:
+3423. | 8525.82.90 --- Lain-lain PCE V
+8525.83 -- Lain-lain, barang penglihatan
+malam sebagaimana dirinci dalam
+Catatan Subpos 3 pada Bab ini:
+3424. | 8525.83.90 --- Lain-lain PCE V
+8525.89 -- Lain-lain:
+3425. | 8525.89.90 --- Lain-lain PCE V
+85.27 Aparatus penerima untuk
+penyiaran radio, dikombinasi
+maupun tidak, dalam rumah yang
+sama, dengan aparatus perekam
+atau pereproduksi suara atau
+penunjuk waktu.
+- Penerima siaran radio dapat
+dioperasikan tanpa sumber tenaga
+dari luar:
+3426. | 8527.12.00 -- Radio-cassette player ukuran PCE V
+saku
+8527.13 -- Aparatus lainnya
+dikombinasikan dengan aparatus
+perekam atau pereproduksi suara:
+3427. | 8527.13.10 --- Portabel PCE V
+3428. | 8527.13.90 --- Lain-lain PCE V
+8527.19 -- Lain-lain:
+3429. | 8527.19.20 --- Portabel PCE V
+3430. | 8527.19.90 --- Lain-lain PCE V
+- Lain-lain:
+8527.91 -- Dikombinasikan dengan
+
+aparatus perekam atau
+

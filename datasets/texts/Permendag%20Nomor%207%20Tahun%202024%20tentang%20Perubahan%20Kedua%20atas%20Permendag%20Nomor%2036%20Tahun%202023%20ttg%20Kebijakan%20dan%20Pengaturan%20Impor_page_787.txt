@@ -1,0 +1,88 @@
+- 67 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+atau wide area network):
+
+247.
+
+8517.61.00
+
+-- Base station
+
+8517.62
+
+-- Mesin untuk menerima, konversi
+dan transmisi atau regenerasi suara,
+gambar atau data lainnya, termasuk
+aparatus switching dan routing:
+
+248.
+
+8517.62.10
+
+--- Jenis radio transmitter dan radio
+penerima digunakan untuk
+interpretasi simultan pada konferensi
+multi Bahasa
+
+--- Unit dari mesin pengolah data
+otomatis selain unit dari pos 84.71:
+
+249.
+
+ex 8517.62.43
+
+---- Unit kendali | Hanya untuk
+dan adaptor, Network Card
+termasuk
+gateway, bridge,
+router dan
+aparatus lain
+semacam itu
+yang dirancang
+hanya untuk
+terkoneksi
+dengan mesin
+pengolah data
+otomatis dari pos
+84.71
+
+--- Aparatus untuk sistem saluran
+pembawa gelombang listrik atau
+sistem saluran digital:
+
+250.
+
+8517.62.49
+
+---- Lain-lain
+
+--- Aparatus transmisi yang digabung
+dengan aparatus penerima lainnya:
+
+251.
+
+8517.62.53
+
+---- Aparatus transmisi lainnya untuk
+
+Bl
+

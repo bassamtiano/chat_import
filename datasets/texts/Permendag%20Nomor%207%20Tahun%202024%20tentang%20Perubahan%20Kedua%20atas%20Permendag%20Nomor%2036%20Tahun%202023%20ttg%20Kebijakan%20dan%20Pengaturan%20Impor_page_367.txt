@@ -1,0 +1,33 @@
+- 352 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1692. | ex 0306.34.00 | -- Lobster Selain untuk calon induk, V
+Norwegia induk dan benih untuk
+(Nephrops pembudidayaan
+norvegicus)
+0306.35 -- Udang dan udang besar air dingin (Pandalus
+spp, Crangon crangon):
+1693. | ex 0306.35.20 | --- Lain-lain, Selain untuk calon induk, V V
+hidup induk dan benih untuk
+pembudidayaan
+1694. | 0306.35.30 --- Segar atau dingin V V
+0306.36 -- Udang dan udang besar lainnya:
+--- Lain-lain, hidup:
+1695. | ex 0306.36.21 | ---- Udang windu | Selain untuk calon induk, V V
+(Penaeus induk dan benih untuk
+monodon) pembudidayaan
+1696. | ex 0306.36.22 | ---- Udang V V
+vanamei
+(Liptopenaeus
+vannamei)
+1697. | ex 0306.36.23 | ---- Udang galah V V
+(Macrobrachium
+rosenbergii)
+1698. | ex 0306.36.29 | ---- Lain-lain V V
+--- Segar atau dingin:
+1699. | 0306.36.31 ---- Udang windu (Penaeus monodon) V V
+1700. | 0306.36.32 ---- Udang vanamei (Liptopenaeus vannamei) V V
+1701. | 0306.36.33 ---- Udang galah (Macrobrachium rosenbergii) V V
+1702. | 0306.36.39 ---- Lain-lain V v
+0306.39 -- Lain-lain:
+

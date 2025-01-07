@@ -1,0 +1,37 @@
+-17-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+84.44 Mesin untuk mengekstrusi,
+menarik, mentekstur atau
+memotong bahan tekstil buatan.
+81. | 8444.00.10 - Dioperasikan secara elektrik V V V
+84.45 Mesin untuk pengolahan serat tekstil;
+mesin pemintal, pengganda atau
+pemilin dan mesin lainnya untuk
+memproduksi benang tekstil; mesin
+pengikal atau penggulung tekstil
+(termasuk penggulung benang pakan)
+dan mesin untuk menyiapkan benang
+tekstil untuk digunakan pada mesin
+dari pos 84.46 atau 84.47.
+- Mesin untuk pengolahan serat tekstil:
+8445.11 -- Mesin penggaruk:
+82. | 8445.11.10 --- Dioperasikan secara elektrik v V V
+83. | ex 8445.12.00 -- Mesin penyisir Dioperasikan Vv V V
+secara elektrik
+84. | ex 8445.13.00 -- Mesin penarik Dioperasikan Vv V V
+atau mesin roving | secara elektrik
+8445.19 -- Lain-lain:
+85. | 8445.19.40 --- Lain-lain, dioperasikan secara v V V
+elektrik
+8445.20 - Mesin pemintal benang tekstil:
+86. | 8445.20.10 -- Dioperasikan secara elektrik v V V
+8445.30 - Mesin pengganda atau pemintal
+benang tekstil:
+87. | 8445.30.10 -- Dioperasikan secara elektrik v V V
+8445.40 - Mesin penggulung (termasuk
+penggulung benang pakan) atau mesin
+pengikal benang tekstil:
+88. | 8445.40.10 -- Dioperasikan secara elektrik V V V
+84.46 Mesin tenun (loom).
+

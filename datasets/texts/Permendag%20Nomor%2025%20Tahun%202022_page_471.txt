@@ -1,0 +1,87 @@
+- 442 -
+
+No
+
+Pos Tarif
+
+Uraian Barang
+
+Nama Bahan
+Kimia
+
+Nomor
+CAS
+
+Kode
+Daftar
+
+Kemasan
+
+Terkecil
+
+Distributor
+
+Keperluan|
+Lain
+Tidak
+Untuk
+Pangan
+
+Laborator
+lium /Pene|
+litian
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+produk imunologi
+lainnya, dimodifikasi
+maupun tidak atau
+diperoleh dengan
+proses bioteknologi
+maupun tidak; vaksin,
+toksin, kultur dari
+mikro-organisme (tidak
+termasuk ragi) dan
+produk yang semacam
+itu; kultur sel,
+dimodifikasi maupun
+tidak.
+
+- Vaksin, toksin, kultur
+dari mikro-organisme
+(tidak termasuk ragi)
+dan produk semacam
+itu:
+
+3670.
+
+3671.
+
+ex 3002.49.00
+
+-- Lain-lain
+
+Saxitoxin
+
+35523-89-
+8
+
+1A07
+
+Ricin
+
+9009-86-3
+
+1A08
+

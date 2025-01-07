@@ -1,0 +1,37 @@
+- 159 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+bergelombang,
+dilubangi
+maupun tidak
+543. | ex 4808.40.00 | - Kertas kraft, Berasal dari kayu V V
+dikisutkan atau
+dikerutkan,
+diembos atau
+dilubangi
+maupun tidak
+4808.90 - Lain-lain:
+544. | ex 4808.90.20 | -- Dikisutkan Berasal dari kayu V V
+atau dikerutkan
+545. | ex 4808.90.30 | -- Embossed Berasal dari kayu V V
+paper
+546. | ex 4808.90.90 | -- Lain-lain Berasal dari kayu V V
+48.09 Kertas karbon, kertas self-copy dan kertas
+kopi atau kertas transfer lainnya (termasuk
+kertas dilapisi atau kertas diresapi untuk
+stensil duplikator atau pelat offset), dicetak
+maupun tidak, dalam gulungan atau
+lembaran.
+547. | ex 4809.20.00 | - Kertas self-copy | Berasal dari kayu V V
+4809.90 - Lain-lain:
+548. | ex 4809.90.10 | -- Kertas karbon | Berasal dari kayu V V
+dan kertas kopi
+semacam itu
+549. | ex 4809.90.90 | -- Lain-lain Berasal dari kayu V V
+
+48.10
+
+Kertas dan kertas karton, dilapisi satu atau
+kedua sisinya dengan kaolin (tanah liat
+Cina) atau zat anorganik lainnya, dengan
+

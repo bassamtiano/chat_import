@@ -1,0 +1,35 @@
+- 157 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+506. | 8465.93.10 --- Dioperasikan secara elektrik V V V
+507. | ex 8465.94.00 | -- Mesin Dioperasikan V V V
+
+pembengkok secara elektrik
+atau perakit
+8465.95 -- Mesin penggurdi atau mortice:
+508. | 8465.95.10 --- Mesin penggurdi untuk V V V
+pembuatan printed circuit board
+atau printed wiring board dengan
+kecepatan putaran melebihi 50.000
+rpm dan menggunakan mata bor
+dengan diameter tangkai tidak
+melebihi 3,175 mm
+509. | ex 8465.95.90 | --- Lain-lain Dioperasikan V V V
+secara elektrik
+510. | ex 8465.96.00 | --Mesin Dioperasikan V V V
+pemisah, secara elektrik
+pengiris atau
+pengupas
+8465.99 -- Lain-lain:
+511. | ex 8465.99.10 | ---Mesin bubut Dioperasikan V V V
+secara elektrik
+512. | 8465.99.60 --- Lain-lain, dioperasikan secara V V V
+elektrik
+513. | 8465.99.90 --- Lain-lain viv V
+84.77 Mesin untuk mengerjakan karet
+
+atau plastik atau untuk pembuatan
+produk dari bahan tersebut, tidak
+dirinci atau termasuk dalam pos
+lainnya dalam Bab ini.
+

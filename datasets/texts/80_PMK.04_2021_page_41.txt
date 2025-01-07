@@ -1,0 +1,60 @@
+-Al -
+
+referensi, dan tanggal SKA Form IC-CEPA,  wajib
+
+dicantumkan secara benar pada kolom 19 dan/atau kolom
+
+33 Pemberitahuan Impor Barang (PIB);
+
+b. dalam hal Pemberitahuan Impor Barang (PIB) menggunakan
+skema Persetujuan Kemitraan Ekonomi Komprehensif
+antara Pemerintah Republik Indonesia dan Pemerintah
+Republik Chile dan fasilitas lainnya:
+
+1) kode fasilitas 63 wajib dicantumkan secara benar
+pada kolom 19 Pemberitahuan Impor Barang (PIB),
+serta diisi “Nomor referensi dan tanggal SKA Form IC-
+CEPA, lihat lembar lanjutan”; dan
+
+2) kode fasilitas 63 wajib dicantumkan secara benar pada
+kolom 33 Pemberitahuan Impor Barang_ (PIB),
+sedangkan nomor referensi dan tanggal SKA Form IC-
+CEPA wajib dicantumkan secara benar pada Lembar
+Lanjutan Dokumen dan Pemenuhan Persyaratan/
+Fasilitas Impor Pemberitahuan Impor Barang (PIB).
+
+Pengisian pada Pemberitahuan Impor Barang untuk ditimbun di
+
+TPB dan Pemberitahuan Impor Barang dari TPB diatur tersendiri
+
+dalam Lampiran huruf B angka I yang merupakan bagian tidak
+
+terpisahkan dari Peraturan Menteri ini.
+
+Pengisian pada Pemberitahuan Pabean Penimbunan Barang
+
+Impor di PLB dan Pemberitahuan Impor Barang dari PLB diatur
+
+tersendiri dalam Lampiran huruf B angka II yang merupakan
+
+bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pengisian pada PPFTZ-O1 diatur tersendiri dalam Lampiran
+
+huruf B angka II] yang merupakan bagian tidak terpisahkan dari
+
+Peraturan Menteri ini.
+
+Pengisian pada pemberitahuan pabean pemasukan barang ke
+
+KEK dari luar Daerah Pabean dan pemberitahuan pabean
+
+pengeluaran barang dari KEK diatur tersendiri dalam Lampiran
+
+huruf B angka IV yang merupakan bagian tidak terpisahkan dari
+
+Peraturan Menteri ini.
+
+le,
+
+srw kernel. go

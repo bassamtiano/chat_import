@@ -1,0 +1,99 @@
+- 556 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+3441.
+
+8539.31.20
+
+--- Lain-Lain, tabung lurus untuk
+lampu fluoresen
+
+PCE
+
+3442.
+
+8539.31.90
+
+--- Lain-lain
+
+PCE
+
+85.43
+
+Mesin dan aparatus elektrik,
+mempunyai fungsi tersendiri,
+tidak dirinci atau termasuk pada
+pos lainnya dalam Bab ini.
+
+3443.
+
+8543.40.00
+
+- Rokok elektronik dan peralatan
+penguapan elektrik personal
+semacam itu
+
+PCE
+
+8543.70
+
+- Mesin dan aparatus lainnya:
+
+3444,
+
+8543.70.50
+
+-- Penguat gelombang mikro; digital
+flight-data recorder; pembaca
+elektronik portabel dioperasikan
+dengan baterai untuk merekam
+dan mereproduksi teks, gambar
+diam atau berkas audio
+
+PCE
+
+3445.
+
+8543.70.60
+
+-- Aparatus pengolah sinyal digital
+memiliki kemampuan untuk
+dikoneksikan dengan jaringan
+kabel atau nirkabel untuk sound
+mixing; barang dirancang secara
+khusus untuk dikoneksikan ke
+aparatus atau instrumen telegrafi
+atau telefoni atau ke jaringan
+telegrafi atau telefoni
+
+PCE
+
+3446.
+
+8543.70.90
+
+-- Lain-lain
+
+PCE
+

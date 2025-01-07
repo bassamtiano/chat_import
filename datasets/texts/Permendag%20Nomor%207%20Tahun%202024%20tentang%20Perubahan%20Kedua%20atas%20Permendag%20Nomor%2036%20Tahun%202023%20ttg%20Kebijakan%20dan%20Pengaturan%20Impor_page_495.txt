@@ -1,0 +1,37 @@
+- 480 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+2905. | 5801.36.90 --- Lain-lain MTR Viv
+5801.37 -- Kain bulu lusi:
+--- Dilapisi, ditutupi atau
+dilaminasi :
+2906. | 5801.37.11 ---- Dengan bulu dipotong MTR V V
+2907. | 5801.37.12 ---- Dengan bulu tidak dipotong MTR V V
+--- Lain-lain :
+2908. | 5801.37.91 ---- Dengan bulu dipotong MTR V V
+2909. | 5801.37.92 ---- Dengan bulu tidak dipotong MTR V V
+5801.90 - Dari bahan tekstil lainnya:
+-- Dari sutra:
+2910. | 5801.90.11 --- Dilapisi, ditutupi atau MTR Vv
+dilaminasi
+2911. | 5801.90.19 --- Lain-lain MTR viv
+--_Lain-lain:
+2912. | 5801.90.91 --- Dilapisi, ditutupi atau MTR Vv] Vv
+dilaminasi
+2913. | 5801.90.99 --- Lain-lain MTR viv
+58.02 Terry towelling dan kain tenunan
+terry semacam itu, selain kain
+pita dari pos 58.06; kain tekstil
+berumbai, selain produk dari pos
+57.03.
+- Terry towelling dan kain tenunan
+terry semacam itu, dari kapas:
+2914. | 5802.10.10 - - Tidak dikelantang MTR viv
+2915. | 5802.10.90 - - Lain-lain MTR Viv
+5802.20 - Terry towelling dan kain tenunan
+terry semacam itu, dari bahan
+tekstil lainnya:
+2916. | 5802.20.10 -- Dari wol atau bulu hewan halus_| MTR Vv [iv
+2917. | 5802.20.90 -- Lain-lain MTR Viv
+

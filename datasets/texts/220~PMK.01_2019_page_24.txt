@@ -1,0 +1,47 @@
+-94-
+
+menggunakan dummy-data sampai akhirnya ditetapkan
+untuk menggunakan real-data.
+
+Hal utama yang menjadi beban berat pekerjaan teknis
+pembangunan sistem National Single Window adalah load
+pekerjaan yang sangat besar, dimana pada setiap tahapan
+harus. diselesaikan beberapa pekerjaan pembangunan
+sistem yang berbeda secara simultan. Namun demikian,
+penyelesaian pekerjaan tetap mendasarkan pada skala
+prioritas sesuai dengan kebijakan dan strategi yang telah
+ditetapkan oleh Tim Persiapan National Single Window.
+Strategi Pentahapan dalam Penerapan Sistem National
+Single Window
+
+Dengan mempertimbangkan keterbatasan waktu dan untuk
+efektifitas dalam penerapan sistem National Single Window
+di Indonesia maka penerapan dilakukan secara bertahap
+dengan mempertimbangkan berbagai faktor yang
+berpengaruh besar dalam penerapan di lapangan. Untuk
+itulah Tim Persiapan National Single Window menyusun
+Strategi Pentahapan dalam penerapan sistem National
+Single Window di Indonesia.
+
+Strategi pentahapan tersebut secara umum_ dapat
+
+digambarkan dalam matriks sebagai berikut:
+Uraian Ujicoba Awal Implementasi Imptementasi Implementasi Implementas!
+NSW Tahap Kesatu Tahap Kedua Tahap Ketiga Tahap Nasional
+
+Instansi Pome-
+tintah
+
+(User)
+
+Cakupan
+Sistem
+
+Strategi pentahapan yang digunakan dalam penerapan
+sistem National Single Window di Indonesia ini, ternyata
+cukup efektif untuk “menyiasati” ketersediaan waktu yang
+sangat terbatas, dan juga keterbatasan sumber daya
+
+(resources) yang ada pada Tim Persiapan National Single
+
+iio a \\

@@ -1,0 +1,105 @@
+- 275 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+ring, pemanggang dan pembakar:
+
+2303.
+
+8516.60.10
+
+-- Rice cooker
+
+2304.
+
+8516.60.90
+
+-- Lain-lain
+
+- Peralatan elektro-termal lainnya:
+
+2305.
+
+8516.72.00
+
+-- Pemanggang roti
+
+8516.79
+
+-- Lain-lain
+
+2306.
+
+8516.79.90
+
+--- Lain-lain
+
+85.17
+
+Perangkat telepon, termasuk smartphone dan
+telepon lainnya untuk jaringan seluler atau
+untuk jaringan tanpa kabel lainnya; aparatus
+lainnya untuk mengirimkan atau menerima
+suara, gambar, atau data lainnya termasuk
+aparatus untuk komunikasi dalam jaringan
+kabel atau tanpa kabel (seperti local atau
+wide area network), selain dari aparat
+transmisi atau penerima dari pos 84.43,
+85.25, 85.27 atau 85.28.
+
+- Perangkat telepon, termasuk telepon untuk
+jaringan seluler atau untuk jaringan tanpa kabel
+lainnya:
+
+2307.
+
+8517.11.00
+
+-- Perangkat telepon dengan gagang set tanpa
+kabel
+
+2308.
+
+ex 8517.14.00
+
+-- Telepon lainnya untuk
+jaringan seluler atau untuk
+jaringan tanpa kabel
+lainnya
+
+Hanya Telepon
+Satelit
+
+2309.
+
+8517.18.00
+
+-- Lain-lain
+
+85.18
+
+Mikrofon dan penyangganya; pengeras suara,
+dipasang pada rumahnya maupun tidak;
+headphone dan earphone, dikombinasikan
+
+V
+
+V
+

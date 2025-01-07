@@ -1,0 +1,181 @@
+-67 -
+
+866
+
+867
+
+868
+
+869
+
+870
+
+871
+872
+873
+
+874
+
+875
+876
+877
+
+878
+
+879
+
+880
+
+881
+
+882
+
+883
+
+884
+
+885
+886
+
+887
+888
+
+8481.80.73
+
+8481.80.74
+
+8481.80.77
+
+8481.80.79
+85.08
+
+8508.11.00
+
+8508.19
+8508.19.10
+8508.19.90
+8508.60.00
+85.09
+
+8509.40.00
+
+8509.80
+8509.80.10
+8509.80.20
+8509.80.90
+85.16
+
+8516.31.00
+8516.32.00
+8516.33.00
+8516.40
+
+8516.40.10
+
+8516.40.90
+8516.60
+
+8516.60.10
+8516.60.90
+
+8516.71.00
+8516.72.00
+8516.79
+8516.79.10
+8516.79.90
+85.18
+
+----Mempunyai diameter bagian dalam pemasukan dan pengeluaran
+lebih dari 5 cm tetapi tidak lebih dari 40 cm
+
+- --- Mempunyai diameter bagian dalam pemasukan dan pengeluaran
+lebih dari 40 cm
+
+----Mempunyai diameter bagian dalam pemasukan dan pengeluaran
+tidak lebih dari 5 cm
+
+- - - Manifold valve :
+
+- - - - Lain-lain
+
+Vacuum cleaner.
+
+- Dengan motor listrik terpasang :
+
+- - Dengan kekuatan tidak melebihi 1.500 W dan memiliki kantung
+debu atau penampung lainnya dengan kapasitas tidak melebihi 20 1
+
+- - Lain-lain :
+
+- - - Dari jenis yang cocok untuk penggunaan rumah tangga
+
+- - - Lain-lain
+
+- Vacuum cleaner lainnya
+
+Peralatan rumah tangga mekanik elektrik dengan motor listrik
+terpasang, selain vacuum cleaner dari pos 85.08.
+
+- Penggiling dan pencampur makanan; pengekstrak jus buah atau
+sayur
+
+- Peralatan lainnya :
+
+- - Pemoles lantai
+
+- - Kitchen waste disposer
+
+- - Lain-lain
+
+Pemanas air instan atau pemanas air dengan tempat penyimpanan
+dan pemanas celup, listrik; aparatus pemanas ruangan dan
+pemanas tanah, listrik; aparatus penata rambut elektro-termal
+(misalnya, pengering rambut, pengeriting rambut, pemanas jepit
+untuk mengeriting rambut) dan pengering tangan; setrika listrik;
+peralatan elektro-termal lainnya dari jenis yang digunakan untuk
+keperluan rumah tangga; resistor panas listrik, selain yang
+dimaksud dari pos 85.45.
+
+- Aparatus penata rambut atau pengering tangan elektro-termal :
+
+- - Pengering rambut
+
+- - Aparatus penata rambut lainnya
+
+- - Aparatus pengering tangan
+
+- Setrika listrik :
+
+- - Dari jenis yang dirancang untuk menggunakan uap dari ketel
+industri
+
+- - Lain-lain
+
+- Oven lainnya; pemasak, cooking plate, boiling ring, pemanggang dan
+pembakar :
+
+- - Rice cooker
+
+- - Lain-lain
+
+- Peralatan elektro-termal lainnya :
+
+- - Pembuat kopi atau teh
+
+- - Pemanggang roti
+
+- - Lain-lain :
+
+- - - Ketel
+
+- - - Lain-lain
+
+Mikrofon dan penyangganya; pengeras suara, dipasang pada
+rumahnya maupun tidak; headphone dan_ earphone,
+dikombinasikan dengan mikrofon maupun tidak dan set yang
+terdiri dari satu mikrofon dan satu atau lebih pengeras suara;
+amplifier listrik audio-frequency; set amplifier suara listrik.
+
+www.jdih.kemenkéu
+
+Id

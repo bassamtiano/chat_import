@@ -1,0 +1,86 @@
+-13-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Meter; Deck:
+Berat < 2.300 Ton
+(offshore), < 5.00
+Ton/ 16 Leg
+(onshore)
+
+57.
+
+8430.50.00
+
+- Mesin lainnya, berdaya gerak sendiri
+
+84.31
+
+Bagian yang cocok untuk digunakan
+semata-mata atau terutama dengan
+mesin dari pos 84.25 sampai
+dengan 84.30.
+
+8431.10
+
+- Dari mesin pada pos 84.25:
+
+-- Dari mesin yang dioperasikan
+secara eletrik:
+
+58.
+
+8431.10.13
+
+--- Dari barang pada subpos
+8425.11.00, 8425.31.00 atau
+8425.49.10
+
+- Dari mesin dari pos 84.26, 84.29
+atau 84.30:
+
+59.
+
+8431.43.00
+
+-- Bagian dari mesin pengebor atau
+sinking pada subpos 8430.41 atau
+8430.49
+
+84.38
+
+Mesin, tidak dirinci atau termasuk
+dalam pos manapun pada Bab ini,
+untuk industri pengolahan atau
+pembuatan makanan atau
+minuman, selain mesin untuk
+ekstraksi atau pengolahan lemak
+atau minyak dari hewan, nabati
+tertentu atau mikroba.
+
+60.
+
+ex 8438.10.00
+
+- Mesin pembuat | Dioperasikan
+
+roti dan mesin secara elektrik
+untuk
+

@@ -1,0 +1,33 @@
+- 390 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+1605.57 -- Abalon:
+1898. | 1605.57.10 --- Dalam kemasan kedap udara untuk V V
+penjualan eceran
+1899. | 1605.57.90 --- Lain-lain V V
+1900. | 1605.58.00 -- Siput, selain siput laut V V
+1901. | 1605.59.00 -- Lain-lain V V
+- Invertebrata air lainnya:
+1902. | 1605.61.00 -- Teripang V V
+1903. | 1605.62.00 -- Bulu babi V V
+1904. | 1605.63.00 -- Ubur-ubur V V
+1905. | 1605.69.00 -- Lain-lain v v
+17.04 Kembang gula (termasuk coklat putih), tidak
+mengandung kakao.
+1906. | 1704.10.00 - Permen karet, dilapisi gula maupun tidak V V
+1704.90 - Lain-lain
+1907. | 1704.90.10 -- Pastiles dan drop mengandung obat V V
+1908. | 1704.90.20 -- Coklat putih V V
+-- Lain-lain:
+1909. | 1704.90.91 --- Lunak, mengandung gelatin V V
+1910. | 1704.90.99 --- Lain-lain V V
+18.06 Coklat dan olahan makanan lainnya
+mengandung kakao.
+1806.20 - Olahan lainnya dalam bentuk balok, lempeng
+
+atau batang dengan berat lebih dari 2 kg atau
+dalam bentuk cair,pasta, bubuk, butiran atau
+bentuk curah lainnya dalam kemasan atau
+
+bungkusan langsung,dengan isi melebihi 2 kg:
+

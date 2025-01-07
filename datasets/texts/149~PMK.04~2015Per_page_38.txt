@@ -1,0 +1,121 @@
+- (1)
+- (2)
+- (3)
+- (4)
+- (5)
+- (6)
+
+(7)
+
+. (10)
+
+11)
+12)
+13)
+14)
+15)
+
+. (16)
+
+. (17)
+. (18)
+. (19)
+
+. (20)
+. (21)
+
+. (22)
+. (23)
+. (24)
+. (25)
+. (26)
+. (27)
+. (28)
+. (29)
+. (30)
+- (31)
+- (32)
+
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-3-
+PETUNJUK PENGISIAN
+
+: Diisi nama Kantor Pabean tempat SPPBMCP diterbitkan.
+
+: Diisi nomor SPPBMCP.
+
+: Diisi tanggal pendaftaran SPPBMCP.
+
+: Diisinomor Surat Izin Pemindahtanganan.
+
+: Diisi tanggal Surat Izin Pemindahtanganan.
+
+: Diisi jenis barang impor atau jenis prosedur (contoh: pemindahtanganan
+
+kendaraan bermotor eks fasilitas perwalkilan negara asing).
+
+: Diisi nama importir/penerima fasilitas dan jabatan apabila ada.
+: Diisi nomor identitas (KTP/Paspor/Lainnya).
+
+: Diisi nomor pokok wajib pajak (NPWP) apabila ada.
+
+: Diisi alamat importir/penerima fasilitas.
+
+: Diisi nama eksportir/penerima pindah tangan.
+
+: Diisi nomor identitas (KTP/Paspor/Lainnya).
+
+: Diisi nomor pokok wajib pajak (NPWP) apabila ada.
+
+: Diisi alamat eksportir/penerima pindah tangan.
+
+: Diisi dengan nomor urut.
+: Diisi hasil pemeriksaan Pejabat Bea dan Cukai mengenai jenis, jumlah,
+
+merek, tipe, ukuran dan spesifikasi dari barang impor.
+
+: Diisi jumlah dan jenis satuan barang yang dipergunakan.
+: Diisi nilai pabean yang ditetapkan oleh Pejabat Bea dan Cukai.
+: Diisi pada kolom yang disediakan dengan penetapan Pejabat Bea dan Cukai
+
+mengenai:
+
+a. klasifikasi barang; dan
+
+b. besarnya pembebanan bea masuk, cukai, PPN, PPN dan PPnBM, dan PPh
+Pasal 22.
+
+: Diisi Nilai Dasar Perhitungan Bea Masuk (NDPBM), yaitu nilai tukar yang
+
+dipergunakan sebagai dasar perhitungan bea masuk.
+
+: Diisi nilai pabean dalam rupiah, yaitu hasil perkalian antara nilai pabean
+
+pada kolom 18 dengan NDPBM pada kolom 21.
+
+: Diisi persentase tarif bea masuk.
+
+: Diisi persentase tarif cukai.
+
+: Diisi persentase tarif PPN.
+
+: Diisi persentase tarif PPnBM.
+
+: Diisi persentase tarif PPh Pasal 22.
+
+: Diisi tarif denda, apabila terdapat denda yang dihitung dengan persen.
+: Diisi jumlah bea masuk yang wajib dilunasi.
+
+: Diisi jumlah cukai yang wajib dilunasi.
+
+: Diisi jumlah PPN yang wajib dilunasi.
+
+: Diisi jumlah PPnBM yang wajib dilunasi.
+
+: Diisi dengan jumlah PPh Pasal 22 yang wajib dilunasi.
+
+www.jdih.kemenkeu.go.
+
+is

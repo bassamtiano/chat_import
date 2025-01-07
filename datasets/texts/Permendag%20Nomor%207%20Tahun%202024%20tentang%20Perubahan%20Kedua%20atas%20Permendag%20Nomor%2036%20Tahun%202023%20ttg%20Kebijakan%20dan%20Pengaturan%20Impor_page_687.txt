@@ -1,0 +1,85 @@
+- 672 -
+
+No
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Nama Bahan
+Kimia
+
+Nomor
+CAS
+
+Kode
+Daftar
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+dimodifikasi
+maupun tidak
+atau diperoleh
+dengan proses
+bioteknologi
+maupun tidak;
+vaksin, toksin,
+kultur dari mikro-
+organisme (tidak
+termasuk ragi)
+dan produk yang
+semacam itu;
+kultur sel,
+dimodifikasi
+maupun tidak.
+
+- Vaksin, toksin,
+kultur dari mikro-
+organisme (tidak
+termasuk ragi) dan
+produk semacam
+itu:
+
+3821.
+
+ex 3002.49.00
+
+-- Lain-lain
+
+Ricin
+
+9009-86-
+3
+
+1A08
+
+KGM
+
+38.24
+
+Olahan pengikat
+untuk acuan atau
+inti penuangan
+logam; produk
+dan preparat
+kimia dari
+industri kimia
+atau industri
+terkait (termasuk
+olahan yang
+terdiri dari
+

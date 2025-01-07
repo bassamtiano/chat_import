@@ -1,0 +1,42 @@
+- 263 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+
+kurang dari 15 cm dari baja TNE;
+stainles, dengan kandungan KGM
+kromium 16% sampai dengan 18%
+dan nikel 10% sampai dengan 15%
+menurut beratnya, yang termasuk
+dalam pos tarif 7307.21.10
+
+1192. | 9805.40.20 -- Flensa dengan diameter dalam PCE; V V
+15 cm atau lebih dari baja stainles, | TNE;
+dengan kandungan kromium 16% KGM
+sampai dengan 18% dan nikel 10%
+sampai dengan 15% menurut
+beratnya, yang termasuk dalam pos
+tarif 7307.21.90
+
+1193. | 9805.40.30 -- Siku siku berulir, lengkungan PCE; V [Vv
+dan selongsong dari baja stainles, TNE;
+dengan diameter dalam kurang dari | KGM
+15 cm, dengan kandungan
+kromium 16% sampai dengan 18%
+dan nikel 10% sampal dengan 15%,
+yang termasuk dalam pos tarif
+7307.22.10
+
+1194. | 9805.40.40 -- Siku siku berulir, lengkungan PCE; V [Vv
+dan selongsong dari baja stainles, TNE;
+dengan diameter dalam 15 cm atau | KGM
+leblh, dengan kandungan kromium
+16% sampai dengan 18% dan nikel
+10% sampai dengan 15% menurut
+beratnya, yang termasuk dalam pos
+tarif 7307.22.90
+
+1195. | 9805.40.50 -- Alat kelengkapan butt welding PCE; V V
+dari baja stainles, dengan diameter | TNE;
+dalam kurang dari 15 cm, dengan KGM
+

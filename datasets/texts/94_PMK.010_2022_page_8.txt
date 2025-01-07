@@ -1,0 +1,110 @@
+10
+
+11
+
+14
+
+ne Tarit/ Uraian Barang Description of Goods Ime ae Duty
+43) _ (4) (5)
+
+0302.43.00 - - Sarden (Sardina pilchardus, ~ - Sardines (Sardina pilchardus , 3%
+Sardinops spp.), sardinella (Sardinella Sardinops spp .), sardinella (Sardinella
+spp.), brisling atau sprats (Sprattus spp.), brisling or sprats (Sprattus
+sprattus) sprattus)
+
+0302.44.00 -- Makarel (Scomber scombrus, Scomber _|- - Mackerel (Scomber scombrus , 3%
+australasicus, Scomber japonicus) Scomber australasicus , Scomber
+
+| japonicus)
+
+0302.45.00 - - Makarel jack dan makarel kuda - - Jack and horse mackerel (Trachurus 3%
+(Trachurus spp.} spp.}
+
+0302.46.00 - - Cobia (Rachycentron canadum) ~ - Cobia (Rachycentron canadum) 3%
+0302.47.00 - - Todak (Xiphias gladius) - - Swordfish (Xiphias gladius) 3%
+- Ikan dari keluarga Bregmacerotidae, - Fish of the families Bregmacerotidae,
+
+0302.51.00 + - Cod (Gadus morhua, Gadus ogac, ~- Cod (Gadus morhua, Gadus ogac, 3%
+Gadus macrocephalus) Gadus macrocephalus)
+
+03.03 Ikan, beku, tidak termasuk potongan Fish, frozen, excluding fish fillets and
+
+ikan tanpa tulang dan daging ikan other fish meat of heading 03.04.
+lainnya dari pos 03.04.
+
+~- Tuna (dari genus Thunnus), cakalang - Tunas (of the genus Thunnus), skipjack|
+(stripe-bellied bonito) (Katsuwonus tuna (stripe-bellied bonito) (Katsuwonus
+pelamis), tidak termasuk sisa ikan yang | pelamis), excluding edible fish offal of
+dapat dimakan dari subpos 0303.91 subheadings 0303.91 to 0303.99 :
+sampai dengan 0303.99 :
+
+0303.41.00 - - Albacore atau tuna sirip panjang - - Albacore or longfinned tunas 3%
+(Thunnus alalunga) (Thunnus alalunga)
+
+0303.42.00 - - Tuna sirip kuning (Thunnus - - Yellowfin tunas (Thunnus albacares} 3%
+albacares)
+
+03.04 Fillet dan daging ikan lainnya Fish fillets and other fish meat
+(dicincang maupun tidak), segar, (whether or not minced), fresh, chilled
+dingin atau beku. or frozen.
+
+- Fillet segar atau dingin dari tilapia ~ Fresh or chilled fillets of tilapias
+(Oreochromis spp.), catfish (Pangasius (Oreochromis spp.), catfish (Pangasius
+spp., Silurus spp., Clarias spp., Ictalurus | spp., Silurus spp., Clarias spp., Ictalurus
+spp.), ikan mas (Cyprinus spp., spp.), carp (Cyprinus spp., Carassius
+Carassius spp., Ctenopharyngodon spp., Ctenopharyngodon idellus,
+
+idellus, Hypophthalmichthys spp., Hypophthalmichthys spp., Cirrhinus spp.,
+Cirrhinus spp., Mylopharyngodon piceus, | Mylopharyngodon piceus, Catla catia,
+Catla catla, Labeo spp., Osteochilus Labeo spp., Osteochilus hasselti,
+hasselti, Leptobarbus hoeveni, Leptobarbus hoeveni, Megalobrama spp.),
+Megalobrama spp.), sidat (Anguilla spp.), |eels (Anguilla spp.), Nile perch (Lates
+Nile perch (Lates niloticus} dan gabus niloticus) and snakeheads (Channa spp.)
+(Channa spp.): :
+
+- Fillet ikan segar atau dingin lainnya : - Fresh or chilled fillets of other fish :
+
+~ - Salmon Pasifik (Oncorhynchus nerka, _|- - Pacific salmon (Oncorhynchus nerka,
+Oncorhynchus gorbuscha, Oncorhynchus | Oncorhynchus gorbuscha , Oncorhynchus
+keta, Oncorhynchus tschawytscha, keta, Oncorhynchus tschawytscha,
+Oncorhynchus kisutch, Oncorhynchus Oncorhynchus kisutch, Oncorhynchus
+masou dan Oncorhynchus rhodurus), masou and Oncorhynchus rhodurus},
+salmon Atlantik (Salmo salar) dan Atlantic salmon (Salmo salar) and
+salmon Danube (Hucho hucho) Danube salmon {Hucho hucho)
+
+- - Trout {Salmo trutta, Oncorhynchus - - Trout (Salmo trutta, Oncorhynchus
+mykiss , Oncorhynchus clarki, mykiss , Oncorhynchus clarki,
+Oncorhynchus aguabonita, Oncorhynchus Oncorhynchus aguabonita, Oncorhynchus
+gilae, Oncorhynchus apache dan gilae, Oncorhynchus apache and
+Oncorhynchus chrysogaster) Oncorhynchus chrysogaster)
+
+- - Ikan pipih (Pleuronectidae, Bothidae, - - Flat fish (Pleuronectidae , Bothidae ,
+Cynoglossidae, Soleidae, Scophthalmidae | Cynoglossidae, Soleidae ,
+
+\dan Citharidae} Scophthalmidae and Citharidae)
+
+- - Ikan dari keluarga Bregmacerotidae, - - Fish of the families Bregmacerotidae ,
+Euclichthyidae, Gadidae, Macrouridae, Euclichthyidae , Gadidae, Macrouridae,
+Melanonidae, Meriucciidae, Moridae dan __| Melanonidae, Merlucciidae, Moridae and
+Muraenolepididae Muraenolepididae
+
+- - Todak {Xiphias gladius) - - Swordfish (Xiphias gladius)
+
+- - Toothfish (Dissostichus spp.) - - Toothfish (Dissostichus spp.)
+
+- - Dogfish dan hiu lainnya - - Dogfish and other sharks
+
+- - Pari dan skates (Rajidae) - - Rays and skates (Rajidae)
+
+0304.49.00 - - Lain-lain - - Other 6%
+
+03.05 Ikan, dikeringkan, diasinkan atau Fish, dried, salted or in brine; smoked
+dalam air garam; ikan diasapi, fish, whether or not cooked before or
+
+dimasak maupun tidak sebelum atau
+‘selama proses pengasapan.
+
+during the smoking process.
+
+ih kemenh oie
+

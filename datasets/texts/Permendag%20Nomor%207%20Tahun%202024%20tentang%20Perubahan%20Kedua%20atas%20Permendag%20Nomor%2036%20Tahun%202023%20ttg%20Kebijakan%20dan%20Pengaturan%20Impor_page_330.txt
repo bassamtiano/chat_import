@@ -1,0 +1,32 @@
+- 315 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+1388. | 6909.11.00 -- Dari porselin atau keramik cina V
+1389. | 6909.19.00 -- Lain-lain V V
+1390. | 6909.90.00 = Lain-lain v v
+69.10 Bak cuci, wastafel, alas baskom cuci, bak
+mandi, bidet, bejana kloset, tangki air
+pembilasan, tempat kencing, dan
+perlengkapan saniter semacam itu dari
+keramik.
+1391. | 6910.10.00 - Dari porselin atau keramik cina V V
+1392. | 6910.90.00 - Lain-lain V V
+69.11 Perangkat makan, perangkat dapur,
+peralatan rumah tangga lainnya dan
+peralatan toilet, dari porselin atau keramik
+cina.
+1393. | 6911.10.00 - Perangkat makan dan perangkat dapur V V
+1394. | 6911.90.00 - Lain-lain V V
+1395. | 6912.00.00 Perangkat makan, perangkat dapur, peralatan V V
+rumah tangga lainnya dan peralatan toilet dari
+keramik, selain dari porselin atau keramik cina.
+69.13 Patung dan barang keramik ornamental
+lainnya.
+1396. | 6913.10.10 -- Kotak sigaret ornamental dan asbak V V
+1397. | 6913.10.90 -- Lain-lain V V
+1398. | 6913.90.10 -- Kotak sigaret ornamental dan asbak V V
+1399. | 6913.90.90 -- Lain-lain V V
+69.14 Barang keramik lainnya.
+1400. | 6914.10.00 - Dari porselin atau keramik cina V V
+1401. | 6914.90.00 - Lain-lain V V
+

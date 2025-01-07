@@ -1,0 +1,36 @@
+- 449 -
+
+KELOMPOK A (PERTIMBANGAN DARI KEMENTERIAN PERINDUSTRIAN)
+
+No. Sektor/Subsektor/Barang
+
+3738, Industri Kain
+
+3739, Industri Pakaian Jadi
+
+3740, Industri Tekstil Lainnya
+
+INDUSTRI KECIL DAN MENENGAH KIMIA, SANDANG, KERAJINAN DAN INDUSTRI ANEKA
+
+3741, Industri Alat Tulis
+
+INDUSTRI ALAT KESEHATAN
+
+3742, Industri Ventilator
+
+3743, Industri Komponen Ventilator
+
+KELOMPOK B (PERTIMBANGAN DARI BADAN PENGURUS OBAT DAN MAKANAN)
+
+No. Sektor/Subsektor/Barang
+
+INDUSTRI SEDIAAN FARMASI
+
+3744.| Industri Farmasi
+
+3745.|Industri Obat Tradisional
+
+3746.| Industri Suplemen Kesehatan
+
+3747.|Industri Kosmetika
+

@@ -1,0 +1,40 @@
+- 302 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+
+2568. | 6204.41.00 -- Dari wol atau bulu hewan halus V V V
+6204.42 -- Dari kapas :
+
+2569. | 6204.42.10 --- Dicetak dengan proses batik tradisional V V V
+
+2570. | 6204.42.90 --- Lain-lain v/v V
+
+2571. | 6204.43.00 -- Dari serat sintetik v/v V
+
+2572. | 6204.44.00 -- Dari serat artifisial vv V
+6204.49 -- Dari bahan tekstil lainnya :
+
+2573. | 6204.49.10 --- Dicetak dengan proses batik tradisional V V V
+
+2574. | 6204.49.90 --- Lain-lain v/v
+
+- Rok dan rok terpisah:
+
+2575. | 6204.51.00 -- Dari wol atau bulu hewan halus V V V
+6204.52 -- Dari kapas:
+
+2576. | ex 6204.52.90 | --- Lain-lain Selain motif v/v V
+
+batik
+
+2577. | 6204.53.00 -- Dari serat sintetik V V V
+6204.59 -- Dari bahan tekstil lainnya:
+
+2578. | ex 6204.59.90 | --- Lain-lain Selain motif Vv |v V
+
+batik
+
+- Celana panjang, pakaian terusan berpenutup di
+depan dan bertali, celana panjang sampai lutut
+dan celana pendek:
+

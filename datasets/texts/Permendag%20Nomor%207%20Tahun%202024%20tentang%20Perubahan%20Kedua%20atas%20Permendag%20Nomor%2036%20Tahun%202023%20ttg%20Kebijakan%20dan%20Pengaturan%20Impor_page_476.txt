@@ -1,0 +1,36 @@
+- 461 -
+
+No Pos Tarif/HS Uraian Barang Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+2663. | 5210.49.00 -- Kain lainnya MTR V [Vv
+- Dicetak: PI BARU
+5210.51 --_Tenunan polos:
+2664. | 5210.51.90 --- Lain-lain MTR PI TPT (API-U): viv
+5210.59 -- Kain lainnya:
+2665. | 5210.59.90 --- Lain-lain MTR Dalam hal Neraca Vv [dv
+52.11 Kain tenunan dari kapas, Komoditas telah
+mengandung kapas kurang dari ditetapkan, persyaratan
+85 % menurut beratnya, berupa Neraca Komoditas
+dicampur terutama atau semata-
+mata dengan serat buatan, Dalam hal Neraca
+beratnya lebih dari 200 g/m2. Komoditas belum
+- Tidak dikelantang: ditetapkan, persyar atan
+2666. | 5211.11.00 -- Tenunan polos MTR berupa Data Tersedia viv
+2667. | 5211.12.00 -- Kepar 3-benang atau 4-benang, | MTR dalam bentuk laporan V V
+termasuk kepar silang hasil verifikasi,
+2668. | 5211.19.00 -- Kain lainnya MIR rekomendasi, atau | Vv [4
+2669. | 5211.20.00 _| - Dikelantang MTR pertimbangan teknis v4
+~ Dicelup: kementerian yang
+2670. | 5211.31.00 -- Tenunan polos MTR meny clenggaraKan wusan viv
+2671. | 5211.32.00 -- Kepar 3-benang atau 4-benang, | MTR oe nan ay bidang V V
+termasuk kepar silang perindustrian.
+2672. | 5211.39.00 -- Kain lainnya MTR PERUBAHAN PI Viv
+- Dari benang aneka warna: TO
+5211.41 --_Tenunan polos: Perubahan PI TPT (API-
+2673. | 5211.41.10 --- Tenun ikat MTR U): Vv [Vv
+2674. | 5211.41.90 --- Lain-lain MTR Vv [iv
+2675. | 5211.42.00 -- Denim MTR Perubahan PI TPT (API-U) viv
+2676. | 5211.43.00 -- Kain lainnya dari kepar 3- MTR dapat dilakukan dalam Vv
+benang atau 4-benang, termasuk hal terdapat perubahan
+kepar silang identitas, Pos Tarif/HS,
+2677. | 5211.49.00 -- Kain lainnya MTR viv
+

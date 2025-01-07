@@ -1,0 +1,38 @@
+- 473 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+2806. | 5516.21.00 -- Tidak dikelantang atau MTR Vv
+dikelantang
+2807. | 5516.22.00 --_ Dicelup MTR Viv
+2808. | 5516.23.00 -- Dari benang aneka warna MTR V V
+2809. | 5516.24.00 -- Dicetak MTR viv
+- Mengandung serat stapel artifisial
+kurang dari 85 % menurut
+beratnya, dicampur terutama atau
+semata-mata dengan wol atau bulu
+hewan halus:
+2810. | 5516.31.00 -- Tidak dikelantang atau MTR Vv
+dikelantang
+2811. | 5516.32.00 -- Dicelup MTR viv
+2812. | 5516.33.00 -- Dari benang aneka warna MTR V V
+2813. | 5516.34.00 -- Dicetak MTR viv
+- Mengandung serat stapel artifisial
+kurang dari 85 % menurut
+beratnya, dicampur terutama atau
+semata-mata dengan kapas:
+2814. | 5516.41.00 -- Tidak dikelantang atau MTR Vv
+dikelantang
+2815. | 5516.42.00 -- Dicelup MTR viv
+2816. | 5516.43.00 -- Dari benang aneka warna MTR V V
+2817. | 5516.44.00 --_Dicetak MTR viv
+- Lain-lain:
+2818. | 5516.91.00 -- Tidak dikelantang atau MTR Vv
+dikelantang
+2819. | 5516.92.00 --_ Dicelup MTR Viv
+2820. | 5516.93.00 -- Dari benang aneka warna MTR V V
+2821. | 5516.94.00 -- Dicetak MTR viv
+57.01 Karpet dan penutup lantai tekstil
+
+lainnya, disimpul, sudah jadi
+

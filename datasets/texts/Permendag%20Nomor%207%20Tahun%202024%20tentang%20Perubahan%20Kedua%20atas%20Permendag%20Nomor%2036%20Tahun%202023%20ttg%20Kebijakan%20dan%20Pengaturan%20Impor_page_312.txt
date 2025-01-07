@@ -1,0 +1,78 @@
+- 297 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang
+perindustrian, untuk
+perubahan data dan
+informasi yang
+tercantum dalam
+laporan hasil verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang
+perindustrian.
+
+PERPANJANGAN PI
+
+Perpanjangan PI
+Perkakas Tangan
+Setengah Jadi (API-P):
+Dalam hal Neraca
+Komoditas telah
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan:
+
+1. PI Perkakas Tangan
+Setengah Jadi (API-P)
+yang masih berlaku;
+dan
+
+Impor.
+
+Perubahan satuan barang
+dan/atau Pos Tarif/HS
+terhadap suatu nomor seri
+Barang dalam PI Perkakas
+Tangan Setengah Jadi
+(API-P) hanya dapat
+dilakukan selama :
+
+a.
+
+belum dilakukan
+realisasi Impor atau
+tidak sedang dilakukan
+realisasi Impor;
+dan/atau
+
+belum diterbitkan
+Laporan Surveyor.
+

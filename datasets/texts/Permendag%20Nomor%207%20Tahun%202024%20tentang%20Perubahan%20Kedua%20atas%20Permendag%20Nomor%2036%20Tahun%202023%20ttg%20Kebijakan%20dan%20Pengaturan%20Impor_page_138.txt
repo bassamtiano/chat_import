@@ -1,0 +1,38 @@
+- 123 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+4403.12 -- Pohon selain jenis konifera: Importir, uraian barang, Impor dan tanggal
+222. | 4403.12.10 --- Baulk, sawlog, dan veneer log pos tarif/HS, jumiah, b Nae -denti V V
+393. | 4403.12.90  Lainlain satuan, negara asal kayu, . NIB an i entitas 7 7
+‘ - : — : negara produsen, negara Importir;
+- Lain-lain, dari pohon jenis konifera: ekspor, pelabuhan muat, c. pos tarif/ harmonized
+4403.21 -- Dari pinus (Pinus spp.), dengan ukuran pelabuhan tujuan system,
+penampang silang terkecil berukuran 15 cm dan/atau keterangan/ d. nomor seri Barang;
+atau lebih: spesifikasi. e. jenis/uraian Barang;
+224. | 4403.21.10 --- Baulk, sawlog, dan veneer log f£ jumlah Barang dan V V
+- - Dalam hal Neraca satuan Barang;
+225. | 4403.21.90 --- Lain-lain Komoditas telah g. negara asal kayu; v v
+4403.22 -- Dari pinus (Pinus spp.), Lain-lain: ditetapkan: h. negara asal (negara
+1. PI Produk Kehutanan produsen);
+226. | 4403.22.10 --- Baulk, sawlog, dan veneer log (API-P) yang masih i. negara ekspor; V V
+227. | 4403.22.90 --- Lain-lain berlaku; dan j. pelabuhan tujuan; dan V Rl
+4403.23 -- Dari fir (Abies spp.) dan spruce (Picea spp.), 2. Perubahan Neraca k. masa berlaku berupa
+d F : Komoditas. tanggal awal dan
+engan ukuran penampang silang terkecil ‘al akhi
+berukuran 15 cm atau lebih: Dalam hal Neraca tanggal akhir.
+228. | 4403.23.10 --- Baulk, sawlog, dan veneer log Komoditas belum MASA BERLAKU PI V V
+229. | 4403.23.90 --- Lain-lain ditetapkan: V V
+4403.24 -- Dari fir (Abies spp.) dan spruce (Picea spp.), Dalam hal Neraca
+lain-lain: Dalam hal perubahan Komoditas telah
+230. | 4403.24.10 --- Baulk, sawlog, dan veneer log idensitas port: . ( Gitetapican atau Neraca V V
+: : . roduk Kehutanan omoditas belum
+231. | 4403.24.90 -7 Lain-lain (API-P) yang masih ditetapkan, masa berlaku V V
+4403.25 -- Lain-lain, dengan ukuran penampang silang berlaku; dan PI Produk Kehutanan
+terkecil berukuran 15 cm atau lebih: 2. Perubahan Deklarasi (API-P atau API-U) paling
+232. | 4403.25.10 --- Baulk, sawlog, dan veneer log Impor. lama 1 (satu) tahun V V
+233. | 4403.25.90 --- Lain-lain takwim. V V
+F ; Dalam hal perubahan Pos
+4403.26 -- Lain-lain:
+2 aunetan Tarif/HS, uraian barang, Dalam hal Neraca
+234. | 4403.26.10 --- Baulk, sawlog, dan veneer log V V
+

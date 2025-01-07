@@ -1,0 +1,38 @@
+- 498 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+3104. | 5403.33.90 --- Lain-lain KGM V
+5403.39 -- Lain-lain :
+3105. | 5403.39.10 --- Benang bertekstur KGM V
+3106. | 5403.39.90 --- Lain-lain KGM V
+- Benang lainnya, rangkap (dilipat)
+atau dibentuk kabel :
+5403.41 -- Dari rayon viskose :
+3107. | 5403.41.10 --- Benang bertekstur KGM V
+3108. | 5403.41.90 --- Lain-lain KGM V
+3109. | 5403.42.00 -- Dari selulosa asetat KGM V
+3110. | 5403.49.00 -- Lain-lain KGM V
+54.04 Monofilamen sintetik dengan
+ukuran 67 desiteks atau lebih
+dan yang ukuran penampang
+silangnya tidak ada yang lebih
+dari 1 mm; strip dan sejenisnya
+(misalnya, jerami artifisial) dari
+bahan tekstil sintetik yang
+mempunyai lebar tidak melebihi
+5 mm.
+- Monofilamen :
+3111. | 5404.19.00 -- Lain-lain KGM V
+3112. | 5404.90.00 - Lain-lain KGM V
+3113. | 5405.00.00 Monofilamen artifisial dengan KGM V
+
+ukuran 67 desiteks atau lebih
+dan yang ukuran penampang
+silangnya tidak ada yang lebih
+dari 1 mm; strip dan sejenisnya
+(misalnya, jerami artifisial) dari
+bahan tekstil artifisial yang
+mempunyai lebar tidak melebihi
+5 mm.
+

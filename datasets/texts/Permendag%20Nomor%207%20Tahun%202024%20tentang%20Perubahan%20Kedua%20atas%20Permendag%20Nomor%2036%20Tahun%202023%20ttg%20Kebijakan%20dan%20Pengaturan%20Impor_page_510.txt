@@ -1,0 +1,38 @@
+- 495 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+menurut beratnya:
+3071. | 5111.11.00 -- Dengan berat tidak melebihi 300 | MTR V
+g/m?
+3072. | 5111.19.00 --_Lain-lain MTR V
+3073. | 5111.20.00 - Lain-Lain, dicampur terutama MTR V
+atau semata-mata dengan filamen
+buatan
+3074. | 5111.30.00 - Lain-lain, dicampur terutama MTR V
+atau semata-mata dengan serat
+stapel buatan
+3075. | 5111.90.00 - Lain-lain MTR Vv
+51.12 Kain tenunan dari wol atau bulu
+hewan halus disisir.
+- Mengandung wol atau bulu
+hewan halus 85 % atau lebih
+menurut beratnya:
+5112.11 -- Dengan berat tidak melebihi 200
+g/m?:
+3076. | 5112.11.90 --- Lain-lain MTR V
+5112.19 --_Lain-lain:
+3077. | 5112.19.90 --- Lain-lain MTR V
+3078. | 5112.20.00 - Lain-Lain, dicampur terutama MTR V
+atau semata-mata dengan filamen
+buatan
+3079. | 5112.30.00 - Lain-lain, dicampur terutama MTR V
+atau semata-mata dengan serat
+stapel buatan
+3080. | 5112.90.00 - Lain-lain MTR V
+3081. | 5113.00.00 Kain tenunan dari bulu hewan MTR V
+kasar atau bulu kuda.
+54.01 Benang jahit dari filamen buatan,
+
+disiapkan untuk penjualan eceran
+

@@ -1,0 +1,34 @@
+- 268 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2251. | 6403.99.20 --- Sepatu bowling J
+2252. | 6403.99.30 --- Lain-lain, dilengkapi pelindung jari dari V V
+bukan logam
+2253. | 6403.99.90 --- Lain-lain Vv Vv
+64.05 Alas kaki lainnya.
+2254. | 6405.10.00 - Dengan bagian atasnya dari kulit samak atau V V
+kulit komposisi
+2255. | 6405.20.00 - Dengan bagian atasnya dari bahan tekstil V V
+2256. | 6405.90.00 - Lain-lain V y
+F. ELEKTRONIKA
+84.13 Pompa untuk cairan, dilengkapi dengan alat
+ukur maupun tidak; elevator cairan
+8413.60 - Pompa displacement positif berputar lainnya:
+-- Pompa air, dengan flow rate tidak melebihi
+8.000 m3/jam:
+2257. | 8413.60.31 --- Dioperasikan secara elektrik V V
+8413.70 - Pompa sentrifugal lainnya:
+-- Pompa air single stage, poros tunggal
+penyedot horizontal cocok digunakan untuk
+sabuk penggerak atau perangkai langsung,
+selain pompa dengan poros yang digunakan
+dengan prime mover:
+2258. | 8413.70.11 --- Dengan ukuran diameter inlet tidak melebihi V V
+200 mm
+-- Pompa air submersible:
+2259. | 8413.70.31 --- Dengan ukuran diameter inlet tidak melebihi V V
+
+200 mm
+
+-- Pompa air lainnya, dengan flow rate tidak
+

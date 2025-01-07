@@ -1,0 +1,43 @@
+PSR the good is produced entirely in the Party using non-
+originating materials, provided that the good satisfies the
+product specific rules set out in Annex 4-A
+
+DMI (De Minimis) | a good that does not undergo a change in_ tariff
+classification requirement shall be considered as
+originating as established in Article 4.9
+
+FGM for fungible goods or materials as established in Article
+4.10
+ACU A good which satisfies the origin criteria as established in
+
+(Accumulation) Article 4.8
+
+Field 9: For each good, indicate the quantity in gross or net weight, or other
+unit of measurement.
+
+Field 10: Indicate the invoice number(s), date(s) and FOB value. The invoice
+shall be the one issued for the exportation of the good into the importing Party.
+
+Field 11: This Field is for additional information (if any)
+
+- lf the Certificate of Origin is issued in accordance with Section B Rule 2,
+the Competent Authority shall indicate “replaced C/O No... issued date...”.
+
+- lf the Certificate of Origin is issued in accordance with Section B Rule 5,
+the Competent Authority shall indicate “Certified Copy’.
+In the case where a good is invoiced by a third country in accordance with
+Section B Rule 17, shall indicate “THIRD COUNTRY INVOICING”. The
+name and country of the company issuing the invoice shall be indicated (if
+known).
+
+- Any other additional information considered appropriate.
+
+Field 12: This field shall be completed, signed and dated by the exporter. The
+date shall be the date when the Certificate of Origin is applied for.
+
+Field 13: This field shall be completed, dated, signed and stamped by the
+Competent Authority of the exporting Party. The date shall be the date when the
+Certificate of Origin is issued. The signature and seal of the Competent
+Authority may be autographed or digital.
+
+PTR Te Sat Sone

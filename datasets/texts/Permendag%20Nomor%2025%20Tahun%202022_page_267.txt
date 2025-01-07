@@ -1,0 +1,33 @@
+- 238 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1913. | 1901.90.19 --- Lain-lain V V
+1914. | ex 1901.90.20 -- Ekstrak malt Selain berasal dari V V
+
+hewan
+-- Lain-lain, dari barang dari pos 04.01 sampai
+dengan 04.04:
+1915. ] ex 1901.90.31 | --- Filled milk Selain berasal dari V V
+hewan
+1916. | ex 1901.90.32 --- Lain-lain, mengandung Selain berasal dari V V
+bubuk kakao hewan
+1917. | ex 1901.90.39 --- Lain-lain Selain berasal dari V V
+hewan
+-- Olahan lainnya berbahan dasar kedelai:
+1918. | 1901.90.41 --- Dalam bentuk bubuk V V
+1919. | 1901.90.49 --- Dalam bentuk lain V V
+-- Lain-Lain:
+1920. | 1901.90.91 --- Makanan medis V V
+1921. | 1901.90.99 --- Lain-lain: 7V J
+19.02 Pasta, dimasak atau diisi maupun tidak
+(dengan daging atau bahan lainnya) atau
+diolah secara lain, seperti spagheti, makaroni,
+mie, lasagna, gnocchi, ravioli, cannelloni;
+couscous, diolah maupun tidak.
+- Pasta mentah, tidak diisi atau diolah secara
+lain:
+1922. | 1902.11.00 -- Mengandung telur V V
+1902.19 -- Lain-lain:
+1923. | 1902.19.20 --- Rice vermicelli (termasuk bihun) V V
+1924. | 1902.19.30 --- Soun V V
+

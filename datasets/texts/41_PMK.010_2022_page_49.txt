@@ -1,0 +1,74 @@
+=~ 4G
+
+368 | 5705.00.91 - - Babut untuk sembahyang
+
+58.05 Permadani dinding tenunan tangan dari tipe Gobelin, Flander,
+Aubusson, Beauvais dan sejenisnya, dan permadani dinding
+dikerjakan dengan jarum (misalnya, bintik kecil, jeratan silang),
+sudah jadi maupun belum.
+
+369 | 5805.00.10 - Dari kapas
+370 | 5805.00.90 - Lain-lain
+59.04 Linoleum, dipotong menjadi bentuk maupun tidak; penutup lantai
+
+yang terdiri dari lapisan atau penutup di atas dasar tekstil,
+dipotong menjadi bentuk maupun tidak.
+
+371 | 5904.10.00 - Linoleum
+372 | 5904.90.00 - Lain-lain
+61.01 Mantel panjang, car-coat, jubah bertopi, jubah, anorak (termasuk
+
+jaket-ski), wind-cheater, wind-jacket dan barang semacam itu,
+untuk pria atau anak laki-laki, rajutan atau kaitan, selain yang
+dimaksud dalam pos 61.03.
+
+373 | 6101.20.00 - Dari kapas
+374 | 6101.30.00 - Dari serat buatan
+375 | 6101.90.00 - Dari bahan tekstil lainnya
+61.02 Mantel panjang, car-coat, jubah bertopi, jubah, anorak (termasuk
+
+jaket-ski), wind-cheater, wind-jacket dan barang semacam itu,
+untuk wanita atau anak perempuan, rajutan atau kaitan, selain
+yang dimaksud dalam pos 61.04.
+
+376 | 6102.10.00 - Dari wol atau bulu hewan halus
+377 | 6102.20.00 - Dari kapas
+378 | 6102.30.00 - Dari serat buatan
+379 | 6102.90.00 - Dari bahan tekstil lainnya
+61.03 Setelan, ensemble, jas, blazer, celana panjang, pakaian terusan
+
+berpenutup di depan dan bertali, celana panjang sampai lutut dan
+celana pendek (selain pakaian renang), untuk pria atau anak laki-
+laki, rajutan atau kaitan.
+
+380 | 6103.10.00 - Setelan
+- Ensemble :
+381 | 6103.22.00 - - Dari kapas
+382 | 6103.23.00 - - Dari serat sintetik
+383 | 6103.29.00 - - Dari bahan tekstil lainnya
+- Jas dan blazer :
+384 | 6103.31.00 - - Dari wol atau bulu hewan halus
+385 | 6103.32.00 - - Dari kapas
+386 | 6103.33.00 - - Dari serat sintetik
+6103.39 - - Dari bahan tekstil lainnya :
+387 6103.39.10 - - - Dari rami, linen atau sutra
+388 | 6103.39.90 - - - Lain-lain
+
+- Celana panjang, pakaian terusan berpenutup di depan dan bertali,
+celana panjang sampai lutut dan celana pendek :
+
+389 | 6103.41.00 - - Dari wol atau bulu hewan halus
+390 | 6103.42.00 - - Dari kapas
+391 6103.43.00 - - Dari serat sintetik
+392 | 6103.49.00 - - Dari bahan tekstil lainnya
+61.04 Setelan, ensemble, jas, blazer, gaun, rok, rok terpisah, celana
+
+panjang, pakaian terusan berpenutup di depan dan bertali, celana
+panjang sampai lutut dan celana pendek (selain pakaian renang),
+untuk wanita atau anak perempuan, rajutan atau kaitan.
+
+- Setelan :
+
+393 | 6104.13.00 - - Dari serat sintetik
+
+wrnsoneid

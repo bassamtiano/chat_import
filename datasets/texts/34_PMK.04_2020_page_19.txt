@@ -1,0 +1,53 @@
+-19-
+
+KELOMPOK
+NO. PRODUK POS TARIF URAIAN BARANG/JENIS BARANG
+27 3004.50.21 Multivitamin, dari jenis untuk
+pemakaian oral
+28 3004.50.29 Multivitamin, dari jenis selain untuk
+pemakaian oral
+29 3004.50.91 Vitamin A, vitamin B atau vitamin C
+30 ex.3004.60.20 | Obat mengandung  hydrochloroquine
+dikombinasikan dengan bahan  aktif
+farmasi lainnya, disiapkan dalam dosis
+tertentu. atau. dalam bentuk atau
+kemasan untuk penjualan eceran
+31 ex.3004.90.51 | Obat mengandung parasetamol,
+disiapkan dalam dosis tertentu atau
+dalam bentuk atau kemasan untuk
+penjualan eceran, dari jenis untuk
+pemakaian oral
+32 ex.3004.90.69 | Obat anti malaria mengandung
+hydrochloroquin
+33 ex.3004.90.89 | Oseltamivir; favipiravir disiapkan dalam
+dosis tertentu atau dalam bentuk atau
+kemasan untuk penjualan eceran.
+V_ | PERALATAN MEDIS
+34 | Termometer 9025.19.19 Termometer digital, termometer infrared
+35 | Ventilator ex.9019.20.00 | Instrumen untuk membantu pernafasan
+pasien
+36 | Swab ex.3005.90.90 | Tisu/kapas mengandung alkohol untuk
+antiseptik, dalam kemasan penjualan
+eceran (Alcohol Swab)
+37 ex.9018.90.90 | Swab lainnya
+38 | Thermal ex.9027.50.10 | Alat pemindai panas manusia
+Imaging/Scanning
+Equipment
+39 | In vitro diagnostic | ex.9027.80.30 | Alat uji laboratorium in _ vitro,
+equipment, dioperasikan secara elektrik
+termasuk alat PCR ~ ; : : :
+40 | test ex.9027.80.40 | Alat uji laboratorium in vitro, tidak
+dioperasikan secara elektrik
+41 | Alat suntik 9018.31.10 Alat suntik sekali pakai
+42 9018.31.90 Alat suntik lainnya.
+43 | Syringe dan ex.9018.90.30 | Alat untuk membantu memasukkan
+infusion pump cairan ke dalam tubuh pasien secara
+terkontrol.
+44 | High Flow Oxygen | ex.9019.20.00 | Alat terapi oksigen yang memberikan
+
+oksigen aliran tinggi (high flow oxygen)
+untuk membantu' pernafasan bagi
+penderita
+
+worn jih Kemenket. i
+

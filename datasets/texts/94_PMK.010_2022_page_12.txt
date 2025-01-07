@@ -1,0 +1,78 @@
+-12-
+
+No. we Tariff Uraian Barang Description of Goods may
+(1) (2) (3) (4) (5)
+0713.50 - Kacang babi (Vicia faba var. major) dan |- Broad beans (Vicia faba var. major) and
+kacang kuda (Vicia faba var. equina, horse beans (Vicia faba var. equina, Vicia
+Vicia faba var, minor) : | faba var, minor) :
+0713.60 - Kacang merpati (Cajanus cajan) : - Pigeon peas (Cajanus cajan) :
+69 |0713.60.10 - - Cocok untuk disemai - - Suitable for sowing 0%
+70 0713.60.90 - - Lain-lain - - Other 0%
+0713.90 ~ Lain-lain : - Other :
+- - Cocok untuk disemai - - Suitable for sowing
+71 |0713.90.90 - - Lain-lain - - Other 3%
+08.01 Kelapa, kacang Brasil dan kacang Coconuts, Brazil nuts and cashew
+mede, segar atau dikeringkan, nuts, fresh or dried, whether or not
+dihilangkan tempurungnya atau shelled or peeled.
+dikupas maupun tidak.
+- Kelapa : - Coconuts :
+72 + 10801.11.00 - - Diparut dan dikeringkan - - Desiccated 4%
+73 10801.12.00 - - Di dalam kulit (endocarp) - - In the inner shell (endocarp) 4%
+0801.19 - - Lain-lain : -- Other :
+74 10801.19.10 ---+ Kelapa muda - Young coconut 4%
+75  10801.19.90 --- Lain-lain --- Other 4%
+- Kacang Brazil : ~ Brazil nuts ;
+76  |0801.21.00 - - Bertempurung -- In shell 4%
+77 ~~ |0801.22.00 - - Dihilangkan tempurungnya - - Shelled 4%
+- Kacang mede : - Cashew nuts :
+78 0801.31.00 - ~ Bertempurung -- In shell 4%
+79 |0801.32.00 - - Dihilangkan tempurungnya -- Shelled 4%
+08.02 Buah bertempurung lainnya, segar Other nuts, fresh or dried, whether or
+atau dikeringkan, dihilangkan not shelled or peeled.
+tempurungnya atau dikupas maupun
+tidak.
+- Almond : - Almonds :
+80 0802.11.00 - - Bertempurung ~-In shell 0%
+0802.12 - - Dihilangkan tempurungnya : - - Shelled :
+81 0802.12.10 - - - Diblansir -- - Blanched 0%
+82 0802.12.90 - - - Lain-lain - ~~ Other 0%
+- Hazelnut atau filbert (Corylus spp.) : - Hazelnuts or filberts (Corylus spp.) :
+- - Bertempurung -~- In shell
+83 |0802.22.00 - - Dihilangkan tempurungnya - - Shelled 0%
+- Walnut : - Walnuts :
+84 |0802.31.00 - - Bertempurung -- In shell 0%
+85 |0802.32.00 - - Dihilangkan tempurungnya - - Shelled 0%
+- Chestnut (Castanea spp.) : - Chestnuts (Castanea spp.) :
+86 |0802.41.00 - - Bertempurung --In shell 0%
+87 |0802.42.00 ~ - Dihilangkan tempurungnya - - Shelled 0%
+- Pistasio : - Pistachios :
+- Kacang Makadamia : - Macadamia nuts :
+88 |0802.61.00 - - Bertempurung - - In shell 0%
+89 |0802.62.00 - - Dihilangkan tempurungnya - - Shelled 0%
+- Kacang kola (Cola spp.) - Kola nuts (Cola spp.)
+- Buah pinang - Areca nuts
+- Lain-lain : - Other :
+90 =}0802.91.00 - - Kacang pinus, bertempurung - - Pine nuts, in shell 0%
+91  |0802.92.00 - - Kacang pinus, dihilangkan. - - Pine nuts, shelled 0%
+tempurungnya
+92 0802.99.00 - - Lain-lain - - Other 0%
+08.03 Pisang, termasuk pisang yang tidak Bananas, including plantains, fresh or
+cocok dikonsumsi langsung sebagai dried.
+buah, segar atau dikeringkan.
+0803.10 - Pisang yang tidak cocok dikonsumsi - Plantains :
+Jangsung sebagai buah :
+93  |0803.10.10 ~~ Segar - - Fresh 3%
+94 0803.10.20 - - Dikeringkan - - Dried 3%
+0803.90 - Lain-lain : - Other :
+95 0803.90.10 - - Lady's finger banana - - Lady's finger banana 3%
+96 |0803.90.20 - - Pisang cavendish (Musa acuminata) ~ - Cavendish banana (Musa acuminata) 3%
+97 |0803.90.30 - - Pisang chestnut (persilangan Musa - - Chestnut banana (hybrid of Musa 3%
+acuminata dengan Musa balbisiana, acuminata and Musa balbisiana, cultivar
+kultivar Berangan) Berangan)
+98 |0803.90.90 - - Lain-lain - - Other 3%
+08.04 Korma, buah ara, nanas, alpokat, Dates, figs, pineapples, avocados,
+|jambu, mangga dan manggis, segar guavas, mangoes and mangosteens,
+atau dikeringkan. fresh or dried.
+—
+
+sit. cement Ayo ic

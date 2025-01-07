@@ -1,0 +1,78 @@
+No. re Tarif/ Uraian Barang Description of Goods Eanoet Duty
+(4) {2) (3) (4) (5)
+- Fillet ikan, dikeringkan, diasinkan atau |- Fish fillets, dried, salted or in brine,
+dalam air garam, tetapi tidak diasapi : but not smoked :
+15 10305.31.00 - - Tilapias (Oreochromis spp.}, catfish - - Tilapias (Oreochromis spp.), catfish 3%
+(Pangasius spp., Silurus spp., Clarias (Pangasius spp., Silurus spp., Clarias
+spp., Ictaturus spp.), ikan mas (Cyprinus |spp., Ictalurus spp.), carp (Cyprinus
+spp., Carassius spp., Ctenopharyngodon | spp., Carassius spp., Ctenopharyngodon
+idellus, Hypophthalmichthys spp., idellus, Hypophthalmichthys spp.,
+Cirrhinus spp., Mylopharyngodon piceus, | Cirrhinus spp., Mylopharyngodon piceus,
+Catla catia, Labeo spp., Osteochilus Catla catla, Labeo spp., Osteochilus
+hasselti, Leptobarbus hoeveni, hasselti, Leptobarbus hoeveni,
+Megalobrama spp.}, sidat (Anguilla spp.), | Megalobrama spp.), eels (Anguilla spp.),
+Nile perch (Lates niloticus) dan gabus Nile perch (Lates niloticus) and
+(Channa spp.) snakeheads (Channa spp.)
+03.06 Krustasea, bercangkang maupun Crustaceans, whether in shell or not,
+tidak, hidup, segar, dingin, beku, live, fresh, chilled, frozen, dried,
+dikeringkan, diasinkan atau dalam air (salted or in brine; smoked
+garam; krustasea diasapi, dimasak crustaceans, whether in shell or not,
+maupun tidak sebelum atau selama ‘whether or not cooked before or
+proses pengasapan; krustasea, during the smoking process;
+bercangkang, dikukus atau direbus, crustaceans, in shell, cooked by
+dingin, beku, dikeringkan, diasinkan steaming or by boiling in water,
+atau dalam air garam maupun tidak. ‘whether or not chilled, frozen, dried,
+salted or in brine.
+- Beku : - Frozen :
+0306.11 - - Lobster karang dan udang laut besar__|- - Rock lobster and other sea crawfish
+Jainnya (Palinurus spp., Panulirus spp., (Palinurus spp., Panulirus spp., Jasus
+Jasus spp.) : spp.) :
+--- Diasapi --- Smoked
+16 = |0306.11.90 --- Lain-lain --- Other 3%
+0306.12 - - Lobster (Homarus spp.) : Lobsters (Homarus spp.) :
+0306.14 - - Kepiting : -- Crabs:
+--- Diasapi : -- - Smoked :
+17 |0306.14.11 ---- Kepiting cangkang lunak ---- Soft shell crabs 3%
+18 |0306.14.19 ---- Lain-lain ---- Other 3%
+--- Lain-lain: --- Other:
+19 |0306.14.91 ~~~ - Swimming crab (kepiting dari ~ - - - Swimming crabs (crabs of the 3%
+keluarga Portunidae) family Portunidae)
+20 |0306.14.92 ---- King crab (kepiting dari keluarga - - - - King crabs (crabs of the family 3%
+|Lithodidae) Lithodidae)
+21 |0306.14.93 - ~~~ Snow crab (kepiting dari keluarga _|- - - - Snow crabs (crabs of the family 3%
+Oregoniidae ) Origoniidae)
+22 |0306.14.99 --+ + Lain-lain ---- Other 3%
+23 10306.15.00 - - Lobster Norwegia (Nephrops - ~ Norway lobsters (Nephrops 3%
+norvegicus) norvegicus}
+24 |0306.16.00 - - Udang dan udang besar air dingin - - Cold-water shrimps and prawns 3%
+(Pandalus spp., Crangon crangon) (Pandalus spp. , Crangon crangon)
+07.03 Bawang bombay, bawang merah, Onions, shallots, garlic, leeks and
+‘bawang putih, bawang bakung/perai other alliaceous vegetables, fresh or
+dan sayuran sejenis lainnya, segar chilled.
+atau dingin.
+0703.10 - Bawang bombay dan bawang merah : - Onions and shallots :
+- - Bawang bombay : -- Onions :
+- - - Umbi untuk dibudidayakan . - - Bulbs for propagation
+25 |0703,10.19 - - - Lain-lain - -- Other 3%
+- - Bawang merah : - - Shallots :
+0703.20 - Bawang putih : - Garlic :
+- - Umbi untuk dibudidayakan - - Bulbs for propagation
+26 0703.20.90 - - Lain-lain - - Other 3%
+0703.90 - Bawang bakung/perai dan sayuran. - Leeks and other alliaceous vegetables :
+sejenis :
+- - Umbi untuk dibudidayakan - - Bulbs for propagation
+27 |0703,90.90 - - Lain-lain - - Other 3%
+07.04 Kubis, bunga kol, kohlrabi, kale dan Cabbages, cauliflowers, kohlrabi, kale
+brassica sejenis yang dapat dimakan, and similar edible brassicas, fresh or
+segar atau dingin. chilled.
+0704.10 - Bunga kol dan brokoli : - Cauliflowers and broccoli :
+- - Bunga kol - - Cauliflowers
+28 |0704.10.20 - - Brokoli bongkolan ~ - Headed broccoli 4%
+29 |0704.10.90 - - Brokoli lainnya - - Other broccoli 3%
+- Kubis Brussel - Brussels sprouts
+0704.90 - Lain-lain : - Other :
+- - Kubis bulat (drumhead) - - Round (drumhead) cabbages
+
+jdih.keme
+
+whjo.id

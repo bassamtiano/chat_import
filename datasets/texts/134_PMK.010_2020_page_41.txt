@@ -1,0 +1,81 @@
+- Al -
+
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM
+
+it POS TARIF
+
+[A | Pitesti aa ae ea A il! keke asa |
+10 | Diesel Engine Mesin diesel penggerak kapal 8408.10.20
+
+(marine use) dengan tenaga
+melebihi 22,38 kW tetapi tidak
+melebihi 100 kW
+
+11 | Gear Pump Pompa displacement positif 8413.60.90
+berputar untuk mengalirkan
+oli melalui celah-celah roda
+gigi dengan dinding rumahnya
+ke sistem hidrolik penggerak
+Windlass, Winch, Crane,
+Steering Gear, Hatch Cover
+dan Capstan untuk
+permesinan di kapal
+
+12 | Impeller Sirip kipas, terbuat dari 8414.90.22
+aluminium untuk Blower
+
+Sirip kipas, terbuat dari 8414.90.29
+aluminium untuk Axial Fan
+
+13 | Hook Crane Pengait terbuat dari besi, 8431.49.90
+mampu mengangkat beban 3
+ton - 25 ton
+
+14 | Gearbox Untuk kapal dengan 8483.40.20
+perbandingan Putaran: Output
+=40:1
+
+15 | Slewing Drive Roda gigi yang dapat 8483.90.99
+menggerakkan slewing
+bearing
+
+16 | Battery Charger Pengisi baterai dengan input 8504.40.30
+220 V AC dan output 24 V DC,
+kapasitas battery charger 5
+kVA
+
+17 | Solar Power System Alat pemasok tenaga listrik 8507.20.99
+dengan sistem panel surya
+
+sebagai sumber tenaga untuk
+menggerakan quick release
+
+hooks. Bagian utama alatnya
+terdiri dari: solar panel, charge,
+controller dan lead acid battery
+
+18 | Marine Lantern Lampu buoy suar untuk 8530.80.00
+rambu navigasi di lalu lintas
+air
+
+19 | Moulded Case Circuit Pemutus sirkuit otomatis, tipe| 8536.20.11
+Breaker/Air Circuit Breaker /| moulded case. Untuk arus
+Contactor kurang dari 16 A
+
+20 | Miniature Circuit Breaker MCB (Miniature Circuit 8536.20.91
+Breaker). Pemutus sirkuit
+otomatis untuk arus kurang
+dari 16 A
+
+21 | Over Current Relay Relai untuk pengaman dari 8536.49.90
+kenaikan arus tinggi. Untuk
+voltase melebihi 60 V
+
+22 | Under or Over Voltage Relai untuk pengaman bila 8536.49.90
+terjadi tegangan naik atau
+
+turun, Dengan voltase 380 V
+AC sampai dengan 440 V AC
+
+wow jdih.kemenkeu gta?

@@ -1,0 +1,36 @@
+- 320 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2784. | 5211.52.90 --- Lain-lain Vv {ov
+5211.59 -- Kain lainnya:
+2785. | 5211.59.90 --- Lain-lain
+52.12 Kain tenunan lainnya dari kapas.
+- Beratnya tidak lebih dari 200 g/m2:
+2786. | 5212.11.00 -- Tidak dikelantang Vv |v
+2787. | 5212.12.00 -- Dikelantang Vv |v
+2788. | 5212.13.00 -- Dicelup Vv [Vv
+2789. | 5212.14.00 -- Dari benang aneka warna V V
+5212.15 --_ Dicetak:
+2790. | 5212.15.90 --- Lain-lain Vv {ov
+- Beratnya lebih dari 200 g/m?:
+2791. | 5212.21.00 -- Tidak dikelantang Vv |v
+2792. | 5212.22.00 -- Dikelantang Viv
+2793. | 5212.23.00 -- Dicelup viv
+2794. | 5212.24.00 -- Dari benang aneka warna V V
+5212.25 --_Dicetak:
+2795. | 5212.25.90 --- Lain-lain Vv |v
+53.09 Kain tenunan dari lena.
+- Mengandung lena 85 % atau lebih menurut
+beratnya:
+2796. | 5309.11.00 --_ Tidak dikelantang atau dikelantang V V
+2797. | 5309.19.00 --_Lain-Lain v [Vv
+- Mengandung lena kurang dari 85 % menurut
+beratnya:
+2798. | 5309.21.00 --_ Tidak dikelantang atau dikelantang V V
+2799. | 5309.29.00 --_Lain-Lain v [Vv
+53.10 Kain tenunan dari serat jute atau dari serat
+tekstil kulit pohon lainnya dari pos 53.03.
+5310.10 - Tidak dikelantang:
+2800. | 5310.10.10 -- Polos Vv [Vv
+2801. | 5310.10.90 --_Lain-lain viv
+

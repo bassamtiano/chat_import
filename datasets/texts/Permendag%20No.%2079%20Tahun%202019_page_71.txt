@@ -1,0 +1,64 @@
+-67-
+
+PENEMPATAN LABEL
+——————— [BARANG | KEMASAN |
+
+Kaus kaki panjang atau sampai lutut lainnya untuk
+
+wanita, ukuran tiap benang tunggal kurang dari 67
+
+desiteks dari bahan selain kapas.
+
+Lain-lain dari bahan kapas.
+
+Lain-lain dari bahan wol atau bulu hewan halus.
+
+Lain-lain dari serat sintetik.
+
+Kaus kaki panjang atau sampai lutut lainnya untuk wanita,
+ukuran tiap benang tunggal kurang dari 67 desiteks dari
+bahan tekstil lainnya.
+
+Benang Jahit Benang jahit dari kapas disiapkan untuk penjualan eceran. . Nama barang; a/b/c/d
+
+Merek barang; a/b/c/d
+
+Benang jahit dari filamen sintetik disiapkan untuk Jenis bahan atau komposisi; a/b/c/d
+
+penjualan eceran. . Nama dan alamat produsen untuk barang a/b/c/d
+
+Benang jahit dari filamen artifisial disiapkan untuk produksi dalam negeri; atau
+
+penjualan eceran. Nama dan alamat importir untuk barang impor; atau
+
+Benang jahit dari serat stapel sintetik disiapkan untuk Pedagang pengumpul jika mencantumkan merek dagang;
+
+penjualan eceran. . Ukuran; a/b/c/d
+
+Benang jahit dari serat stapel artifisial disiapkan untuk . Label pemeliharaan (care label); a/b/e/d
+
+penjualan eceran. . Negara Pembuat atau Made in. a/b/c/d
+Jumlah barang dalam hal kemasan berisi lebih dari 1 (satu) a/b/c/d
+barang;
+
+Barang keperluan berkemah Terpal, awning dan kerai matahari dari serat . Nama barang;
+sintetik. . Merek barang
+Terpal, awning dan kerai matahari dari serat tekstil . Jenis bahan atau komposisi bahan/serat;
+nabati dari pos 53.05. . Nama dan alamat produsen untuk barangproduksi dalam
+Terpal, awning dan kerai matahari dari kapas. negeri maupun barang impor;
+Terpal, awning dan kerai matahari dari bahan selain . Ukuran;
+serat tekstil nabati dan kapas. . Label pemeliharaan (care label);
+Tenda dari serat sintetik. . Negara Pembuat atau Made in;
+Tenda dari kapas. . Klasifikasi Model Pakaian Jadi;
+Tenda dari bahan selain serat sintetik dan kapas. i. Jumlah satuan, dalam hal kemasan berisi lebih dari 1
+Layar. (satu) produk.
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh;
+
+d. disertakan atau dimasukkan ke dalam barang/kemasan.

@@ -1,0 +1,34 @@
+- 118 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+pembudidayaan
+0301.99 -- Lain-lain:
+--- Benih ikan bandeng dan kerapu:
+709. 0301.99.11 ---- Bibit J V
+710. | ex 0301.99.19 | ---- Lain —-lain Hanya untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+--- Benih ikan lainnya:
+711. 0301.99.22 ---- Ikan mas lainnya, bibit V v
+712. 0301.99.23 ---- Ikan mas lainnya V v
+713. [0301.99.24 | ---- Lain-lain, bibit V v
+714. 0301.99.29 ---- Lain-lain y V
+--- Bandeng dan kerapu, selain benih ikan :
+715. | 0301.99.31 | ---- Bandeng, bibit v v
+716 ex 0301.99.32 | ---- Bandeng, lain-lain Hanya untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+717. | ex 0301.99.33 | ---- Kerapu sunu Hanya untuk V V
+(Plectropomus leopardus) calon induk,
+induk dan benih
+untuk
+pembudidayaan
+718. | ex 0301.99.34 | ---- Kerapu macan Hanya untuk V V
+calon induk,
+
+(Epinephelus fuscoguttatus)
+

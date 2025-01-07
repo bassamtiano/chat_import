@@ -1,0 +1,40 @@
+- 670 -
+
+. : Nama Bahan Nomor Kode Satuan Post
+No Pos Tarif/HS Uraian Barang Kimia CAS Daftar Barang Persyaratan Keterangan IT/IP| PI | LS Border
+2-
+Chlorovinyldic | 541-25-3 KGM V V V
+hloroarsine
+(Z)-2- -
+Chlorovinyldic 34461 KGN V V V
+. 56-8
+hloroarsine
+Bis(2-
+chlorovinyl)chl ard 4- KGM V V V
+oroarsine
+3817. | ex 2931.90.49 --- Lain-lain Tris(2- 40334- 1A05
+chlorovinyl)ars 70-1 KGM V V V
+ine
+2-
+Chlorovinyldic | 541-25-3 KGM V V V
+hloroarsine
+Senyawa
+heterosiklik
+29.33 hanya dengan
+hetero atom
+nitrogen.
+- Senyawa
+mengandung
+cincin piridina
+tidak menyatu
+(dihidrogenasi
+maupun tidak)
+dalam struktur:
+TNE;
+soto Sa 2B09 KGM; V V V
+3818. | 2933.35.00 -- 3-Quinuclidinol LTR
+R-()-3- 25333- TNE;
+Quinuclidinol | 42-0 2B09 | KGM; Vo} v | vy
+
+LTR
+

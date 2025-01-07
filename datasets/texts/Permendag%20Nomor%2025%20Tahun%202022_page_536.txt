@@ -1,0 +1,81 @@
+~54-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+85.37
+
+Papan, panel, konsol, meja, kabinet
+dan landasan lainnya, dilengkapi
+dengan dua atau lebih aparatus dari
+pos 85.35 atau 85.36, untuk
+pengontrol listrik atau pendistribusi
+listrik, termasuk yang dilengkapi
+dengan instrumen atau aparatus
+dari Bab 90, dan aparatus
+pengontrol numerik, selain aparatus
+sakelar dari pos 85.17.
+
+8537.10
+
+- Untuk voltase tidak melebihi 1.000
+volt:
+
+-- Lain-lain:
+
+271.
+
+8537.10.92
+
+--- Dari jenis yang cocok untuk
+penggunaan dalam sistem kendali
+distribusi
+
+85.44
+
+Kawat diisolasi (termasuk dienamel
+atau dianodisasi), kabel (termasuk
+kabel koaksial) dan konduktor
+listrik diisolasi lainnya, dilengkapi
+dengan konektor maupun tidak;
+kabel serat optik, dibuat dari serat
+berselubung tersendiri, dirakit
+dengan konduktor listrik atau
+dilengkapi dengan konektor
+maupun tidak.
+
+- Konduktor listrik lainnya, untuk
+voltase tidak melebihi 1.000 V:
+
+8544.42
+
+-- Dilengkapi dengan konektor:
+
+--- Lain-lain:
+
+272.
+
+ex 8544.42.99
+
+---- Lain-lain Hanya untuk
+Kabel Power
+dengan Konektor
+
+untuk mesin ATM
+

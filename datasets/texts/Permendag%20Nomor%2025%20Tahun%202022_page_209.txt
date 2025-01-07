@@ -1,0 +1,29 @@
+- 180 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+tetapi tidak dibingkai atau dipasang dengan
+barang lain.
+1410. | 7006.00.10 - Kaca optik, tidak dikerjakan secara optik V V
+1411. | 7006.00.90 - Lain-lain V V
+70.07 Kaca pengaman, terdiri dari kaca dikeraskan
+(tempered) atau dilaminasi.
+1412. | 7007.11.10 --- Cocok untuk kendaraan dari Bab 87 V V
+1413. | 7007.11.20 --- Cocok untuk kendaraan udara atau kendaraan V V
+luar angkasa dari Bab 88
+1414. | 7007.11.90 --- Lain-lain V V
+1415. | 7007.19.10 --- Cocok untuk mesin dari pos 84.29 atau 84.30 V V
+1416. | 7007.19.90 --- Lain-lain V V
+1417. | 7007.21.10 --- Cocok untuk kendaraan dari Bab 87 V V
+1418. | 7007.21.20 --- Cocok untuk kendaraan udara atau kendaraan V V
+luar angkasa dari Bab 88
+1419. | 7007.21.90 --- Lain-lain V V
+1420. | 7007.29.10 --- Cocok untuk mesin dari pos 84.29 atau 84.30 V V
+1421. | 7007.29.90 --- Lain-lain V V
+XXIII. GARAM
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS bootcr
+1422. | 2501.00.10 - Garam meja Kebutuhan Bahan Baku | Penerbitan Persetujuan V V
+1423. | 2501.00.20 ~ Garam batu tidak diproses dan Bahan Penolong Impor berdasarkan: 7 7
+Industri a. Neraca Komoditas
+- Lain-lain: dalam hal Neraca
+1424. | 2501.00.91 -- Dengan kandungan natrium klorida lebih dari Komoditas telah V V
+

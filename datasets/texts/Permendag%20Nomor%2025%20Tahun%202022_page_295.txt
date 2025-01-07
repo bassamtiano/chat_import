@@ -1,0 +1,33 @@
+- 266 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+- Alas kaki olah raga:
+2225. | 6402.12.00 -- Bot ski, alas kaki ski untuk lintas alam dan V V
+bot papan luncur salju
+6402.19 -- Lain-lain:
+2226. | 6402.19.10 --- Alas kaki gulat J J
+2227. | 6402.19.90 --- Lain-lain V V
+2228. | 6402.20.00 - Alas kaki dengan tali pengikat atau tali kulit V V
+diatasnya dirakit pada sol dengan alat penusuk
+- Alas kaki lainnya:
+6402.91 -- Menutupi mata kaki:
+2229. | 6402.91.10 --- Sepatu selam J J
+--- Lain-lain:
+2230. | 6402.91.91 ---- Dilengkapi pelindung jari dari logam V V
+2231. | 6402.91.92 ---- Dilengkapi pelindung jari dari bukan logam V V
+2232. | 6402.91.99 ---- Lain-lain V V
+6402.99 -- Lain-lain
+2233. | 6402.99.10 --- Dilengkapi pelindung jari dari logam V V
+2234. | 6402.99.20 --- Dilengkapi pelindung jari dari bukan logam V V
+2235. | 6402.99.90 --- Lain-lain V V
+64.03 Alas kaki dengan sol luar dari karet, plastik,
+kulit samak atau kulit komposisi dan bagian
+atas sepatu dari kulit samak.
+- Alas kaki olah raga:
+2236. | 6403.12.00 -- Bot ski, alas kaki ski untuk lintas alam dan V V
+bot papan luncur salju
+6403.19 -- Lain-lain:
+2237. | 6403.19.10 --- Dilengkapi dengan spike, cleat atau V V
+
+sejenisnya
+

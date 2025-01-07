@@ -1,0 +1,37 @@
+- 142 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+8456.12 --Dioperasikan dengan sinar lainnya
+atau _sinar foton:
+433. | 8456.12.10 ---Dari jenis yang digunakan semata- V V V
+mata atau terutama untuk
+pembuatan printed circuit, printed
+circuit assembly, bagian dari pos
+85.17, atau bagian dari mesin
+pengolah data otomatis
+434. | 8456.12.90 --- Lain-lain v |v V
+435. | 8456.30.00 - Dioperasikan dengan proses V V V
+pelucutan elektro
+8456.40 - Dioperasikan dengan proses busur
+plasma:
+436. | 8456.40.20 -- Mesin pembersih plasma untuk V V V
+menghilangkan kontaminan organik
+dari spesimen mikroskop elektron
+dan pemegang specimen
+437. | 8456.40.90 -- Lain-lain Vv] ov V
+438. | 8456.50.00 - Mesin pemotong water-jet V V V
+8456.90 - Lain-lain:
+439. | 8456.90.90 -- Lain-lain v |v V
+84.57 Machining center, mesin
+konstruksi unit (single
+station) dan mesin transfer
+multi-station, untuk
+mengerjakan logam.
+8457.10 - Machining center:
+440. | 8457.10.10 -- Dari spindle dengan daya tidak V V V
+melebihi 4 kW
+441. | 8457.10.90 -- Lain-lain v |v V
+442. | 8457.20.00 - Mesin konstruksi unit (single- V V V
+
+station)
+

@@ -1,0 +1,82 @@
+- 546 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+digunakan semata-mata atau
+terutama untuk mendinginkan
+mikroprosesor, aparatus
+telekomunikasi, mesin pengolah
+data otomatis atau unit dari mesin
+pengolah data otomatis
+
+8414.60
+
+- Hood yang memiliki sisi horizontal
+maksimum tidak melebihi 120 cm;
+
+-- Dilengkapi dengan saringan:
+
+3389.
+
+8414.60.19
+
+--- Lain-lain
+
+PCE
+
+8414.70
+
+- Kabinet pengaman biologis kedap
+gas:
+
+-- Dilengkapi dengan saringan:
+
+3390.
+
+8414.70.11
+
+--- Memiliki hood dengan sisi
+horizontal maksimum tidak
+melebihi 120 cm
+
+PCE
+
+84.19
+
+Perlengkapan mesin, pabrik atau
+laboratorium, dipanaskan secara
+elektrik maupun tidak (tidak
+termasuk tanur, oven dan
+perlengkapan lain-nya dari pos
+85.14), untuk mengolah bahan
+dengan proses yang memerlukan
+perubahan suhu seperti
+memanaskan, memasak,
+memanggang, menyuling,
+rektifikasi, mensterilkan,
+mempasteurisasi, menguapkan,
+mengeringkan, mengevaporasi,
+menguapkan, mengkondensasi
+atau mendinginkan, selain mesin
+atau instalasi dari jenis yang
+

@@ -1,0 +1,39 @@
+-~ 84 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+
+473. | ex 4802.61.60 | --- Kertas multi lapis Berasal dari kayu V V
+--- lain-lain
+
+474. | ex 4802.61.91 ---- Beratnya lebih dari 150 Berasal dari kayu V V
+g/m2 tetapi kurang dari 225
+g/m?
+
+475. | ex 4802.61.99 | ---- Lain-lain Berasal dari kayu V V
+
+4802.62 -- Dalam lembaran dengan satu sisinya tidak
+
+melebihi 435 mm dan sisi lainnya tidak melebihi
+297 mm dalam keadaan tidak dilipat:
+--- Kertas hias dan kertas karton hias, berbentuk
+empat persegi panjang (termasuk bujur sangkar)
+dengan satu sisi 36 cm atau kurang dan sisi
+lainnya 15 cm atau kurang dalam keadaan tidak
+dilipat :
+
+476. | ex 4802.62.11 ---- Beratnya lebih dari 150 Berasal dari kayu V V
+g/m2 tetapi kurang dari 225
+g/m2
+
+477. | ex 4802.62.19 ---- Lain-lain Berasal dari kayu V V
+--- Kertas hias dan kertas karton hias lainnya
+
+478. | ex 4802.62.21 ---- Beratnya lebih dari 150 Berasal dari kayu V V
+g/m2 tetapi kurang dari 225
+g/m2
+
+479. | ex 4802.62.29 ---- Lain-lain Berasal dari kayu V V
+
+--- Dari jenis yang digunakan untuk menulis,
+mencetak dan keperluan grafik lainnya
+

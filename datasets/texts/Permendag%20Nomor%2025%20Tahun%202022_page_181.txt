@@ -1,0 +1,48 @@
+- 152 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+
+1241. 7321.81.00 -- Dengan bahan bakar gas atau gabungan gas V V
+dan bahan bakar lainnya
+
+1242. 7321.89.00 -- Lain-lain, termasuk peralatan dengan bahan V V
+bakar padat
+
+1243. 7321.90.21 --- Pembakar; komponen terbuat dari proses V V
+pencapan atau pengepresan
+
+1244. | 7321.90.29 --- Lain-lain Vv |v
+
+1245. 7321.90.90 -- Lain-lain Vv |v
+
+1246. | 7323.93.10 --- Perangkat dapur Vi] Vv
+
+1247. | 7323.93.90 --- Lain-lain viv
+
+1248. 7323.94.00 -- Dari besi (selain besi tuang) atau baja, V V
+dienamel
+
+1249. | 7323.99.10 --- Perangkat dapur Vi] Vv
+
+1250. | 7323.99.90 --- Lain-lain viv
+
+1251. 7324.10.10 -- Tempat cuci piring Vv |v
+
+1252. | 7324.10.90 -- Lain-lain viv
+
+1253. | 7324.90.91 --- Bagian dari tempat cuci piring atau bak mandi V [Vv
+
+1254. 7325.91.00 -- Bola penggerinda dan barang semacam itu V V
+untuk menggiling
+
+1255. 7326.11.00 -- Bola penggerinda dan barang semacam itu V V
+untuk menggiling
+
+1256. 7326.19.00 -- Lain-lain Vv |v
+
+1257. | 7326.20.70 -- Tirai dan kerai kawat v [Vv
+
+1258. | 7326.20.90 -- Lain-lain viv
+
+1259. | 7326.90.99 --- Lain-lain viv
+

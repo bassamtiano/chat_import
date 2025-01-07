@@ -1,0 +1,65 @@
+thf =
+
+TERMASUK
+NO. URAIAN BARANG SPESIFIKASI DALAM
+POS TARIF
+16 |Aparatus penerima Dikombinasikan dengan aparatus | 8527.91.90
+untuk penyiaran radio. | perekam atau pereproduksi suara.
+Selain penerima siaran | Tidak portabel.
+radio dapat
+dioperasikan tanpa
+sumber tenaga dari
+luar. Selain penerima
+siaran radio tidak dapat
+dioperasikan tanpa
+sumber tenaga dari
+luar, dari jenis yang
+digunakan dalam
+kendaraan bermotor.
+17. ‘| Buzzer - 8531.80.90
+18 | Fuse - 8536.10.99
+19 | Sakelar lainnya selain: | Selain dari jenis yang cocok untuk} 8536.50.99
+sekering, pemutus penggunaan dalam kipas elektrik.
+sirkuit otomatis, Selain sakelar pemindah dari jenis
+aparatus lainnya untuk | yang digunakan untuk
+melindungi sirkuit menghidupkan motor listrik;
+listrik, dan relai. selain sakelar sekering.
+20 "tampa filamen lainnya | Selain dari jenis: yang digunakan | 8539.29.90
+selain unit lampu untuk perlengkapan medis,
+sealed beam, tidak kendaraan bermotor, bola lampu
+termasuk lampu ultra- | reflektor, bola lampu senter; bola
+violet atau infra-merah. | lampu indikator miniatur,
+Selain tungsten mempunyai voltase sampai 2,25
+halogen. Selain lampu_ | V. Dengan kapasitas melebihi
+dengan daya tidak 300W.
+melebihi 200 W dan
+voltase melebihi 100.
+21 ‘| Point Machine Mesin Penggerak Wessel 8608.00.20
+menggunakan motor listrik untuk
+mendorong dan menarik setang
+penggerak (driving rod)
+22 | Evaluator Perangkat sistem yang bekerja 8608.00.20
+sama dengan wheel detector
+untuk menghitung jumlah roda
+dan menentukan masuk atau
+keluar roda pada batas track
+section
+23 | Wheel Detector Perangkat sistem yang berfungsi 8608.00.20
+sebagai sensor untuk membaca
+dan mendeteksi roda kereta dan
+arah pergerakannya, dengan
+metode elektro-magnetik
+24 |Aparatus perekam Meteran parkir 9106.90.10
+waktu dan aparatus
+untuk mengukur,
+merekam atau
+menunjukkan interval
+waktu secara lain,
+dengan penggerak jam
+atau penggerak arloji
+atau dengan motor
+sinkron (misalnya
+pencatat waktu,
+perekam waktu).
+
+wiv jth kemenkeu. godt /

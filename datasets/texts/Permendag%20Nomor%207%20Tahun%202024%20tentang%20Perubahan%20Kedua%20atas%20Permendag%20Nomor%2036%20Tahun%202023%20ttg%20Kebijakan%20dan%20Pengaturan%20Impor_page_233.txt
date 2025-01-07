@@ -1,0 +1,42 @@
+- 218 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+-- Kulit kerang atau tempurung kura-kura dapat dilakukan dalam
+dikerjakan dan barang daripadanya hal perubahan identitas
+760. | 9601.90.12 --- Nukleus Mutiara import, HS a parang, V V
+761. | 9601.90.19 __| --- Lain-lain pos tarif/HS, jumlah, 7 v
+
+satuan, negara asal,
+pelabuhan muat,
+pelabuhan tujuan
+dan/atau keterangan/
+spesifikasi:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan:
+
+1. PI Calon Induk, Induk,
+Benih Ikan, dan/atau
+Inti Mutiara Negara
+Non-WOAH (API-P)
+yang masih berlaku;
+dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI Calon Induk, Induk,
+Benih Ikan, dan/atau
+Inti Mutiara Negara
+Non-WOAH (API-P)
+yang masih berlaku;
+

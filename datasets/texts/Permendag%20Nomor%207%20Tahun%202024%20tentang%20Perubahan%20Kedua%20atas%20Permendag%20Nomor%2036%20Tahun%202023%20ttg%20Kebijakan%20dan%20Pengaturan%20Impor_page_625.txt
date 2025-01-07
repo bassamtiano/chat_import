@@ -1,0 +1,80 @@
+- 610 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+U):
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan:
+
+1. IT NC (API-U) yang
+masih berlaku;
+
+2. PI NC (API-U) yang
+masih berlaku;
+
+3. Surat pernyataan yang
+menjelaskan alasan
+perpanjangan yang
+dibuktikan dengan
+informasi secara
+tertulis dari penyedia
+alat angkut yang
+menyatakan alasan
+keterlambatan
+kedatangan barang
+yang diakibatkan oleh
+keadaan tertentu; dan
+
+4. Bill of Lading (B/L)
+atau Airway Bill (AWB)
+terhadap barang yang
+telah dimuat pada alat
+angkut.
+
+PI BARU
+
+PI NC (API-P):
+
+sarana pengangkut,
+Barang pelintas batas,
+Barang pindahan
+Warga Negara
+Indonesia dan Warga
+Negara Asing, dan
+Barang kiriman
+jemaah haji melalui
+penyelenggara pos.
+
+Verifikasi atau
+Penelusuran Teknis Impor
+(VPTI) dilakukan di:
+
+a. negara muat;
+
+b. pelabuhan muat; atau
+c. negara asal barang,
+
+di luar negeri.
+

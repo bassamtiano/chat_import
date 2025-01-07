@@ -1,0 +1,234 @@
+a EP =
+
+514
+
+515
+
+516
+
+519
+
+520
+521
+
+522
+
+523
+
+524
+
+525
+526
+
+527
+
+528
+529
+
+530
+
+531
+
+532
+
+533
+
+534
+
+535
+
+536
+
+537
+
+538
+
+539
+
+540
+
+541
+
+542
+
+8703.70.42
+
+8703.70.43
+
+8703.70.44
+
+8703.70.45
+
+8703.70.46
+
+8703.70.47
+
+8703.70.51
+8703.70.52
+
+8703.70.53
+
+8703.70.54
+
+8703.70.55
+
+8703.70.56
+8703.70.57
+
+8703.70.58
+
+8703.70.61
+8703.70.62
+
+8703.70.63
+
+8703.70.64
+
+8703.70.65
+
+8703.70.66
+
+8703.70.67
+
+8703.70.71
+
+8703.70.72
+
+8703.70.73
+
+8703.70.74
+
+8703.70.75
+
+8703.70.76
+
+8703.70.77
+
+8703.70.81
+
+- - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi
+melebihi 1.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi
+melebihi 1.800 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi
+melebihi 2.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi
+melebihi 2.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi
+melebihi 3.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 3.000 cc
+
+--- Van tahanan :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi
+melebihi 1.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi
+melebihi 1.800 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi
+melebihi 2.500 cc
+
+- --- Dengan kapasitas silinder melebihi 2.500 cc
+
+- - - Karavan :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi
+melebihi 2.000 cc
+
+---- Dengan kapasitas silinder melebihi 2.000 cc
+
+--- Sedan:
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi
+melebihi 1.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi
+melebihi 1.800 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi
+melebihi 2.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi
+melebihi 2.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi
+melebihi 3.000 cc
+
+- --- Dengan kapasitas silinder melebihi 3.000 cc
+
+- - - Mobil lainnya (termasuk station wagon dan mobil sport,
+tidak termasuk van), berpenggerak empat roda :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi
+melebihi 1.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi
+melebihi 1.800 cc
+
+- - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi
+melebihi 2.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi
+melebihi 2.500 cc
+
+- - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi
+melebihi 3.000 cc
+
+- - - - Dengan kapasitas silinder melebihi 3.000 cc
+
+- - - Mobil lainnya (termasuk station wagon dan mobil sport,
+tidak termasuk van), bukan berpenggerak empat roda :
+
+- - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+tidak
+tidak
+tidak
+tidak
+
+tidak
+
+tidak
+tidak
+
+tidak
+
+tidak
+
+tidak
+tidak
+tidak
+tidak
+
+tidak
+
+tetapi
+
+tidak
+tidak
+tidak
+tidak
+
+tidak
+
+tetapi
+
+ad
+
+www.jdih.kemenke
+
+o.id

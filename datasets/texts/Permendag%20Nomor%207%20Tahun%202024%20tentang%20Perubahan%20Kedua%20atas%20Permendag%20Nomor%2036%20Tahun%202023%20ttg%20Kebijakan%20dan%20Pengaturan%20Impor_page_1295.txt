@@ -1,0 +1,19 @@
+-~ 94 -
+
+Catatan:
+
+1. Barang Komplementer adalah barang manufaktur yang diimpor oleh perusahaan pemilik API-P dengan tujuan untuk melengkapi lini
+produk, yang berasal dari dan dihasilkan oleh perusahaan di luar negeri yang memiliki hubungan istimewa dengan perusahaan pemilik
+API-P.
+
+2. Barang untuk Keperluan Tes Pasar adalah barang manufaktur yang diimpor dan belum dapat diproduksi oleh perusahaan pemilik API-
+P dengan tujuan untuk mengetahui reaksi pasar dan digunakan dalam rangka pengembangan usahanya dalam jangka waktu tertentu.
+
+3. Barang untuk keperluan Pelayanan Purna Jual adalah barang manufaktur yang diimpor oleh perusahaan pemilik API-P dengan tujuan
+untuk menjamin ketersediaan suku cadang, produk pengganti, dan penggantian produk yang terkait dengan produk utamanya.
+
+4. Hubungan Istimewa adalah hubungan antara perusahaan pemilik API-P dengan perusahaan yang berada di luar negeri dimana salah
+satu pihak mempunyai kemampuan mengendalikan pihak lain atau mempunyai pengaruh signifikan atas pihak lain sesuai standar
+akuntansi yang berlaku.
+
+5. BK = Barang Komplementer; BTP = Barang untuk Keperluan Tes Pasar; dan BPJ = Barang untuk Keperluan Pelayanan Purna Jual

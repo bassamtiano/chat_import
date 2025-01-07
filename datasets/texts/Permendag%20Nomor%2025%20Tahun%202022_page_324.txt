@@ -1,0 +1,26 @@
+- 295 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2507. | 6116.93.00 -- Dari serat sintetik
+2508. | 6116.99.00 -- Dari bahan tekstil lainnya V
+61.17 Aksesori pakaian jadi lainnya, rajutan atau
+kaitan; bagian dari garmen atau dari aksesori
+pakaian, rajutan atau kaitan.
+6117.10 - Syal, scarf, muffler, mantilla, veil dan sejenisnya
+2509. | 6117.10.10 -- Dari kapas
+2510. | 6117.10.90 -- Lain-lain
+6117.80 - Aksesori lainnya:
+-- Dasi, dasi kupu- kupu dan cravat:
+2511. | 6117.80.11 --- Dari wol atau bulu hewan halus V V V
+2512. | 6117.80.19 --- Lain-lain Vv |v V
+2513. | 6117.80.20 -- Wrist band, knee band atau ankle band J V J
+2514. | 6117.80.90 -- Lain-lain Vv |v V
+2515. | 6117.90.00 - Bagian viv Vv
+62.01 Mantel panjang, car-coat, jubah bertopi, cloak,
+anorak (termasuk jaket-ski), wind-cheater,
+wind-jacket dan barang semacam itu, untuk
+pria atau anak laki-laki, selain yang dimaksud
+dalam pos 62.03.
+6201.20 - Dari wol atau bulu hewan halus :
+2516. | 6201.20.10 -- Mantel panjang, mantel hujan, car-coat, cloak, V V V
+

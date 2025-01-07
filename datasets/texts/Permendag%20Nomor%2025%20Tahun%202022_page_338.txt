@@ -1,0 +1,26 @@
+- 309 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2643. | 6211.12.00 -- Untuk wanita atau anak perempuan
+2644. | 6211.20.00 - Ski suit V
+- Garmen lainnya, untuk pria atau anak laki- laki:
+6211.32 -- Dari kapas:
+2645. | 6211.32.10 --- Pakaian untuk olah raga anggar atau gulat V |v
+2646. | 6211.32.20 --- Kain ihram
+2647. | 6211.32.90 --- Lain-lain
+6211.33 -- Dari serat buatan:
+2648. | 6211.33.10 --- Pakaian untuk olah raga anggar atau gulat V V
+2649. | 6211.33.20 --- Pakaian yang digunakan untuk pelindung dari V V
+api
+2650. | 6211.33.30 ~ Pakaian yang digunakan untuk pelindung dari V V V
+bahan kimia atau radiasi
+2651. | 6211.33.40 --- Kain ihram
+2652. | 6211.33.90 --- Lain-lain
+6211.39 -- Dari bahan tekstil lainnya:
+2653. | 6211.39.10 --- Pakaian untuk olah raga anggar atau gulat V V
+2654. | 6211.39.20 --- Pakaian yang digunakan untuk pelindung dari V V
+api
+2655. | 6211.39.30 ~ Pakaian yang digunakan untuk pelindung dari V V V
+
+bahan kimia atau radiasi
+

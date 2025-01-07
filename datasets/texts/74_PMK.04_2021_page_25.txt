@@ -1,0 +1,57 @@
+-~25 -
+
+PPnBM dihitung dengan menggunakan rumus:
+% PPnBM x (nilai CIF dalam Rupiah + Bea Masuk + Cukai)
+5) PPh
+Diisi dengan jumlah keseluruhan hasil perhitungan PPh dalam
+ribuan Rupiah penuh.
+PPh dihitung dengan menggunakan rumus:
+% PPh Pasal 22 x (nilai CIF dalam Rupiah + Bea Masuk + Cukai)
+Contoh:
+Nilai CIF seluruh barang impor adalah Rp1.000.000.000,00.
+Barang impor bukan BKC dan tidak memiliki pungutan PPnBM.
+Bea Masuk : 10% x Rp100.000.000,00
+= Rp10.000.000,00
+
+Cukai Doe
+
+PPN : 10% x (Rp100.000.000,00 + Rp10.000.000,00)
+= Rp11.000.000,00
+
+PPnBM :o-
+
+PPh : 2,5% x (Rp100.000.000,00 + Rp10.000.000,00)
+
+= Rp2.750.000,00
+
+Lembar Lanjutan Permohonan Pengeluaran Barang Impor Untuk Dipakai
+
+Dengan Pelayanan Segera (Rush Handling)
+
+1.
+
+Pos Tarif/HS
+
+Diisi pada kolom yang disediakan dengan nomor pos tarif/HS code
+berdasarkan Buku Tarif dan Klasifikasi Indonesia yang berlaku.
+Contoh:
+
+Pos Tarif/HS : 0407.11.90
+
+Uraian Jenis Barang
+
+Diisi uraian barang secara lengkap meliputi jenis, jumlah, merek,
+tipe, ukuran dan spesifikasi lainnya. Pengisian uraian jumlah dan
+jenis barang harus diisi secara jelas dan lengkap, sehingga dengan
+uraian barang tersebut dapat ditetapkan klasifikasi dari barang
+impor.
+
+Uraian jenis barang harus dilengkapi dengan spesifikasi wajib apabila
+barang dimaksud memerlukan spesifikasi tertentu agar dapat
+ditentukan tarif atau ketentuan larangan atau pembatasan.
+
+Contoh:
+
+IRON FORTIFIED CALF SERUM US ORIGIN 500ML/BTL BAIK/BARU
+
+www jdin:kemenkeu.ge id?

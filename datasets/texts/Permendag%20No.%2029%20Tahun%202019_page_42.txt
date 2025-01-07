@@ -1,0 +1,72 @@
+POS TARIF /
+aaa URAIAN BARANG KETERANGAN
+| (1) | 2 3 4
+
+|| gulaataubahanpemanislainnya[—‘“—t‘—s~S~SCSCSd
+0402.99.00 |--Lain-lan  —“‘~idSC“‘ CSNCO!C#O#®C
+
+04.03 Susu mentega, susu dan kepala susu dikentalkan,
+yoghurt, kefir dan susu dan krim difermentasi atau
+diasamkan lainnya, dipekatkan atau mengandung
+tambahan gula atau bahan pemanis lainnya atau diberi
+rasa atau mengandung tambahan buah-buahan, biji-
+bijian atau kakao maupun tidak
+
+|__| 0403.10
+| [| sis
+
+15. | 0403.10.21
+
+-- Dalam bentuk cair, dikentalkan maupun tidak:
+---Diberi rasa atau mengandung
+tambahan buah-buahan
+(termasuk pulp dan selai),
+kacang-kacangan atau kakao
+
+--- Diberi rasa atau mengandung tambahan buah-
+buahan (termasuk pulp dan selai), kacang-kacangan
+atau kakao
+
+16. | 0403.10.29
+
+17. | 0403.10.91 ---Diberi rasa atau mengandung
+tambahan buah-buahan
+(termasuk pulp dan selai),
+
+kacang-kacangan atau kakao
+
+0403.90
+. | 0403.90.10 |--Susumentega sd
+. | 0403.90.90 [--Lain-lain CEC S™C™~SCSY
+
+04.04 Whey, dipekatkan atau mengandung tambahan gula
+atau bahan pemanis lainnya maupun tidak; produk
+terdiri dari susu alam sebagai unsur utama,
+
+mengandung tambahan gula, bahan pemanis lainnya
+maupun tidak, tidak dirinci atau termasuk dalam pos
+lainnya.
+
+0404.10 - Whey dan whey yang dimodifikasi, dipekatkan atau
+mengandung tambahan gula atau bahan pemanis
+lainnya maupun tidak:
+
+21. | 0404.10.10 ---Dalam bentuk bubuk P|
+
+3. [0404.90.00 [Tainan Si
+04.
+
+Mentega dan lemak serta minyak lainnya yang diperoleh
+dari susu; dairy spreads.
+
+[0405.10.00 |-Mentega ss SCS~*SY
+
+[0405.90 [-Lain-lain: OC—~—“—sSSSSCSSCS
+
+ND]
+ow c
+
+Nj Nido
+
+3
+

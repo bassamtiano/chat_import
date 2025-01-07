@@ -1,0 +1,61 @@
+= 5O =
+
+677 | 6212.90.12 - - - Perlengkapan atletik
+678 | 6212.90.19 - - - Lain-lain
+- - Dari bahan tekstil lainnya :
+679 | 6212.90.92 - - - Perlengkapan atletik
+680 | 6212.90.99 - - - Lain-lain
+62.13 Saputangan.
+6213.20 - Dari kapas :
+681 | 6213.20.10 - - Dicetak dengan proses batik tradisional
+682 | 6213.20.90 - - Lain-lain
+6213.90 - Dari bahan tekstil lainnya :
+- - Dari sutra atau sisa sutra :
+683 | 6213.90.11 - - - Dicetak dengan proses batik tradisional
+684 | 6213.90.19 - - - Lain-lain
+- - Lain-lain :
+685 | 6213.90.91 - - - Dicetak dengan proses batik tradisional
+686 | 6213.90.99 - - - Lain-lain
+62.14 Syal, scarf, muffler, mantilla, veil dan sejenisnya.
+6214.10 - Dari sutra atau sisa sutra :
+687 | 6214.10.10 - - Dicetak dengan proses batik tradisional
+688 | 6214.10.90 - - Lain-lain
+689 6214.20.00 - Dari wol atau bulu hewan halus
+6214.30 - Dari serat sintetik :
+690 | 6214.30.10 - - Dicetak dengan proses batik tradisional
+691 6214.30.90 - - Lain-lain
+6214.40 - Dari serat artifisial :
+692 | 6214.40.10 - - Dicetak dengan proses batik tradisional
+693 | 6214.40.90 - - Lain-lain
+6214.90 - Dari bahan tekstil lainnya :
+694 | 6214.90.10 - - Dicetak dengan proses batik tradisional
+695 | 6214.90.90 - - Lain-lain
+62.16 Sarung tangan, mitten dan mitt.
+696 | 6216.00.10 - Sarung tangan, mitten dan mitt pelindung kerja
+- Lain-lain :
+697 | 6216.00.91 - - Dari wol atau bulu hewan halus
+698 | 6216.00.92 - - Dari kapas
+699 | 6216.00.99 - - Lain-lain
+SUB-BAB I
+BARANG TEKSTIL SUDAH JADI LAINNYA
+63.01 Selimut dan selimut kecil untuk perjalanan.
+700 | 6301.10.00 - Selimut listrik
+701 | 6301.20.00 - Selimut (selain selimut listrik) dan selimut kecil untuk perjalanan,
+dari wol atau dari bulu hewan halus
+6301.30 - Selimut (selain selimut listrik) dan selimut kecil untuk perjalanan,
+dari kapas :
+702 | 6301.30.10 - - Dicetak dengan proses batik tradisional
+703 | 6301.30.90 - - Lain-lain
+6301.40 - Selimut (selain selimut listrik) dan selimut kecil untuk perjalanan,
+dari serat sintetik :
+704 | 6301.40.10 - - Dari kain bukan tenunan
+705 | 6301.40.90 - - Lain-lain
+6301.90 - Selimut dan selimut kecil untuk perjalanan lainnya :
+706 | 6301.90.10 - - Dari kain bukan tenunan
+707 | 6301.90.90 - - Lain-lain
+63.02 Linen untuk tempat tidur, meja, toilet dan dapur.
+708 | 6302.10.00 - Linen untuk tempat tidur, rajutan atau kaitan
+
+www jdih. kemenked.
+
+la

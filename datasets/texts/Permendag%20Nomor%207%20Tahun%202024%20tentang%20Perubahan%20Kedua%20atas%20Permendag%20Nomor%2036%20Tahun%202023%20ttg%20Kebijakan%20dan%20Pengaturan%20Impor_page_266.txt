@@ -1,0 +1,47 @@
+- 251 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+
+TNE;
+KGM
+
+1082. | 7308.20.11 --- Modular prapabrikasi dari jenis | PCE; V V
+yang disambung dengan konektor TNE;
+gunting KGM
+
+1083. | 7308.20.19 --- Lain-lain PCE; Vv |v
+TNE;
+KGM
+
+1084. | 7308.20.21 --- Modular prapabrikasi dari jenis | PCE; V V
+yang disambung dengan konektor TNE;
+gunting KGM
+
+1085. | 7308.20.29 --- Lain-lain PCE; Vv |v
+TNE;
+KGM
+
+1086. | 7308.30.10 -- Pintu, dengan ketebalan 6 mm PCE; Vv |v
+atau lebih tetapi tidak melebihi 8 TNE;
+mm KGM
+
+1087. | 7308.30.90 -- Lain-lain PCE; Viv
+TNE;
+KGM
+
+1088. | 7308.40.10 -- Modular prapabrikasi dari jenis PCE; V V
+yang disambung dengan konektor TNE;
+gunting KGM
+
+1089. | 7308.40.90 -- Lain-lain PCE; Vv |v
+TNE;
+KGM
+
+1090. | 7308.90.20 -- Modular prapabrikasi dari jenis PCE; V V
+yang disambung dengan konektor TNE;
+gunting KGM
+
+1091. | 7308.90.40 -- Pelat atau lembaran PCE; Vv |v
+bergelombang dan melengkung TNE;
+

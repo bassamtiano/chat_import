@@ -1,0 +1,90 @@
+- 69 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+maupun tidak.
+
+- Konduktor listrik lainnya, untuk
+voltase tidak melebihi 1.000 V:
+
+8544.42
+
+-- Dilengkapi dengan konektor:
+
+--- Lain-lain:
+
+256.
+
+ex 8544.42.99
+
+---- Lain-lain Hanya untuk
+Kabel Power
+dengan Konektor
+
+untuk mesin ATM
+
+90.11
+
+Mikroskop optik gabungan,
+termasuk yang untuk
+fotomikrografi, sinefotomikrografi
+atau mikroproyeksi.
+
+257.
+
+9011.20.00
+
+- Mikroskop lainnya, untuk
+fotomikrografi, sinefotomikrografi atau
+mikroproyeksi
+
+90.15
+
+Instrumen dan peralatan survei
+(termasuk survei
+photogrammetrical), hidrografi,
+oseanografi, hidrologi, meteorologi
+atau geofisika, tidak termasuk
+kompas; pengukur jarak.
+
+9015.80
+
+- Instrumen dan perlengkapan
+lainnya:
+
+258.
+
+9015.80.90
+
+-- Lain-lain
+
+90.24
+
+Mesin dan peralatan untuk menguji
+kekerasan, kekuatan, kepadatan,
+elastisitas atau sifat mekanis
+lainnya dari suatu bahan (misalnya,
+logam, kayu, tekstil, kertas,
+plastik).
+
+9024.10
+
+- Mesin dan peralatan untuk menguji
+

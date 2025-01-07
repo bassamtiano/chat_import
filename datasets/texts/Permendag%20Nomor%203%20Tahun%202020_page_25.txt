@@ -1,0 +1,59 @@
+95. 2020, No.80
+
+7216.91.10 --- Angle, selain slotted angle, mengandung karbon 0,6
+% atau lebih menurut beratnya
+7210.91.90 ~~ - Lain-lain
+7216.99.00 Lain-lain
+202 | 7217.10.10 - - Mengandung karbon kurang dari 0,25 % menurut
+beratnya
+7217.10.22 - - - Kawat ban; reed wire; kawat dari jenis yang
+digunakan untuk membuat pilinan kawat beton pra-
+tekan; kawat baja free cutting
+7217.10.29 _|---Lain-lain
+205 | 7217.10.33 - - - Kawat dari jenis yang digunakan untuk membuat
+pilinan kawat beton pra-tekan
+206 | 7217.10.32 - - - Jari-jari sepeda; kawat ban; reed wire; kawat baja
+free cutting
+7217.10.39 - - - Lain-lain
+208 | 7217.20.10 - - Mengandung karbon kurang dari 0,25 % menurut
+beratnya
+- - Mengandung karbon 0,25 % atau lebih tetapi kurang
+dari 0,45 % menurut beratnya
+210 | 7217.20.99 | --- Lain-lain
+7217.30.19 - - - Lain-lain
+7217.30.29 - - - Lain-lain
+7217.30.34 - - - Kawat baja dilapisi paduan tembaga lainnya dari
+jenis yang digunakan dalam pembuatan ban karet
+pneumatik
+
+214 --- Lain-lain, disepuh atau dilapisi dengan timah
+72173039
+
+216 | 7217.90.10 - - Mengandung karbon kurang dari 0,25 % menurut
+beratnya
+
+317
+218
+
+7304.24.10 - - - Casing dan tubing dengan yield strength kurang
+dari 80.000 psi dan ujungnya tidak diulir
+
+226 - - - Casing dan tubing dengan yield strength kurang
+dari 80.000 psi dan ujungnya tidak diulir
+
+228 | 7304.31.10 - - - Drillrod casing dan tubing dengan pin dan box
+thread
+
+229 - - - Pipa tekanan tinggi mampu menahan tekanan tidak
+kurang dari 42.000 psi
+
+230 | 7304.31.40 - - - Lain-lain, mempunyai diameter luar kurang dari
+140 mm dan mengandung karbon kurang dari 0,45 %
+
+menurut beratnya
+
+7304.31.90 - - - Lain-lain
+
+232 | 7304.39.20 --- Pipa tekanan tinggi mampu menahan tekanan tidak
+
+www.peraturan.go.id

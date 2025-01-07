@@ -1,0 +1,97 @@
+- 607 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+dapat dilakukan dalam
+hal perubahan identitas
+Importir, uraian barang,
+pos tarif/HS, jumlah,
+satuan, negara asal,
+negara muat, pelabuhan
+tujuan dan/atau
+keterangan/ spesifikasi:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan persyaratan
+Perubahan PI NC (API-U)
+berupa :
+
+1. PI NC (API-U) yang
+masih berlaku;
+
+2. IT NC yang
+mengalamai
+perubahan, dalam hal
+terdapat perubahan
+identitas Importir; dan
+
+3. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan, persyaratan
+berupa Data Tersedia
+sebagai berikut:
+
+Dalam hal perubahan
+identitas:
+1. PI NC (API-U) yang
+
+Perpanjangan PI paling
+lama 30 (tiga puluh) hari
+kalender, terhitung
+setelah berakhirnya masa
+berlaku PI.
+
+Perpanjangan PI NC (API-P
+
+atau API-U) hanya dapat
+
+diajukan dalam hal:
+
+1. Barang telah dimuat
+pada alat angkut; dan
+
+2. Terjadi keterlambatan
+kedatangan Barang
+yang diakibatkan oleh
+keadaan tertentu
+berupa: keadaan
+kahar, bencana
+kemanusiaan, bencana
+alam, gangguan teknis
+alat angkut, dan/atau
+keadaan lain yang
+mengakibatkan
+keterlambatan
+kedatangan.
+
+KETENTUAN LAIN-LAIN
+
+Perubahan satuan barang
+dan/atau Pos Tarif/HS
+terhadap suatu nomor seri
+barang dalam PI NC (API-P
+atau API-U) hanya dapat
+dilakukan selama:
+

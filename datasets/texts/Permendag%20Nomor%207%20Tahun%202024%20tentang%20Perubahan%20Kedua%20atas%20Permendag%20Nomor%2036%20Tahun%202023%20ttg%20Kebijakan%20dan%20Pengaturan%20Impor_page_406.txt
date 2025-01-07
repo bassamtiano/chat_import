@@ -1,0 +1,35 @@
+- 391 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+1911. | 1806.20.10 -- Kembang gula coklat berbentuk balok, V
+lempeng atau batang
+1912. | 1806.20.90 -- Lain-lain V V
+- Lain-lain, dalam bentuk balok, lempeng atau
+batang:
+1913. | 1806.31.00 -- Diisi: V V
+1914. | 1806.32.00 -- Tidak diisi V V
+1806.90 - Lain-lain:
+1915. | 1806.90.10 -- Kembang gula coklat bentuk tablet atau V V
+pastiles
+1916. | 1806.90.30 -- Olahan makanan dari tepung, tepung kasar, V V
+pati atau ekstrak malt,mengandung kakao 40%
+atau lebih tetapi kurang dari 50 % menurut
+beratnya dihitung atas dasar kakao yang
+dihilangkan seluruh lemaknya
+1917. | 1806.90.40 -- Olahan makanan dari pos 04.01 sampai V V
+dengan 04.04, mengandung kakao 5 % atau
+lebih tetapi kurang dari 10 % menurut
+beratnya, diolah secara khusus untuk
+keperluan bayi atau anak-anak, tidak
+disiapkan untuk penjualan eceran
+1918. | 1806.90.90 -- Lain-lain V V
+19.01 Ekstrak malt; olahan makanan dari tepung,
+
+menir, tepung kasar, pati atau ekstrak malt,
+tidak mengandung kakao atau mengandung
+kakao kurang dari 40 % menurut beratnya
+yang dihitung atas dasar kakao yang
+dihilangkan seluruh lemaknya, tidak dirinci
+atau termasuk pos lainnya; olahan makanan
+dari pos 04.01 sampai dengan 04.04, tidak
+

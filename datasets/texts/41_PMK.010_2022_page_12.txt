@@ -1,0 +1,69 @@
+-12-
+
+- Barang kaca lainnya :
+
+156 | 7013.91.00 - - Dari kristal timbal
+
+71.14 Barang hasil tempaan pandai emas atau pandai perak dan
+bagiannya, dari logam mulia atau dari logam yang dipalut dengan
+logam mulia.
+
+- Dari logam mulia, disepuh atau dipalut dengan logam mulia
+maupun tidak :
+
+157 | 7114.19.00 - - Dari logam mulia lainnya, disepuh atau dipalut dengan logam
+mulia maupun tidak
+158 | 7114.20.00 - Dari logam tidak mulia dipalut dengan logam mulia
+71.15 Barang lainnya dari logam mulia atau dari logam yang dipalut
+dengan logam mulia.
+159 | 7115.10.00 - Katalis dalam bentuk kasa kawat atau anyaman kisi, dari platina
+7115.90 - Lain-lain :
+160 | 7115.90.10 - - Dari emas atau perak
+161 | 7115.90.20 - - Dari logam yang dipalut dengan emas atau perak
+162 | 7115.90.90 - - Lain-lain
+71.16 Barang dari mutiara alam atau mutiara budidaya, batu mulia atau
+batu semi mulia (alam, sintetik atau direkonstruksi).
+163 7116.10.00 - Dari mutiara alam atau budidaya
+164 7116.20.00 - Dari batu mulia atau batu semi mulia (alam, sintetik atau
+direkonstruksi)
+73.21 Tungku, kompor, tungku terbuka, alat masak (termasuk tungku
+
+dengan ketel tambahan untuk pemanasan sentral), panggangan
+besar, anglo, gelang gas, piring pemanas, dan peralatan rumah
+tangga tanpa listrik semacam itu, dan bagiannya, dari besi atau
+
+baja.
+- Peralatan masak dan piring pemanas :
+165 | 7321.11.00 - - Dengan bahan bakar gas atau gabungan gas dan bahan bakar
+lainnya
+7321.19 - - Lain-lain, termasuk peralatan dengan bahan bakar padat :
+166 | 7321.19.10 - - - Dengan bahan bakar padat
+167 | 7321.19.90 - - - Lain-lain
+- Peralatan lainnya :
+168 | 7321.81.00 - - Dengan bahan bakar gas atau gabungan gas dan bahan bakar
+lainnya
+169 7321.89.00 - - Lain-lain, termasuk peralatan dengan bahan bakar padat
+84.13 Pompa untuk cairan, dilengkapi dengan alat ukur maupun tidak;
+
+elevator cairan.
+
+8413.70 - Pompa sentrifugal lainnya :
+- - Pompa air lainnya, dengan flow rate tidak melebihi 8.000 m3/jam
+
+170 8413.70.42 - - - Dengan ukuran diameter inlet tidak melebihi 200 mm,
+dioperasikan secara elektrik
+- - Lain-lain :
+171 | 8413.70.91 - - - Dengan ukuran diameter inlet tidak melebihi 200 mm
+- Pompa lainnya; elevator cairan :
+8413.81 - - Pompa :
+172 | 8413.81.13 - - - Pompa air dengan flow rate tidak melebihi 8.000 m3/jam,
+
+dioperasikan secara elektrik
+
+84.14 Pompa udara atau pompa vakum, kompresor udara atau
+kompresor gas lainnya dan kipas angin atau kipas gas lainnya;
+hood ventilasi atau hood daur ulang yang digabung dengan kipas,
+dilengkapi dengan saringan maupun tidak; kabinet pengaman
+biologis kedap gas, dilengkapi dengan saringan maupun tidak.
+
+vn nsec

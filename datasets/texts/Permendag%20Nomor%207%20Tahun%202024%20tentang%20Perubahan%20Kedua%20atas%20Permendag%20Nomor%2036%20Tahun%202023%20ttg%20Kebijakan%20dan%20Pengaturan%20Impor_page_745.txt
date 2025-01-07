@@ -1,0 +1,107 @@
+-25-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+elektrik
+
+84.25
+
+Katrol dan kerekan, selain kerekan
+skip; derek dan kapstan; dongkrak.
+
+- Katrol dan kerekan selain kerekan
+skip atau kerekan dari jenis yang
+digunakan untuk mengangkat
+kendaraan:
+
+30.
+
+8425.11.00
+
+-- Digerakkan dengan motor listrik
+
+- Derek; kapstan:
+
+31.
+
+8425.31.00
+
+-- Digerakkan dengan motor listrik
+
+- Dongkrak; kerekan dari jenis yang
+digunakan untuk mengangkat
+kendaraan:
+
+8425.42
+
+-- Dongkrak dan kerekan lainnya,
+hidrolik:
+
+8425.49
+
+-- Lain-lain:
+
+32.
+
+8425.49.10
+
+--- Dioperasikan secara elektrik
+
+84.26
+
+Derek kapal; crane, termasuk crane
+kabel; rangka pengangkat yang
+dapat berpindah, straddle carrier
+dan truk kerja yang dilengkapi
+crane.
+
+- Overhead traveling crane,
+transporter crane, gantry crane,
+bridge crane, rangka pengangkat yang
+dapat berpindah dan straddle carrier:
+
+33.
+
+8426.12.00
+
+-- Rangka pengangkat yang dapat
+berpindah dengan roda dan straddle
+carrier
+
+8426.19
+
+-- Lain-lain:
+
+34.
+
+8426.19.90
+
+--- Lain-lain
+
+- Mesin lainnya, berdaya gerak
+
+daerah pabean ke KPBPB,
+KEK dan TPB,
+pelaksanaan Verifikasi
+atau Penelusuran Teknis
+Impor untuk BMTB dapat
+dilakukan di KPBPB, KEK
+dan TPB.
+

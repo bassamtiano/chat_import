@@ -1,0 +1,49 @@
+- 569 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+3926.20 - Pakaian dan aksesori pakaian (termasuk
+
+sarung tangan, mitten dan mitt):
+
+3565. | 3926.20.10 -- Sarung tangan; celemek; celemek dada bayi V V
+
+3566. | 3926.20.20 -- Bantalan atau pelindung bahu V V
+
+3567. | 3926.20.30 -- Bantalan lainnya untuk pakaian atau V V
+aksesori pakaian
+
+3568. | 3926.20.60 -- Pakaian yang digunakan untuk pelindung V V
+dari zat kimia, radiasi atau api
+
+3569. | 3926.20.90 -- Lain-lain V V
+
+3570. | 3926.30.00 - Alat kelengkapan untuk perabotan, V V
+coachwork atau sejenisnya
+
+3571. | 3926.40.00 - Patung dan barang pajangan lainnya V V
+
+3926.90 - Lain-lain:
+
+3572. | 3926.90.10 -- Pengapung untuk jaring penangkap ikan V V
+
+3573. | 3926.90.20 -- Kipas dan handscreen, bingkai dan V V
+gagangnya, serta bagian-bagiannya
+-- Barang higienis, medis dan bedah:
+
+3574. | 3926.90.32 --- Cetakan plastik untuk membuat gigi palsu V V
+
+3575. | 3926.90.39 --- Lain-lain V V
+-- Alat keselamatan dan pelindung:
+
+3576. | 3926.90.41 --- Tameng polisi V V
+
+3577. | 3926.90.42 --- Masker pelindung untuk dipakai dalam V V
+mengelas dan pekerjaan semacam itu
+
+3578. | 3926.90.44 --- Bantalan keselamatan untuk perlindungan V V
+orang yang jatuh dari ketinggian
+
+3579. | 3926.90.49 --- Lain-lain V V
+
+-- Barang industri:
+

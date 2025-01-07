@@ -1,0 +1,37 @@
+-~ 44 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+84.79 Mesin dan peralatan mekanis,
+mempunyai fungsi tersendiri, tidak
+dirinci atau termasuk dalam pos
+lainnya dalam Bab ini.
+8479.10 - Mesin untuk pekerjaan umum,
+bangunan atau sejenisnya:
+224. | 8479.10.10 -- Dioperasikan secara elektrik V V V
+8479.20 - Mesin untuk mengekstraksi atau
+mengolah lemak atau minyak dari
+hewan, nabati tertentu atau mikroba:
+225. | 8479.20.10 -- Dioperasikan secara elektrik V V V
+226. | 8479.30.00 - Pengepres untuk pembuatan papan V V V
+partikel atau papan bangunan
+berserat dari kayu atau dari bahan
+lignin lainnya dan mesin lainnya
+untuk mengerjakan kayu atau gabus
+8479.40 - Mesin pembuat tali atau kabel:
+227.| 8479.40.10 -- Dioperasikan secara elektrik Vv V V
+228.| 8479.50.00 - Robot industri, tidak dirinci atau V V V
+termasuk dalam pos lainnya
+-Mesin dan peralatan mekanis
+lainnya:
+8479.81 -- Untuk mengerjakan logam,
+termasuk penggulung kawat listrik:
+229.| 8479.81.10 --- Dioperasikan secara elektrik V V V
+8479.82 -- Mesin pencampur, pengadon,
+penghancur, penggerinda, penyaring,
+pengubah, penghomogen, pengemulsi
+atau pengaduk:
+230. | 8479.82.10 --- Dioperasikan secara elektrik V V V
+231.| ex 8479.83.00 -- Pengepres Dioperasikan V V V
+
+isostatik dingin secara elektrik
+

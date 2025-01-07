@@ -1,0 +1,75 @@
+- 164 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+panjang (termasuk bujur sangkar), dari
+berbagai ukuran, selain barang dari jenis
+yang diuraikan dalam pos 48.03,48.09 atau
+48.10.
+
+4811.10
+
+- Kertas dan kertas karton diberi ter, bitumen
+atau aspal:
+
+565.
+
+ex 4811.10.20
+
+-- Dalam Berasal dari kayu
+gulungan dengan
+lebar tidak lebih
+dari 15 cm atau
+dalam lembaran
+empat persegi
+panjang
+(termasuk bujur
+sangkar) dengan
+setiap sisi tidak
+melebihi 36 cm
+dalam keadaan
+tidak dilipat
+
+566.
+
+ex 4811.10.90
+
+-- Lain-lain:
+
+Berasal dari kayu
+
+- Kertas dan kertas karton diberi getah atau
+berperekat:
+
+-- Self-adhesive:
+
+567.
+
+ex 4811.41.20
+
+--- Dalam Berasal dari kayu
+gulungan dengan
+lebar tidak lebih
+dari 15 cm atau
+dalam lembaran
+empat persegi
+panjang
+(termasuk bujur
+

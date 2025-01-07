@@ -1,0 +1,69 @@
+- 50 -
+
+6104.19 - - Dari bahan tekstil lainnya :
+394 | 6104.19.20 - - - Dari kapas
+395 | 6104.19.90 - - - Lain-lain
+- Ensemble :
+396 | 6104.22.00 - - Dari kapas
+397 | 6104.23.00 - - Dari serat sintetik
+398 | 6104.29.00 - - Dari bahan tekstil lainnya
+- Jas dan blazer :
+399 | 6104.31.00 - - Dari wol atau bulu hewan halus
+400 | 6104.32.00 - - Dari kapas
+401 | 6104.33.00 - - Dari serat sintetik
+402 | 6104.39.00 - - Dari bahan tekstil lainnya
+- Gaun:
+403 | 6104.41.00 - - Dari wol atau bulu hewan halus
+404 | 6104.42.00 - - Dari kapas
+405 | 6104.43.00 - - Dari serat sintetik
+406 | 6104.44.00 - - Dari serat artifisial
+407 | 6104.49.00 - - Dari bahan tekstil lainnya
+- Rok dan rok terpisah :
+408 | 6104.51.00 - - Dari wol atau bulu hewan halus
+409 | 6104.52.00 - - Dari kapas
+410 | 6104.53.00 - - Dari serat sintetik
+411 | 6104.59.00 - - Dari bahan tekstil lainnya
+
+- Celana panjang, pakaian terusan berpenutup di depan dan bertali,
+celana panjang sampai lutut dan celana pendek :
+
+412 | 6104.61.00 - - Dari wol atau bulu hewan halus
+413 | 6104.62.00 - - Dari kapas
+414 | 6104.63.00 - - Dari serat sintetik
+415 | 6104.69.00 - - Dari bahan tekstil lainnya
+61.05 Kemeja pria atau anak laki-laki, rajutan atau kaitan.
+416 | 6105.10.00 - Dari kapas
+6105.20 - Dari serat buatan :
+417 | 6105.20.10 - - Dari serat sintetik
+418 | 6105.20.20 - - Dari serat artifisial
+419 | 6105.90.00 - Dari bahan tekstil lainnya
+61.06 Blus, kemeja dan kemeja blus, untuk wanita atau anak
+perempuan, rajutan atau kaitan.
+420 | 6106.10.00 - Dari kapas
+421 | 6106.20.00 - Dari serat buatan
+422 6106.90.00 - Dari bahan tekstil lainnya
+61.07 Celana kolor, celana dalam, kemeja tidur, piyama, pakaian mandi,
+
+dressing gown dan barang semacam itu, untuk pria atau anak laki-
+laki, rajutan atau kaitan.
+- Celana kolor dan celana dalam :
+
+423 | 6107.11.00 - - Dari kapas
+
+424 | 6107.12.00 - - Dari serat buatan
+
+425 | 6107.19.00 - - Dari bahan tekstil lainnya
+- Kemeja tidur dan piyama :
+
+426 | 6107.21.00 - - Dari kapas
+
+427 | 6107.22.00 - - Dari serat buatan
+
+428 | 6107.29.00 - - Dari bahan tekstil lainnya
+- Lain-lain :
+
+429 | 6107.91.00 - - Dari kapas
+
+430 | 6107.99.00 - - Dari bahan tekstil lainnya
+
+vom inkemenkoufé

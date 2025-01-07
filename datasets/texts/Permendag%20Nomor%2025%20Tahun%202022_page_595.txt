@@ -1,0 +1,87 @@
+- 113 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+503.
+
+ex 8462.62.19
+
+---- Lain-lain
+
+Kecuali Mesin
+Tekuk (Bending
+Machine) dengan
+Kapasitas: panjang
+max 1.270 mm;
+tebal 3 mm;
+bending angle 25-
+179 derajat, dan
+kecuali Mesin
+penggunting,
+selain kombinasi
+mesin pelubang
+dan penggunting
+
+--- Lain-lain :
+
+504.
+
+ex 8462.62.91
+
+----Mesin
+penempa atau
+pengecap dengan
+cetakan
+
+Dioperasikan
+secara elektrik
+
+505.
+
+ex 8462.62.99
+
+---- Lain-lain
+
+Dioperasikan
+secara elektrik,
+kecuali Mesin
+pembengkok,
+pelipat, pelurus
+atau pemipih
+
+8462.63
+
+-- Pengepres servo :
+
+506.
+
+ex 8462.63.90
+
+--- Lain-lain
+
+Untuk Mesin
+pelubang atau
+mesin penakik,
+termasuk
+kombinasi mesin
+pelubang dan
+
+penggunting yang
+

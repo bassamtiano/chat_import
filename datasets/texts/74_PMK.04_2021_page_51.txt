@@ -1,0 +1,33 @@
+3.
+
+-51-
+
+2) Nama dan Alamat
+
+Diisi pada kolom yang disediakan dengan nama dan alamat
+
+importir.
+
+Contoh:
+
+NPWP : 01.061.747.0-092.000
+Nama : Sumber Makmur, PT
+
+Alamat : Jalan Samudera 1 No. 15, Jakarta Utara.
+c. Nomor dan Tanggal Surat Permohonan
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan, berdasarkan nomor dan tanggal surat permohonan
+Pelayanan Segera (Rush Handling) importir.
+Kantor Pabean mengisi total penerimaan negara yang terhutang, jumlah
+jaminan yang diserahkan sesuai dengan penerimaan negara yang
+diberitahukan, dan jumlah kekurangan penyerahan jaminan.
+Kantor Pabean, melalui SKP atau Pejabat Bea dan Cukai, mengisi nama
+kota dan tanggal penerbitan Surat, Nama jelas Pejabat Pemeriksa
+Dokumen beserta Nomor Identitas Pegawai Negeri Sipil (NIP) yang
+menerbitkan Surat pada kolom yang disediakan. Kolom ini ditandasahkan
+
+oleh Pejabat Pemeriksa Dokumen tersebut.
+
+www.jdih.kemenkeu.go
+
+lo/

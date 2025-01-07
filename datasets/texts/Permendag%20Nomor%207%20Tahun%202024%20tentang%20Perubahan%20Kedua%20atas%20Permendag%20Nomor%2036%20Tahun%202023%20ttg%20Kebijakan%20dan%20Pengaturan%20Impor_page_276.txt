@@ -1,0 +1,88 @@
+- 261 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+pos tarif 7216.40.90
+
+1183.
+
+9804.20.00
+
+- Bulb plate terbuat dari baja
+bukan paduan, dengan tinggi
+kurang dari 80 mm, dengan karbon
+kurang dari 0,6% menurut
+beratnya, tidak dikerjakan lebih
+lanjut selain dicanai panas, ditarik
+panas atau diekstrusi, yang
+terrnasuk dalam pos tarif
+7216.50.19
+
+TNE;
+KGM
+
+1184.
+
+9804.30.00
+
+- Bulb Plate terbuat dari baja
+bukan paduan, dengan tinggl 80
+mm atau lebih, dengan karbon
+kurang dari 0,6% menurut
+beratnya, tidak dikerjakan lebih
+lanjut selain dicanai panas, ditarik
+panas atau diekstrusi, yang
+termasuk dalam pos tarif
+7216.50.99
+
+TNE;
+KGM
+
+1185.
+
+9804.50.00
+
+- Batang berpenampang silang
+lingkaran terbuat darl baja bukan
+paduan, ditempa, mengandung
+karbon kurang dari 0,6% menurut
+beratnya, yang termasuk dalam pos
+tarif 7214.10.11
+
+TNE;
+KGM
+
+1186.
+
+9805.10.00
+
+- Longitudinally Electric Resistance
+Welded (ERW) dari baja stainles,
+dengan kandungan kromium 16%
+sampai dengan 18% dan nikel 10%
+sampai dengan 15% menurut
+beratnya, yang termasuk dalam pos
+
+TNE;
+KGM
+

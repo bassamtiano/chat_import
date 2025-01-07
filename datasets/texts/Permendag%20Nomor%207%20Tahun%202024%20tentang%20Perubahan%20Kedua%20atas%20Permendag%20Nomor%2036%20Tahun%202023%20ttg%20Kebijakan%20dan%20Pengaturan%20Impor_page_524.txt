@@ -1,0 +1,44 @@
+- 509 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+6215.10 - Dari sutra atau sisa sutra: tertulis dari penyedia
+3191. | 6215.10.10 -- Dicetak dengan proses batik PCE alat angkut yang V V
+tradisional menyatakan alasan
+3192. | ex 6215.10.90 | -- Lain-lain Motif batik PCE keterlambatan viv
+6215.20 - Dari serat buatan: kedatangan barang
+3193. | 6215.20.10 -- Dicetak dengan proses batik PCE yang diakibatkan oleh V |v
+tradisional keadaan tertentu; dan
+3194. | ex 6215.20.90 | -- Lain-lain Motif batik PCE 3. Bill of Lading (B/) Vv [4
+6215.90 - Dari bahan tekstil lainnya: atau Airway Bill (AWB)
+3195. | 6215.90.10 -- Dicetak dengan proses batik PCE terhadap barang yang V V
+tradisional telah dimuat pada alat
+3196. | ex 6215.90.90 | -- Lain-lain Motif batik PCE angkut. Viv
+63.01 Selimut dan selimut kecil untuk
+perjalanan.
+6301.30 - Selimut (selain selimut listrik) dan
+selimut kecil untuk perjalanan, dari
+kapas:
+3197. | 6301.30.10 -- Dicetak dengan proses batik PCE VV
+tradisional
+3198. | ex 6301.30.90 | -- Lain-lain Motif batik PCE Vv [ov
+63.02 Linen untuk tempat tidur, meja,
+toilet dan dapur.
+- Linen untuk meja, lainnya:
+6302.51 -- Dari kapas:
+3199. | 6302.51.10 --- Dicetak dengan proses batik PCE VV
+tradisional
+3200. | ex 6302.51.90 | --- Lain-lain Motif batik PCE viv
+
+63.04
+
+Barang perabot lainnya, tidak
+termasuk yang dimaksud dalam
+pos 94.04.
+
+- Penutup tempat tidur:
+
+6304.19
+
+-- Lain-lain
+

@@ -1,0 +1,38 @@
+- 150 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+angle 25-179
+derajat
+478. | ex 8462.29.00 | -- Lain-lain Hanya untuk Viv V
+mesin press plate
+dengan pneumatic
+system, supply
+listrik tiga phase
+380V, Duty Cycle
+50%, Feed Stroke
+hingga 35 mm
+- Slitting line, cut-to-length line dan
+mesin penggunting lainnya (kecuali
+pengepres) untuk produk lembaran,
+selain kombinasi mesin pelubang dan
+penggunting:
+8462.32 --Slitting line dan cut-to-length line:
+479. | ex 8462.32.90 | --- Lain-lain Dioperasikan Viv V
+secara elektrik
+480. | ex 8462.39.00 | -- Lain-lain Dioperasikan Viv V
+secara elektrik
+- Mesin pelubang, penakik atau
+penggigit (kecuali pengepres) untuk
+produk lembaran termasuk
+kombinasi mesin pelubang dan
+penggunting:
+481. | 8462.42.00 --Dikontrol secara numerik V V V
+482. | ex 8462.49.00 | -- Lain-lain Dioperasikan Vv V
+secara elektrik
+- Mesin untuk mengerjakan
+pembuluh, pipa, section berongga
+dan batang (kecuali pengepres):
+483. | ex 8462.51.00 | -- Dikontrol Tidak termasuk vj ov V
+
+secara numerik Mesin Tekuk
+

@@ -1,0 +1,36 @@
+- 30 -
+
+Contoh:
+
+Impor barang dengan transaksi jual beli senilai USD100.000,00
+(seratus ribu United States Dollar
+
+- 100.000,00
+
+Jumlah Barang Impor Eksep
+
+Diisi dengan jumlah kemasan dan jumlah barang yang tertinggal
+dalam hal barang impor merupakan barang eksep.
+
+Tanggal Rencana Kedatangan Barang Impor Eksep
+
+Diisi dengan menyampaikan estimasi tanggal barang eksep tiba
+dalam hal barang impor merupakan barang eksep.
+
+Contoh:
+
+Terdapat importasi barang eksep dengan sisa 100 Pk @ 20 Pcs yang
+akan tiba pada tanggal 30 Januari 2020
+
+- 100 PK / 2.000 Pcs
+
+- 30 Januari 2020
+
+Importir wajib mengisi nama kota dan tanggal surat permohonan,
+nama jelas penanggung jawab importir dan jabatannya pada kolom
+yang disediakan. Dalam hal importir merupakan perusahaan, kolom
+ini wajib ditandatangani oleh penanggung jawab importir tersebut,
+
+yaitu Direktur atau Pimpinan perusahaan.
+
+www jdih.kemenkeu.go.id f

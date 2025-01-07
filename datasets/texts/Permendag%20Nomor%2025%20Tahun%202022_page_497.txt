@@ -1,0 +1,39 @@
+-15-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+67. | 8440.10.10 -- Dioperasikan secara elektrik V V
+84.41 Mesin lainnya untuk membuat pulp
+kertas, kertas atau kertas karton,
+termasuk mesin pemotong dari
+semua jenis.
+8441.10 - Mesin pemotong:
+68. | 8441.10.10 -- Dioperasikan secara elektrik V V V
+69. | ex 8441.20.00 - Mesin untuk Dioperasikan V V V
+membuat secara elektrik
+kantong, sak
+atau amplop
+70. | ex 8441.30.00 | - Mesin untuk Dioperasikan Viv V
+membuat kardus, | secara elektrik
+kotak, peti,
+tabung, drum
+atau kemasan
+semacam itu,
+selain dengan
+pencetakan
+71. | ex 8441.40.00 - Mesin untuk Dioperasikan V V V
+mencetak barang | secara elektrik
+dari pulp kertas,
+kertas atau
+kertas karton
+8441.80 - Mesin lainnya:
+72. | 8441.80.10 -- Dioperasikan secara elektrik Vv V V
+84.42 Mesin, aparatus dan perlengkapan
+
+(selain mesin yang dimaksud dari
+pos 84.56 sampai dengan 84.65),
+untuk menyiapkan atau membuat
+pelat, silinder cetak atau komponen
+cetak lainnya; pelat, silinder cetak
+dan komponen cetak lainnya; pelat,
+silinder dan batu litograf, disiapkan
+

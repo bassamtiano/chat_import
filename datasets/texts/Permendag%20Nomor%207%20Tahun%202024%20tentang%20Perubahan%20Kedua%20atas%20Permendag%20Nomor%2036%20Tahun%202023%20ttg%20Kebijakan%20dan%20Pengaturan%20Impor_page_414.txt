@@ -1,0 +1,34 @@
+- 399 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+- Lain-lain, termasuk campuran selain
+campuran pada subpos 2008.19:
+2002. | 2008.91.00 -- Palm hearts V V
+2008.93 -- Cranberry (Vaccinium macrocarpon,
+Vaccinium oxycoccos); lingonberry (Vaccinium
+vitis-idaea)
+2003. | 2008.93.10 --- Mengandung tambahan gula atau bahan V V
+pemanis lainnya atau alkohol
+2004. | 2008.93.90 --- Lain-lain V V
+2008.99 -- Lain-lain
+2005. | 2008.99.10 --- Leci V V
+2006. | 2008.99.20 --- Lengkeng V V
+2007. | 2008.99.30 --- Dari batang, akar dan bagian tanaman V V
+lainnya yang dapat dimakan, tidak meliputi
+buah atau kacang mengandung tambahan gula
+atau bahan pemanis lainnya atau alkohol
+mapun tidak
+2008. | 2008.99.40 --- Lain-lain, mengandung tambahan gula atau V V
+bahan pemanis lainnya atau alkohol
+2009. | 2008.99.90 --- Lain-lain V V
+20.09 Jus buah atau buah bertempurung (termasuk
+grape must dan air kelapa) dan jus sayuran,
+tidak difermentasi dan tidak mengandung
+tambahan alkohol, mengandung tambahan
+gula atau pemanis lainnya maupun tidak.
+- Jus orange:
+2010. | 2009.11.00 -- Beku V V
+2011. | 2009.12.00 -- Tidak beku, dengan nilai Brix tidak melebihi V V
+
+20
+

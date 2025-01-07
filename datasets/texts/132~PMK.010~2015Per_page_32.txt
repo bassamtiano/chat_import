@@ -1,0 +1,88 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-29-
+POS/SUB =o) ]
+HEADING/ URAIAN BARANG DESCRIPTION OF GOODS PES EES
+SUB HEADING IMPORT DUTY
+Q) (4) (3)
+- Lain-lain: - Other:
+8527.91 - - Dikombinasikan dengan aparatus perekam atau pereproduksil- - Combined with sound recording or reproducing apparatus:
+suara:
+8415 |8527.91.10.00 - - - Portabel
+- Portable "
+8416 |8527.91.90.00 - - - Lain-lain Other ie
+8527.92 - - Tidak dikombinasikan dengan aparatus perekam atauj- - Not combined with sound recording or reproducing apparatus}
+Pereproduksi suara tapi dikombinasikan dengan penunjuk| but combined with a clock:
+waktu:
+8417 |8527.92.10.00 |- - - Portabel - - - Portable 15%
+- - - Lain-lain: - - - Other:
+8418 |8527.92.91.00 - - - - Dioperasikan dengan tenaga listrik - - - - Mains operated 15%
+8419 |8527.92.99.00 - - - - Lain-lain |- - - - Other 15%
+8527.99 |- - Lain-lain: - - Other:
+8420 |8527.99.10.00 - - - Portabel |- - - Portable 15%
+- - - Lain-lain: - - - Other:
+8421 |8527.99.91.00 - - - - Dioperasikan dengan tenaga listrik - - - - Mains operated 15%
+8422 |8527.99.99.00 - - - - Lain-lain - - - - Other 15%
+85.28 Monitor dan proyektor, tidak digabung dengan aparatus|Monitors and projectors, not incorporating television reception,
+penerima televisi; aparatus penerima untuk televisi, digabung|apparatus; reception apparatus for television, whether or not
+dengan penerima siaran radio atau aparatus perekam ataulincorporating radio-broadcast receivers or sound or video
+
+pereproduksi suara atau video , maupun tidak. recording or reproducing apparatus.
+
+- Aparatus penerima untuk televisi, digabung dengan penerima|- Reception apparatus for television, whether or not incorporating
+siaran radio atau aparatus perekam atau pereproduksi suara atau] radio-broadcast receivers or sound or video recording or,
+
+video maupun tidak: reproducing apparatus:
+8528.71 - - Tidak dirancang untuk dipasang pada display: - - Not designed to incorporate a video display or screen:
+- Set top box yang mempunyai fungsi komunikasi: - - - Set top boxes which have a communications function:
+8436 |8528.71.11.00 Dioperasikan dengan tenaga listrik - - - - Mains operated 15%
+8528.72 - Lain-lain, berwarna: |- - Other, colour:
+8528.72.10 Dioperasikan dengan baterai |- - - Battery operated
+Lain-lain: - - - Other:
+8441 |8528.72.91.00 Tabung sinar katoda - - - - Cathode-ray tube type 15%
+8442 |8528.72.92.00 - - Liquid crystal device (LCD), light emitting diode (LED) dan}- - - - Liquid crystal device (LCD), light emitting diode (LED) andj 15%
+tipe panel layar datar lainnya other flat panel display type .
+8443 |8528.72.99.00 - - - - Lain-lain - - - - Other 15%
+85.39 Lampu pijar atau lampu tabung listrik, termasuk unit lampu/Electric filament or discharge lamps, including sealed beam|
+sealed beam dan lampu ultra violet atau infra merah; lampu|lamp units and ultra-violet or infra-red lamps; arc-lamps.
+busur.
+- Lampu pijar lainnya, tidak termasuk lampu ultra-violet atau infra-|- Other filament lamps, excluding ultra-violet or infra-red lamps:
+merah:
+8539.21 - - Tungsten halogen: |- - Tungsten halogen:
+8539.21.20 - - - Dari jenis yang digunakan untuk perlengkapan medis |- - - Of akind used in medical equipment
+8539.21.30 - Dari jenis yang digunakan untuk kendaraan bermotor |- - - Of akind used for motor vehicles
+8602 |8539.21.40.00 Bola lampu reflektor lainnya - - - Other reflector lamp bulbs 15%
+8603 |8539.21.90.00 Lain-lain ba Other 15%
+8539.22 - - Lain-lain, dengan daya tidak melebihi 200 W dan untuk voltase|- - Other, of a power not exceeding 200 W and for a voltage
+melebihi 100 volt: exceeding 100 V:
+8539.22.20 Dari jenis yang digunakan untuk perlengkapan medis - - - Of akind used in medical equipment.
+8605 |8539.22.30.00 Bola lampu reflektor lainnya - - - Other reflector lamp bulbs 15%
+8606 }8539.22.90.00 - - - Lain-lain 7 Other 15%
+- Lampu tabung, selain lampu ultra-violet: |- Discharge lamps, other than ultra-violet lamps:
+8539.31 |- - Fluoresensi, katoda pijar: - - Fluorescent, hot cathode:
+8539.31.10 - - - Tabung untuk lampu fluoresensi kompak Tubes for compact fluorescent lamps
+8539.31.90 - - - Lain-lain: Other:
+8616 |8539.31.90.10 - - -- Lampu TL - Tube lamps 15%
+8617 /8539.31.90.20 - - - - Lampu fluoresensi kompak - Compact fluorescent lamps 20%
+8618 |8539.31.90.90 - -- - Lain-lain - Other 20%
+87.02 Kendaraan bermotor untuk pengangkutan sepuluh orang atau|Motor vehicles for the transport of ten or more persons,|
+lebih, termasuk pengemudi. including the driver.
+8702.10 - Dengan mesin piston pembakaran dalam nyala kompresi (diesel - With compression-ignition internal combustion piston engine
+atau semi diesel): (diesel or semi-diesel):
+|- - Dalam keadaan terbongkar lengkap: '- - Completely Knocked Down:
+- - Lain-lain: Other:
+8796 |8702.10.60.00 - - - Mobil (termasuk limousin panjang tapi tidak termasuk coach, - Motor cars (including stretch limousines but not including] 50%
+bus, minibus atau van) coaches, buses, minibuses or vans)
+- - - Untuk pengangkutan lebih dari 30 orang dan dirancang khusus|- - - For the transport of 30 persons or more and specially designed
+untuk digunakan di bandara: for use in airports:
+8797 |8702.10.71.00 - - - - g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t - g.v.w. of at least 6 t but not exceeding 18 t 50%
+8702.10.79 - - - - Lain-lain: - Other:
+8798 |8702.10.79.10 - - -- - Dengan g.v.w. melebihi 18 t tetapi tidak melebihi 24 t - - Ofag.v.w. exceeding 18 t but not exceeding 24 t 50%
+8799 |8702.10.79.20 --.- - - Dengan g.v.w. melebihi 24 t - ---- Ofag.v.w. exceeding 24t 20%
+|- - - Coach, bus atau minibus bermotor lainnya: Other motor coaches, buses or minibuses:
+8800 |8702.10.81.00 - - - - g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t - g.v.w. of at least 6 t but not exceeding 18 t 50%
+8702.10.89 - - - - Lain-lain: - Other:
+8801 |8702.10.89.10 |----- Dengan g.v.w. kurang dari 6 t - - Ofag.v.w. of less than 6 t 50%
+
+www.jdih.kemenkeu.go.id

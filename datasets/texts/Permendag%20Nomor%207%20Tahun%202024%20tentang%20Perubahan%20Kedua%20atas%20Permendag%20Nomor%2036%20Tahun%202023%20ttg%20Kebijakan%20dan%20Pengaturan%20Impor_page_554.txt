@@ -1,0 +1,38 @@
+- 539 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI} LS Post
+Barang Border
+dikombinasikan dengan mikrofon
+maupun tidak dan set yang
+terdiri dari satu mikrofon dan
+satu atau lebih pengeras suara;
+amplifier listrik audio-frequency;
+set amplifier suara listrik.
+- Pengeras suara, dipasang pada
+rumahnya maupun tidak:
+8518.21 -- Pengeras suara tunggal, dipasang
+pada rumahnya:
+3345. | 8518.21.10 --- Tipe box speaker PCE V[ov
+3346. | 8518.21.90 --- Lain-lain PCE Viv
+8518.22 -- Pengeras suara multipel,
+dipasang pada rumah yang sama:
+3347. | 8518.22.10 --- Tipe box speaker PCE Vv |v
+3348. | 8518.22.90 --- Lain-lain PCE viv
+8518.29 -- Lain-lain:
+3349. | 8518.29.90 --- Lain-lain PCE viv
+85.21 Aparatus perekam atau
+pereproduksi video, digabung
+dengan video tuner maupun
+tidak.
+8521.90 - Lain-lain
+-- Laser disc player:
+3350. | 8521.90.19 --- Lain-lain PCE Viv
+-- Lain-lain:
+3351. | 8521.90.99 --- Lain-lain PCE viv
+85.25 Aparatus transmisi untuk
+
+penyiaran radio atau televisi
+digabung dengan aparatus
+penerima atau dengan aparatus
+perekam suara maupun tidak;
+

@@ -1,0 +1,36 @@
+- 268 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+lingkaran KGM
+1245. | 7228.10.90 -- Lain-lain TNE; viv
+KGM
+1246. | 7228.20.11 --- Tidak dikerjakan lebih lanjut TNE; V [Vv
+selain dicanai panas, ditarik panas | KGM
+atau diekstrusi
+1247. | 7228.20.19 --- Lain-lain TNE; Vv |v
+KGM
+1248. | 7228.20.91 --- Tidak dikerjakan lebih lanjut TNE; Vv] Vv
+selain dicanai panas, ditarik panas | KGM
+atau diekstrusi
+1249. | 7228.20.99 --- Lain-lain TNE; Vv |v
+KGM
+1250. | 7228.30.10 -- Dengan penampang silang TNE; V V
+lingkaran KGM
+1251. | 7228.30.90 -- Lain-lain TNE; Viv
+KGM
+1252. | 7228.40.10 -- Dengan penampang silang TNE; V V
+lingkaran KGM
+1253. | 7228.40.90 -- Lain-lain TNE; viv
+KGM
+1254. | 7228.50.10 -- Dengan penampang silang TNE; V V
+lingkaran KGM
+1255. | 7228.50.90 -- Lain-lain TNE; viv
+KGM
+1256. | 7228.60.10 -- Dengan penampang silang TNE; V V
+lingkaran KGM
+1257. | 7228.60.90 -- Lain-lain TNE; Viv
+KG
+1258. | 7228.70.10 -- Tidak dikerjakan lebih lanjut TNE; Vv] Vv
+selain dicanai panas, ditarik panas | KGM
+

@@ -1,0 +1,96 @@
+- 608 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+masih berlaku;
+
+2. IT NC yang mengalami
+perubahan;
+
+3. Perubahan
+Rekomendasi yang
+diterbitkan oleh Badan
+Intelijen Strategis TNI
+(BAIS-TNI); dan
+
+4. Perubahan
+Rekomendasi yang
+diterbitkan oleh Badan
+intelijen dan
+keamanan POLRI
+(Baintelkam POLRI).
+
+Dalam hal perubahan Pos
+Tarif/HS, uraian barang,
+jenis, jumlah, satuan,
+negara asal, negara muat,
+pelabuhan tujuan
+dan/atau keterangan/
+spesifikasi:
+
+1. PI NC (API-U) yang
+masih berlaku;
+
+2. Perubahan laporan
+hasil verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang Pertahanan,
+untuk perubahan data
+
+a. belum dilakukan
+realisasi Impor atau
+tidak sedang dilakukan
+realisasi Impor,
+dan/atau
+
+b. belum diterbitkan
+Laporan Surveyor.
+
+Importir hanya dapat
+memiliki 1 (satu) IP NC
+(API-P) atau IT NC (API-U)
+yang masih berlaku dalam
+1 (satu) periode yang
+diterbitkan oleh masing-
+masing instansi yang
+berwenang menerbitkan
+PB
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan, Importir
+hanya dapat memiliki 1
+(satu) PI NC (API-P atau
+API-U) yang masih berlaku
+dalam 1 (satu) periode
+yang diterbitkan oleh
+masing-masing instansi
+yang berwenang
+menerbitkan PB.
+
+PI NC (API-P atau API-U)
+

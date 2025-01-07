@@ -1,0 +1,79 @@
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+- Binatang menyusui: Komoditas. diimpor oleh pelaku
+13. ex 0106.14.00 | -- Kelinci dan Bibit Kelinci usaha pemilik API-P V V
+hare Dalam hal Neraca atau API-U; dan
+- Burung: Komoditas belum 6. Hewan lainnya untuk
+14, ex 0106.39.00 | -- Lain-lain Bibit Puyuh dan Bibit ditetapkan: pemenuhan stok dan V V
+
+Merpati
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI Hewan Jenis Lembu
+(API-P atau API-U)
+yang masih berlaku;
+dan
+
+2. Data elektronik dalam
+NIB, terkait dengan
+identitas Importir.
+
+Dalam hal perubahan
+uraian Barang, pos
+tarif/HS, jumlah, satuan,
+negara asal, pelabuhan
+muat, pelabuhan tujuan,
+dan/atau
+spesifikasi/keterangan:
+
+1. PI Hewan Jenis Lembu
+(API-P atau API-U)
+yang masih berlaku;
+dan/atau
+
+2. Perubahan
+rekomendasi dari
+kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang pertanian,
+
+stabilisasi harga hanya
+dapat diimpor oleh
+API-U.
+
+Penerbitan:
+
+a. PI Hewan Dari Jenis
+Lembu untuk
+Pemenuhan Stok dan
+Stabilisasi Harga (API-
+
+U) dan PI perubahannya|
+
+terkait jumlah;
+
+b. PI DOC untuk
+Pemenuhan Stok dan
+Stabilisasi Harga
+(BUMN pemilik API-P
+
+atau BUMN pemilik API-
+U) dan PI perubahannya|
+
+terkait jumlah; dan
+c. PI Hewan Lainnya
+
+untuk Pemenuhan Stok
+
+dan Stabilisasi Harga
+{API-U) dan PI
+perubahannya terkait
+jumlah,
+berdasarkan hasil
+kesepakatan rapat
+koordinasi yang
+dilaksanakan oleh
+

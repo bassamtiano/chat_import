@@ -1,0 +1,33 @@
+-89-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+512. | ex 4804.51.30 | --- Dengan wet strength 40 Berasal dari kayu V V
+sampai 60 g, dari jenis yang
+digunakan dalam pembuatan
+pita perekat kayu lapis
+513. | ex 4804.51.90 | --- Lain-lain Berasal dari kayu V v
+4804.52 -- Dikelantang seluruhnya secara seragam dan
+mengandung serat kayu yang diperoleh melalui
+proses kimia lebih dari 95% menurut berat
+keseluruhan kandungan seratnya
+514. | ex 4804.52.10 ‘| --- Kertas dan karton dari Berasal dari kayu V V
+jenis yang digunakan untuk
+pembuatan kemasan
+makanan
+515. | ex 4804.52.90 --- Lain-lain Berasal dari kayu V V
+4804.59 -- Lain-lain:
+516. | ex 4804.59.10 --- Kertas dan karton dari Berasal dari kayu V v
+jenis yang digunakan untuk
+pembuatan kemasan
+makanan
+517. | ex 4804.59.90 | --- Lain-lain Berasal dari kayu V Vv
+48.05 Kertas dan kertas karton tidak dilapisi lainnya,
+dalam gulungan atau lembaran, tidak dikerjakan
+atau diproses lebih lanjut selain yang dirinci
+dalam Catatan 3 pada Bab ini.
+- Kertas beralur:
+518. | ex 4805.11.00 -- Kertas beralur semi kimia Berasal dari kayu V V
+519. | ex 4805.12.00 -- Kertas beralur jerami Berasal dari kayu V V
+4805.19 -- Lain-lain:
+520. | ex 4805.19.10 | --- Dengan berat lebih dari Berasal dari kayu V V
+

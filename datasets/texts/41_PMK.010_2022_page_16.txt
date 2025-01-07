@@ -1,0 +1,68 @@
+= T6<
+
+- - - Lain-lain :
+220 | 8519.81.99 - --- Lain-lain
+85.21 Aparatus perekam atau pereproduksi video, digabung dengan
+video tuner maupun tidak.
+8521.10 - Tipe pita magnetik :
+221 | 8521.10.90 - - Lain-lain
+8521.90 - Lain-lain :
+- - Laser disc player :
+222 | 8521.90.19 - - - Lain-lain
+- - Lain-lain :
+223 | 8521.90.99 - - - Lain-lain
+85.25 Aparatus transmisi untuk penyiaran radio atau televisi digabung
+
+dengan aparatus penerima atau dengan aparatus perekam suara
+maupun tidak; kamera televisi, kamera digital dan kamera
+perekam video.
+
+- Kamera televisi, kamera digital dan kamera perekam video :
+
+8525.81 - - Barang berkecepatan tinggi sebagaimana dirinci dalam Catatan
+Subpos 1 pada Bab ini:
+224 | 8525.81.90 - - - Lain-lain
+8525.82 - - Lain-lain, barang diperkuat untuk radiasi atau tahan radiasi
+sebagaimana dirinci dalam Catatan Subpos 2 pada Bab ini:
+225 | 8525.82.90 - - - Lain-lain
+8525.83 - - Lain-lain, barang penglihatan malam sebagaimana dirinci dalam
+Catatan Subpos 3 pada Bab ini:
+226 | 8525.83.90 - - - Lain-lain
+8525.89 - - Lain-lain :
+227 | 8525.89.90 - - - Lain-lain
+85.27 Aparatus penerima untuk penyiaran radio, dikombinasi maupun
+
+tidak, dalam rumah yang sama, dengan aparatus perekam atau
+pereproduksi suara atau penunjuk waktu.
+
+- Penerima siaran radio dapat dioperasikan tanpa sumber tenaga dari
+
+luar :
+8527.13 - - Aparatus lainnya dikombinasikan dengan aparatus perekam atau
+pereproduksi suara :
+228 | 8527.13.10 - - - Portabel
+229 | 8527.13.90 - - - Lain-lain
+8527.19 - - Lain-lain :
+230 | 8527.19.20 - - - Portabel
+231 | 8527.19.90 - - - Lain-lain
+
+- Penerima siaran radio tidak dapat dioperasikan tanpa sumber
+tenaga dari luar, dari jenis yang digunakan dalam kendaraan
+
+bermotor :
+8527.21 - - Dikombinasikan dengan aparatus perekam atau pereproduksi
+suara :
+D32 | 8527.21.10 - - - Memiliki kemampuan untuk menerima dan dekode sinyal sistem
+data radio digital
+233 | 8527.21.90 - - - Lain-lain
+234 | 8527.29.00 - - Lain-lain
+- Lain-lain :
+8527.91 - - Dikombinasikan dengan aparatus perekam atau pereproduksi
+suara :
+235 | 8527.91.10 - - - Portabel
+236 | 8527.91.90 - - - Lain-lain
+8527.92 - - Tidak dikombinasikan dengan aparatus perekam atau
+
+pereproduksi suara tetapi dikombinasikan dengan penunjuk waktu :
+
+ee

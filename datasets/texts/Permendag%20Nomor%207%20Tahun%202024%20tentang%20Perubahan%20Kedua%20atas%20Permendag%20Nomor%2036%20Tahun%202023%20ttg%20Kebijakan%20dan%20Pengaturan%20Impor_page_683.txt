@@ -1,0 +1,42 @@
+- 668 -
+
+. : Nama Bahan Nomor Kode Satuan Post
+No Pos Tarif/HS Uraian Barang Kimia CAS Daftar Barang Persyaratan Keterangan IT/IP| PI | LS Border
+Soman:
+. TNE;
+O-Pinacoly| 96-64-0 | 1A01_ | KGM; Vp vi
+methylphosph
+: LTR
+onofluoridate
+O-Alkyl (s Cio ,
+incl.
+cycloalkyl)
+alkyl (Me,
+Et, n-Pr or i-
+Pr)-
+TNE;
+phosphonofiue 107-44-8 | 1A01 KGM; y Vv |v
+LTR
+Contoh:
+Sarin:
+ex 2931.59.90 --- Lain-lain O-Isopropyl
+Methylphosph
+3815. onofluoridate
+Alkyl (Me, Et,
+n-Pr or i-Pr)
+Phosphonyldifl
+uorides TNE;
+KGM; Vv Vv] Vv
+Contoh: 676-99-3 1B09 LTR
+DF:
+Methylphosph
+onyldifluoride
+Chlorosarin:
+TNE;
+O-Isopropyl 1445-76- 1B11 KGM; J ry ry
+methylphosph | 7 LTR
+onochloridate
+Chlorosoman: TNE;
+O-Pinacolyl 7040-S7- 1B12 KGM; V V V
+methylphosph LTR
+

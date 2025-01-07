@@ -1,0 +1,64 @@
+- 324 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+U) dapat dilakukan dalam
+hal perubahan identitas
+Importir, uraian barang,
+pos tarif/HS, jumlah
+satuan barang, negara
+asal, pelabuhan muat,
+pelabuhan tujuan
+dan/atau keterangan/
+spesifikasi:
+
+Dalam hal Neraca
+
+Komoditas telah
+
+ditetapkan:
+
+1. PI Garam (API-U) yang
+masih berlaku; dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI Garam (API-U) yang
+masih berlaku; dan
+
+2. Perubahan laporan
+hasil verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari kementerian yang
+menyelenggarakan
+

@@ -1,0 +1,68 @@
+- 18 -
+
+258 | 8539.22.91 ---- Darijenis yang digunakan pada pencahayaan dekoratif, dengan
+daya tidak melebihi 60 W
+259 | 8539.22.93 - - - - Lain-lain, untuk penerangan rumah tangga
+260 | 8539.22.99 - --- Lain-lain
+- Lampu tabung, selain lampu ultra-violet :
+8539.31 - - Fluoresen, katoda pijar :
+261 | 8539.31.20 - - - Lain-lain, tabung lurus untuk lampu fluoresen
+262 | 8539.31.30 - - - Lampu fluoresen kompak swaballast
+263 | 8539.31.90 - - - Lain-lain
+- Sumber cahaya light-emitting diode (LED) :
+8539.52 - - Lampu light-emitting diode (LED) :
+264 | 8539.52.10 - - - Dilengkapi dengan dasar tipe sekrup
+265 | 8539.52.90 - - - Lain-lain
+87.01 Traktor (selain traktor dari pos 87.09).
+8701.10 - Traktor berporos tunggal :
+
+- - Dengan tenaga tidak melebihi 22,5 kW, dioperasikan secara
+elektrik maupun tidak :
+
+266 | 8701.10.11 - - - Untuk keperluan pertanian
+- - Lain-lain :
+267 | 8701.10.91 - - - Untuk keperluan pertanian
+87.03 Mobil dan kendaraan bermotor lainnya terutama dirancang
+
+untuk pengangkutan orang (selain yang dimaksud dari pos
+87.02), termasuk station wagon dan mobil balap.
+
+8703.10 - Kendaraan dirancang secara khusus untuk perjalanan di atas salju;
+mobil golf dan kendaraan semacam itu :
+268 | 8703.10.10 - - Mobil golf (termasuk golf buggy) dan kendaraan semacam itu
+269 | 8703.10.90 - - Lain-lain
+- Kendaraan lainnya, hanya dengan mesin piston pembakaran dalam
+cetus api :
+8703.21 - - Dengan kapasitas silinder tidak melebihi 1.000 cc:
+- - - Lain-lain :
+270 | 8703.21.41 - - - - Gokart
+271 | 8703.21.42 - - - - All-Terrain Vehicles (ATV)
+272 8703.21.43 ----Ambulan
+273 | 8703.21.44 ---- Karavan
+274 | 8703.21.45 ----Sedan
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van) :
+
+275. | 8703.21.51 $=|----- Berpenggerak empat roda
+276 | 8703.21.59 #£=|----- Lain-lain
+- --- Lain-lain:
+277 | 8703.21.91 #£|----- Kendaraan roda tiga
+278 | 8703.21.99 #£=§|----- Lain-lain
+8703.22 - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak melebihi
+1.500 cc :
+- - - Lain-lain :
+279 | 8703.22.41 - - - - Gokart
+280 | 8703.22.42 - - - - All-Terrain Vehicles (ATV)
+281 | 8703.22.43 - ---Ambulan
+282 | 8703.22.44 - - - - Mobil jenazah
+283 | 8703.22.45 ---- Van tahanan
+284 | 8703.22.46 - -- - Karavan
+285 | 8703.22.47 ---- Sedan
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van) :
+
+www.jdih.kemen an: .id
+
+,

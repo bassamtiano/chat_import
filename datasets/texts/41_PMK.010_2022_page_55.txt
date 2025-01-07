@@ -1,0 +1,58 @@
+-55-
+
+- Ensemble :
+544 | 6204.21.00 - - Dari wol atau dari bulu hewan halus
+6204.22 - - Dari kapas:
+545 | 6204.22.10 - - - Dicetak dengan proses batik tradisional
+546 | 6204.22.90 - - - Lain-lain
+547 | 6204.23.00 - - Dari serat sintetik
+6204.29 - - Bahan tekstil lainnya :
+548 | 6204.29.10 - - - Dari sutra
+549 | 6204.29.90 - - - Lain-lain
+- Jas dan blazer :
+550 | 6204.31.00 - - Dari wol atau bulu hewan halus
+6204.32 - - Dari kapas:
+551 | 6204.32.10 - - - Dicetak dengan proses batik tradisional
+552 | 6204.32.90 - - - Lain-lain
+553 | 6204.33.00 - - Dari serat sintetik
+6204.39 - - Dari bahan tekstil lainnya :
+- - - Dari sutra:
+554 | 6204.39.11 - - - - Dicetak dengan proses batik tradisional
+555 | 6204.39.19 - - -- Lain-lain
+556 | 6204.39.90 - - - Lain-lain
+- Gaun:
+557 | 6204.41.00 - - Dari wol atau bulu hewan halus
+6204.42 - - Dari kapas :
+558 | 6204.42.10 - - - Dicetak dengan proses batik tradisional
+559 | 6204.42.90 - - - Lain-lain
+560 | 6204.43.00 - - Dari serat sintetik
+561 | 6204.44.00 - - Dari serat artifisial
+6204.49 - - Dari bahan tekstil lainnya :
+562 | 6204.49.10 - - - Dicetak dengan proses batik tradisional
+563 | 6204.49.90 - - - Lain-lain
+- Rok dan rok terpisah :
+564 | 6204.51.00 - - Dari wol atau bulu hewan halus
+6204.52 - - Dari kapas :
+565 | 6204.52.10 - - - Dicetak dengan proses batik tradisional
+566 | 6204.52.90 - - - Lain-lain
+567 | 6204.53.00 - - Dari serat sintetik
+6204.59 - - Dari bahan tekstil lainnya :
+568 | 6204.59.10 - - - Dicetak dengan proses batik tradisional
+569 | 6204.59.90 - - - Lain-lain
+- Celana panjang, pakaian terusan berpenutup di depan dan bertali,
+celana panjang sampai lutut dan celana pendek :
+570 | 6204.61.00 - - Dari wol atau bulu hewan halus
+571 6204.62.00 - - Dari kapas
+572 | 6204.63.00 - - Dari serat sintetik
+573 | 6204.69.00 - - Dari bahan tekstil lainnya
+62.05 Kemeja pria atau anak laki-laki.
+6205.20 - Dari kapas :
+574 | 6205.20.10 - - Dicetak dengan proses batik tradisional
+575 | 6205.20.20 - - Barong Tagalog
+576 | 6205.20.90 - - Lain-lain
+6205.30 - Dari serat buatan :
+577 | 6205.30.10 - - Barong Tagalog
+578 6205.30.90 - - Lain-lain
+6205.90 - Dari bahan tekstil lainnya :
+
+ww jh romenead, gid

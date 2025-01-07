@@ -1,0 +1,65 @@
+- 22 -
+
+Dimulai pada tahapan Implementasi Tahap Kedua, sudah mulai
+dilakukan integrasi awal SeaPort-System (InaPortNet) ke dalam
+Portal Indonesia National Single Window yang akan
+dikembangkan terus sejalan dengan rencana Implementasi
+Tahap Ketiga pada Desember 2008. Demikian juga untuk
+AirPort-System, mulai dilakukan perumusan arsitektur sistem
+dan desain teknis untuk memenuhi target uji coba pada
+Implementasi Tahap Ketiga Desember 2008.
+
+Secara umum, sesuai dengan program kerja dan rencana
+kegiatan yang telah ditetapkan, yang mendasarkan pada
+Blueprint Penerapan sistem National Single Window (dengan
+ditambah beberapa penyesuaian dan penyempurnaan), arah
+pengembangan sistem National Single Window di Indonesia
+
+dapat digambarkan:
+
+ao Sj a . if i" We >
+Pekan Blueprint NSH Sistem NSW-Im port Persiapan Teknis INSY
+Roadinap, Dok Desain Teknis Paralel-Run “> Tg.Priok “Jointto ASW"
+
+Periirugan Arsiteldur, Desae ~ Sistem NSW-Eh : Pertukaran CoO (SKA) dgn'§
+
+ie Pa + G3 Tahap Development.
+in Teknis, Topologi Sistem: «Sistema NSW SeaPort: Negara ASEAN
+
+Pilot-Run -> Tg,Priok
++ Sistem NSW AirPort
+Tahap Development
+
+; Penang nan Postal nse
+rototypelntegr Sister : a
+
+Pembanguinan Offic. Website of ; repeats Sear Bate
+
+be Integras BEE GA Ke Portal . ter npr ‘ Pengembangan Sistem NSW.
+
+: 2 M
+
+“Nop , : | andatory ett
+
+Sistem NSW Imp-Exp-Port |
+
+‘ jcoba> 4 Pelbha Lain
+| - Sistem NSM
+Ujicoba Awal Sistem NSW.imp Paralel-run Tg, Priok Pembangunan Portal ASW,
++ Implementasi Tahap Kesatu - Sistem NSW SeaPost: (Koord ASEAN Sec)
+Sistem NSW Impor Mandatory > Ta Priok « Pengembgn Pertukaran CoO
+Feature, Function, Facil. Sys. ~ Sistem NSWA dgn Negara ASEAN/Lalnnya
+
+Persiapan Tahap berikutnya +fntegt. NSW ke Portal ASW
+
+Disadari sepenuhnya bahwa proses bisnis yang ditangani sistem
+ini (transaksi ekspor dan impor) senantiasa berkembang secara
+dinamis, demikian juga tuntutan masyarakat usaha di tingkat
+nasional maupun kebutuhan dan komitmen di tingkat regional
+ASEAN  selalu. berkembang. Oleh karena itu, target
+pengembangan dan penerapan sistem National Single Window ini
+berkembang secara fleksibel dengan arah pengembangan yang
+selalu mengedepankan tuntutan kebutuhan di tingkat nasional
+dan komitmen di tingkat regional ASEAN.
+
+mama ementou go

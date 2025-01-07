@@ -1,0 +1,24 @@
+- 310 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2656. | 6211.39.40 --- Kain ihram
+2657. | 6211.39.90 --- Lain-lain V
+- Garmen lainnya, untuk wanita atau anak
+perempuan:
+6211.42 -- Dari kapas:
+2658. | 6211.42.10 --- Pakaian untuk olah raga anggar atau gulat V V V
+2659. | 6211.42.20 --- Pakaian sembahyang (mukena) V V V
+2660. | 6211.42.30 --- Sarung V J V
+2661. | 6211.42.90 --- Lain-lain V 7V V
+6211.43 -- Dari serat buatan:
+2662. | 6211.43.10 --- Pakaian bedah Vv |v V
+2663. | 6211.43.20 --- Pakaian sembahyang (mukena) V V V
+2664. | 6211.43.30 --- Pakaian pelindung anti ledakan v [Vv V
+2665. | 6211.43.40 --- Pakaian untuk olah raga anggar atau gulat V V V
+2666. | 6211.43.50 --- Pakaian yang digunakan untuk pelindung dari V V V
+bahan kimia, radiasi atau api
+2667. | 6211.43.70 --- Sarung V
+2668. | 6211.43.90 --- Lain-lain v/v V
+6211.49 -- Dari bahan tekstil lainnya:
+2669. | 6211.49.10 --- Pakaian untuk olah raga anggar atau gulat V |v v
+

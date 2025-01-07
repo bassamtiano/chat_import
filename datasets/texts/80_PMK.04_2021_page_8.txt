@@ -1,0 +1,58 @@
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+-8-
+
+Overleaf Notes adalah halaman sebalik SKA Form IC-
+CEPA yang berisi ketentuan mengenai pengisian SKA
+Form IC-CEPA.
+
+Dokumen Pelengkap Pabean adalah semua dokumen
+yang digunakan sebagai pelengkap pemberitahuan
+pabean, misalnya invoice, packing list, bill of lading/
+airway bill, manifest, dan dokumen lainnya yang
+dipersyaratkan.
+
+Surat Keterangan Asal Elektronik Form D_ yang
+selanjutnya disebut e-Form D adalah SKA Form D yang
+disusun sesuai dengan e-ATIGA Form D_ Process
+Specification and Message Implementation Guideline, dan
+dikirim secara elektronik antar Negara Anggota.
+
+Invoice dari Negara Ketiga yang selanjutnya disebut Third
+Country Invoice adalah invoice yang diterbitkan oleh
+perusahaan lain yang berlokasi di negara ketiga (selain
+Negara Anggota) atau yang berlokasi di negara yang sama
+dengan negara tempat diterbitkannya SKA Form IC-CEPA.
+Surat Keterangan Asal Back-to-Back yang selanjutnya
+disebut SKA Back-to-Back adalah SKA yang diterbitkan
+oleh Negara Anggota pengekspor kedua berdasarkan SKA
+yang diterbitkan oleh Negara Anggota pengekspor
+pertama.
+
+Tanggal Pengapalan atau Tanggal Eksportasi adalah
+tanggal bill of lading untuk moda pengangkutan laut,
+tanggal airway bill untuk moda pengangkutan udara,
+atau tanggal dokumen pengangkutan darat untuk moda
+pengangkutan darat.
+
+Permintaan Retroactive Check adalah permintaan yang
+dilakukan oleh pejabat bea dan cukai kepada Instansi
+Penerbit SKA untuk mendapatkan informasi mengenai
+pemenuhan Ketentuan Asal Barang dan/atau keabsahan
+SKA Form IC-CEPA.
+
+le
+
+sa ctr kembord go

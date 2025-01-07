@@ -1,0 +1,38 @@
+- 234 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+863. | 7211.19.19 ---- Lain-lain TNE; hasil verifikasi, Vv
+KGM rekomendasi, atau
+864. 7211.19.91 ---- Simpai dan strip; universal TNE; pertimbangan teknis V V
+plate KGM dari kementerian yang
+865. | 7211.19.99 | ---- Lain-lain TNE; menyelenggarakan viv
+KGM urusan pemerintahan
+866. | 7211.23.10 --- Bergelombang TNE; di bidang — v4
+KGM perindustrian, untuk
+867. 7211.23.20 --- Simpai dan strip, dengan lebar TNE; perubahan data dan V V
+tidak melebihi 400 mm KGM informasi yang
+— - - — tercantum dalam
+868. 7211.23.30 --- Lain-lain, dengan ketebalan TNE; laporan hasil verifikasi, V V
+0,17 mm atau kurang KGM rekomendasi, atau
+869. 7211.23.90 --- Lain-lain TNE; pertimbangan teknis Vv |v
+KGM dari kementerian yang
+870. 7211.29.10 --- Bergelombang TNE; menyelenggarakan V V
+KGM urusan pemerintahan
+871. 7211.29.20 --- Simpai dan strip, dengan lebar TNE; di bidang V V
+tidak melebihi 400 mm KGM perindustrian; dan
+872. 7211.29.30 --- Lain-lain, dengan ketebalan TNE; 3. Perubahan Rencana viv
+0,17 mm atau kurang KGM distribusi paling
+873. 7211.29.90 --- Lain-lain TNE; sedikit memuat data Vv |v
+KGM dan informasi
+874. 7211.90.11 --- Simpai dan strip, dengan lebar TNE; mengenai nama dan V V
+tidak melebihi 25 mm KGM alamat perusahaan
+875. 7211.90.12 --- Simpai dan strip, dengan lebar TNE; tujuan, jumlah dan V V
+melebihi 400 mm KGM satuan alas barang
+77 — = yang akan
+876. 7211.90.13 Bergelombang hon, didistribusikan per V V
+877. 7211.90.14 --- Lain-lain, dengan ketebalan TNE; perusahaan, dan total V V
+0,17 mm atau kurang KGM rencana distribusi
+barang untuk seluruh
+878. | 7211.90.19 --- Lain-lain TNE; Vv
+

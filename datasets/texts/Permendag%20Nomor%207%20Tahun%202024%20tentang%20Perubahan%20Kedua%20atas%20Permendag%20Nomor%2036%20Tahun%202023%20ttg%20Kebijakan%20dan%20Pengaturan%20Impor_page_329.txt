@@ -1,0 +1,33 @@
+-314-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+1374. | 6907.23.14 ---- Lain-lain, diglasir V
+1375. | 6907.23.91 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, tidak diglasir
+1376. | 6907.23.92 ---- Lain-lain, tidak diglasir V V
+1377. | 6907.23.93 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, diglasir
+1378. | 6907.23.94 ---- Lain-lain, diglasir V V
+1379. | 6907.30.11 --- Yang area permukaan terluasnya dapat V V
+menutupi bujur sangkar dengan sisi kurang
+dari 7 cm
+1380. | 6907.30.19 --- Lain-lain V V
+1381. | 6907.30.91 --- Yang area permukaan terluasnya dapat V V
+menutupi bujur sangkar dengan sisi kurang
+dari 7 cm
+1382. | 6907.30.99 --- Lain-lain V V
+1383. | 6907.40.10 -- Dari jenis yang digunakan untuk melapisi V V
+penggilingan, tidak diglasir
+1384. | 6907.40.21 --- Tidak diglasir V V
+1385. | 6907.40.22 --- Diglasir V V
+1386. | 6907.40.91 --- Tidak diglasir V V
+1387. | 6907.40.92 --- Diglasir V V
+69.09 Barang keramik untuk laboratorium, kimia
+
+atau penggunaan teknik lainnya; palung
+keramik, pasu dan wadah semacam itu dari
+jenis yang digunakan dalam pertanian; pot
+keramik, tempayan dan barang semacam itu
+dari jenis digunakan untuk mengangkut
+atau mengepak barang.
+

@@ -1,0 +1,36 @@
+- 23 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+123.) 8457.10.90 -- Lain-lain
+124.| 8457.20.00 - Mesin konstruksi unit (single- V
+station)
+84.58 Mesin bubut (termasuk turning
+centre) untuk menghilangkan
+logam.
+- Mesin bubut horizontal:
+8458.11 -- Dikontrol secara numerik:
+125.| ex 8458.11.10 --- Dari spindle Kecuali Mesin V V V
+dengan daya Bubut CNC
+tidak melebihi 4 Diameter bubut
+kW maksimal: 300
+mm, Panjang bed:
+1.500 mm, CNC: 2
+Axis Interpolation
+126.] ex 8458.11.90 | --- Lain-lain Kecuali Mesin Vv] v V
+Bubut CNC
+Diameter bubut
+maksimal: 300
+mm, Panjang bed:
+1.500 mm, CNC: 2
+Axis Interpolation
+8458.19 -- Lain-lain:
+127.| ex 8458.19.10 --- Dengan jarak | Mesin dengan V V V
+antara pusat panjang bed 1,6
+spindle dan bed meter atau lebih
+tidak melebihi
+300 mm
+128.| ex 8458.19.90 --- Lain-lain Mesin dengan V V V
+
+panjang bed 1,6
+meter atau lebih
+

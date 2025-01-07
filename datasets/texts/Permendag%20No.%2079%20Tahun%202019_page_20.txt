@@ -1,0 +1,80 @@
+-16-
+
+KETERANGAN/PENJELASAN
+| BARANG | KEMASAN |
+ee ——“#$;CN BN TOO OCG
+Komputer handheld termasuk palmtop dan a. Nama barang;
+personal digital assistant (PDAs) b. Merek barang
+c. Nama dan alamat produsen untuk barang
+produksi dalam negeri; atau
+Nama dan alamat importir untuk barang impor;
+d. Penggunaan listrik; tegangan (V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+IMEI (International Mobile Equipment Identity )**
+
+NAMA BARANG
+
+URAIAN BARANG:
+
+j
+
+a/b/c
+
+a/b/c
+
+a/b/e
+a/b/ce
+
+Komputer Laptop
+
+Laptop termasuk notebook dan sub notebook Nama barang;
+. Merek barang
+c. Nama dan alamat produsen untuk barang
+
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+d. Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+
+a/b/c
+
+a/b/c
+a/b/c
+
+42. |Komputer Tablet Mesin pengolah data otomatis portabel yang menggunakan
+layar sentuh datar sebagai monitor dan peranti masukan
+dengan menggunakan stilus, pena digital, atau ujung jari,
+selain menggunakan papan ketik atau tetikus, baik dapat
+berfungsi atau tidak berfungsi sebagai alat komunikasi.
+
+a. Nama barang;
+b. Merek dan Tipe;
+c. Nama dan alamat produsen untuk barang
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+
+Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz);
+e. Negara Pembuat atau Made in.
+f. IMEI (International Mobile Equipment Identity)**
+
+Tipe panel layar datar a. Nama barang;
+b. Merek barang;
+c. Nama dan alamat produsen untuk barang
+
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+d. Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh.
+
+“untuk Komputer Genggam atau Komputer Tablet yang digunakan sebagai alat komunikasi berbasis SIM (Subscriber Identification Module)

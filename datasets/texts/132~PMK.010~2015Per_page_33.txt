@@ -1,0 +1,91 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+}8703.23.61.10
+
+- - Sedan / station wagon
+
+- - - - Sedan / station wagons
+
+www jdih.kemenkeu.go.idp s
+
+-30-
+POS/SUB POS
+HEADING/ URAIAN BARANG DESCRIPTION OF GOODS BEA MASUK /
+SUB HEADING IMPORT DUTY
+2) G) w 6)
+8702.10.89.20 Ir = Dengan g.v.w. melebihi 18 t tetapi tidak melebihi24t = J- - - - - Of ag.v.w. exceeding 18 t but not exceeding 24 t 50%
+8702.10.89.30 -- Dengan g.v.w. melebihi 24 t - - - Ofag.v.w. exceeding 24t 20%
+8702.10.90.00 - - - Lain-lain - Other 50%
+8702.90 ~ Lain-lain: - Other:
+- - Dalam keadaan terurai lengkap (CKD): - - Completely Knocked Down:
+- - Lain-lain: ~ - Other:
+'8702.90.92.00 - - - Mobil (termasuk limousin panjang tapi tidak termasuk coach,|- - - Motor cars (including stretch limousines but not including} 50%
+bus, minibus atau van) coaches, buses, minibuses or vans)
+- - - Untuk pengangkutan 30 orang atau lebih: - - - For the transport of 30 persons or more:
+8702.90.93 - Dirancang khusus untuk digunakan di bandara: - - - - Specially, designed for use in airports:
+8702.90.93.10 - Dengan g.v.w. tidak melebihi24t 0 we ee Of a g.v.w. not exceeding 24 t 50%
+8702.90.93.20 - Dengan g.v.w.melebihi24t fn ee ee Of a g.v.w. exceeding 24 t 20%
+8702.90.94 7 Lain-lain: - - - Other:
+8702.90.94.10 - Dengan g.v.w. tidak melebihi 24 t ---- Ofag.v.w. not exceeding 24t 50%
+8702.90.94.20 - -- Dengang.v.w.melebihi24t fw ee Ofa g.v.w. exceeding 24 t 20%
+8702.90.95 be Other motor coach, buses or minibuses: - - Other motor coaches, buses or minibuses:
+8702.90.95.10 Dengan g.v.w. tidak melebihi 24 t - - - Of ag.v.w. not exceeding 24 t 50%
+8702.90.95.20 Dengan g.v.w. melebihi 24 t - - - Ofag.v.w. exceeding 24 t 20%
+8702.90.99 Lain-lain: - - Other:
+8702.90.99.10 - Dengan g.v.w. tidak melebihi 24 t - - - Of ag.v.w. not exceeding 24t 50%
+8702.90.99.20 - Dengan g.v.w. melebihi 24 t - - - Ofag.v.w. exceeding 24 t 20%
+87.03 Mobil dan kendaraan bermotor lainnya terutama dirancang|Motor cars and other motor vehicles principally designed for|
+untuk pengangkutan orang (selain yang dimaksud dari pos|the transport of persons (other than those of heading 87.02),
+87.02), termasuk station wagon dan mobil balap. including station wagons and racing cars.
+8703.10 -' Kendaraan dirancang secara khusus untuk perjalanan diatas salju;|- Vehicles specially designed for travelling on snow; golf cars and|
+mobil golf dan kendaraan semacam itu: similar vehicles:
+8703.10.10.00 - - Mobil golf, termasuk golf buggy - - Golf cars, including golf buggies 50%
+8703.10.90.00 - - Lain-lain - - Other 50%
+- Kendaraan lainnya, dengan mesin piston pembakaran dalam/- Other vehicles, with  spark-ignition internal combustion|
+bolak balik cetus api: reciprocating piston engine:
+8703.21 - - Dengan kapasitas silinder tidak melebihi 1.000 cc: - - Of a cylinder capacity not exceeding 1,000 cc:
+8703.21.10.00 - - - Gokart + Go-karts 50%
+- - - Mobil (termasuk station wagon, SUV dan mobil sport, tapi]- - - Motor cars (including station wagons, SUVs and sports cars,
+tidak termasuk van): but not including vans):
+- - - - Dalam keadaan terurai lengkap (CKD): - Completely Knocked Down:
+- - - - Lain-lain: Other:
+8703.21.24.00 |----- Penggerak empat roda - - Four-wheel drive 50%
+8703.21.29 |----- Lain-lain: - Other:
+8703.21.29.10 - ---- - Sedan/ station wagons - - Sedan / station wagons 50%
+8703.21.29.90 = |------ Lain-lain - - Other 50%
+- - - Kendaraan lainnya, dalam keadaan terurai lengkap (CKD): Other vehicles, Completely Knocked Down:
+- - - Lain-lain: - Other:
+8703.21.91.00 - - - - Ambulan - - Ambulances 50%
+}8703.21.92.00 - - - - Karavan - Motor-homes 50%
+8703.21.99.00 - -- - Lain-lain - Other 50%
+8703.22 - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak]- - Of a cylinder capacity exceeding 1,000 cc but not exceeding,
+melebihi 1.500 cc: 1,500 ce:
+- - - Mobil (termasuk station wagon, SUV dan mobil sport, tapi]- - - Motor cars (including station wagons, SUVs and sports cars,
+tidak termasuk van): but not including vans):
+8703.22.11 - - - - Dalam keadaan terurai lengkap (CKD): - - - Completely Knocked Down:
+8703.22.19 - - - - Lain-lain: - - Other:
+8703.22.19.10 a Sedan / station wagon - - - Sedan / station wagons 50%
+'8703.22.19.90 fp - Lain-lain - - - Other 50%
+- - - Kendaraan lainnya, dalam keadaan terurai lengkap (CKD): - - Other vehicles, Completely Knocked Down:
+~~ - Lain-lain: - - Other:
+8703.22.91.00 Po Ambulan - - - Ambulances 50%
+8703.22.92.00 po Karavan - - Motor-homes 50%
+}8703.22.99.00 - - = - Lain-lain ~ - Other 50%
+8703.23 - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak|- - Of a cylinder capacity exceeding 1,500 cc but not exceeding}
+melebihi 3.000 ce: 3,000 ce:
+8703.23.10.00 - - - Ambulan - - Ambulances 50%
+- - - Mobil jenazah: - - Hearses:
+8703.23.21 7 Dalam keadaan terurai lengkap (CKD) - - - Completely Knocked Down
+8703.23.29.00 rr Lain-lain - - - Other 50%
+- - - Van tahanan: - - Prison vans:
+8703.23.31 - Dalam keadaan terurai lengkap (CKD) - - - Completely Knocked Down
+}8703.23.39.00 - Lain-lain - - - Other 50%
+8703.23.40.00 - - - Karavan - - Motor-homes 50%
+- - - Mobil (termasuk station wagon, SUV dan mobil sport, tapil- - - Motor cars (including station wagons, SUVs and sports cars,
+tidak termasuk van), dalam keadaan terurai lengkap (CKD): but not including vans), Completely Knocked Down:
+7 Mobil (termasuk station wagon, SUV dan mobil sport, tapil- - - Motor cars (including station wagons, SUVs and sports cars,
+tidak termasuk van), lain-lain: but not including vans), other:
+8703.23.61 - Dengan kapasitas silinder tidak melebihi 1.800 cc: - - - Ofa cylinder capacity not exceeding 1,800, cc: 509
+fo
+

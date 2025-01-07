@@ -1,0 +1,34 @@
+-79-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+434. | ex 4802.40.90 | -- Lain-lain Berasal dari kayu V V
+- Kertas dan kertas karton lainnya, tidak
+mengandung serat yang diperoleh melalui proses
+mekanik atau kimia mekanik atau mengandung
+serat tersebut tidak lebih dari 10% menurut berat
+keseluruhan kandungan seratnya:
+4802.54 -- Beratnya kurang dari 40 g/m?:
+--- Carbonising base paper, dengan berat kurang
+dari 20 g/m2:
+435. | ex 4802.54.11 ---- Dalam gulungan dengan Berasal dari kayu V V
+lebar tidak lebih dari 15 cm
+atau dalam lembaran empat
+persegi panjang (termasuk
+bujur sangkar) yang sisinya
+tidak ada yang melebihi 36 cm
+dalam keadaan tidak dilipat
+436. | ex 4802.54.19 ---- Lain-lain Berasal dari kayu V V
+--- Carbonishing base paper lainnya:
+437. | ex 4802.54.21 ---- Dalam gulungan dengan _| Berasal dari kayu V V
+lebar tidak lebih dari 15 cm
+atau dalam lembaran empat
+persegi panjang (termasuk
+bujur sangkar) yang sisinya
+tidak ada yang melebihi 36 cm
+dalam keadaan tidak dilipat
+438. | ex 4802.54.29 ---- Lain-lain Berasal dari kayu V V
+439. | ex 4802.54.30 --- Base paper dari jenis yang | Berasal dari kayu V V
+
+digunakan untuk pembuatan
+aluminium coated paper
+

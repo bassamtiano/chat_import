@@ -1,0 +1,50 @@
+- 86 -
+
+Keterangan:
+
+QVC adalah besaran qualifying value content suatu barang
+yang dinyatakan dalam persentase.
+
+FOB adalah nilai free-on-board suatu barang yang dibayar
+oleh pembeli kepada penjual tanpa melihat mode
+pengiriman, tidak termasuk pengurangan, pembebasan
+maupun pengembalian pajak pada saat barang diekspor;
+dan
+
+VNM adalah nilai value of non-originating material, yaitu
+bahan baku yang berasal dari luar Negara Anggota yang
+digunakan dalam pembuatan barang.
+
+b. Change in Tariff Classification (CTC) sebagaimana tercantum
+dalam daftar PSR meliputi Change in Chapter (CC), Change
+in Tariff Heading (CTH) dan Change in Tariff Sub Heading
+(CTSH).
+
+c. pabrikasi atau operasional tertentu (Specific Manufacturing
+or Processing Operation) yang diterapkan pada Bahan Non-
+Originating sebagaimana diatur dalam daftar PSR.
+
+6. Jenis Kriteria Asal Barang dalam daftar PSR terdiri dari:
+
+a. tunggal, yaitu suatu subpos tarif hanya memiliki 1 (satu)
+Kriteria Asal Barang.
+
+Contoh : 9605.00 (CC).
+
+b. alternatif, yaitu suatu subpos tarif yang memiliki lebih dari
+1 (satu) Kriteria Asal Barang yang harus dipilih salah satu.
+Contoh : 7405.00 (CTSH or QVC40).
+
+c. kombinasi, yaitu suatu subpos tarif yang memiliki lebih dari
+1 (satu) Kriteria Asal Barang yang harus dipenuhi
+seluruhnya.
+
+Contoh : 2309.10 (CC provided there is QVC40).
+
+d. alternatif dan kombinasi, yaitu suatu subpos tarif yang
+memiliki lebih dari 1 (satu) Kriteria Asal Barang, yang
+merupakan gabungan dari alternatif dan kombinasi yang
+
+harus dipilih salah satu.
+
+we Je pees

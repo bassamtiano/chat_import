@@ -1,0 +1,65 @@
+= (Bil) s=
+
+- Jam dinding :
+
+628 | 9105.21.00 - - Dioperasikan secara elektrik
+629 | 9105.29.00 - - Lain-lain
+- Lain-lain :
+9105.91 - - Dioperasikan secara elektrik :
+630 | 9105.91.10 - - - Kronometer kapal
+631 | 9105.91.90 - - - Lain-lain
+9105.99 - - Lain-lain :
+632 | 9105.99.10 - - - Kronometer kapal
+633 | 9105.99.90 - - - Lain-lain
+92.01 Piano, termasuk piano otomatis; harpsichord dan instrumen
+keyboard bersenar lainnya.
+634 | 9201.10.00 - Piano tegak
+635 | 9201.20.00 - Grand piano
+636 | 9201.90.00 - Lain-lain
+92.07 Instrumen musik, dengan suara yang dihasilkan, atau harus
+diperkuat, secara elektrik (misalnya, organ, gitar, akordeon).
+637 | 9207.10.00 - Instrumen keyboard, selain akordeon
+638 | 9207.90.00 - Lain-lain
+94.01 Tempat duduk (selain barang yang dimaksud dari pos 94.02),
+dapat diubah menjadi tempat tidur maupun tidak, dan
+bagiannya.
+9401.20 - Tempat duduk dari jenis yang digunakan untuk kendaraan
+bermotor :
+639 | 9401.20.10 - - Dari jenis yang digunakan untuk kendaraan dari pos 87.02, 87.03
+atau 87.04
+640 | 9401.20.90 - - Lain-lain
+- Tempat duduk berputar yang dapat diatur tingginya :
+641 9401.31.00 - - Dari kayu
+642 9401.39.00 - - Lain-lain
+
+- Tempat duduk selain dari tempat duduk taman atau perlengkapan
+perkemahan, dapat diubah menjadi tempat tidur :
+
+643 | 9401.41.00 - - Dari kayu
+
+644 | 9401.49.00 - - Lain-lain
+
+- Tempat duduk dari tanaman beruas, osier, bambu atau bahan
+semacam itu :
+
+645 | 9401.52.00 - - Dari bambu
+646 | 9401.53.00 - - Dari rotan
+647 | 9401.59.00 - - Lain-lain
+- Tempat duduk lainnya, dengan rangka kayu :
+648 | 9401.61.00 - - Diberi lapisan penutup
+9401.69 - - Lain-lain :
+649 | 9401.69.10 - - - Dengan sandaran dan/atau dudukan yang terbuat dari rotan
+650 | 9401.69.90 - - - Lain-lain
+- Tempat duduk lainnya, dengan rangka logam :
+651 | 9401.71.00 - - Diberi lapisan penutup
+9401.79 - - Lain-lain :
+652 | 9401.79.10 - - - Dengan sandaran dan/atau dudukan yang terbuat dari rotan
+653 | 9401.79.90 - - - Lain-lain
+654 | 9401.80.00 - Tempat duduk lainnya
+94.03 Perabotan lain dan bagiannya.
+655 | 9403.10.00 - Perabotan logam dari jenis yang digunakan di kantor
+9403.20 - Perabotan logam lainnya :
+656 | 9403.20.10 - - Fume cupboard
+657 | 9403.20.90 - - Lain-lain
+
+wn tomer

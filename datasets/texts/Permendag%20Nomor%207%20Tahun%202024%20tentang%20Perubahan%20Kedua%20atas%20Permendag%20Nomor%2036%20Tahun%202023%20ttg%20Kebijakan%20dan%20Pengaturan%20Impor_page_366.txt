@@ -1,0 +1,33 @@
+- 351 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1680. | 0306.17.29 ---- Lain-lain V V
+1681. | 0306.17.30 --- Udang galah (Macrobrachium rosenbergii) V V
+1682. | 0306.17.90 --- Lain-lain V V
+1683. | 0306.19.00 -- Lain-lain V V
+
+- Hidup, segar atau dingin:
+0306.31 -- Lobster karang dan udang laut besar lainnya
+(Palinurus spp., Panulirus spp., Jasus spp.):
+1684. | ex 0306.31.20 | --- Lain-lain, Selain untuk calon induk, V V
+hidup induk dan benih untuk
+pembudidayaan
+1685. | 0306.31.30 --- Segar atau dingin V V
+0306.32 -- Lobster (Homarus spp.):
+1686. | ex 0306.32.20 | --- Lain-lain, Selain untuk calon induk, V V
+hidup induk dan benih untuk
+pembudidayaan
+1687. | 0306.32.30 --- Segar atau dingin V V
+0306.33 -- Kepiting:
+--- Blue crab (Callinectes spp.) dan Snow crab
+(kepiting dari keluarga Oregoniidae):
+1688. | ex 0306.33.11 | ---- Hidup Selain untuk calon induk, V V
+induk dan benih untuk
+pembudidayaan
+1689. | 0306.33.12 ---- Segar atau dingin V V
+--- Lain-lain:
+1690. | ex 0306.33.91 | ---- Hidup Selain untuk calon induk, V V
+induk dan benih untuk
+pembudidayaan
+1691. | 0306.33.92 ---- Segar atau dingin V V
+

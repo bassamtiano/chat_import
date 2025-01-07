@@ -1,0 +1,36 @@
+- 388 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+1866. | 1604.17.90 --- Lain-lain: maksimal transaksi V
+1604.18 -- Sirip hiu: pembelian Barang
+1867. | 1604.18.10 --- Siap untuk dikonsumsi langsung untuk setiap hari atau V V
+- - setiap bulan sesuai
+--- Lain-lain dengan ketentuan
+1868. | 1604.18.91 ---- Dalam kemasan kedap udara untuk peraturan perundang- V V
+penjualan eceran undangan; dan
+1869. | 1604.18.99 ~-- Lain-lain e. Pengeluaran Makanan r r
+- - dan Minuman dari
+1604.19 ~- Lain-lain Pusat Logistik Berikat
+1870. | 1604.19.20 --- Makarel kuda, dalam kemasan kedap udara Bahan Pokok di V V
+untuk penjualan eceran Nunukan sebagaimana
+1871. | 1604.19.30 --- Lain-lain, dalam kemasan kedap udara dimaksud dalam huruf V V
+untuk penjualan eceran d dikecualikan dari
+1872. | 1604.19.90 --- Lain-lain kebijakan dan V V
+- - - pengaturan Impor
+1604.20 - Ikan diolah atau diawetkan lainnya: antara lain berupa
+1873. | 1604.20.20 -- Sosis ikan Laporan Surveyor. V V
+1874. | 1604.20.30 --- Bakso ikan biiakan d V V
+1875. | 1604.20.40 -- Pasta ikan Ke yakan dan pengaturan Fy Fy
+- - mpor diberlakukan
+-- Lain-lain terhadap Impor Makanan
+1876. | 1604.20.91 --- Dalam kemasan kedap udara untuk dan Minuman dalam V V
+penjualan eceran rangka kemudahan Impor
+1877. | 1604.20.99 | --- Lain-lain: tujuan ekspor v v
+- - - pembebasan.
+- Kaviar dan pengganti kaviar:
+1878. | 1604.31.00 -- Kaviar v v
+1879. | 1604.32.00 -- Pengganti Kaviar V V
+16.05 Krustasea, moluska dan invertebrata air
+lainnya, diolah atau diawetkan.
+1605.10 - Kepiting:
+

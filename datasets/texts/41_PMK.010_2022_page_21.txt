@@ -1,0 +1,89 @@
+= J], =
+
+8703.33 - - Dengan kapasitas silinder melebihi 2.500 cc :
+
+- - - Lain-lain :
+
+346 | 8703.33.51 - --- Ambulan
+
+347 | 8703.33.52 - - - - Mobil jenazah
+
+348 | 8703.33.53 - --- Van tahanan
+
+349 | 8703.33.54 ---- Karavan
+---- Sedan:
+
+350 | 8703.33.61  |----- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+351 | 8703.33.62  |----- Dengan kapasitas silinder melebihi 3.000 cc
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), berpenggerak empat roda :
+
+352 | 8703.33.71  |----- Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+353 | 8703.33.72 £|----- Dengan kapasitas silinder melebihi 3.000 cc
+354 | 8703.33.80 - - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), bukan berpenggerak empat roda
+355 | 8703.33.90 - - - - Lain-lain
+8703.40 - Kendaraan lainnya, dengan kedua mesin piston pembakaran dalam
+
+cetus api dan motor listrik sebagai motor untuk penggerak, selain
+dari kendaraan yang dapat  diisi tenaganya dengan
+menghubungkannya ke sumber tenaga listrik eksternal :
+
+- - Lain-lain :
+
+356 | 8703.40.31 - - - Gokart
+- - - All-Terrain Vehicles (ATV) :
+
+357 | 8703.40.32 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+358 | 8703.40.33 - - - - Dengan kapasitas silinder melebihi 1.000 cc
+- -- Ambulan :
+
+359 | 8703.40.34 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+360 | 8703.40.35 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 3.000 cc
+
+361 | 8703.40.36 - --- Lain-lain
+- - - Mobil jenazah :
+
+362 | 8703.40.41 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+363 | 8703.40.42 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+364 | 8703.40.43 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+365 | 8703.40.44 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+366 | 8703.40.45 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+367 | 8703.40.46 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+368 | 8703.40.47 - - - - Dengan kapasitas silinder melebihi 3.000 cc
+- - - Van tahanan :
+
+369 | 8703.40.51 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+370 | 8703.40.52 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+371 8703.40.53 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+372 | 8703.40.54 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 3.000 cc
+
+373 | 8703.40.55 - - -- Dengan kapasitas silinder melebihi 3.000 cc
+- - - Karavan :
+
+vot kemenkel gh

@@ -1,0 +1,116 @@
+- 104 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+spindle dan bed
+tidak melebihi
+300 mm
+
+meter atau lebih
+
+460.
+
+ex 8458.19.90
+
+--- Lain-lain
+
+Mesin dengan
+panjang bed 1,6
+meter atau lebih
+
+- Mesin bubut lainnya:
+
+461.
+
+8458.91.00
+
+-- Dikontrol secara numerik
+
+8458.99
+
+-- Lain-lain:
+
+462.
+
+8458.99.10
+
+--- Dengan jarak antara pusat spindle
+dan bed tidak melebihi 300 mm
+
+463.
+
+8458.99.90
+
+--- Lain-lain
+
+84.59
+
+Mesin perkakas (termasuk mesin
+way-type unit head) untuk
+mengebor, menggurdi, menggiling,
+membuat ulir atau alur dengan
+menghilangkan logam, selain
+mesin bubut (termasuk turning
+centre) dari pos 84.58.
+
+464.
+
+ex 8459.10.00
+
+- Mesin way-type
+unit head
+
+Dioperasikan
+secara elektrik
+
+- Mesin penggurdi
+
+lainnya:
+
+8459.29
+
+-- Lain-lain:
+
+465.
+
+ex 8459.29.10
+
+--- Dioperasikan
+secara elektrik
+
+Kecuali mesin
+penggurdi dengan
+diameter mata
+
+penggurdi
+maksimal 5 inchi
+
+- Mesin pengebor-penggiling lainnya:
+
+466.
+
+8459.31.00
+
+-- Dikontrol secara numerik
+
+8459.39
+
+-- Lain-lain:
+

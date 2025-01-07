@@ -1,0 +1,74 @@
+-ll-
+
+No. ed Taritl Uraian Barang Description of Goods Inport Duty
+(1) (2) (3) (4) (5)
+0711.40 - Ketimun dan ketimun acar : - Cucumbers and gherkins :
+50 [0711.40.10 - - Diawetkan dengan gas belerang - - Preserved by sulphur dioxide gas 4%
+dioksida
+51 |0711.40.90 - » Lain-lain - - Other 3%
+- Jamur dan cendawan tanah : - Mushrooms and truffles :
+0711.90 - Sayuran lainnya; campuran sayuran : - Other vegetables; mixtures of
+vegetables :
+- - Jagung manis - - Sweet corn
+- - Cabai (buah dari genus Capsicum) - - Chillies (fruits of genus Capsicum)
+52 0711.90.30 - - Caper - - Capers 4%
+53 10711.90.40 - - Bawang bombay, diawetkan dengan - - Onions, preserved by sulphur dioxide 4%
+gas belerang dioksida gas
+54 10711.90.50 - - Bawang bombay, diawetkan selain -- Onions, preserved other than by 4%
+dengan gas belerang dioksida sulphur dioxide gas
+55 0711.90.60 ~~ Lain-lain, diawetkan dengan gas ~ - Other, preserved by sulphur dioxide 4%
+belerang dioksida gas
+56 |0711.90.90 - - Lain-lain -- Other 3%
+07.12 Sayuran dikeringkan, utuh, potongan, |Dried vegetables, whole, cut, sliced,
+irisan, patahan atau dalam bentuk broken or in powder, but not further
+bubuk, tetapi tidak diolah lebih prepared,
+Janjut.
+57 |0712.20.00 - Bawang bombay - Onions 4%
+- Jamur, jamur kuping (Auricularia - Mushrooms, wood ears (Auricularia
+spp.), jamur jeli (Tremella spp.) dan spp.), jelly fungi (Tremella spp.) and
+icendawan tanah : truffles :
+- - Jamur dari genus Agaricus - - Mushrooms of the genus Agaricus
+- - Jamur kuping (Auricularia spp.) - - Wood ears (Auricularia spp.)
+- - Jamur jeli (Tremella spp.) - - Jelly fungi (Tremella spp.)
+- - Shiitake (Lentinus edodes) - - Shiitake (Lentinus edodes)
+0712.39 - - Lain-lain : - - Other :
+|- - - Cendawan tanah - - - Truffles
+58  |0712.39.90 ~~ - Lain-lain --- Other 3%
+0712.90 - Sayuran lainnya; campuran sayuran : - Other vegetables; mixtures of
+vegetables :
+59 |0712,90.10 - - Bawang putih - - Garlic 4%
+60 |0712.90.20 - - Jagung manis - - Sweet corn 3%
+61 0712.90.90 - - Lain-lain - - Other 3%
+07.13 Sayuran polongan dikeringkan, Dried leguminous vegetables, shelled,
+dikupas, dikuliti atau dibelah maupun [whether or not skinned or split.
+tidak.
+0713.10 - Kacang kapri (Pisum sativum) : - Peas (Pisum sativum) :
+- - Cocok untuk disemai - - Suitable for sowing
+62 0713.10.90 - - Lain-lain - - Other 3%
+0713.20 |- Chickpeas (garbanzos) : - Chickpeas {garbanzos) :
+- - Cocok untuk disemai - - Suitable for sowing
+63  |0713.20.90 - ~ Lain-lain - - Other 3%
+- Kacang (Vigna spp., Phaseolus spp.) : - Beans (Vigna spp., Phaseolus spp.}:
+0713.31 - - Kacang dari spesies Vigna mungo (L.) _|- - Beans of the species Vigna mungo {L.)
+|Hepper atau Vigna radiata (L.) Wilczek : Hepper or Vigna radiata (L.} Wilczek :
+- ++ Cocok untuk disemai - - - Suitable for sowing
+64 {0713.31.90 --- Lain-lain --- Other 3%
+0713.32 - - Kacang merah kecil (Adzuki) - - Small red {Adzuki) beans (Phaseolus
+(Phaseolus atau Vigna angularis) : or Vigna angularis) :
+- - - Cocok untuk disemai --- Suitable for sowing
+65 {0713.32.90 --- Lain-lain --- Other 3%
+0713.33 - - Kacang merah, termasuk kacang . - Kidney beans, including white pea
+buncis (Phaseolus vulgaris) : ‘beans (Phaseolus vulgaris) :
+- - - Cocok untuk disemai - - - Suitable for sowing
+66 |0713.33.90 - - - Lain-lain --- Other 3%
+0713.34 - - Kacang Bambara (Vigna subterranea _|- - Bambara beans (Vigna subterranea or
+atau Voandzeia subterranea) : Voandzeia subterranea) :
+0713.35 - - Kacang sapi (Vigna unguiculata) : - - Cow peas (Vigna unguiculata) :
+0713.39 - - Lain-lain : - - Other:
+- -- Cocok untuk disemai - - - Suitable for sowing
+67 = |0713.39.90 -+~ Lain-lain - ~~ Other 3%
+0713.40 - Miju-miju : - Lentils :
+- - Cocok untuk disemai |- - Suitable for sowing
+68 [0713.40.90 - - Lain-lain Other 3%
+
+sin kemente floc

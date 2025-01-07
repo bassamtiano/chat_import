@@ -1,0 +1,37 @@
+-58-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bec
+8474.10 - Mesin penyortir, pengayak, pemisah
+atau_pencuci:
+197. | 8474.10.10 -- Dioperasikan secara elektrik V V V
+8474.20 - Mesin penghancur atau
+penggerinda:
+-- Dioperasikan secara elektrik:
+198. | 8474.20.11 --- Untuk batu vv V
+84.77 Mesin untuk mengerjakan karet
+atau plastik atau untuk pembuatan
+produk dari bahan tersebut, tidak
+dirinci atau termasuk dalam pos
+lainnya dalam Bab ini.
+8477.10 - Mesin cetak injeksi:
+199. | 8477.10.10 -- Untuk mencetak karet Vv |v V
+-- Untuk mencetak plastik:
+200. | 8477.10.31 --- Mesin cetak injeksi untuk Poly V V V
+(vinyl chloride)
+8477.20 - Pengekstrusi:
+201. | 8477.20.10 -- Untuk mengekstrusi karet V V V
+202. | 8477.20.20 -- Untuk mengekstrusi plastic V V V
+203. | 8477.30.00 - Mesin cetak tiup V | v V
+8477.40 - Mesin cetak hampa udara dan
+mesin thermoforming lainnya:
+204. | 8477.40.20 -- Untuk mencetak atau membentuk V V V
+plastik
+205. | 8477.51.00 -- Untuk mencetak atau menelapaki V V V
+ban pneumatik atau untuk mencetak
+atau membentuk ban dalam secara
+lain
+8477.80 - Mesin lainnya:
+206. | 8477.80.10 -- Untuk mengerjakan karet atau V V V
+
+untuk pembuatan produk dari karet,
+

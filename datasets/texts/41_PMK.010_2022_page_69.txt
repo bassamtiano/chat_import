@@ -1,0 +1,72 @@
+- 69 -
+
+908 | 8528.71.11 - - - - Dioperasikan dengan tenaga listrik
+909 8528.71.19 - - - - Lain-lain
+- - - Lain-lain :
+910 | 8528.71.91 - - - - Dioperasikan dengan tenaga listrik
+911 8528.71.99 - - - - Lain-lain
+85.44 Kawat diisolasi (termasuk dienamel atau dianodisasi), kabel
+
+(termasuk kabel koaksial) dan konduktor listrik diisolasi lainnya,
+dilengkapi dengan konektor maupun tidak; kabel serat optik,
+dibuat dari serat berselubung tersendiri, dirakit dengan konduktor
+listrik atau dilengkapi dengan konektor maupun tidak.
+
+- Kawat gulung :
+
+8544.11 - - Dari tembaga :
+912 | 8544.11.20 - - - Dengan lapisan terluar atau dibungkus dengan kertas, tekstil atau
+poli(vinil klorida)
+913 | 8544.11.30 - - - Dengan lapisan terluar dari lak
+914 | 8544.11.40 - - - Dengan lapisan terluar dari enamel
+915 | 8544.11.90 - - - Lain-lain
+916 8544.19.00 - - Lain-lain
+- Konduktor listrik lainnya, untuk voltase tidak melebihi 1.000 V :
+8544.42 - - Dilengkapi dengan konektor :
+
+- - - Dari jenis yang digunakan untuk telekomunikasi dengan voltase
+tidak melebihi 80 V :
+
+917 | 8544.42.94 - - - - Kabel listrik diisolasi dengan plastik, yang tiap intinya
+mempunyai diameter tidak melebihi 5 mm
+918 | 8544.42.95 - - - - Kabel listrik diisolasi dengan plastik, yang tiap intinya
+mempunyai diameter melebihi 5 mm tetapi tidak melebihi 19,5 mm
+919 8544.42.96 ---- Kabel listrik lainnya diisolasi dengan plastik
+920 | 8544.42.97 - - - - Kabel listrik diisolasi dengan karet atau kertas
+8544.49 - - Lain-lain :
+
+- - - Dari jenis yang digunakan untuk telekomunikasi dengan voltase
+tidak melebihi 80 V :
+
+- --- Lain-lain:
+
+921 8544.49.22 |H = 55 Kabel listrik diisolasi dengan plastik, yang tiap intinya
+mempunyai diameter tidak melebihi 19,5 mm
+
+922 | 8544.49.23 #£=%|---+-- Kabel listrik lainnya diisolasi dengan plastik
+
+- - - Dari jenis yang tidak digunakan untuk telekomunikasi, dengan
+voltase melebihi 80 V tetapi tidak melebihi 1.000 V :
+
+923 8544.49.41 - - - - Kabel diisolasi dengan plastik
+8544.60 - Konduktor listrik lainnya, untuk voltase melebihi 1.000 V:
+- - Untuk voltase melebihi 1 kV tetapi tidak melebihi 36 kV :
+924 | 8544.60.11 - - - Kabel diisolasi dengan plastik, yang tiap intinya mempunyai
+diameter kurang dari 22,7 mm
+925 | 8544.60.12 - - - Lain-lain, diisolasi dengan karet, plastik atau kertas
+926 | 8544.60.19 - - - Lain-lain
+87.02 Kendaraan bermotor untuk pengangkutan sepuluh orang atau
+lebih, termasuk pengemudi.
+8702.10 - Hanya dengan mesin piston pembakaran dalam nyala kompresi
+(diesel atau semi diesel) :
+- - Lain-lain :
+927 | 8702.10.60 - - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+
+bus, minibus atau van)
+
+- -- Lain-lain, untuk pengangkutan 30 orang atau lebih dan dirancang
+khusus untuk digunakan di bandara :
+
+928 | 8702.10.71 - - - - Dengan g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t
+
+wn keen

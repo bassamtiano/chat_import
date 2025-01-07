@@ -1,0 +1,31 @@
+- 364 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+--- Karaginan:
+1821. | 1302.39.11 ---- Bubuk, semi-murni V V
+1822. | 1302.39.12 ---- Bubuk, murni V V
+1823. | 1302.39.13 ---- Alkali Treated carrageenan chips (ATCC) V V
+1824. | 1302.39.19 ---- Lain-lain V V
+15.04 Lemak dan minyak serta fraksinya, dari ikan
+atau binatang laut menyusui, dimurnikan
+maupun tidak, tetapi tidak dimodifikasi
+secara kimia.
+1504.10 - Minyak hati ikan dan fraksinya:
+1825. | 1504.10.20 -- Fraksi padat V V
+1826. | 1504.10.90 -- Lain-lain V V
+1504.20 - Lemak dan minyak serta fraksinya, dari ikan,
+selain minyak hati ikan:
+1827. | 1504.20.10 -- Fraksi padat V V
+1828. | 1504.20.90 -- Lain-lain V V
+1829. | 1504.30.00 - Lemak dan minyak serta fraksinya dari V V
+binatang laut menyusui
+39.13 Polimer alam (misalnya, asam alginat) dan V V
+polimer alam yang dimodifikasi (misalnya
+protein dikeraskan, turunan kimia dari karet
+alam), tidak dirinci atau termasuk dalam pos
+manapun, dalam bentuk asal.
+1830. | 3913.10.00 - Asam alginat, Alginate dan turunannya V V
+garam dan
+
+esternya
+

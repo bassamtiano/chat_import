@@ -1,0 +1,36 @@
+- 238 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+920. 7213.99.20 --- Dari jenis yang digunakan TNE; V V
+untuk penguatan beton (rebar) KGM
+921. 7213.99.90 --- Lain-lain TNE; Vv |v
+KGM
+922. 7214.10.11 --- Dengan penampang silang TNE; V V
+lingkaran KGM
+923. 7214.10.19 --- Lain-lain TNE; Vv |v
+KGM
+924. 7214.10.21 --- Dengan penampang silang TNE; V V
+lingkaran KGM
+925. 7214.10.29 --- Lain-lain TNE; Vv |v
+KGM
+926. 7214.20.31 ---- Dari jenis yang digunakan TNE; V V
+untuk penguatan beton (rebar) KGM
+927. | 7214.20.39 ---- Lain-lain TNE; Vv |v
+KGM
+928. 7214.20.69 ---- Lain-lain TNE; Vv |v
+KGM
+929. 7214.30.10 -- Dengan penampang silang TNE; V V
+lingkaran KGM
+930. 7214.30.90 -- Lain-lain TNE; Vv |v
+KGM
+931. 7214.91.11 ---- Mengandung karbon 0,38 % TNE; Vv |v
+atau lebih dan mangan kurang dari | KGM
+1,15 % menurut beratnya
+932. 7214.91.12 ---- Mengandung karbon 0,17 % TNE; Vv |v
+atau lebih tetapi tidak lebih dari KGM
+
+0,46 % dan mangan 1,2 % atau
+lebih tetapi kurang dari 1,65 %
+menurut beratnya
+

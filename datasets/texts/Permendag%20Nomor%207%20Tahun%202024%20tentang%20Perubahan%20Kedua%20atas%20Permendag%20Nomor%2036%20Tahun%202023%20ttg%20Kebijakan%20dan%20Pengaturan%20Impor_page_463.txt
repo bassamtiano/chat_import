@@ -1,0 +1,40 @@
+- 448 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+batik
+2494. | 6207.22.00 -- Dari serat buatan PCE Viv
+6207.29 -- Dari bahan tekstil lainnya:
+2495. | 6207.29.10 --- Dari sutra PCE viv
+2496. | 6207.29.90 --- Lain-lain PCE Viv
+- Lain-lain:
+2497. | 6207.91.00 -- Dari kapas PCE vV |v
+6207.99 --_Dari bahan tekstil lainnya:
+2498. | 6207.99.10 --- Dari serat buatan PCE Viv
+2499. | 6207.99.90 --- Lain-lain PCE Viv
+62.08 Singlet dan kaus kutang lainnya,
+
+pakaian dalam kombinasi,
+petticoat, celana dalam, panty,
+gaun malam, piyama, negligee,
+pakaian mandi, dressing gown
+dan barang semacam itu, untuk
+wanita atau anak perempuan.
+
+- Pakaian dalam kombinasi dan
+
+petticoat:
+2500. | 6208.11.00 -- Dari serat buatan PCE Viv
+2501. | 6208.19.00 -- Dari bahan tekstil lainnya PCE viv
+- Gaun tidur dan piyama:
+6208.21 -- Dari kapas:
+2502. | ex 6208.21.90 | --- Lain-lain Selain motif PCE Viv
+batik
+2503. | 6208.22.00 -- Dari serat buatan PCE viv
+6208.29 -- Dari bahan tekstil lainnya:
+2504. | ex 6208.29.90 | --- Lain-lain Selain motif PCE Viv
+batik
+- Lain-lain:
+6208.91 -- Dari kapas:
+2505. | ex 6208.91.90 | --- Lain-lain Selain motif PCE Viv
+

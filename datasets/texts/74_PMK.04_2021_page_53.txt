@@ -1,0 +1,41 @@
+-53-
+
+PETUNJUK PENGISIAN
+
+Kop Surat diisi dengan identitas nama Kantor Pabean yang menerbitkan
+Surat Pemberitahuan Pengeluaran Barang (SPPB) Pelayanan Segera (Rush
+Handling). Untuk Kantor Pabean yang merupakan satuan kerja Kantor
+Pelayanan Utama hanya mengisi identitas nama satuan kerja Eselon II
+dan untuk Kantor Pabean yang merupakan satuan kerja Kantor
+Pengawasan dan Pelayanan Bea dan Cukai mengisi identitas nama satuan
+kerja Eselon II dan Eselon III.
+Pengisian kolom dalam SPPB Pelayanan Segera (Rush Handling) yakni
+sebagai berikut:
+a. Nomor dan Tanggal Surat Pemberitahuan Pengeluaran Barang (SPPB)
+Pelayanan Segera (Rush Handling)
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan.
+Nomor
+Diisi dengan data berupa nomor urutan administrasi SPPB Pelayanan
+Segera (Rush Handling) dimasing-masing kantor pabean, yang terdiri
+dari 16 (enam belas) digit angka, berupa:
+1) 6 (enam) digit pertama diisi dengan angka urutan administrasi
+SPPB Pelayanan Segera (Rush Handling);
+2) 3 (tiga) digit selanjutnya diisi dengan identitas dokumen
+Pelayanan Segera (Rush Handling) dengan mencantumkan
+“/ RH”;
+3) 1 (satu) digit selanjutnya diisi dengan tanda hubung (hypen) “-*;
+dan
+4) 6 (enam) digit terakhir diisi dengan kode kantor pabean tempat
+penerbitan SPPB Pelayanan Segera (Rush Handling).
+Tanggal
+Diisi dengan data berupa tanggal, bulan dan tahun SPPB Pelayanan
+Segera (Rush Handling) diterbitkan oleh masing-masing kantor
+pabean.
+Contoh:
+SPPB Pelayanan Segera (Rush Handling) urutan ke-25 pada tanggal 3
+Februari 2020 di KPU BC Tanjung Priok.
+Nomor : 000025/RH-040300
+Tanggal : 03-02-2020
+
+saci kemenkeu go f

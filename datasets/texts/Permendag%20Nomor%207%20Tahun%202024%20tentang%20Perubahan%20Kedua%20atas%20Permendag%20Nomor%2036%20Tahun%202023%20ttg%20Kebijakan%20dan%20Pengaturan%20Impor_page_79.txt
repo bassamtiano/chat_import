@@ -1,0 +1,87 @@
+- 64 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Komoditas belum
+
+ditetapkan:
+
+1. PI Beras Keperluan
+Umum (BUMN pemilik
+API-U) yang masih
+berlaku;
+
+2. Surat pernyataan yang
+menjelaskan alasan
+perpanjangan yang
+dibuktikan dengan
+informasi secara
+tertulis dari penyedia
+alat angkut yang
+menyatakan alasan
+keterlambatan
+kedatangan barang
+yang diakibatkan oleh
+keadaan tertentu; dan
+
+3. Bill of Lading (B/L)
+atau Airway Bill (AWB)
+terhadap barang yang
+telah dimuat pada alat
+angkut.
+
+ditetapkan Importir dapat
+memiliki 1 (satu) atau lebih
+PI Beras Keperluan Umum
+(BUMN pemilik API-U) yang
+masih berlaku, dalam 1
+(satu) periode sesuai
+Neraca Komoditasnya.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan Importir dapat
+memiliki 1 (satu) atau
+lebih untuk setiap jenis PI
+Beras Keperluan Umum
+(BUMN pemilik API-U)
+yang masih berlaku,
+dalam 1 (satu) periode.
+
+PI Beras Keperluan Umum
+(BUMN pemilik API-U)
+berlaku untuk 1 (satu)
+atau lebih penyampaian
+Pemberitahuan Pabean
+Impor.
+
+Verifikasi atau
+Penelusuran Teknis Impor
+(VPTI) dilakukan di negara
+asal barang di luar negeri
+sebelum dikapalkan.
+
+Perubahan satuan barang
+
+dan/atau Pos Tarif/HS
+

@@ -1,0 +1,28 @@
+- 452 -
+
+No. Sektor/Subsektor/Barang
+
+INDUSTRI PERMESINAN DAN ALAT MESIN PERTANIAN
+
+3791.| Industri Alat/Mesin Pertanian
+
+3792.) Industri Mesin/Peralatan Pabrik
+
+3793.| Industri Alat Berat
+
+3794.| Industri Mesin Perkakas
+
+INDUSTRI KIMIA HILIR DAN FARMASI
+
+3795.| Karet dan Plastik Hilir
+
+INDUSTRI ALAT KESEHATAN
+
+3796.| Industri Ventilator
+
+3797.| Industri Komponen Ventilator
+
+INDUSTRI SEMEN, KERAMIK, DAN PENGOLAHAN BAHAN GALIAN NONLOGAM
+
+3798.| Refraktori/Barang Tahan Api
+

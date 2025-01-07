@@ -1,0 +1,76 @@
+-10-
+
+No. ne atl Uraian Barang Description of Goods lanort Duty
+(1) (2) (3) (4) (5)
+30 |0704.90.20 - - Mustard Cina - - Chinese mustard 4%
+31 0704.90.30 - - Kubis lainnya - - Other cabbages 3%
+32 {0704.90.90 - - Lain-lain - - Other 3%
+07.06 Wortel, lobak cina, akar bit untuk Carrots, turnips, salad beetroot,
+salad, salsify, celeriac, lobak dan akar |salsify, celeriac, radishes and similar
+sejenis yang dapat dimakan, segar edible roots, fresh or chilled.
+atau dingin.
+0706.10 - Wortel dan lobak cina : - Carrots and turnips :
+33 |0706.10.20 - - Lobak cina - - Turnips 4%
+34 |0706.90.00 - Lain-lain - Other 3%
+07.08 Sayuran polongan, dikupas atau tidak, |Leguminous vegetables, shelled or
+segar atau dingin. unshelied, fresh or chilled.
+- Kacang kapri (Pisum sativum) - Peas (Pisum sativum)
+0708.20 - Kacang (Vigna spp., Phaseolus spp.) : - Beans (Vigna spp., Phaseolus spp.) :
+35 0708.20.10 - - Kacang perancis - - French beans 4%
+- - Kacang panjang - - Long beans
+36 |0708.20.90 - - Lain-lain - - Other 3%
+37 = |0708.90.00 - Sayuran polongan lainnya - Other leguminous vegetables 4%
+07.09 Sayuran lainnya, segar atau dingin. Other vegetables, fresh or chilled.
+- Asparagus - Asparagus
+- Terung - Aubergines (egg-plants}
+- Seledri selain celeriac - Celery other than celeriac
+- Jamur dan cendawan tanah : - Mushrooms and truffles :
+- - Jamur dari genus Agaricus - - Mushrooms of the genus Agaricus
+38 |0709.52.00 ~ - Jamur dari genus Boletus - - Mushrooms of the genus Boletus 3%
+39, |0709.53.00 - - Jamur dari genus Cantharellus - - Mushrooms of the genus 3%
+Cantharellus
+40 0709.54.00 - - Shiitake (Lentinus edodes) - - Shiitake (Lentinus edodes) 3%
+41 |0709.55.00 - - Matsutake (Tricholoma matsutake, . - Matsutake (Tricholoma matsutake, 3%
+Tricholoma magnivelare, Tricholoma Tricholoma magnivelare, Tricholoma
+anatolicum, Tricholoma dulciolens, anatolicum, Tricholoma dulciolens,
+Tricholoma caligatum) Tricholoma caligatum)
+- - Cendawan tanah (Tuber spp.) - - Truffles {Tuber spp.)
+0709.59 - - Lain-lain : -- Other:
+~ - - Cendawan tanah, selain Tuber spp. |- - - Truffles, other than Tuber spp.
+42 0709.59.90 --- Lain-lain - - - Other 3%
+0709.60 - Buah dari genus Capsicum atau dari - Fruits of the genus Capsicum or of the
+genus Pimenta : genus Pimenta :
+- - Cabai (buah dari genus Capsicum) - - Chillies (fruits of genus Capsicum)
+43 |0709.60.90 -- Lain-lain ~- Other 3%
+- Bayam, bayam New Zealand dan - Spinach, New Zealand spinach and
+bayam orache (bayam kebun) orache spinach (garden spinach)
+- Lain-lain : - Other :
+- - Globe artichokes ~ - Globe artichokes
+- - Buah zaitun - - Olives
+- - Labu, squash dan gourd (Cucurbita -- Pumpkins, squash and gourds
+spp.) (Cucurbita spp.)
+0709.99 - - Lain-lain : -- Other :
+-- - Jagung manis - - - Sweet corn
+44 |0709.99.20 - - - Lady's finger (Okra) - - - Lady's finger (Okra) 4%
+45 0709.99.90 --- Lain-lain --- Other 3%
+07.10 Sayuran (tidak dimasak atau dimasak [Vegetables (uncooked or cooked by
+dengan dikukus atau direbus), beku. steaming or boiling in water), frozen.
+- Kentang - Potatoes
+- Sayuran polongan, dikupas atau tidak |- Leguminous vegetables, shelled or
+: ‘unshelled :
+- - Kacang kapri (Pisum sativum) - - Peas (Pisum sativum)
+46 |0710.22.00 - - Kacang (Vigna spp., Phaseolus spp.) - - Beans (Vigna spp., Phaseolus spp.) 4%
+47 |0710.29.00 - - Lain-lain - - Other 3%
+0710.30.00 - Bayam, bayam New Zealand dan - Spinach, New Zealand spinach and
+bayam orache (bayam kebun) orache spinach (garden spinach)
+- Jagung manis - Sweet corn
+48 0710.80.00 - Sayuran lainnya - Other vegetables 4%
+49 10710.90.00 - Campuran sayuran - Mixtures of vegetables 4%
+07.11 Sayuran yang diawetkan sementara, Vegetables provisionally preserved,
+tetapi tidak cocok untuk konsumsi ‘but unsuitable in that state for
+lJangsung. immediate consumption.
+0711.20 - Buah zaitun : - Olives :
+
+jdih.keme
+
+Ebi

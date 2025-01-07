@@ -1,0 +1,92 @@
+- 147 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+kurang dari 225
+g/m?
+
+466.
+
+ex 4802.58.99
+
+---- Lain-lain
+
+Berasal dari kayu
+
+- Kertas dan kertas karton lainnya,
+mengandung serat yang diperoleh melalui
+proses mekanik atau kimia mekanik lebih dari
+10% menurut berat keseluruhan kandungan
+seratnya:
+
+4802.61
+
+-- Dalam gulungan:
+
+--- Kertas hias dan kertas karton hias:
+
+467.
+
+ex 4802.61.31
+
+---- Dengan lebar | Berasal dari kayu
+tidak melebihi 15
+cm
+
+468.
+
+ex 4802.61.39
+
+---- Lain-lain Berasal dari kayu
+
+--- Base paper dari jenis yang digunakan untuk
+pembuatan aluminium coated paper
+
+469.
+
+ex 4802.61.41
+
+---- Beratnya
+lebih dari 150
+g/m2 tetapi
+kurang dari 225
+g/m2
+
+Berasal dari kayu
+
+470.
+
+ex 4802.61.49
+
+---- Lain-lain
+
+Berasal dari kayu
+
+--- Dari jenis yang digunakan untuk menulis,
+mencetak dan keperluan grafik lainnya:
+
+471.
+
+ex 4802.61.51
+
+---- Dengan lebar | Berasal dari kayu
+tidak melebihi 15
+cm
+

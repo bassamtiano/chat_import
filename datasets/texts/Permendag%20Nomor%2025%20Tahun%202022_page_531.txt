@@ -1,0 +1,84 @@
+-~ 49 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+253.
+
+ex 8504.40.30
+
+-- Rectifier
+lainnya
+
+254.
+
+ex 8504.40.90
+
+-- Lain-lain
+
+Konfigurasinya
+spesifik untuk
+BTS selular yang
+belum diproduksi
+di Indonesia
+dengan
+spesifikasi:
+“MCS 1800 -48V
+Rectifier”
+
+1. Wide input
+voltage range: 90
+— 275 Vrms
+
+2. Power Factor
+Correction 0.99
+3. Operating
+Temperature
+range up to 65
+derajat Celsius
+4. Intelligent
+micro-processor
+controlled
+
+85.07
+
+Akumulator listrik, termasuk
+separatornya, empat persegi
+panjang (termasuk bujur sangkar)
+
+maupun tidak.
+
+8507.30
+
+- Nikel-kadmium:
+
+255.
+
+ex 8507.30.90
+
+-- Lain-lain
+
+Hanya untuk
+Battery Nikel
+Kadmium, Sampai
+dengan 16 KVA,
+dengan Bracket
+atau Mounting
+untuk Mesin ATM
+

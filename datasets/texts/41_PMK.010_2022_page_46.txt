@@ -1,0 +1,63 @@
+- 46 -
+
+286 | 4205.00.10 - Tali sepatu bot; mat
+287 | 4205.00.30 - String atau jalinan tali dari kulit samak dari jenis yang digunakan
+untuk perhiasan atau barang perhiasan pribadi
+288 | 4205.00.90 - Lain-lain
+43.04 Bulu artifisial dan barang terbuat dari padanya.
+- Lain-lain :
+289 | 4304.00.91 - - Tas olahraga
+44.14 Bingkai kayu untuk lukisan, foto, cermin atau benda semacam itu.
+290 | 4414.10.00 - Dari kayu tropis
+291 | 4414.90.00 - Lain-lain
+44.19 Perangkat makan dan perangkat dapur, dari kayu.
+- Dari bambu :
+292 | 4419.11.00 - - Papan roti, talenan dan papan semacam itu
+293 | 4419.12.00 - - Sumpit
+294 | 4419.19.00 - - Lain-lain
+295 | 4419.20.00 - Dari kayu tropis
+296 | 4419.90.00 - Lain-lain
+44.20 Tatakan kayu dan kayu bertatah; kotak dan peti untuk perhiasan
+
+atau peralatan makan dan barang semacam itu, dari kayu; patung
+kecil dan ornamen lainnya, dari kayu; perabotan dari kayu yang
+tidak termasuk Bab 94.
+
+- Patung kecil dan ornamen lainnya :
+
+297 | 4420.11.00 - - Dari kayu tropis
+298 | 4420.19.00 - - Lain-lain
+4420.90 - Lain-lain :
+299 | 4420.90.10 - - Perabotan dari kayu yang tidak termasuk Bab 94
+300 | 4420.90.20 - - Kotak dan kemasan kecil lainnya yang ditujukan/dirancang untuk
+dan cocok untuk dibawa dalam saku, dalam tas tangan atau dipegang
+orang
+301 | 4420.90.90 - - Lain-lain
+46.01 Anyaman dan produk semacam itu dari bahan anyaman, strip
+
+maupun tidak; bahan anyaman, anyaman dan produk semacam itu
+dari bahan anyaman, diikat bersama menjadi untaian atau
+tenunan sejajar, dalam bentuk lembaran, merupakan barang jadi
+maupun tidak (misalnya, mat, matting, tirai).
+
+- Mat, matting dan tirai dari bahan nabati :
+
+302 | 4601.21.00 - - Dari bambu
+303 | 4601.22.00 - - Dari rotan
+304 | 4601.29.00 - - Lain-lain
+- Lain-lain :
+4601.92 - - Dari bambu :
+305 4601.92.10 - - - Anyaman dan produk semacam itu dari bahan anyaman, dirakit
+menjadi strip maupun tidak
+306 | 4601.92.20 - - - Kipas dan handscreen, bingkai dan gagangnya, dan bagiannya
+307 | 4601.92.90 - - - Lain-lain
+4601.99 - - Lain-lain :
+308 | 4601.99.10 - - - Mat dan matting
+309 | 4601.99.20 - - - Anyaman dan produk semacam itu dari bahan anyaman, strip
+maupun tidak
+310 | 4601.99.30 - - - Kipas dan handscreen, bingkai dan gagangnya, dan bagiannya
+311 | 4601.99.90 - - - Lain-lain
+
+y
+
+www.jdih.kemenkeu/(go.id

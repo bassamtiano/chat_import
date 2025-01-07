@@ -1,0 +1,33 @@
+- 357 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+0307.43 -- Beku:
+1747. | 0307.43.10 --- Cumi-cumi (Sepia officinalis, Rossia V V
+macrosoma,Sepiola spp.) dan sotong
+(Ommastrephes spp., Loligospp., Nototodarus
+spp., Sepioteuthis spp.)
+1748. | 0307.43.90 --- Lain-lain V V
+0307.49 -- Lain-lain:
+--- Dikeringkan, diasinkan atau dalam air
+garam:
+1749. | 0307.49.21 ---- Cumi- cumi (Sepia officinalis, Rossia V V
+macrosoma, Sepiola spp.) dan sotong
+(Ommastrephes spp., Loligo spp.,Nototodarus
+spp., Sepioteuthis spp.)
+1750. | 0307.49.29 ---- Lain-Lain V V
+--- Diasapi:
+1751. | 0307.49.31 ---- Cumi- cumi (Sepia officinalis, Rossia V V
+macrosoma, Sepiola spp.) dan sotong
+(Ommastrephes spp., Loligo spp.,Nototodarus
+spp., Sepioteuthis spp.)
+1752. | 0307.49.39 ---- Lain-Lain V V
+- Gurita (Octopus spp.):
+0307.51 -- Hidup, segar atau dingin:
+1753. | ex 0307.51.10 | --- Hidup Selain untuk calon induk, V V
+induk dan benih untuk
+pembudidayaan
+1754. | 0307.51.20 --- Segar atau dingin V V
+1755. | 0307.52.00 -- Beku V V
+
+-- Lain-lain:
+

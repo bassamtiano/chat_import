@@ -1,0 +1,38 @@
+- 483 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+- Kain tenunan lainnya:
+5806.31 -- Dari kapas:
+2940. | 5806.31.10 --- Kain pita tenunan cocok untuk | KGM V V
+pembuatan pita bertinta untuk
+mesin ketik atau mesin semacam
+itu
+2941. | 5806.31.20 --- Alas dari jenis yang digunakan | KGM Vv
+untuk kertas insulator listrik
+2942. | 5806.31.30 --- Pita dari jenis yang digunakan | KGM Vv
+untuk pembuatan ritsleting dan
+dengan lebar tidak melebihi 12 mm
+2943. | 5806.31.90 --- Lain-lain KGM viv
+5806.32 --_Dari serat buatan:
+2944. | 5806.32.10 --- Kain pita tenunan cocok untuk | KGM V V
+pembuatan pita bertinta untuk
+mesin ketik atau mesin semacam
+itu; kain tenunan kuat untuk
+sabuk pengaman
+2945. | 5806.32.40 --- Alas dari jenis yang digunakan KGM V V
+untuk kertas insulator listrik
+2946. | 5806.32.50 --- Pita dari jenis yang digunakan | KGM Vv] Vv
+untuk pembuatan ritsleting dan
+dengan lebar tidak melebihi 12 mm
+2947. | 5806.32.90 --- Lain-lain KGM viv
+5806.39 --_ Dari bahan tekstil lainnya:
+2948. | 5806.39.10 --- Dari sutra KGM viv
+--- Lain-lain:
+2949. | 5806.39.91 ---- Alas dari jenis yang digunakan | KGM Vv] Vv
+untuk kertas insulator listrik
+2950. | 5806.39.92 ‘| ----- Kain pita tenunan cocok KGM Vv] Vv
+
+untuk pembuatan pita bertinta
+untuk mesin ketik atau mesin
+

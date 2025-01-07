@@ -1,0 +1,69 @@
+- 584 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Tarif/HS, uraian barang,
+jenis, jumlah, satuan,
+negara asal, negara muat,
+pelabuhan muat,
+pelabuhan tujuan
+dan/atau keterangan/
+spesifikasi:
+
+1. PI Minyak Bumi (API-P
+atau API-U) yang
+masih berlaku;
+
+2. Perubahan laporan
+hasil verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari Kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang Energi
+Sumber Daya mineral
+untuk Badan Usaha
+pemegang izin usaha
+minyak dan gas bumi
+yang ditetapkan oleh
+kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang Energi dan
+Sumber Daya Mineral
+dan pengguna
+langsung yang
+merupakan pengguna
+akhir, untuk
+perubahan data dan
+
+Kebijakan dan pengaturan
+Impor diberlakukan
+terhadap Impor Minyak
+Bumi, Gas Bumi, dan
+Bahan Bakar Lain dalam
+rangka kemudahan Impor
+tujuan ekspor
+pembebasan.
+

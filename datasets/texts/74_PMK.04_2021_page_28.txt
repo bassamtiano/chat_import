@@ -1,0 +1,63 @@
+~ 28 -
+
+Ada 2 (dua) jenis tarif/pembebanan untuk BM KITE:
+
+a. Advalorum, yang mempergunakan % (persentase), yang dalam
+perhitungan nilai BM nya = Nilai % dikalikan nilai pabeannya
+dalam Rupiah;
+
+b. Spesifik, yang mempergunakan nilai Rupiah per unit satuan,
+sehingga jumlah satuan yang diisikan pada jumlah barang
+adalah merupakan jumlah satuan unit, perhitungan BM nya =
+Nilai Rupiah per unit satuan dikalikan dengan jumlah satuan
+unit.
+
+BMT
+
+Diisi pembebanan Bea Masuk’ tambahan sesuai ketentuan yang
+
+berlaku.
+
+Ada 2 (dua) jenis tarif/pembebanan untuk BMT:
+
+a. Advalorum, yang mempergunakan % (persentase), yang dalam
+perhitungan nilai BM nya = Nilai % dikalikan Nilai Pabeannya
+dalam Rupiah;
+
+b. Spesifik, yang mempergunakan nilai Rupiah per unit satuan,
+sehingga jumlah satuan yang diisikan pada jumlah barang
+adalah merupakan jumlah satuan unit, perhitungan BM nya =
+Nilai Rupiah per unit satuan dikalikan dengan jumlah satuan
+unit.
+
+CUKAI
+
+Diisi pembebanan Cukai sesuai ketentuan yang berlaku.
+
+Dalam hal barang impor bukan merupakan Barang Kena Cukai (BKC)
+
+kolom ini tidak perlu diisi.
+
+Ada 2 (dua) jenis tarif/pembebanan untuk Cukai:
+
+a. Advalorum, yang mempergunakan % (persentase), yang dalam
+perhitungan nilai Cukai nya = Nilai % dikalikan nilai pabean
+ditambah Bea Masuk dalam Rupiah;
+
+b. Spesifik, yang mempergunakan nilai Rupiah per unit satuan,
+sehingga jumlah satuan yang diisikan pada jumlah barang
+adalah merupakan jumlah satuan unit, perhitungan Cukai-nya =
+Nilai Rupiah per unit satuan dikalikan dengan jumlah satuan
+unit.
+
+PPN
+
+Diisi pembebanan PPN dalam persentase (%) sesuai ketentuan yang
+
+berlaku serta besarnya fasilitas dalam persentase (%) bila ada fasilita
+
+dan kode jenis fasilitasnya.
+
+www.jdih.kemenkeu.go.i
+
+f

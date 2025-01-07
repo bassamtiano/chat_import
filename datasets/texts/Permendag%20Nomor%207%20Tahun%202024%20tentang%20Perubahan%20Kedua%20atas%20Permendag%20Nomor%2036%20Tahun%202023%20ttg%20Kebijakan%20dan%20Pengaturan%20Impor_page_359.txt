@@ -1,0 +1,34 @@
+- 344 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+0304.89 -- Lain-lain:
+1617. | 0304.89.10 --- Mahi-mahi (Coryphaena hippurus) V V
+1618. | 0304.89.90 --- Lain-lain V V
+- Lain-lain, beku:
+1619. | 0304.91.00 -- Todak (Xiphias gladius) V V
+1620. | 0304.92.00 -- Toothfish (Dissostichus spp.) V V
+1621. | 0304.93.00 -- Tilapia (Oreochromis spp.), catfish (Pangasius V V
+spp., Silurus spp., Clarias spp., Ictalurus spp.),
+ikan mas (Cyprinus spp., Carassius spp.,
+Ctenopharyngodon idellus, Hypophthalmichthys
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+Catla catla, Labeo spp., Osteochilus hasselti,
+Leptobarbus hoeveni, Megalobrama spp.), sidat
+(Anguilla spp.), Nile perch (Lates niloticus) dan
+gabus (Channa spp.)
+1622. | 0304.94.00 -- Alaska Pollock (Theragra chalcogramma) V V
+1623. | 0304.95.00 -- Ikan dari keluarga Bregmacerotidae, V V
+Euclichthyidae, Gadidae, Macrouridae,
+Melanonidae, Merlucciidae, Moridae dan
+Muraenolepididae, selain dari Alaska Pollock
+(Theragra chalcogramma)
+1624. | 0304.96.00 -- Dogfish dan hiu lainnya V V
+1625. | 0304.97.00 -- Pari dan skates (Rajidae) V V
+0304.99 -- Lain-lain:
+1626. | 0304.99.10 --- Surimi (daging ikan cincang) V V
+1627. | 0304.99.90 --- Lain-lain V V
+03.05 Ikan, dikeringkan, diasinkan atau dalam air
+
+garam; ikan diasapi, dimasak maupun tidak
+sebelum atau selama proses pengasapan.
+

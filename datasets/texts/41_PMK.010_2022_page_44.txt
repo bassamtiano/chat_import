@@ -1,0 +1,70 @@
+-~ 44 -
+
+236 | 4011.40.00 - Dari jenis yang digunakan pada sepeda motor
+237 | 4011.50.00 - Dari jenis yang digunakan pada sepeda roda dua
+238 | 4011.70.00 - Dari jenis yang digunakan pada kendaraan dan mesin pertanian
+
+atau kehutanan
+
+4011.80 - Dari jenis yang digunakan pada kendaraan dan mesin konstruksi,
+pertambangan atau industri :
+
+- - Cocok untuk pelek dengan diameter tidak melebihi 24 inchi :
+
+239 | 4011.80.11 - - - Dari jenis yang digunakan pada traktor, mesin dari pos 84.29
+atau 84.30, forklift, wheel-barrow atau kendaraan dan mesin industri
+lainnya
+
+240 | 4011.80.19 - - - Lain-lain
+
+- - Cocok untuk pelek dengan diameter melebihi 24 inchi, dari jenis
+yang digunakan untuk traktor, mesin dari pos 84.29 atau 84.30,
+forklift atau kendaraan dan mesin industri lainnya :
+
+241 4011.80.31 - - - Dari jenis yang digunakan pada mesin dari pos 84.29 atau 84.30
+242 | 4011.80.39 - - - Lain-lain
+243 | 4011.80.40 - - Lain-lain, cocok untuk pelek dengan diameter melebihi 24 inchi
+4011.90 - Lain-lain :
+244 | 4011.90.10 - - Dari jenis yang digunakan pada kendaraan dari Bab 87
+245 | 4011.90.20 - - Dari jenis yang digunakan pada mesin dari pos 84.29 atau 84.30
+246 | 4011.90.90 - - Lain-lain
+40.13 Ban dalam, dari karet.
+4013.10 - Dari jenis yang digunakan pada kendaraan bermotor (termasuk
+
+station wagon dan mobil balap), bus atau lori :
+- - Dari jenis yang digunakan pada kendaraan bermotor (termasuk
+station wagon dan mobil balap) :
+
+247 | 4013.10.11 - - - Cocok dipasang pada ban dengan lebar tidak melebihi 450 mm
+248 | 4013.10.19 - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+- - Dari jenis yang digunakan pada bus atau lori :
+249 | 4013.10.21 - - - Cocok dipasang pada ban dengan lebar tidak melebihi 450 mm
+250 | 4013.10.29 - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+251 4013.20.00 - Dari jenis yang digunakan pada sepeda roda dua
+4013.90 - Lain-lain :
+- - Dari jenis yang digunakan pada mesin dari pos 84.29 atau 84.30 :
+252 | 4013.90.11 - - - Cocok dipasang pada ban dengan lebar tidak melebihi 450 mm
+253 | 4013.90.19 - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+254 | 4013.90.20 - - Dari jenis yang digunakan pada sepeda motor
+- - Dari jenis yang digunakan pada kendaraan lain dari Bab 87 :
+255 | 4013.90.31 - - - Cocok dipasang pada ban dengan lebar tidak melebihi 450 mm
+256 | 4013.90.39 - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+- - Lain-lain :
+257 | 4013.90.91 - - - Cocok dipasang pada ban dengan lebar tidak melebihi 450 mm
+258 | 4013.90.99 - - - Cocok dipasang pada ban dengan lebar melebihi 450 mm
+40.14 Barang higienis atau farmasi (termasuk dot), dari karet
+
+divulkanisasi selain karet keras, dengan atau tanpa alat
+kelengkapan dari karet keras.
+
+259 | 4014.10.00 - Kondom
+4014.90 - Lain-lain :
+260 | 4014.90.10 - - Dot untuk botol minuman dan semacamnya
+261 4014.90.40 - - Sumbat untuk kegunaan farmasi
+262 | 4014.90.50 - - Finger stalls
+263 | 4014.90.90 - - Lain-lain
+40.15 Pakaian dan aksesori pakaian (termasuk sarung tangan, mitten
+dan mitt), untuk segala keperluan, dari karet divulkanisasi selain
+karet keras.
+
+ramen fs

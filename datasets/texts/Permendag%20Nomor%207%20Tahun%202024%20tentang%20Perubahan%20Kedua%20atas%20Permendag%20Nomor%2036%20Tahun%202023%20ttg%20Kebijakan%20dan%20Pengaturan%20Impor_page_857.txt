@@ -1,0 +1,36 @@
+- 137 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+penggulung benang pakan) dan
+mesin untuk menyiapkan benang
+tekstil untuk digunakan pada
+mesin dari pos 84.46 atau 84.47.
+- Mesin untuk pengolahan serat
+tekstil:
+8445.11 -- Mesin penggaruk:
+402. | 8445.11.10 --- Dioperasikan secara elektrik V V V
+403. | ex 8445.12.00 | -- Mesin penyisir | Dioperasikan V V V
+secara elektrik
+404. | ex 8445.13.00 | -- Mesin penarik | Dioperasikan V V V
+atau mesin secara elektrik
+roving
+8445.19 -- Lain-lain:
+405. | 8445.19.40 --- Lain-lain, dioperasikan secara V V V
+elektrik
+8445.20 - Mesin pemintal benang tekstil:
+406. | 8445.20.10 -- Dioperasikan secara elektrik V V V
+8445.30 - Mesin pengganda atau pemintal
+benang tekstil:
+407. | 8445.30.10 -- Dioperasikan secara elektrik V V V
+8445.40 - Mesin penggulung (termasuk
+penggulung benang pakan) atau
+mesin pengikal benang tekstil:
+408. | 8445.40.10 -- Dioperasikan secara elektrik V V V
+84.46 Mesin tenun (loom).
+8446.10 - Untuk menenun kain dengan lebar
+tidak melebihi 30 cm:
+409. | 8446.10.10 -- Dioperasikan secara elektrik V V V
+-Untuk menenun kain dengan lebar
+melebihi 30 cm, tipe puntalan:
+410. | 8446.21.00 -- Power loom viov V
+

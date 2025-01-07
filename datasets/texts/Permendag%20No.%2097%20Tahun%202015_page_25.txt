@@ -1,0 +1,65 @@
+-14-
+
+Ff] spirometer, elektro-ensepalografi dan pemantau
+janin
+
+|__| 4810.19.19
+a ee
+|__| 4810.19.91 | - --- Dengan sisi tidak melebihi 360 mm: __—|
+4810.19.91.10 =| ----- Kertas uang
+
+4810.19.91.90 | ----- Lain-lain
+
+|__| 4810.19.99 0 |----Laimlain:
+4810.19.99.10  |[----- Kertas uang
+
+| 250. | 4810.19.99.90 _|----- Lain-lain |
+
+- Kertas dan kertas karton dari jenis yang
+digunakan untuk menulis, mencetak atau
+keperiuan grafik lainnya, mengandung serat yang
+diperoleh melalui proses mekanik atau kimia
+mekanik lebih dari 10% menurut _berat
+keseluruhan kandungan seratnya:
+
+| ss |. 4810.22 - - Kertas dengan lapisan tipis:
+
+- - - Dicetak, dari jenis yang digunakan untuk
+aparatus yang merekam sendiri, dalam gulungan
+dengan lebar 150 mm atau kurang, atau dalam
+
+lembaran dengan setiap sisi tidak melebihi 360
+mm dalam keadaan tidak dilipat:
+
+251. | 4810.22.11.00 - - « - Kertas elektrokardiografi, ultrasonografi,
+spirometer, elektro-ensepalografi dan pemantau
+janin
+
+252. | 4810.22.19.00 ---- Lain-lain
+
+253. | 4810.22.91.00 - - - + Dalam gulungan dengan lebar 150 mm
+atau kurang, atau dalam lembaran dengan setiap
+sisi tidak melebihi 360 mm dalam keadaan tidak
+dilipat
+
+4810.22.99.00
+4810.29
+
+- + ~ Dicetak, dari jenis yang digunakan untuk
+aparatus yang merekam sendiri, dalam gulungan
+dengan lebar 150 mm atau kurang, atau dalam
+lembaran dengan setiap sisi tidak melebihi 360
+mm dalam keadaan tidak dilipat:
+
+4810.29.11.00 - - + + Kertas elektrokardiografi, ultrasonografi,
+spirometer, elektro-ensepalografi dan pemantau
+janin
+4810.29.19.00 - - - - Lain-lain
+257. - --- Dalam gulungan dengan lebar 150 mm
+
+atau kurang, atau dalam lembaran dengan setiap
+
+” 4810.29.91.00
+
+| 258. | 4810.29.99.00 ----Lain-lain
+

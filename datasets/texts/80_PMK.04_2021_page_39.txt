@@ -1,0 +1,52 @@
+- 839 -
+
+sejumlah nilai tertentu dari Free-on-Board (FOB) barang
+yang dihasilkan yang dinyatakan dalam persentase, dan
+
+dihitung dengan menggunakan rumus:
+
+FOB - VNM
+
+QVC = X 100
+FOB
+
+Keterangan:
+
+1) QVC merupakan besaran qualifying value content suatu
+barang yang dinyatakan dalam persentase;
+
+2) FOB merupakan nilai free-on-board suatu barang jadi;
+dan
+
+3) VNM merupakan nilai CIF dari Bahan Non-Originating
+pada saat importasi, atau harga pasti yang pertama
+dibayarkan (the earliest ascertained price paid) di
+wilayah Negara Anggota di mana pengerjaan atau
+proses berlangsung untuk seluruh Bahan _ Non-
+Originating, bagian, atau barang yang diperoleh oleh
+produsen untuk produksi barang. Nilai bahan-bahan
+tersebut tidak termasuk biaya  pengangkutan,
+asuransi, biaya pengemasan, dan biaya lainnya yang
+timbul dalam pengangkutan bahan dari gudang
+pemasok ke lokasi produsen. |
+
+Change in Tariff Classification (CTC)
+
+Barang yang proses produksinya menggunakan Bahan Non-
+
+Originating dan seluruh Bahan Non-Originating tersebut
+
+mengalami perubahan klasifikasi atau Change in Tariff
+
+Classification (CTC) yang meliputi:
+
+1) Change in Chapter (CC), yaitu perubahan bab atau
+perubahan pada 2 (dua) digit pertama Harmonized
+System (HS);
+
+2) Change in Tariff Heading (CTH), yaitu perubahan pos
+atau. perubahan pada 4 (empat) digit pertama
+
+Harmonized System (HS); atau
+
+samnsertods oo

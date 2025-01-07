@@ -1,0 +1,98 @@
+- 538 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+aparatus pemanas ruangan dan
+pemanas tanah, listrik; aparatus
+penata rambut elektro-termal
+(misalnya, pengering rambut,
+pengeriting rambut, pemanas
+jepit untuk mengeriting rambut)
+dan pengering tangan; setrika
+listrik; peralatan elektro-termal
+lainnya dari jenis yang digunakan
+untuk keperluan rumah tangga;
+resistor panas listrik, selain yang
+dimaksud dari pos 85.45.
+
+8516.10
+
+- Pemanas air instan atau pemanas
+air dengan tempat penyimpanan
+dan pemanas celup, listrik:
+
+-- Pemanas air instan atau
+pemanas air dengan tempat
+penyimpanan:
+
+3341.
+
+8516.10.11
+
+--- Dispenser air yang hanya
+dilengkapi dengan pemanas air,
+untuk keperluan rumah tangga
+
+PCE
+
+3342.
+
+8516.10.19
+
+--- Lain-lain
+
+PCE
+
+8516.40
+
+- Setrika listrik:
+
+3343.
+
+8516.40.90
+
+-- Lain-lain
+
+PCE
+
+8516.60
+
+- Oven lainnya; pemasak, cooking
+plate, boiling ring, pemanggang dan
+pembakar:
+
+3344.
+
+8516.60.10
+
+-- Rice cooker
+
+PCE
+
+85.18
+
+Mikrofon dan penyangganya;
+pengeras suara, dipasang pada
+rumahnya maupun tidak;
+headphone dan earphone,
+

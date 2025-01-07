@@ -1,0 +1,67 @@
+-75-
+
+1082 | 8704.60.21 - - - Truk pick-up
+1083 | 8704.60.22 - - - Kendaraan roda tiga
+1084 | 8704.60.29 - - - Lain-lain
+- - Lain-lain :
+1085 | 8704.60.91 ---g.v.w. melebihi 5 t tetapi tidak melebihi 10 t
+1086 | 8704.60.92 - -- g.v.w. melebihi 10 t tetapi tidak melebihi 20 t
+1087 | 8704.60.93 - --g.v.w. melebihi 20 t tetapi tidak melebihi 45 t
+1088 | 8704.60.94 - - - g.v.w. melebihi 45 t
+8704.90 - Lain-lain :
+- - Lain-lain :
+1089 | 8704.90.91 - - - g.v.w. tidak melebihi 5 t
+1090 | 8704.90.92 - -- g.v.w. melebihi 5 t tetapi tidak melebihi 10 t
+1091 | 8704.90.93 - -- g.v.w. melebihi 10 t tetapi tidak melebihi 20 t
+1092 | 8704.90.94 - - - g.v.w. melebihi 20 t tetapi tidak melebihi 45 t
+1093 | 8704.90.95 - - - g.v.w. melebihi 45 t
+87.08 Bagian dan aksesori kendaraan bermotor dari pos 87.01 sampai
+dengan 87.05.
+8708.70 - Roda dan bagian serta aksesorinya :
+- - Roda dengan ban terpasang :
+1094 | 8708.70.21 - - - Untuk kendaraan dari pos 87.01
+1095 | 8708.70.22 - - - Untuk kendaraan dari pos 87.03
+1096 | 8708.70.23 - - - Untuk kendaraan dari pos 87.02 atau 87.04 (tidak termasuk
+subpos 8704.10)
+1097 | 8708.70.29 - - - Lain-lain
+87.11 Sepeda motor (termasuk moped) dan sepeda yang dilengkapi
+dengan motor bantu, dengan atau tanpa kereta samping; kereta
+samping.
+8711.20 - Dengan mesin piston pembakaran dalam dengan kapasitas silinder
+
+melebihi 50 cc tetapi tidak melebihi 250 cc :
+- - Completely Knocked Down :
+
+1098 | 8711.20.12 - - - Moped atau sepeda roda dua bermotor
+87.12 Sepeda roda dua dan sepeda lainnya (termasuk sepeda roda tiga
+untuk pengantar), tidak bermotor.
+1099 | 8712.00.10 - Sepeda balap roda dua
+1100 | 8712.00.20 - Sepeda roda dua dirancang untuk dikendarai oleh anak-anak
+1101 | 8712.00.30 - Sepeda roda dua lainnya
+1102 | 8712.00.90 - Lain-lain
+1103 | 8715.00.00 Kereta bayi dan bagiannya.
+90.04 Kacamata, kacamata pelindung dan sejenisnya, korektif, protektif
+atau lainnya.
+1104 | 9004.10.00 - Kacamata pelindung sinar matahari
+9004.90 - Lain-lain :
+1105 | 9004.90.10 - - Kacamata korektif
+1106 | 9004.90.50 - - Kacamata pelindung protektif
+91.02 Arloji tangan, arloji saku dan arloji lainnya, termasuk penghitung
+
+detik, selain yang dimaksud dari pos 91.01.
+- Arloji tangan, dioperasikan secara elektrik, dilengkapi fasilitas
+penghitung detik maupun tidak :
+
+1107 | 9102.11.00 - - Hanya dengan display mekanis
+
+1108 | 9102.12.00 - - Hanya dengan display opto-elektronik
+
+1109 | 9102.19.00 - - Lain-lain
+- Arloji tangan lainnya, dilengkapi fasilitas penghitung detik maupun
+tidak :
+
+1110 | 9102.21.00 - - Dengan putaran otomatis
+
+1111 | 9102.29.00 - - Lain-lain
+
+arm in kemertod Gi

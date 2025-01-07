@@ -1,0 +1,32 @@
+PENEMPATAN LABEL
+| BARANG | KEMASAN |
+5
+
+Kompor dengan bahan bakar gas atau gabungan gas dan Nama barang;
+
+bahan bakar lainnya termasuk peralatan masak dan piring} b. Merek barang;
+
+pemanas. . Nama dan alamat produsen untuk barang
+produksi dalam negeri; atau
+Nama dan alamat importir untuk barang impor;
+Peringatan keselamatan;
+Negara Pembuat atau Made in.
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh.
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+ttd.
+
+ENGGARTIASTO LUKITA
+Salinan sesuai dengan aslinya
+- Sekretariat Jenderal
+Perdagangan
+) Hukum,
+

@@ -1,0 +1,86 @@
+_-93- 2020, No.80
+
+7212.40.12 - - - Simpai dan strip lainnya
+7212.40.19
+
+7212.40.92 - - - Simpai dan strip lainnya; universal
+
+7212.40.99
+
+7212.50.23 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+
+7212.50.24 - - - Simpai dan strip lainnya; universal plate
+7212.50.29 - - - Lain-lain
+7212.50.93 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+
+|
+
+7212.50.94
+7212.50.99
+7212.60.11
+7212.60.91
+7212.60.12
+
+- -- Simpai dan strip lainnya; universal plate
+
+- ~~ Simpai dan strip
+
+~ - - Simpai dan strip
+
+--- Lain-lain, dengan ketebalan 1,5 mm atau kurang
+
+7212.60.19 - - - Lain-lain
+7212.60.99 - - - Lain-lain
+7213.10.10 - - Dengan ukuran diameter penampang silang
+lingkarannya tidak melebihi 50 mm
+- - Lain-lain
+- Lain-lain, dari baja free-cutting
+- - - Dari jenis yang digunakan dalam pembuatan
+soldering stick
+- - - Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+
+Lain-lain
+- - - Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+
+7213.10.90
+7213.20.00
+7213.91.10
+
+7213.91.20
+
+7213.91.90
+7213.99.20
+
+7213.99.90
+7214.10.11
+7214.10.19
+7214.10.21
+7214.10.29
+7214.20.31
+
+7214.20.39
+
+7214.20.69
+
+7214.30.10
+
+7214.30.90
+
+7214.91.19
+
+7214.91.11 - - - - Mengandung karbon 0,38 % atau lebih dan
+mangan kurang dari 1,15 % menurut beratnya
+
+7214.91.12 - - - - Mengandung karbon 0,17 % atau lebih tetapi
+tidak lebih dari 0,46 % dan mangan 1,2 % atau lebih
+tetapi kurang dari 1,65 % menurut beratnya
+
+7214.91.21 - - - - Mengandung mangan kurang dari 1,15 %
+
+menurut beratnya
+
+7214.91.29 - - - - Lain-lain
+
+www.peraturan.go.id

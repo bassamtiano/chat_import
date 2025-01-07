@@ -1,0 +1,49 @@
+KETERANGAN/PENJELASAN ows LABEL,
+
+- Kabel listrik di isolasi dengan plastik mempunyai diameter
+inti tidak melebihi 19,5mm dari jenis yang tidak digunakan
+untuk telekomunikasi dengan voltase tidak melebihi 80V
+
+kabel listrik lainnya diisolasi dengan plastik dari jenis yang|
+tidak digunakan untuk telekomunikasi dengan voltase
+Kabel telepon, telegraph dan kabel relay radio dan bawah
+air dari jenis yang digunakan untuk telekomunikasi
+dengan voltase melebihi 80V tapi tidak melebihi 1000V
+
+kabel listrik lainnya diisolasi dengan plastik dari jenis
+yang tidak digunakan untuk telekomunikasi dengan
+voltase melebihi 80V tapi tidak melebihi 1000V
+Lain-lain
+
+Kabel listrik lainnya untuk voltase melebihi 1Kv tetapi
+tidak melebihi 36Kv diisolasi dengan plastik mempunyai
+diameter inti kurang dari 22.7mm
+
+Lain-lain
+
+Kabel listrik lainnya untuk voltase melebihi 36Kv tetapi
+tidak melebihi 66Kv diisolasi dengan plastik mempunyai
+diameter inti kurang dari 22,7mm
+
+Lain-lain
+
+Kabel untuk voltase melebihi 66Kv
+
+8. |Kertas Fotokopi Kertas tidak dilapisi untuk fotokopi dalam lembaran empat| a. Nama barang;
+persegi panjang, dengan berbagai berat dan ukuran. . Merek barang
+
+Nama dan alamat produsen untuk barang
+produksi dalam negeri; atau
+Nama dan alamat importir untuk barang impor;
+Ukuran;
+Isi;
+Gramatur;
+Negara Pembuat atau Made in.
+
+Keterangan :
+a. embos;
+
+b. tercetak;
+c. melekat secara utuh;
+
+d. disertakan atau dimasukkan ke dalam.

@@ -1,0 +1,84 @@
+2023, No.23/BI
+
+(3)
+
+(4)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(1)
+
+(2)
+
+pembeli untuk dicantumkan pada Message FTMS oleh
+bank di luar negeri.
+
+Dalam hal DHE diterima melalui transaksi Non-TT,
+Eksportir harus menyampaikan informasi Ekspor kepada
+LPEI dan/atau Bank untuk diteruskan kepada Bank
+Indonesia.
+
+Bank Indonesia menerima informasi sebagaimana
+dimaksud pada ayat (1) atas transaksi TT melalui
+Message FTMS dan transaksi Non-TT melalui LPEI
+dan/atau Bank.
+
+Pasal 10
+Eksportir harus menyampaikan Laporan DHE kepada
+Bank Indonesia secara daring jika terdapat:
+a. perubahan informasi pada PPE yang memengaruhi
+
+nilai DHE; dan/atau
+
+b. perubahan informasi terkait DHE.
+Penyampaian Laporan DHE kepada Bank Indonesia
+secara daring sebagaimana dimaksud pada ayat (1)
+berlaku untuk Nilai Ekspor dengan nilai lebih besar dari
+USD10,000.00 (sepuluh ribu dolar Amerika Serikat) atau
+ekuivalennya.
+Eksportir harus menyampaikan Laporan DHE
+sebagaimana dimaksud pada ayat (1) paling lambat
+tanggal 5 bulan berikutnya setelah Bulan PPE dan/atau
+bulan pemasukan DHE.
+Dalam hal batas akhir sebagaimana dimaksud pada ayat
+(3) jatuh pada hari libur, penyampaian Laporan DHE
+dilakukan pada Hari berikutnya.
+
+Pasal 11
+
+Eksportir harus menyampaikan informasi_ disertai
+
+dokumen pendukung yang memadai kepada Bank
+
+Indonesia secara daring jika:
+
+a. DHE diterima melebihi akhir bulan ketiga setelah
+Bulan PPE sebagaimana dimaksud dalam Pasal 2
+ayat (1);
+
+b. DHE tidak diterima;
+
+c. terdapat selisih kurang nilai DHE dengan Nilai
+Ekspor lebih besar dari Rp50.000.000,00 (lima
+puluh juta rupiah) atau ekuivalennya dan lebih
+besar dari 2,5% (dua koma lima persen) dari Nilai
+Ekspor sebagaimana dimaksud dalam Pasal 5 ayat
+(2); dan/atau
+
+d. selisih kurang nilai DHE dengan Nilai Maklon lebih
+besar dari Rp50.000.000,00 (lima puluh juta rupiah)
+atau ekuivalennya sebagaimana dimaksud dalam
+Pasal 6 ayat (3).
+
+Eksportir harus menyampaikan dokumen pendukung
+
+sebagaimana dimaksud pada ayat (1) paling lambat
+
+tanggal 5 bulan berikutnya setelah Bulan PPE dan/atau
+bulan pemasukan DHE.

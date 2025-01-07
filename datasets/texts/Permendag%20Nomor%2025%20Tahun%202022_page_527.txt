@@ -1,0 +1,28 @@
+-45-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+8479.89 -- Lain-lain:
+--- Lain-lain, dioperasikan secara
+elektrik:
+232.| 8479.89.69 ---- Lain-lain vj ov V
+84.80 Kotak cetakan untuk pengecoran
+logam; dasar cetakan; pola cetakan;
+cetakan untuk logam (selain
+cetakan ingot), karbida logam, kaca,
+bahan mineral, karet atau plastik.
+8480.30 - Pola cetakan:
+233.| 8480.30.90 -- Lain-lain vj ov V
+- Cetakan untuk logam atau karbida
+logam:
+234. | 8480.41.00 -- Tipe injeksi atau kompresi V
+235.| 8480.49.00 -- Lain-lain V
+236. | 8480.50.00 - Cetakan untuk kaca V
+- Cetakan untuk bahan karet atau
+plastik:
+8480.71 -- Tipe injeksi atau kompresi:
+237.| 8480.71.10 --- Cetakan untuk sol alas kaki V
+238. | ex 8480.71.90 --- Lain-lain Kecuali cetakan V
+
+untuk cakram
+optik
+

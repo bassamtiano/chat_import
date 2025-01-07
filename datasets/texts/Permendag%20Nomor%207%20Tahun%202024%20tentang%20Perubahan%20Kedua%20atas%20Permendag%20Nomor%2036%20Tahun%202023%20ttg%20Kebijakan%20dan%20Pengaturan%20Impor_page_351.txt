@@ -1,0 +1,32 @@
+- 336 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+Leptobarbus hoeveni, Megalobrama spp.)
+1524. | 0303.26.00 -- Sidat (Anguilla spp.) V V
+1525. | 0303.29.00 -- Lain-lain V V
+- Ikan pipih (Pleuronectidae, Bothidae,
+Cynoglossidae, Soleidae, Scophthalmidae dan
+Citharidae), tidak termasuk sisa ikan yang
+dapat dimakan dari subpos 0303.91 sampai
+dengan 0303.99:
+1526. | 0303.31.00 -- Halibut (Reinhardtius hippoglossoides, V V
+Hippoglossus hippoglosus, Hippoglossus
+stenolepis)
+1527. | 0303.32.00 -- Plaice (Pleuronectes platessa) V V
+1528. | 0303.33.00 -- Sole (Solea spp.) V V
+1529. | 0303.34.00 -- Turbots (Psetta maxima) V V
+1530. | 0303.39.00 -- Lain-lain V V
+- Tuna (dari genus Thunnus), cakalang (stripe-
+bellied bonito) (Katsuwonus pelamis), tidak
+termasuk sisa ikan yang dapat dimakan dari
+subpos 0303.91 sampai dengan 0303.99:
+1531. | 0303.41.00 -- Albacore atau tuna sirip panjang (Thunnus V V
+alalunga)
+1532. | 0303.42.00 -- Tuna sirip kuning (Thunnus albacares) V V
+1533. | 0303.43.00 -- Cakalang (stripe-bellied bonito) (Katsuwonus V V
+pelamis)
+1534. | 0303.44.00 -- Tuna mata besar (Thunnus obesus) V V
+-- Tuna sirip biru Atlantik dan Pasifik (Thunnus
+thynnus, Thunnus orientalis):
+1535. | 0303.45.10 --- Tuna sirip biru Atlantik (Thunnus thynnus) V V
+

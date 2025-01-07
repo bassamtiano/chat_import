@@ -1,0 +1,27 @@
+- 293 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2486. | 6114.20.00 - Dari kapas V |v
+6114.30 - Dari serat buatan :
+2487. | 6114.30.20 -- Pakaian digunakan untuk pelindung dari api V V
+2488. | 6114.30.90 -- Lain-lain v/v
+6114.90 - Dari bahan tekstil lainnya :
+2489. | 6114.90.10 -- Dari wol atau bulu hewan halus
+2490. | 6114.90.90 -- Lain-lain
+61.15 Panty hose, tight, stocking, kaus kaki dan
+hosiery lainnya, termasuk hosiery dikempa
+bergradasi (misalnya, stocking untuk penderita
+varises) dan alas kaki tanpa sol, rajutan atau
+kaitan.
+6115.10 - Hosiery dikempa bergradasi (misalnya, stocking
+untuk penderita varises):
+2491. | 6115.10.10 -- Stocking untuk penderita varises, dari serat V V V
+sintetik
+2492. | 6115.10.90 -- Lain-lain V V V
+- Panty hose dan tight lainnya:
+2493. | 6115.21.00 -- Dari serat sintetik, ukuran tiap benang tunggal V V V
+kurang dari 67 desiteks
+2494. | 6115.22.00 -- Dari serat sintetik, ukuran tiap benang tunggal V V V
+67 desiteks atau lebih
+6115.29 -- Dari bahan tekstil lainnya:
+

@@ -1,0 +1,59 @@
+2020, No.80 _28-
+
+- - - Modular prapabrikasi dari jenis yang disambung
+dengan konektor gunting
+
+7307 92.90
+7308.20.29
+
+- - Pintu, dengan ketebalan 6 mm atau lebih tetapi tidak
+melebihi 8 mm
+
+7308.30.90
+
+316 - - Modular prapabrikasi dari jenis yang disambung
+dengan konektor gunting
+
+318 - - Modular prapabrikasi dari jenis yang disambung
+
+dengan konektor gunting
+319 | 7308.90.40 - - Pelat atau lembaran bergelombang dan melengkung
+| digalvanisasi untuk dirakit menjadi saluran, gorong-
+gorong bawah tanah atau terowongan
+
+7310.10.99 ~ - - Lain-lain
+326 | 7310.21.10 - -- Dengan kapasitas kurang dari 11
+
+[
+329 | 7310.29.10 dari 11
+
+- - - - Dituang, ditempa atau dicap, dalam keadaan
+kasar
+
+7310.29.99
+
+7312.10.10 - - Locked coil, flattened strand dan non-rotating wire
+rop
+
+334 - - Disepuh atau dilapisi dengan kuningan dan dengan
+diameter tidak melebihi 3 mm
+
+335 - - - Kawat baja dipilin untuk beton pra-tekan
+337
+
+Jangkar, jangkar kecil dan bagiannya, dari besi atau
+baja.
+
+7317.00.90
+342_ [7318.11.00
+
+7318.12.10 - -- Dengan diameter luar shank tidak melebihi 16 mm
+344 | 7318.12.90 - -- Lain-lain
+
+336 [7312.10.99
+
+349 [7318.15.90
+350 | 7318.16.10 - - - Untuk baut yang memiliki diameter luar shank
+tidak melebihi 16 mm
+
+www.peraturan.go.id

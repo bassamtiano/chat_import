@@ -1,0 +1,95 @@
+- 161 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+553.
+
+ex 4810.14.10
+
+--- Dicetak, dari
+jenis yang
+digunakan untuk
+aparatus yang
+merekam sendiri,
+yang sisinya
+tidak ada yang
+melebihi 360 mm
+
+Berasal dari kayu
+
+--- Lain-lain:
+
+554.
+
+ex 4810.14.91
+
+---- Yang sisinya
+tidak ada yang
+melebihi 360 mm
+
+Berasal dari kayu
+
+555.
+
+ex 4810.14.99
+
+---- Lain-Lain
+
+Berasal dari kayu
+
+4810.19
+
+-- Lain-lain:
+
+556.
+
+ex 4810.19.10
+
+--- Dicetak, dari
+jenis yang
+digunakan untuk
+aparatus yang
+merekam sendiri,
+dengan sisi tidak
+melebihi 360 mm
+dalam keadaan
+tidak dilipat:
+
+Berasal dari kayu
+
+557.
+
+ex 4810.19.90
+
+--- Lain-lain
+
+Berasal dari kayu
+
+- Kertas dan kertas karton dari jenis yang
+digunakan untuk menulis, mencetak atau
+keperluan grafik lainnya, mengandung serat
+
+yang diperoleh me
+
+alui proses mekanik atau
+
+kimia mekanik lebih dari 10% menurut berat
+keseluruhan kandungan seratnya:
+

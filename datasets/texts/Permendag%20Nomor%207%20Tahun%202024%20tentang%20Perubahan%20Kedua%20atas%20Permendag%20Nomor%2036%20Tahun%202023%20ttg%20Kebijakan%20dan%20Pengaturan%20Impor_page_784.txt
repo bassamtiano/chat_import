@@ -1,0 +1,77 @@
+- 64 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+belum diproduksi
+di Indonesia
+dengan
+spesifikasi:
+
+“MCS 1800 -48V
+Rectifier’
+
+1. Wide input
+voltage range: 90 -
+275 Vrms
+
+2. Power Factor
+Correction 0.99
+
+3. Operating
+Temperature range
+up to 65 derajat
+Celcius
+
+4. Intelligent micro-
+processor
+controlled
+
+85.07
+
+Akumulator listrik, termasuk
+separatornya, empat persegi
+panjang (termasuk bujur sangkar)
+
+maupun tidak.
+
+8507.30
+
+- Nikel-kadmium:
+
+240.
+
+ex 8507.30.90
+
+-- Lain-lain
+
+Hanya untuk
+Battery Nikel
+Kadmium, Sampai
+dengan 16 kVa,
+dengan Bracket
+atau Mounting
+untuk Mesin ATM
+
+85.11
+
+Alat penyala atau penghidup
+elektrik dari jenis yang digunakan
+untuk mesin pembakaran dalam
+

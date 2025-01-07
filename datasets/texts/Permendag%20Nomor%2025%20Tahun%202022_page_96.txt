@@ -1,0 +1,42 @@
+-67-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+289. | 4407.27.90 --- Lain-lain V V
+4407.28 -- Iroko:
+290. | 4407.28.10 --- Diketam, diampelas atau end-jointed V V
+291. | 4407.28.90 --- Lain-lain T Y
+4407.29 -- Lain-lain:
+
+--- Jelutung (Dyera spp.):
+
+292. | 4407.29.12 ---- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+
+293. | 4407.29.13 ---- Diketam, diampelas atau end-jointed V v
+
+294. | 4407.29.19 ---- Lain-lain V V
+--- Kapur (Dryobalanops spp.):
+
+295. | 4407.29.22 ---- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+
+296. | 4407.29.23 ---- Diketam, diampelas atau end-jointed V V
+
+297. | 4407.29.29 ---- Lain-lain V V
+--- Kempas (Koompassia spp.):
+
+298. | 4407.29.32 ---- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+
+299. | 4407.29.33 ---- Diketam, diampelas atau end-jointed Vv
+
+300. | 4407.29.39 ---- Lain-lain
+--- Keruing (Dipterocarpus spp.):
+
+301. | 4407.29.42 ---- Digergaji memanjang, tidak dikerjakan lebih V V
+lanjut
+
+302. | 4407.29.43 ---- Diketam, diampelas atau end-jointed V V
+
+303. | 4407.29.49 ---- Lain-lain V V
+

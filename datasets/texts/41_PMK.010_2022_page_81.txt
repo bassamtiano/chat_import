@@ -1,0 +1,203 @@
+Bi =
+
+36
+
+37
+38
+
+39
+
+40
+
+41
+42
+
+43
+44
+45
+
+46
+47
+48
+49
+
+50
+51
+52
+53
+54
+
+55
+56
+
+ST
+
+58
+
+59
+
+60
+
+61
+62
+
+63
+64
+
+65
+
+66
+67
+68
+
+2530.10.00
+2530.20
+2530.20.10
+2530.20.20
+2530.90
+2530.90.10
+
+2530.90.90
+26.01
+
+2601.11
+2601.11.10
+2601.11.90
+2601.12
+2601.12.10
+2601.12.90
+2602.00.00
+
+2603.00.00
+2604.00.00
+
+2605.00.00
+2606.00.00
+
+2607.00.00
+2608.00.00
+2609.00.00
+2610.00.00
+2611.00.00
+26.13
+2613.10.00
+2613.90.00
+26.14
+2614.00.10
+2614.00.90
+26.15
+
+2615.10.00
+2615.90.00
+26.16
+2616.10.00
+2616.90.00
+26.17
+
+2617.10.00
+
+2617.90.00
+27.01
+
+2701.11.00
+2701.12
+
+2701.12.10
+2701.12.90
+2701.19.00
+
+- Vermikulit, perlit dan klorit, tidak dikembangkan
+
+- Kiserit, epsomit (magnesium sulfat alam) :
+
+- - Kiserit
+
+- - Epsomit (magnesium sulfat alam)
+
+- Lain-lain :
+
+- - Pasir micronized zirkon (zirkonium silikat) dari jenis yang dipakai
+sebagai opasitas
+
+- - Lain-lain
+
+Bijih besi dan konsentratnya, termasuk pirit besi digongseng.
+
+- Bijih besi dan konsentratnya, selain pirit besi digongseng :
+
+- - Tidak diaglomerasi :
+
+- - - Hematit dan konsentratnya
+
+- - - Lain-lain
+
+- - Diaglomerasi :
+
+- - - Hematit dan konsentratnya
+
+- - - Lain-lain
+
+Bijih mangan dan konsentratnya, termasuk bijih mangan
+mengandung besi dan konsentratnya dengan kandungan mangan
+
+20 % atau lebih, dihitung dari berat kering.
+Bijih tembaga dan konsentratnya.
+
+Bijih nikel dan konsentratnya.
+
+Bijih kobalt dan konsentratnya.
+Bijih aluminium dan konsentratnya.
+
+Bijih timbal dan konsentratnya.
+
+Bijih seng dan konsentratnya.
+
+Bijih timah dan konsentratnya.
+
+Bijih kromium dan konsentratnya.
+Bijih tungsten dan konsentratnya.
+Bijih molibdenum dan konsentratnya.
+- Digongseng
+
+- Lain-lain
+
+Bijih titanium dan konsentratnya.
+
+- Bijih ilmenit dan konsentratnya
+
+- Lain-lain
+
+Bijih niobium, tantalum, vanadium atau zirkonium dan
+konsentratnya.
+
+- Bijih zirkonium dan konsentratnya
+
+- Lain-lain
+
+Bijih logam mulia dan konsentratnya.
+- Bijih perak dan konsentratnya
+
+- Lain-lain
+
+Bijih lainnya dan konsentratnya.
+
+- Bijih antimoni dan konsentratnya
+
+- Lain-lain
+
+Batu bara; briket, ovoid dan bahan bakar padat semacam itu
+dibuat dari batu bara.
+
+- Batu bara, dihancurkan maupun tidak, tetapi tidak diaglomerasi :
+- - Antrasit
+
+- - Batu bara bitumen :
+
+- - - Batu bara bahan bakar
+
+- - - Lain-lain
+
+- - Batu bara lainnya
+
+voc Komori i
+

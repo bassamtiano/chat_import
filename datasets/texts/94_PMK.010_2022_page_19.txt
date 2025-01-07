@@ -1,0 +1,75 @@
+-19-
+
+No. ahd Tart Uraian Barang Description of Goods ean Duty
+(1) __(2) (3) (4) (5)
+~~ - Insektisida : ~~ - Insecticides :
+236 |3808.59.11 - --~ Dalam kemasan aerosol ~~ -~- In aerosol containers
+236a |ex3808.59.11 a. Mengandung trichlorfon atau a. Containing trichlorfon or carbofuran 4%
+carbofuran. selain campuran benomyl other than a mixture of benomyl (ISO},
+(ISO), carbofuran (ISO) dan thiram (ISO) _|carbofuran (ISO) and thiram (ISO}
+236b }ex3808.59.11 b. Lain-lain b. Other MFN
+237 13808.59.19 ~--~ Lain-lain -~-- Other
+237a |ex3808.59.19 a. Mengandung trichlorfon atau la. Containing trichlorfon or carbofuran 4%
+carbofuran selain campuran benomy! other than a mixture of benomy] (ISO),
+(ISO), carbofuran ([SO) dan thiram (ISO) _|carbofuran (ISO) and thiram (ISO)
+237b jex3808.59.19 b. Lain-lain 'b. Other MFN
+- Barang yang dirinci dalam Catatan - Goods specified in Subheading Note 2
+[Subpos 2 pada Bab ini: ‘to this Chapter :
+- Lain-lain : }- Other :
+3808.91 - - Insektisida : - - Insecticides :
+238 13808.91.10 - - - Preparat antara mengandung 2- - - - Intermediate preparations 4%
+(metilpropil-fenol metilkarbamat) containing 2-(methylpropyl-phenol
+methylcarbamate)
+239 |3808.91.20 |- - - Lain-lain, bubuk untuk dicetak - - - Other, powder for moulding into 4%
+menjadi koil obat nyamuk mosquito coils
+240 {3808.91.30 - -- Dalam kemasan aerosol - -- In aerosol containers 4%
+241 |3808.91.40 - -- Koil penolak nyamuk - - - Mosquito repellent coils 4%
+242 |3808.91.50 --- Mat penolak nyamuk ~~ - Mosquito repellent mats 4%
+- -- Lain-lain : ~~~ Other :
+243 {3808.91.91 - -- - Mempunyai fungsi penghilang bau |- - - - Having deodorising function 4%
+244 |3808.91.99 ---- Lain-lain --~- Other 4%
+3808.92 - - Fungisida : - - Fungicides :
+- -- Dalam kemasan aerosol : - - - In aerosol containers :
+245 |3808.92.11 - - - - Dengan kandungan validamisin ---- With a validamycin content not 4%
+tidak melebihi 3 % dari berat bersih exceeding 3 % by net weight
+246 = |3808.92.19 ---- Lain-lain ---- Other 4%
+247 |3808.92.90 --- Lain-lain --- Other 4%
+38.11 Preparat untuk mencegah ketukan, |Anti-knock preparations, oxidation
+pencegah oksidasi, mencegah gum, inhibitors, gum inhibitors, viscosity
+meningkatkan viskositas, preparat improvers, anti-corrosive preparations
+anti-korosi dan olahan aditiflainnya, [and other prepared additives, for
+untuk minyak mineral (termasuk mineral oils (including gasoline) or for
+bensin) atau untuk cairan lain yang other liquids used for the same
+digunakan untuk tujuan yang sama purposes as mineral oils.
+seperti minyak mineral.
+~ Aditif untuk minyak pelumas : - Additives for lubricating oils :
+3811.21 - - Mengandung minyak petroleum atau __|- - Containing petroleum oils or oils
+minyak yang diperoleh dari mineral obtained from bituminous minerals :
+mengandung bitumen :
+248 |3811.21.10 - -- Disiapkan untuk penjualan eceran |~ - - Put up for retail sale 4%
+249 |3811.21.90 - - - Lain-lain --- Other 0%
+38.25 Produk residu dari industri kimia atau [Residual products of the chemical or
+industri terkait, tidak dirinci atau allied industries, not elsewhere
+termasuk dalam pos lainnya; limbah specified or included; municipal
+rumah tangga; endapan kotoran; ‘waste; sewage sludge; other wastes
+limbah lainnya yang dirinci dalam specified in Note 6 to this Chapter.
+‘Catatan 6 pada bab ini.
+250 |3825.50.00 - Limbah dari cairan asam logam, cairan  |- Wastes of metal pickling liquors, 3%
+hidrolik, cairan rem dan cairan anti ‘hydraulic fluids, brake fluids and anti-
+beku freeze fluids .
+44.09 Kayu (termasuk strip dan frieze untuk | Wood (including strips and friezes for
+lantai papan, tidak dipasang) dibentuk | parquet flooring, not assembled)
+tidak terputus (diberi lidah, diberi continuously shaped (tongued,
+alur, tepinya dikorok, diberi lereng, V- | grooved, rebated, chamfered, V-
+jointed, beaded, diberi pola bentukan, | jointed, beaded, moulded, rounded or
+dibundarkan atau sejenis itu), the like} along any of its edges, ends
+sepanjang tepi, ujung atau or faces, whether or not planed,
+permukaannya, diketam, diampelas sanded or end-jointed.
+atau end-jointed maupun tidak.
+~ Pohon selain jenis konifera : - Non-coniferous :
+- - Dari bambu - - Of bamboo
+|- - Dari kayu tropis - - Of tropical wood
+251 |4409.29.00 - - Lain-lain - - Other 0%
+252 (5201.00.00 Kapas, tidak digaruk atau disisir. Cotton, not carded or combed. 0%
+
+sin komedi

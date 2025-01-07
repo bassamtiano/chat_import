@@ -1,0 +1,79 @@
+-47 -
+
+PETUNJUK PENGISIAN
+
+Nomor {1) : diisi nomor Surat Jzin Pemindahtanganan dengan Kewajiban
+Membayar Bea Masuk dan/atau PPN atau PPN dan PPnBM
+serta Tidak Dipungut PPh Pasa] 22.
+
+Nomor (2) : diisi nama penerima fasilitas.
+
+Nomor (3) : diisi jabatan Pejabat yang mengajukan permohonan.
+Nomor (4) : diisi nama Badan Internasional.
+
+Nomor (5) : diisi nama tempat domisili penerima fasilitas.
+Nomor (6) : diisi jens Kendaraan Bermotor.
+
+Nomor (7} : diisi merek dan tipe Kendaraan Bermotor.
+
+Nomor (8} : diisi tahun pembuatan Kendaraan Bermotor.
+
+Nomor (9) : diisi nomor rangka Kendaraan Bermotor.
+
+Nomor (10) : diisi nomor mesin Kendaraan Bermotor.
+
+Nomor (11) : diisi kapasitas mesin Kendaraan Bermotor.
+
+Nomor (12) =: diisi nomor surat keterangan pengimporan Kendaraan
+
+Bermotor berupa Formulir B atau surat keterangan lainnya.
+
+Nomor (13)  : diisi tanggal, bulan, dan tahun surat keterangan pengimporan
+Kendaraan Bermotor berupa Formulir B atau surat
+keterangan lainnya.
+
+Nomor (14) : diisi nomor pemberitahuan pabean dari barang impor terkait.
+
+Nomor (15) =: diisi tanggal, bulan, dan tahun pemberitahuan pabean dari
+barang impor terkait.
+
+Nomor (16)  : diisi nomor dan tanggal Keputusan Menteri mengenai
+
+pembebasan bea masuk atas impor barang untuk keperluan
+Badan Internasional beserta Pejabatnya.
+
+Nomor (17) : diisi nilai pabean dalam Rupiah.
+Nomor (18) _: diisi pos tarif/HS.
+
+Nomor (19} =: diisi persentase tarif bea masuk.
+Nomor (20) : diisi persentase tarif cukai.
+Nomor (21) _: diisi persentase tarif PPN.
+
+Nomor (22) : diisi persentase tarif PPnBM.
+Nomor (23) =: diisi persentase tarif PPh Pasal 22.
+
+Nomor (24) : diisi jumlah bea masuk yang wajib dilunasi.
+Nomor (25) =: diisi jumlah cukai yang wajib dilunasi.
+Nomor (26) : diisijumlah PPN yang wajib dilunasi.
+
+Nomor (27)  : diisifumlah PPnBM yang wajib dilunasi.
+
+Nomor (28) : diisi jumlah PPh Pasal 22 yang wajib dilunasi.
+
+Nomer (29) : diisi total jumlah bea masuk, cukai, PPN, PPnBM , dan PPh
+Pasal 22 yang wajib dilunasi.
+
+Nomor (30) : diisi nama Orang/pemerintah pusat/pemerintah daerah/
+
+badan/lembaga yang menerima pemindahtanganan.
+Kendaraan Bermotor.
+
+Nomor (31) : diisi nomor identitas Orang/pemerintah pusat/pemerintah
+daerah/badan/lembaga yang menerima pemindahtanganan
+Kendaraan Bermotor berupa NIK/NPWP/dsb.
+
+Nomor (32) : diisi nama tempat domisili Orang/pemerintah pusat/
+pemerintah daerah/badan/lembaga yang menerima
+
+pemindahtanganan Kendaraan Bermotor.
+GIF cou

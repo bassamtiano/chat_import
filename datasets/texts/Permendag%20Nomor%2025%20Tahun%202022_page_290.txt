@@ -1,0 +1,32 @@
+- 261 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2156. | 6302.99.10 --- Dari lena V V
+2157. | 6302.99.90 --- Lain-lain V V
+
+63.03 Tirai (termasuk gorden) dan kerai dalam; tirai
+atau bed valances.
+- Rajutan atau kaitan:
+2158. | 6303.12.00 -- Dari serat sintetik V V
+6303.19 -- Dari bahan tekstil lainnya:
+2159. | 6303.19.10 --- Dari kapas V V
+2160. | 6303.19.90 --- Lain-lain V V
+- Lain-lain:
+2161. | 6303.91.00 -- Dari kapas Bl Bl
+2162. | 6303.92.00 -- Dari serat sintetik V V
+2163. | 6303.99.00 -- Dari bahan tekstil lainnya V V
+63.04 Barang perabot lainnya, tidak termasuk yang
+dimaksud dalam pos 94.04.
+- Penutup tempat tidur:
+2164. | 6304.11.00 -- Rajutan atau kaitan V V
+6304.19 -- Lain-lain:
+2165. | ex 6304.19.10 | --- Dari kapas: Selain batik dan V V
+motif batik
+2166. | 6304.19.20 --- Lain-lain, bukan tenunan V J
+2167. | 6304.19.90 --- Lain-lain V V
+2168. | 6304.20.00 - Kelambu yang dirinci dalam Catatan Subpos 1 V V
+pada bab ini
+- Lain-lain:
+6304.91 -- Rajutan atau kaitan:
+2169. | 6304.91.10 --- Jaring nyamuk V V
+

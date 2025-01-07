@@ -1,0 +1,38 @@
+- 146 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+84.61.
+- Mesin penggerinda permukaan
+datar:
+460. | ex 8460.19.00 | -- Lain-lain Dioperasikan Vv V
+secara elektrik
+- Mesin penggerinda lainnya:
+8460.29 -- Lain-lain:
+461. | ex 8460.29.10 | --- Dioperasikan | Hanya untuk V V V
+secara elektrik mesin
+penggerinda yang
+posisi setiap
+porosnya dapat
+diset dengan
+akurasi paling
+tidak 0,01 mm
+- Mesin penajam (perkakas atau
+gerinda pemotong):
+8460.39 -- Lain-lain:
+462. | 8460.39.10 --- Dioperasikan secara elektrik V V V
+463. | ex 8460.40.00 | - Mesin Dioperasikan Vv V
+penggosok atau | secara elektrik
+pengasah
+
+84.61
+
+Mesin perkakas untuk mengetam,
+membentuk, menyerut,
+menggerek, memotong gir,
+menggerinda gir atau
+merampungkan gir, menggergaji,
+memotong dan mesin perkakas
+lainnya yang bekerja dengan
+menghilangkan logam atau sermet,
+tidak dirinci atau termasuk dalam
+

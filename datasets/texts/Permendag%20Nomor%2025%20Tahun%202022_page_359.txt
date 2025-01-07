@@ -1,0 +1,36 @@
+- 330 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+digunakan untuk kendaraan bermotor pada pos
+87.02, 87.03 atau 87.04
+2947. | 5703.90.99 --- Lain-lain Vv |v
+57.04 Karpet dan penutup lantai tekstil lainnya, dari
+kain kempa, tidak berumbai atau tidak
+dibentuk flock, sudah jadi maupun belum.
+2948. | 5704.10.00 - Ubin, mempunyai luas permukaan maksimum V V
+0,3 m2
+2949. | 5704.20.00 - Ubin, mempunyai luas permukaan maksimum V V
+lebih dari 0,3 m? tetapi tidak melebihi 1 m2
+2950. | 5704.90.00 - Lain-lain Vv |v
+57.05 Karpet dan penutup lantai tekstil lainnya,
+sudah jadi maupun belum.
+- Dari kapas:
+2951. | 5705.00.11 -- Babut untuk sembahyang V V
+2952. | 5705.00.19 --_Lain-lain Vv {ov
+- Dari serat jute:
+2953. | 5705.00.21 -- Penutup lantai bukan tenunan, dari jenis yang V V
+digunakan untuk kendaraan bermotor pada pos
+87.02, 87.03 atau 87.04
+2954. | 5705.00.29 --_Lain-lain Vv |v
+- Lain-lain:
+2955. | 5705.00.91 -- Babut untuk sembahyang V V
+2956. | 5705.00.92 -- Penutup lantai bukan tenunan, dari jenis yang V V
+digunakan untuk kendaraan bermotor pada pos
+87.02, 87.03 atau 87.04
+2957. | 5705.00.99 --_Lain-lain Vv {ov
+58.01 Kain tenunan berbulu dan kain chenille, selain
+kain dari pos 58.02 atau 58.06.
+5801.10 - Dari wol atau bulu hewan halus:
+2958. | 5801.10.10 -- Dilapisi, ditutupi atau dilaminasi V V
+2959. | 5801.10.90 --_Lain-lain vv
+

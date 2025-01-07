@@ -1,0 +1,33 @@
+-99-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Beste
+cm atau dalam lembaran empat persegi panjang
+(termasuk bujur sangkar) yang sisinya tidak ada
+yang melebihi 36 cm dalam keadaan tidak dilipat :
+581. | ex 4811.90.41 --- Penutup lantai Berasal dari kayu V V
+582. | ex 4811.90.42 | --- Kertas Marbled Berasal dari kayu V V
+583. | ex 4811.90.49 | --- Lain-lain Berasal dari kayu V v
+-- Lain-lain:
+584. | ex 4811.90.91 --- Penutup lantai Berasal dari kayu V V
+585. | ex 4811.90.92 --- Kertas Marbled Berasal dari kayu V V
+586. | ex 4811.90.93 | --- Lain-lain, gumpalan Berasal dari kayu V v
+selulosa dan web dari serat
+selulosa
+587. | ex 4811.90.99 --- Lain-lain Berasal dari kayu V V
+588. | ex 4812.00.00 | Blok, lempengan dan pelat Berasal dari kayu V V
+saring, dari pulp kertas.
+48.13 Kertas sigaret, dipotong menurut ukuran
+maupun tidak, baik dalam bentuk buklet atau
+tabung.
+589. | ex 4813.10.00 - Dalam bentuk buklet atau Berasal dari kayu V V
+tabung
+4813.20 - Dalam gulungan dengan Berasal dari kayu
+lebar tidak melebihi 5 cm
+590. | ex 4813.20.10 -- Cigarette tipping paper Berasal dari kayu V V
+-- Lainnya, tidak dilapisi :
+591. | ex 4813.20.21 --- Tobacco wrapping paper Berasal dari kayu V V
+592. | ex 4813.20.22 --- Plug wrap paper yang Berasal dari kayu V V
+
+memiliki porositas lebih dari
+12 cm (min-!.cm-2) di unit
+

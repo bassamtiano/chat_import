@@ -1,0 +1,64 @@
+-6-
+
+4417.00.90.00
+Produk pertukangan dan bahan bangunan
+rumah dari kayu, termasuk panel kayu seluler,
+rakitan panel penutup lantai, atap sirap dan
+shake.
+
+104. | 4418.10.00.00 - Jendela, jendela Prancis dan kusennya
+~ Pintu dan kusennya serta ambang pintu
+- Atap sirap dan shake
+- Post dan beam
+
+| '- Rakitan panel penutup lantai:
+4418.71.00.00 - - Untuk lantai mosaic
+4418.72,00.00 - - Lain-lain, multilayer
+
+4418.79,00.00 - - Lain-lain
+| «| 4418.90 - Lain-lain:
+
+4418.90,10.00 - - Panel kayu seluler
+4418.90.90.00 - - Lain-lain
+
+4419.00.00.00 Perangkat makan dan perangkat dapur, dari
+kayu.
+
+Tatakan kayu dan kayu bertatah; kotak dan
+peti untuk perhiasan atau barang tajam dan
+barang semacam itu, dari kayu; patung dan
+ornamen lainnya, dari kayu; perabotan dari
+kayu yang tidak termasuk Bab 94,
+
+4420,10.00.00 - Patung kecil dan ornamen lainnya, dari kayu
+
+4420.90 + Lain-lain:
+116. | 4420.90.10.00 - - Perabotan dari kayu yang tidak termasuk Bab
+94
+
+117. | 4420.90.90.00
+
+4421.90 - Lain-lain:
+118. - - Kelos, cop dan bobbin, gulungan benang jahit
+dan sejenisnya
+
+119, | 4421.90.20.00 - - Batang korek api
+120. | 4421,90.30.00 -- Pasak atau paku kayu untuk alas kaki
+
+121, - - Tangkai permen, tangkai es krim dan sendok
+es krim
+- - Kipas dan handscreen, bingkai dan gagangnya
+serta bagian dari bingkai dan gagang
+~ - Lain-lain:
+
+4421.90.93.00 - ~ - Manik-manik untuk doa
+
+4421.90,94.00 - - - Manik-manik lainnya
+~~ - Lain-lain (Paving Blok dari Kayu)
+
+Kayu dalam bentuk log atau kayu pacakan yang
+telah dikerjakan lebih lanjut pada bagian luarnya
+secara sederhana, diukir atau diulir secara halus
+atau tipis, dicat atau dilukis, tidak mempunyai
+nilai_tambah yang signifikan dan tidak ada
+

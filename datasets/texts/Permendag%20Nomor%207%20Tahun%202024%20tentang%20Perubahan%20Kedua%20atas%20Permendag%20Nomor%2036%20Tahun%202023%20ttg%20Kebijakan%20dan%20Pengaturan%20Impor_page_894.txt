@@ -1,0 +1,45 @@
+- 174 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+564. | 8708.50.29 --- Lain - lain identitas importir, pos yang diakibatkan oleh V V
+8708.80 - Sistem suspensi dan bagiannya tarif/HS, uraian barang, keadaan tertentu
+(termasuk peredam kejut): jumlah barang, satuan berupa: keadaan
+-- Sistem suspensi barang, negara asal, negara kahar, bencana
+565. | 8708.80.17 --- Untuk kendaraan dari subpos muat, pelabuhan muat, kemanusiaan, bencana V V V
+8704.10 atau pos 87.05 pelabuhan tujuan, dan/atau alam, gangguan teknis
+566. | ex 8708.80.19 | --- Lain-lain Hanya untuk keterangan/spesifikasi alat angkut, dan/atau J V V
+Dump Truck barang: keadaan lain yang
+dengan mengakibatkan
+g.v.w. di atas 45 Dalam hal Neraca Komoditas keterlambatan
+telah ditetapkan: kedatangan.
+ton
+- Bagian dan aksesori lainnya 1, PIBMTB .
+P ; Remanufakturing 20 KETENTUAN LAIN-LAIN
+8708.94 -- Roda kemudi, kolom kemudi dan :
+rumah kemudi; bagiannya: Tahun (API-P) yang masih
+? , berlaku; dan Dalam hal Neraca
+; Fi 2. Perubahan Neraca Komoditas telah
+--- Lain-lain: : :
+- Komoditas. ditetapkan atau Neraca T T T
+567. 8708.94.99 conn Lain-lain Komoditas belum
+8708.99 -- Lain-lain: Dalam hal Neraca Komoditas | ditetapkan, Importir dapat
+--- Untuk kendaraan dari pos 87.02, belum ditetapkan: memiliki 1 (satu) atau
+87.03 atau 87.04: lebih PI BMTB
+---- Rangka sasis atau bagiannya: Dalam hal perubahan Remanufakturing 20
+568. | ex 8708.99.63 | ----- Untuk Hanya untuk identitas importir: Tahun (API-P) yang masih Vi] Vv V
+kendaraan dari g.v.w. melebihi 24 | 1. PI BMTB berlaku, dalam 1 (satu)
+pos 87.04 ton Remanufakturing 20 periode.
+569. | 8708.99.70 ---- Penyangga Mesin Tahun (API-P) yang masih Viv V
+570. 8708.99.80 ~_-- Lain-lain berlaku; dan Dalam hal Neraca 7 Y Y
+F | 2. Dokumen yang Komoditas telah
+~~ Lain-lain: mengalami perubahan ditetapkan atau Neraca
+571. | 8708.99.91 ---- Tangki bahan bakar tidak dirakit; berupa Izin usaha Komoditas belum V V V
+penyangga mesin berlaku efektif yang ditetapkan, PI BMTB
+572. | 8708.99.99 ---- Lain-lain v |v V
+
+dimiliki oleh perusahaan
+untuk melakukan
+
+Remanufakturing 20
+Tahun (API-P) berlaku
+

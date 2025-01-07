@@ -1,0 +1,33 @@
+- 356 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1738. | ex 0307.31.10 | --- Hidup Selain untuk calon induk, V
+induk dan benih untuk
+pembudidayaan
+1739. | 0307.31.20 --- Segar atau dingin V V
+1740. | 0307.32.00 -- Beku V V
+0307.39 -- Lain-lain:
+1741. | 0307.39.30 --- Dikeringkan, diasinkan atau dalam air V V
+garam
+1742. | 0307.39.40 --- Diasapi V V
+- Cumi-cumi dan sotong:
+0307.42 -- Hidup, segar atau dingin:
+--- Hidup:
+1743. | ex 0307.42.11 | ---- Cumi- cumi Selain untuk calon induk, V V
+(Sepia officinalis, | induk dan benih untuk
+Rossia pembudidayaan
+macrosoma,
+Sepiola spp.) dan
+sotong
+(Ommastrephes
+spp., Loligo
+spp.,Nototodarus
+spp., Sepioteuthis
+spp.)
+1744. | ex 0307.42.19 | ---- Lain-Lain V V
+1745. | 0307.42.21 ---- Cumi- cumi (Sepia officinalis, Rossia V V
+macrosoma, Sepiola spp.) dan sotong
+(Ommastrephes spp., Loligo spp.,Nototodarus
+spp., Sepioteuthis spp.)
+1746. | 0307.42.29 ---- Lain-Lain V V
+

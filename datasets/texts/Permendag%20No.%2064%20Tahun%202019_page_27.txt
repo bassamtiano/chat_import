@@ -1,0 +1,57 @@
+HS 201
+
+7
+
+Uraian 2017 KETERANGAN
+
+oil
+
+ise [woman [ew =i
+BAGIAN IKAN
+
+199. | 0305.72.99 | - - - - Lain-lain LAINNYA/OTHER
+FISH OFFAL
+BAGIAN IKAN
+
+200. | 0305.79.10 | ---Cod LAINNYA/ OTHER
+FISH OFFAL
+BAGIAN IKAN
+
+201. | 0305.79.90 | - - - Lain-lain LAINNYA/ OTHER
+
+FISH OFFAL
+
+Krustasea, berkulit maupun tidak,
+hidup, segar, dingin, beku,
+dikeringkan, diasinkan atau dalam
+air garam; krustasea_ diasapi,
+dimasak maupun tidak sebelum
+atau selama proses pengasapan;
+krustasea, berkulit, dikukus atau
+direbus, dingin, beku, dikeringkan,
+diasinkan atau dalam air garam
+maupun tidak; tepung, tepung
+kasar dan pellet dari krustasea,
+yak untuk dikonsumsi manusia.
+
+- - Lobster karang dan udang laut
+0306.11 besar lainnya (Palinurus__ spp.,
+Panulirus spp.,Jasus spp.) :
+Ff ‘ LOBSTER/
+5 P LOBSTER/
+
+0306.12 - - Lobster (Homarus spp.) : me
+
+: : LOBSTER/
+0306.12.90 | - - - Lain-lain LOBSTERS
+0306.14 _|--Kepiting: = =| sd
+
+KEPITING ATAU
+RAJUNGAN/
+CRABS OR
+SWIMMING CRABS
+
+- - - Kepiting cangkang lunak
+
+0306.14.10
+

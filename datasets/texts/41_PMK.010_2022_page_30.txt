@@ -1,0 +1,61 @@
+='8O)=
+
+- Perahu motor, selain dapat digembungkan, tidak termasuk perahu
+motor tempel :
+
+603 | 8903.31.00 - - Dengan panjang tidak melebihi 7,5 m
+604 | 8903.32.00 - - Dengan panjang melebihi 7,5 m tetapi tidak melebihi 24 m
+605 | 8903.33.00 - - Dengan panjang melebihi 24 m
+- Lain-lain :
+606 | 8903.93.00 - - Dengan panjang tidak melebihi 7,5 m
+607 | 8903.99.00 - - Lain-lain
+90.04 Kacamata, kacamata pelindung dan _ sejenisnya, korektif,
+protektif atau lainnya.
+9004.90 - Lain-lain :
+608 | 9004.90.90 - - Lain-lain
+90.06 Kamera fotografi (selain kamera sinematografi); aparatus lampu
+kilat fotografi dan bola lampu kilat selain lampu tabung dari pos
+85.39.
+609 | 9006.40.00 - Kamera cetak instan
+- Kamera lainnya :
+9006.53 - - Untuk gulungan film dengan lebar 35 mm :
+610 | 9006.53.10 - - - Dengan jendela pembidik melalui lensa (single lens reflex (SLR))
+611 | 9006.53.90 - - - Lain-lain
+9006.59 - - Lain-lain :
+- - - Untuk gulungan film dengan lebar kurang dari 35 mm :
+612 | 9006.59.11 - --- Dengan jendela pembidik melalui lensa (single lens reflex (SLR))
+613 | 9006.59.19 ---- Lain-lain
+614 | 9006.59.30 - - - Lain-lain, plotter foto laser atau image setter dengan raster image
+processor
+615 9006.59.90 - - - Lain-lain
+91.01 Arloji tangan, arloji saku dan arloji lainnya, termasuk penghitung
+
+detik, dengan badan arloji dari logam mulia atau dari logam yang
+dipalut dengan logam mulia.
+
+- Arloji tangan, dioperasikan secara elektrik, dilengkapi fasilitas
+penghitung detik maupun tidak :
+
+616 | 9101.11.00 - - Hanya dengan display mekanis
+617 | 9101.19.00 - - Lain-lain
+- Arloji tangan lainnya, dilengkapi fasilitas penghitung detik maupun
+tidak :
+618 | 9101.21.00 - - Dengan putaran otomatis
+619 | 9101.29.00 - - Lain-lain
+- Lain-lain :
+620 | 9101.91.00 - - Dioperasikan secara elektrik
+621 | 9101.99.00 - - Lain-lain
+91.03 Jam dengan penggerak jam, tidak termasuk jam dari pos 91.04.
+622 | 9103.10.00 - Dioperasikan secara elektrik
+623 | 9103.90.00 - Lain-lain
+91.04 Jam panel instrumen dan jam tipe semacam untuk kendaraan
+darat, kendaraan udara, kendaraan luar angkasa atau kendaraan
+air.
+624 | 9104.00.10 - Untuk kendaraan darat
+625 | 9104.00.90 - Lain-lain
+91.05 Jam lainnya.
+- Beker :
+626 | 9105.11.00 - - Dioperasikan secara elektrik
+627 | 9105.19.00 - - Lain-lain
+
+wane

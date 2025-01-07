@@ -1,0 +1,36 @@
+- 329 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2931. | 5703.10.30 -- Karpet penutup lantai dari jenis yang V V
+digunakan untuk kendaraan bermotor pada pos
+87.02, 87.03 atau 87.04
+2932. | 5703.10.90 --_Lain-lain Vv |v
+- Dari nilon atau poliamida lainnya:
+2933. | 5703.21.00 -- Turf Vv |v
+5703.29 -- Lain-lain :
+2934. | 5703.29.10 --- Babut untuk sembahyang V V
+2935. | 5703.29.90 --- Lain-Lain Vv |v
+- Dari bahan tekstil buatan lainnya:
+2936. | 5703.31.00 -- Turf Vv |v
+5703.39 -- Lain-lain :
+2937. | 5703.39.10 --- Babut untuk sembahyang V V
+2938. | 5703.39.90 --- Lain-Lain Vv [Vv
+5703.90 - Dari bahan tekstil lainnya:
+--_ Dari kapas:
+2939. | 5703.90.11 --- Babut untuk sembahyang V V
+2940. | 5703.90.19 --- Lain-lain Vv {ov
+-- Dari serat jute:
+2941. | 5703.90.21 --- Keset lantai dari jenis yang digunakan untuk V V
+kendaraan bermotor pada pos 87.02, 87.03 atau
+87.04
+2942. | 5703.90.22 --- Karpet penutup lantai dari jenis yang V V
+digunakan untuk kendaraan bermotor pada pos
+87.02, 87.03 atau 87.04
+2943. | 5703.90.29 --- Lain-lain Vv |v
+--_Lain-lain:
+2944. | 5703.90.91 --- Keset lantai dari jenis yang digunakan untuk V V
+kendaraan bermotor pada pos 87.02, 87.03 atau
+87.04
+2945. | 5703.90.92 --- Babut untuk sembahyang V V
+2946. | 5703.90.93 --- Karpet penutup lantai dari jenis yang V V
+

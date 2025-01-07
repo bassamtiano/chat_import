@@ -1,0 +1,47 @@
+- 626 -
+
+No Pos Tarif/HS Uraian Barang | Jenis Barang Nene er Barang Persyaratan Keterangan IT | IP | PI | LS Beer
+
+R-133 1330- | KGM 1. PI BPO Metil Neraca Komoditas viv
+45-6 Bromida (API-P belum ditetapkan,
+dan atau API-U) yang masa berlaku PI BPO
+431-07- masih berlaku; Metil Bromida atau PI
+2 dan BPO Non Metil
+
+R-151 110587- | KGM 2. Perubahan laporan | Bromida (API-P atau Vv] Vv
+14-9 hasil verifikasi, API-U) paling lama 1
+dan rekomendasi, atau | (satu) tahun takwim.
+762-50- pertimbangan
+5 teknis dari Dalam hal Neraca
+
+R-221 134237- | KGM kementerian yang | Komoditas telah VJ V
+35-7 menyelenggarakan | ditetapkan atau
+dan urusan Neraca Komoditas
+29470- pemerintahan di belum ditetapkan,
+94-8 bidang lingkungan | masa berlaku
+
+R-222 134237- | KGM hidup dan perubahan PI BPO V V
+36-8 kehutanan. Metil Bromida atau PI
+
+R-223 134237- | KGM BPO Non Metil vv
+37-9 Dalam hal perubahan | Bromida (API-P atau
+
+Pos Tarif/HS, uraian API-U) selama sisa
+R-224 io KGM barang, jenis, jumlah, | masa berlaku PI V V
+satuan, negara asal, induknya.
+
+R-226 134308- | KGM pelabuhan muat V |v
+72-8 diluar negeri, PELABUHAN TUJUAN
+
+R-231 134190- | KGM pelabuhan tujuan IMPOR BPO V V
+48-0 dan/atau keterangan/
+
+R-232 134237- | KGM spesifikasi: Impor BPO hanya vd
+39-1 : dapat dilakukan
+
+R-233 134237- | KGM \ anes (APLP melalui pelabuhan V V
+40-4
+
+atau API-U) yang laut
+R-234 eae KGM masih berlaku; dan | 1. Belawan di Medan; v v
+

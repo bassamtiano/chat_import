@@ -1,0 +1,77 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-2-
+PETUNJUK PENGISIAN
+
+: Diisi hari saat pelaksanaan pemusnahan.
+
+: Diisi tanggal saat pelaksanaan pemusnahan.
+
+: Diisi bulan saat pelaksanaan pemusnahan.
+
+: Diisi tahun saat pelaksanaan pemusnahan.
+
+: Diisi tempat (kota) pelaksanaan pemusnahan.
+
+: Diisi nama pejabat Kementerian Luar Negeri yang menyaksikan pemusnahan.
+: Diisi NIP pejabat Kementerian Luar Negeri yang menyaksikan pemusnahan.
+
+: Diisi nama unit kerja pejabat Kementerian Luar Negeri yang menyaksikan
+
+pemusnahan.
+
+: Diisi nama jabatan pejabat Kementerian Luar Negeri yang menyaksikan
+pemusnahan.
+
+: Diisi nama Pejabat Bea dan Cukai yang mewalili Kementerian Keuangan
+untuk menyaksikan pemusnahan.
+
+: Diisi NIP Pejabat Bea dan Cukai yang mewakili Kementerian Keuangan untuk
+menyaksikan pemusnahan.
+
+: Diisi nama unit kerja Pejabat Bea dan Cukai yang mewakili Kementerian
+Keuangan untuk menyaksikan pemusnahan.
+
+: Diisi nama jabatan Pejabat Bea dan Cukai yang mewakili Kementerian
+Keuangan untuk menyaksikan pemusnahan.
+
+: Diisi nama Pejabat Perwakilan Negara Asing yang menyaksikan pemusnahan.
+: Diisi nomor identintas Pejabat Perwakilan Negara Asing yang menyaksikan
+pemusnahan.
+
+: Diisi nama Perwakilan Negara Asing.
+
+: Diisi nama jabatan Pejabat Perwakilan Negara Asing yang menyaksikan
+pemusnahan.
+
+: Diisi nama pihak yang melakukan pemusnahan.
+
+: Diisi nomor identitas pihak yang melakukan pemusnahan.
+
+: Diisi nama entitas (perusahaan/badan/lainnya) yang melakukan pemusnahan.
+
+: Diisi nama jabatan yang melakukan pemusnahan.
+
+: Diisi nama tempat pelaksanaan pemusnahan.
+
+: Disii nama Perwakilan Negara Asing pemilik Kendaraan Bermotor yang
+dimusnahkan.
+
+: Diisi nomor Pemberitahuan Impor Barang (PIB).
+
+: Diisi tanggal Pemberitahuan Impor Barang (PIB).
+
+: Diisi nomor Formulir B.
+
+: Diisi tanggal Formulir B.
+
+: Diisi nama pemilik/penerima fasilitas yang tercantum dalam Formulir B.
+
+: Diisi jenis, merek, tipe Kendaraan Bermotor yang akan dimusnahkan.
+
+: Diisi tahun pembuatan Kendaraan Bermotor sesuai dengan Invoice.
+
+: Diisi nomor mesin Kendaraan Bermotor yang akan dimusnahkan.
+
+www.jdih.kemenkeu.go.i

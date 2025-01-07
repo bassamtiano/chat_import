@@ -1,0 +1,58 @@
+- 612 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+PERUBAHAN PI
+Perubahan PI NC (API-P):
+
+Perubahan PI NC (API-P)
+dapat dilakukan dalam
+hal perubahan identitas
+Importir, uraian barang,
+pos tarif/HS, jumlah,
+satuan, negara asal,
+negara muat, pelabuhan
+tujuan dan/atau
+keterangan/ spesifikasi.
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan persyaratan
+berupa:
+
+1. PI NC (API-P) yang
+masih berlaku;
+
+2. IP NC yang mengalami
+perubahan, dalam hal
+terdapat perubahan
+identitas Importir; dan
+
+3. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan persyaratan
+berupa:
+
+Dalam hal perubahan
+

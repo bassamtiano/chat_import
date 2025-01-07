@@ -1,0 +1,99 @@
+- 609 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+dan informasi yang
+tercantum dalam
+laporan hasil verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang pertahanan;
+
+. Perubahan
+
+Rekomendasi yang
+diterbitkan oleh Badan
+Intelijen Strategis TNI
+(BAIS-TNI), untuk
+perubahan data dan
+informasi yang
+tercantum dalam
+rekomendasi dari BAIS
+TNI; dan
+
+. Perubahan
+
+Rekomendasi oleh
+Badan intelijen dan
+keamanan POLRI
+(Baintelkam POLRI),
+untuk perubahan data
+dan informasi yang
+tercantum dalam
+rekomendasi dari
+Baintelkam POLRI.
+
+PERPANJANGAN PI
+
+Perpanjangan PI NC (API-
+
+berlaku untuk 1 (satu)
+atau lebih penyampaian
+Pemberitahuan Pabean
+Impor.
+
+Ketentuan kebijakan dan
+pengaturan Impor tetap
+berlaku terhadap Impor
+NC:
+
+1. dari luar daerah
+pabean ke Kawasan
+Perdagangan Bebas
+dan Pelabuhan Bebas
+(KPBPB);
+
+2. dari luar daerah
+pabean ke Tempat
+Penimbunan Berikat;
+
+3. dari luar daerah
+pabean ke Kawasan
+Ekonomi Khusus;
+
+4. dari luar daerah
+pabean untuk diolah,
+dirakit, atau dipasang
+dengan tujuan ekspor
+dalam rangka
+kemudahan Impor
+tujuan ekspor
+pembebasan; dan
+
+5. untuk Barang kiriman
+pekerja migran
+Indonesia, Barang
+pribadi penumpang,
+Barang pribadi awak
+

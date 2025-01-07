@@ -1,0 +1,39 @@
+- 156 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+-- Roda dengan ban terpasang: 7. Bukti penguasaan
+1289. | 8708.70.21 --- Untuk kendaraan dari pos 87.01 alat transportasi. viv V
+1290. | 8708.70.22 --- Untuk kendaraan dari pos 87.03 Vv] Vv V
+1291. 8708.70.23 --- Untuk kendaraan dari pos 87.02 atau 87.04 Perpanjangan PI Ban: V V V
+(tidak termasuk subpos 8704.10) 1. PI Ban yang masih
+1292. | 8708.70.29 --- Lain-lain berlaku; dan Viv V
+
+2. Bill of Lading (B/L).
+
+PI Barang
+Komplementer, Barang
+Untuk Keperluan Tes
+Pasar, dan/atau Barang
+Untuk Pelayanan Purna
+
+Jual:
+
+1. Importir pemilik API-
+P;
+
+2. Izin Usaha Industri
+(IU]);
+
+3. Bukti hubungan
+istimewa dengan
+perusahaan di luar
+negeri, untuk impor
+barang manufaktur
+sebagai barang
+komplementer; dan
+
+4. Data yang tersedia,
+dalam hal Neraca
+Komoditas belum
+ditetapkan.
+

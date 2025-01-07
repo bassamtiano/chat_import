@@ -1,0 +1,33 @@
+- 216 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+1764.| ex 0308.11.10 | --- Hidup Selain untuk v
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1765.| 0308.11.20 --- Segar atau dingin V V
+1766.) 0308.12.00 -- Beku VJ J
+0308.19 -- Lain-lain:
+1767.) 0308.19.20 --- Dikeringkan, diasinkan atau dalam air garam V V
+1768.| 0308.19.30 --- Diasapi V V
+- Bulu babi (Strongylocentrotus spp., Paracentrotus
+lividus, Loxechinus albus, Echichinus esculentus):
+0308.21 -- Hidup, segar atau dingin:
+1769.| ex 0308.21.10 | --- Hidup Selain untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1770.| 0308.21.20 --- Segar atau dingin V V
+1771.) 0308.22.00 -- Beku VJ J
+0308.29 -- Lain-lain:
+1772.) 0308.29.20 --- Dikeringkan, diasinkan atau dalam air garam V V
+1773.| 0308.29.30 --- Diasapi V V
+0308.30 - Ubur-ubur (Rhopilema spp.):
+1774.| ex 0308.30.10 | -- Hidup Selain untuk v V
+
+calon induk,
+induk dan benih
+untuk
+

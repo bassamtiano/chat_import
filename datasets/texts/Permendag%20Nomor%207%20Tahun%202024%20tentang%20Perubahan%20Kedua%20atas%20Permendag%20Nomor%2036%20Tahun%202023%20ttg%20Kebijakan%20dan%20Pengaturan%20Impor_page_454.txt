@@ -1,0 +1,38 @@
+- 439 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+kaitan.
+6115.10 - Hosiery dikempa bergradasi
+(misalnya, stocking untuk
+penderita varises):
+2389. | 6115.10.10 -- Stocking untuk penderita PCE Vv |v
+varises, dari serat sintetik
+2390. | 6115.10.90 -- Lain-lain PCE vV [Vv
+- Panty hose dan tight lainnya:
+2391. | 6115.21.00 -- Dari serat sintetik, ukuran tiap PCE V V
+benang tunggal kurang dari 67
+desiteks
+2392. | 6115.22.00 -- Dari serat sintetik, ukuran tiap PCE V V
+benang tunggal 67 desiteks atau
+lebih
+6115.29 --_Dari bahan tekstil lainnya:
+2393. | 6115.29.10 --- Dari kapas PCE Vv [Vv
+2394. | 6115.29.90 --- Lain-lain PCE viv
+6115.30 - Hosiery panjang atau sampai
+lutut lainnya untuk wanita, ukuran
+tiap benang tunggal kurang dari 67
+desiteks:
+2395. [6115.30.10 -- Dari kapas PCE Viv
+2396. | 6115.30.90 -- Lain-lain PCE Vv [Vv
+- Lain-lain:
+2397. | 6115.94.00 -- Dari wol atau bulu hewan halus_| PCE Vv |v
+2398. [6115.95.00 -- Dari kapas PCE Viv
+2399. | 6115.96.00 -- Dari serat sintetik PCE Vv [Vv
+2400. | 6115.99.00 -- Dari bahan tekstil lainnya PCE Vv [Vv
+61.16 Sarung tangan, mitten dan mitt,
+rajutan atau kaitan.
+6116.10 - Diresapi, dilapisi, ditutupi atau
+
+dilaminasi dengan plastik atau
+

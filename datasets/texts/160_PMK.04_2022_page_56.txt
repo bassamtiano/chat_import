@@ -1,0 +1,32 @@
+Nomor (34)
+Nomor (35)
+Nomor (36)
+
+Nomor (37)
+Nomor (38)
+
+Nomor (39)
+Nomor (40)
+
+- 56 -
+
+: diisi dengan total jumlah bea masuk, cukai, pajak, dan denda
+
+yang wajib dilunasi.
+diisi nama jabatan Pejabat Bea dan Cukai yang menerbitkan
+
+SPPBMCP.
+: diisi nama Pejabat Bea dan Cukai yang menerbitkan
+
+SPPBMCP.
+diisi NIP Pejabat Bea dan Cukai yang menerbitkan SPPBMCP.
+
+: diisi dengan keterangan laimnya seperti dasar hukum,
+
+ketentuan pembayaran, tanggal jatuh tempo dll.
+diisi nomor halaman.
+diisi jumlah halaman.
+
+pe
+
+jdih.kemenkeu.go.id

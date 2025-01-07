@@ -1,0 +1,66 @@
+- 33.-
+
+- - - Lain-lain :
+683 | 9405.19.91 - - - - Lampu sorot
+684 | 9405.19.92 - - - - Luminer dengan lampu fluoresen
+685 | 9405.19.99 - --- Lain-lain
+
+- Luminer listrik untuk meja, meja kerja, samping tempat tidur atau
+luminer berdiri :
+
+9405.21 - - Dirancang untuk digunakan semata-mata dengan sumber cahaya
+light-emitting diode (LED) :
+686 | 9405.21.10 - - - Luminer untuk ruang operasi
+687 | 9405.21.90 - - - Lain-lain
+9405.29 - - Lain-lain :
+688 | 9405.29.10 - - - Luminer untuk ruang operasi
+689 | 9405.29.90 - - - Lain-lain
+- Lighting string dari jenis yang digunakan untuk pohon natal :
+690 | 9405.31.00 - - Dirancang untuk digunakan semata-mata dengan sumber cahaya
+light-emitting diode (LED)
+691 | 9405.39.00 - - Lain-lain
+- Luminer dan alat kelengkapan penerangan listrik lainnya :
+9405.41 - - Fotovoltaik, dirancang untuk digunakan semata-mata dengan
+sumber cahaya light-emitting diode (LED) :
+692 | 9405.41.10 - - - Searchlight
+693 | 9405.41.20 - - - Lampu sorot lainnya
+694 | 9405.41.40 - - - Lain-lain, dari jenis yang digunakan untuk penerangan umum
+atau pada ruang terbuka atau jalan; Penerangan eksterior lainnya
+695 | 9405.41.90 - - - Lain-lain
+9405.42 - - Lain-lain, dirancang untuk digunakan semata-mata dengan
+sumber cahaya light-emitting diode (LED) :
+696 | 9405.42.10 - - - Searchlight
+697 | 9405.42.20 - - - Lampu sorot lainnya
+698 | 9405.42.50 - - - Lain-lain, dari jenis yang digunakan untuk penerangan umum
+atau pada ruang terbuka atau jalan
+699 | 9405.42.60 - - - Penerangan eksterior lainnya
+700 | 9405.42.90 - - - Lain-lain
+9405.49 - - Lain-lain :
+701 | 9405.49.10 - - - Searchlight
+702 | 9405.49.20 - - - Lampu sorot lainnya
+703 | 9405.49.50 - - - Lain-lain, dari jenis yang digunakan untuk penerangan umum
+atau pada ruang terbuka atau jalan
+704 | 9405.49.60 - - - Penerangan eksterior lainnya
+705 | 9405.49.90 - - - Lain-lain
+9405.50 - Luminer dan alat kelengkapan penerangan non elektrik :
+- - Dari tipe minyak bakar :
+706 | 9405.50.19 - - - Lain-lain
+707 | 9405.50.40 - - Lampu badai
+708 | 9405.50.50 - - Lampu penambang dan lampu penggali
+709 | 9405.50.90 - - Lain-lain
+95.06 Barang dan perlengkapan untuk latihan fisik umum, gimnastik,
+
+atletik, olahraga lainnya (termasuk meja tenis) atau permainan
+luar ruangan, tidak dirinci atau termasuk dalam pos lain pada
+Bab ini; kolam renang dan paddling pool.
+
+- Perlengkapan ski air, papan selancar, papan selancar layar dan olah
+raga air lainnya :
+
+710 | 9506.21.00 - - Papan selancar layar
+711 | 9506.29.00 - - Lain-lain
+
+- Tongkat golf dan perlengkapan golf lainnya :
+712 | 9506.31.00 - - Tongkat golf, lengkap
+
+vane fi

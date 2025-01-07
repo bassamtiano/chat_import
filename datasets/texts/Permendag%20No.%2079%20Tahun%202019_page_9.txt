@@ -1,0 +1,96 @@
+Keterangan :
+a. embos;
+b. tercetak;
+
+c. melekat secara utuh.
+
+5
+
+Frizer dengan tipe peti dengan kapasitas tidak melebihi
+200 I.
+
+Frizer dengan tipe peti dengan kapasitas 200 | atau lebih
+tetapi tidak melebihi dari 800 1.
+
+Frizer dengan tipe tegak dengan kapasitas tidak melebihi
+200 1.
+
+Frizer dengan tipe tegak dengan kapasitas 200 1 atau lebih
+tetapi tidak melebihi dari 900 1.
+
+Mesin hitung elektronik yang dapat dioperasikan tanpa
+sumber tenaga listrik dari luar dan mesin perekam ,
+pereproduksi dan penayang data ukuran saku dengan
+fungsi menghitung.
+
+Kamera Web.
+Kamera perekam video selain digunakan dalam penyiaran
+
+Kamera digital saku.
+Digital Single Lens Reflects (DSLR).
+Kamera digital selain jenis saku dan jenis DSLR.
+
+Kipas angin meja dan Kipas angin kotak dengan motor
+listrik terpasang didalamnya dengan keluaran tidak
+melebihi 125 W.
+
+Kipas angin lantai, kipas angin dinding, kipas angin
+jendela, langit-langit atau atap dengan layar pelindung,
+dengan motor listrik terpasang didalamnya dengan
+keluaran tidak melebihi 125 W.
+
+KETERANGAN/PENJELASAN
+
+PENEMPATAN LABEL
+
+BARANG
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang produksi dalam negeri;
+atau
+
+Nama dan alamat importir untuk barang impor;
+
+Penggunaan listrik: tegangan (Volt/V) dan frekuensi (Hz);
+
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang produksi dalam negeri;
+atau
+
+Nama dan alamat importir untuk barang impor;
+
+Penggunaan listrik: tegangan (Volt/V) dan frekuensi (Hz);
+
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang produksi dalam negeri;
+atau
+
+Nama dan alamat importir untuk barang impor;
+
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang produksi dalam negeri;
+atau
+
+Nama dan alamat importir untuk barang impor;
+
+Penggunaan listrik: tegangan (Volt/V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+

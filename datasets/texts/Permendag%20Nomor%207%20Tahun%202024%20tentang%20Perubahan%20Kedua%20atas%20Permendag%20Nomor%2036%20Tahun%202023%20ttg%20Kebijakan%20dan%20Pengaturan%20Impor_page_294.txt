@@ -1,0 +1,44 @@
+- 279 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+untuk berhubungan dengan mesin pengolah berupa Neraca Komoditas. | Dalam hal Neraca
+data otomatis atau jaringan: Komoditas telah
+--- Printer-copier, mencetak dengan proses ink- | Dalam hal Neraca ditetapkan atau Neraca
+jet: Komoditas belum Komoditas belum
+1313. | 8443.31.11 | ---- Berwarna ditetapkan, persyaratan _| ditetapkan, masa berlaku Tq T
+: : berupa Data Tersedia PI Mesin Multifungsi
+--- Printer-copier, mencetak dengan proses dalam bentuk laporan Berwarna, Mesin Fotokopi
+laser: hasil verifikasi, Berwarna, dan Mesin
+1314. | 8443.31.21 ---- Berwarna rekomendasi, atau Printer Berwarna (API-P J J Bl
+--- Kombinasi mesin printer-copier-faksimili: pertimbangan teknis dari | atau API-U) paling lama 1
+i i tu) tah takwim.
+1315. | 8443.31.31 ---- Berwarna Badan Koordinasi (satu) tahun talewim viv V
+- - Pemberantasan Rupiah
+--- Lain-lain: Palsu (BOTASUPAL) Dalam hal Neraca
+1316. | ex 8443.31.91 | ---- Kombinasi mesin printer-copier- scanner- | Badan Intelijen Negara Komoditas telah V [Vv V
+faksimili Republik Indonesia. ditetapkan atau Neraca
+1317. | ex 8443.31.99 | ---- Lain-lain. Komoditas belum Tv fq T
+- — PERUBAHAN PI ditetapkan, masa berlaku
+8443.32 -- Lainnya, memiliki kemampuan berhubungan perubahan PI Mesin
+dengan mesin pengolah data otomatis atau Perubahan PI Mesin Multifungsi Berwarna,
+jaringan: Multifungsi Berwarna, Mesin Fotokopi Berwarna,
+--- Printer dot matriks: Mesin Fotokopi dan Mesin Printer
+1318. | 8443.32.11 ---- Berwarna Berwarna, dan Mesin Berwarna (API-P atau API- Vv 14 V
+~ Printer ink-jet: Printer Berwarna (API-P | U) selama sisa masa
+atau API-U): berlaku PI induknya.
+1319. | 8443.32.21 ---- Berwarna viv V
+--- Printer laser: Perubahan PI Mesin KETENTUAN
+1320. | 8443.32.31 ---- Berwarna Multifungsi Berwarna, PERPANJANGAN PI vid J
+A F Mesin Fotokopi Berwarna,
+1321. | ex 8443.32.90 | --- Lain-lain dan Mesin Printer Dalam hal Neraca viv V
+8443.39 -- Lain-lain: Berwarna (API-P atau API- | Komoditas telah
+1322. | ex 8443.39.10 | --- Aparatus fotocopy elektrostatik, beroperasi U) dapat dilakukan dalam | ditetapkan atau Neraca V V V
+
+dengan mereproduksi gambar asli secara
+langsung di atas copy (proses langsung)
+
+hal perubahan identitas,
+
+Komoditas belum
+ditetapkan, perpanjangan
+

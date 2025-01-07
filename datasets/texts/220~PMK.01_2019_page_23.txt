@@ -1,0 +1,49 @@
+-23-
+
+Namun demikian, setiap perubahan dan penyempurnaan arah
+
+pengembangan sistem National Single Window akan dirumuskan
+
+secara hati-hati oleh Tim Persiapan National Single Window
+
+bersama-sama dengan seluruh Instansi Pemerintah (GA) yang
+
+terlibat dan para pelaku usaha yang akan menjadi User utama
+
+dari sistem National Single Window di Indonesia.
+
+IV. STRATEGI PEMBANGUNAN, PENGEMBANGAN DAN PENERAPAN
+SISTEM NATIONAL SINGLE WINDOW
+
+a. Strategi Pembangunan dan Pengembangan Sistem National
+Single Window
+Pembangunan sistem National Single Window merupakan
+suatu proses dengan skala besar dan kompleksitas yang
+sangat tinggi, sehingga memerlukan upaya besar untuk
+melakukan serangkaian kegiatan secara paralel dalam
+waktu yang sangat terbatas. Namun demikian, dalam
+pelaksanaannya tetap harus mengikuti standar dalam
+siklus proses system-development, sehingga memudahkan
+kontrol dan penilaian atas capaian kegiatan dalam
+pembangunan sistem National Single Window.
+Secara umum  kegiatan pembangunan ini dapat
+dikelompokkan ke dalam dua kelompok, yaitu kegiatan
+Teknis (terkait dengan pekerjaan teknis kesisteman dan IT-
+System) dan kegiatan Non-teknis (terkait dengan proses
+bisnis, aspek legal dll).
+Strategi pembangunan dan pengembangan sistem National
+Single Window di Indonesia dilakukan secara bertahap
+dengan mendasarkan pada skala prioritas kebutuhan
+sistem di lapangan, dan tingkat risiko serta peluang
+keberhasilan, dengan salah satu ukuran tidak
+terganggunya sistem operasional yang sudah ada dengan
+adanya perubahan mendasar melalui penerapan Portal
+Indonesia National Single Window.
+Pada setiap tahapan implementasi sistem National Single
+Window, setelah selesainya proses technical-development
+dalam pembangunan sistemnya, untuk dapat mulai
+dilakukan tahapan implementasi harus melalui beberapa
+
+uji coba dan _ test-system, dimulai dengan masi
+
+www-jdih. kemenkeu, of

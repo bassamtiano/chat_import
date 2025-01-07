@@ -1,0 +1,26 @@
+- 301 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2558. | 6204.21.00 -- Dari wol atau bulu hewan halus J V
+6204.22 -- Dari kapas:
+2559. | ex 6204.22.90 | --- Lain-lain Selain motif Vv |v V
+batik
+2560. | 6204.23.00 -- Dari serat sintetik Vv] yv V
+6204.29 -- Bahan tekstil lainnya:
+2561. | 6204.29.10 --- Dari sutra V |v
+2562. | 6204.29.90 --- Lain-lain V V
+- Jas dan blazer:
+2563. | 6204.31.00 -- Dari wol atau bulu hewan halus V V v
+6204.32 -- Dari kapas:
+2564. | ex 6204.32.90 | --- Lain-lain Selain motif viv V
+batik
+2565. | 6204.33.00 -- Dari serat sintetik V V Vv
+6204.39 -- Dari bahan tekstil lainnya:
+--- Dari sutra:
+2566. | ex 6204.39.19 | ---- Lain-lain Selain motif viv V
+batik
+2567. | ex 6204.39.90 | --- Lain-lain Selain batik dan V |v V
+motif batik
+
+- Gaun:
+

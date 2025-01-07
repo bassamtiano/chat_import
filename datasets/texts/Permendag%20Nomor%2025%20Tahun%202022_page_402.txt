@@ -1,0 +1,51 @@
+- 373 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+3347. | 2710.12.21 | ----- Tidak dicampur Sumber Daya mineral | Bumi (API-U atau API- V
+3348. | 2710.12.22 | ----- Dicampur dengan etanol untuk Badan Usaha P). V
+3349. | 2710.12.23 | ----- Lain-lain dan Pengguna y
+
+---- Dari RON 90 dan lebih tetapi di bawah RON Langsung, atau data
+
+97: yang tersedia, dalam | Perpanjangan PI
+3350. | 2710.12.24 | ----- Tidak dicampur hal Neraca Komoditas | Minyak Bumi (API-P V
+3351. | 2710.12.25 _| ----- Dicampur dengan etanol belum ditetapkan. atau API-U) hanya V
+3352. | 2710.12.26 _| ----- Lain-lain dapat diajukan dalam V
+
+---- Dari RON lainnya: Perpanjangan PI hal:
+3353. | 2710.12.27 | ----- Tidak dicampur Minyak Bumi (API-P a. Barang telah 1
+3354. | 2710.12.28 _| ----- Dicampur dengan etanol atau API-U): dikapalkan; dan V
+3355, | 2710.12.29 | Lain-lain b. Terjadi 7
+
+“ Bahan bakar pesawat terbang, darijenis yang | !- P! Miny: ak Bumi (API- keterlambatan
+
+digunakan dalam mesin piston pesawat terbang: P atau API-U); kedatangan barang
+3356. | 2710.12.31 _| ----Oktan 100 dan lebih 2. Surat Keterangan yang diakibatkan q
+3357. | 2710.12.39 7 Lain-lain mengenai alasan oleh keadaan 7
+
+2710.19 —- Lain-lain perpanjangan; dan tertentu, antara
+- : ; 3. Bill of Lading (B/L). lain: bencana alam
+
+--- Bahan bakar diesel; minyak bahan bakar: dan gangguan
+3358. | 2710.19.71 ---- Bahan bakar kendaraan bermesin diesel teknis sarana V
+3359. | 2710.19.72 ---- Bahan bakar diesel lainnya pengangkut. J
+3360. | 2710.19.79 ---- Minyak bahan bakar V
+3361. | 2710.19.81 --- Bahan bakar turbin pesawat terbang (bahan Masa berlaku V
+
+bakar jet) yang mempunyai titik nyala 23°C atau perpanjangan PI
+
+lebih Minyak Bumi (API-P
+3362. | 2710.19.82 --- Bahan bakar turbin pesawat terbang (bahan atau API-U) paling lama V
+
+pawar jet) yang mempunyai titik nyala kurang dari 30 (tiga puluh) hari.
+
+0
+
+3363. | 2710.19.83 --- Kerosin lainnya V
+
+Perpanjangan PI
+Minyak Bumi (API-P
+atau API-U) hanya
+dapat dilakukan 1
+(satu) kali.
+

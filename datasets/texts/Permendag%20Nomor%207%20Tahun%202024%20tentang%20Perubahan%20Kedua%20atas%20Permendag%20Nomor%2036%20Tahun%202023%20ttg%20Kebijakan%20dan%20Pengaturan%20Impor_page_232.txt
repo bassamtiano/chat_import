@@ -1,0 +1,44 @@
+- 217 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+755. ex 0308.30.10 | -- Hidup Hanya untuk calon induk, V
+induk dan benih untuk Dalam hal Neraca
+pembudidayaan Komoditas telah
+0308.90 - Lain-lain: Gitetapkan, persyar atan
+756. ex 0308.90.10 | -- Hidup Hanya untuk calon induk, erupa Neraca Komoditas. V V
+induk dan benih untuk
+budid Dalam hal Neraca
+pembudcicayaan Komoditas belum
+05.11 Produk hewani tidak dirinci atau termasuk ditetapkan, persyaratan
+dalam pos lain; binatang mati dari Bab 1 berupa Data Tersedia
+atau 3, tidak layak untuk dikonsumsi dalam bentuk laporan
+manusia. hasil verifikasi,
+0511.91 -- Produk dari ikan atau krustasea, moluska rekomendasi, atau
+atau invertebrata air lainnya; binatang mati pertimbangan teknis dari
+dari Bab 3 Kementerian yang
+757. 0511.91.10 --- Telur dan sperma menyelenggarakan urusan V V
+- — pemerintahan di bidang
+0511.99 ~- Lain-lain: kelautan dan perikanan.
+758. | 0511.99.30 --- Sponge alami V V
+06.02 Tanaman hidup lainnya (termasuk akarnya),
+potongan dan cangkokan; sulur jamur. PERUBAHAN PI
+0602.90 - Lain-lain: - Perubahan PI Calon
+759. 0602.90.90 -- Lain-lain hanya untuk calon induk, Induk, Induk, Benih V V
+induk dan benih untuk Ikan, dan/atau Inti
+pembudidayaan Mutiara Negara Non-
+96.01 Gading, tulang, tempurung kura-kura, WOAH (API-P):
+
+tanduk, tanduk rusa, koral, kulit kerang dan
+bahan ukiran hewani lainnya dikerjakan,
+serta barang dari bahan tersebut (termasuk
+barang yang diperoleh melalui pencetakan).
+
+9601.90
+
+- Lain-lain
+
+Perubahan PI Calon
+Induk, Induk, Benih Ikan,
+dan/atau Inti Mutiara
+Negara Non-WOAH (API-P)
+

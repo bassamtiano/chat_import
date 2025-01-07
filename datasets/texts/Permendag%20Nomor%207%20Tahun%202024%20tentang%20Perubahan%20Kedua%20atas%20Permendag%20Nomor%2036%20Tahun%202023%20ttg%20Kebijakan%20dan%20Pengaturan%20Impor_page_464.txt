@@ -1,0 +1,38 @@
+- 449 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+batik
+6208.92 -- Dari serat buatan:
+2506. | ex 6208.92.90 | --- Lain-lain Selain motif PCE Vv |v
+batik
+6208.99 --_Dari bahan tekstil lainnya:
+2507. | 6208.99.10 --- Dari wol atau bulu hewan halus_| PCE Vv [Vv
+2508. | 6208.99.90 --- Lain-lain PCE Vv [Vv
+62.09 Garmen dan aksesori pakaian
+bayi
+6209.20 - Dari kapas:
+2509. | 6209.20.30 -- T-shirt, kemeja, piyama dan PCE Vv |v
+barang semacam itu
+2510. | 6209.20.40 -- Setelan, celana dan barang PCE V V
+semacam itu
+2511. | 6209.20.90 -- Lain-lain PCE Vv [Vv
+6209.30 - Dari serat sintetik:
+2512. | 6209.30.10 -- Setelan, celana dan barang PCE V V
+semacam itu
+2513. | 6209.30.30 -- T-shirt, kemeja, piyama dan PCE Vv
+barang semacam itu
+2514. | 6209.30.40 -- Aksesori pakaian PCE Vv [Vv
+2515. | 6209.30.90 -- Lain-lain PCE v [Vv
+2516. | 6209.90.00 - Dari bahan tekstil lainnya PCE viv
+62.10 Garmen, dibuat dari kain dari pos
+56.02, 56.03, 59.03, 59.06, atau
+59.07.
+6210.10 - Dari kain dari pos 56.02 atau
+56.03:
+-- Pakaian pelindung kerja:
+2517. | 6210.10.11 --- Pakaian yang digunakan untuk | PCE V V
+
+pelindung dari bahan kimia, radiasi
+atau api
+

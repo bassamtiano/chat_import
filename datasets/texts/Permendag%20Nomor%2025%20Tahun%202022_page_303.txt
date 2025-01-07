@@ -1,0 +1,95 @@
+- 274 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+2297.
+
+8509.40.00
+
+- Penggiling dan pencampur makanan;
+pengekstrak jus buah atau sayur
+
+85.16
+
+Pemanas air instan atau pemanas air dengan
+tempat penyimpanan dan pemanas celup,
+listrik; aparatus pemanas ruangan dan
+pemanas tanah, listrik; aparatus penata
+rambut elektro-termal (misalnya, pengering
+rambut, pengeriting rambut, pemanas jepit
+untuk mengeriting rambut) dan pengering
+tangan; setrika listrik; peralatan elektro-
+termal lainnya dari jenis yang digunakan
+untuk keperluan rumah tangga; resistor
+panas listrik, selain yang dimaksud dalam pos
+85.45.
+
+8516.10
+
+- Pemanas air instan atau pemanas air dengan
+tempat penyimpanan dan pemanas celup, listrik:
+
+-- Pemanas air instan atau pemanas air dengan
+tempat penyimpanan:
+
+2298.
+
+8516.10.11
+
+--- Dispenser air yang hanya dilengkapi dengan
+pemanas air, untuk keperluan rumah tangga
+
+2299.
+
+8516.10.19
+
+--- Lain-lain
+
+- Aparatus penata rambut atau pengering
+tangan elektro-termal:
+
+2300.
+
+8516.31.00
+
+-- Pengering rambut
+
+8516.40
+
+- Setrika listrik:
+
+2301.
+
+ex 8516.40.90
+
+-- Lain-lain Untuk rumah tangga
+
+dan sejenisnya
+
+2302.
+
+8516.50.00
+
+- Microwave oven
+
+8516.60
+
+- Oven lainnya; pemasak, cooking plate, boiling
+

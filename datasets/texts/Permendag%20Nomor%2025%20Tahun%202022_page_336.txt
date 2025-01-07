@@ -1,0 +1,27 @@
+- 307 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2620. | 6209.30.10 -- Setelan, celana dan barang semacam itu
+2621. | 6209.30.30 -- T-shirt, kemeja, piyama dan barang semacam V
+itu
+2622. | 6209.30.40 -- Aksesori pakaian
+2623. | 6209.30.90 -- Lain-lain
+2624. | 6209.90.00 - Dari bahan tekstil lainnya
+62.10 Garmen, dibuat dari kain dari pos 56.02,
+56.03, 59.03, 59.06, atau 59.07.
+6210.10 - Dari kain dari pos 56.02 atau 56.03:
+-- Pakaian pelindung kerja:
+2625. | 6210.10.11 --- Pakaian yang digunakan untuk pelindung dari V V V
+bahan kimia, radiasi atau api
+2626. | 6210.10.19 --- Lain-lain V V
+2627. | 6210.10.90 -- Lain-lain v/v
+6210.20 - Garmen lainnya, dari tipe yang diuraikan dalam
+pos 62.01:
+2628. | 6210.20.20 -- Pakaian yang digunakan untuk pelindung dari V V V
+api
+2629. | 6210.20.30 -- Pakaian yang digunakan untuk pelindung dari V V V
+bahan kimia atau radiasi
+2630. | 6210.20.40 -- Pakaian pelindung kerja lainnya J V
+2631. | 6210.20.90 -- Lain-lain V V
+6210.30 - Garmen lainnya, dari tipe yang diuraikan dalam
+

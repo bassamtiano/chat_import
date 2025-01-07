@@ -1,0 +1,61 @@
+-15-
+
+tetap mendasarkan pada regulasi dan perundangan yang
+
+ada, termasuk mengenai hak penyimpanan dan pengelolaan
+
+data, publikasi data, dan hak akses atas data, sedangkan
+
+Portal Indonesia National Single Window hanya akan
+
+menyediakan repository data untuk kebutuhan referensi
+
+proses.
+
+b. Standar komponen teknis sistem National Single Window
+Kebutuhan teknis sebuah sistem National Single Window,
+minimal mencakup beberapa komponen standar:
+
+a. Gateway-Portal > berupa common-portal nasional yang
+berfungsi sebagai portal bagi pengajuan dan proses
+dokumen yang diperlukan dalam proses clearance and
+release cargo (Portal Indonesia National Single Window).
+
+b. Interface (aplikasi antar muka) yang diperlukan untuk
+inter-koneksi antar sistem para Pengguna sistem
+National Single Window (instansi pemerintah maupun
+para pelaku usaha) yang terkait dalam sistem National
+Single Window.
+
+c. Sistem pelayanan (inhouse system) yang berada di
+internal masing-masing Instansi Pemerintah (GA).
+
+Standarisasi Elemen Data
+
+Tim Persiapan National Single Window telah menyepakati bahwa
+
+dalam pembangunan, pengembangan dan pengoperasian sistem
+
+National Single Window dan semua sistem yang terkait dengan
+
+Portal National Single Window (inhouse-system di semua GA),
+
+akan menggunakan acuan dan referensi standar “WCO Data
+
+Model, ASEAN Data Set, UNeDocs, UNTDED dan UN-EDIFACT”.
+
+Kebijakan atas keamanan data
+
+Semua data dan informasi yang mengalir melalui Portal
+
+Indonesia National Single Window adalah data yang sangat
+
+penting dan _ dilindungi kerahasiaannya oleh aturan
+
+perundangan yang ada, karena itu prioritas utama
+pembangunan Portal Indonesia National Single Window adalah
+mengenai aspek keamanan atas data, informasi dan jaringan
+
+sistem yang digunakan.
+
+worn kemenkeu oh

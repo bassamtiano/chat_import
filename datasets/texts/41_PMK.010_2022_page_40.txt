@@ -1,0 +1,74 @@
+= AG =
+
+152 | 2204.30.10 - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+153 | 2204.30.20 - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+22.05 Vermouth dan minuman fermentasi lainnya dari buah anggur
+segar yang diberi rasa dengan zat nabati atau zat beraroma.
+2205.10 - Dalam kemasan 2 1 atau kurang:
+154 | 2205.10.10 - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+155 | 2205.10.20 - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+2205.90 - Lain-lain :
+156 | 2205.90.10 - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+157 | 2205.90.20 - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+22.06 Minuman fermentasi lainnya (misalnya, fermentasi buah apel,
+
+buah pir, larutan madu dalam air, sake); campuran minuman
+fermentasi dan campuran minuman fermentasi dengan minuman
+yang tidak mengandung alkohol, tidak dirinci atau termasuk
+dalam pos lainnya.
+
+158 | 2206.00.10 - Fermentasi buah apel dan fermentasi buah pir
+
+159 | 2206.00.20 - Sake (minuman fermentasi dari beras)
+- Coconut palm toddy :
+
+160 | 2206.00.31 - - Dalam kemasan 2 1 atau kurang
+
+161 | 2206.00.39 - - Lain-lain
+- Shandy :
+
+162 | 2206.00.41 - - Dengan kadar alkohol tidak melebihi 1,14 % menurut volumenya
+
+163 | 2206.00.49 - - Lain-lain
+
+164 | 2206.00.50 - Larutan madu dalam air
+
+165 | 2206.00.60 - Minuman fermentasi (wine) dari fermentasi jus sayuran atau jus
+buah, selain jus anggur segar
+- Lain-lain :
+
+166 | 2206.00.91 - - Minuman fermentasi beras lainnya (termasuk minuman fermentasi
+beras mengandung obat)
+
+167 2206.00.99 - - Lain-lain
+
+22.08 Etil alkohol yang tidak didenaturasi dengan kadar alkohol kurang
+
+dari 80 % menurut volumenya; alkohol, sopi manis dan minuman
+beralkohol lainnya.
+
+2208.20 - Alkohol diperoleh dari penyulingan minuman fermentasi anggur atau
+grape marc :
+168 | 2208.20.50 - - Brandy
+169 | 2208.20.90 - - Lain-lain
+2208.30 - Wiski :
+170 | 2208.30.10 - - Dalam kemasan lebih dari 5 1
+171 | 2208.30.90 - - Lain-lain
+172 | 2208.40.00 - Rum dan alkohol lainnya yang diperoleh dengan penyulingan produk
+gula tebu yang difermentasi
+173 | 2208.50.00 - Gin dan Geneva
+174 | 2208.60.00 - Vodka
+2208.70 - Sopi manis dan Cordial :
+175 | 2208.70.10 - - Dengan kadar alkohol tidak melebihi 57 % menurut volumenya
+176 | 2208.70.90 - - Lain-lain
+2208.90 - Lain-lain :
+177 | 2208.90.10 - - Samsu mengandung obat dengan kadar alkohol tidak melebihi 40
+% menurut volumenya
+178 | 2208.90.20 - - Samsu mengandung obat dengan kadar alkohol melebihi 40 %
+menurut volumenya
+179 2208.90.30 - - Samsu lainnya, dengan kadar alkohol tidak melebihi 40 % menurut
+volumenya
+
+of
+
+www.jdih.kemenkeu.go.id
