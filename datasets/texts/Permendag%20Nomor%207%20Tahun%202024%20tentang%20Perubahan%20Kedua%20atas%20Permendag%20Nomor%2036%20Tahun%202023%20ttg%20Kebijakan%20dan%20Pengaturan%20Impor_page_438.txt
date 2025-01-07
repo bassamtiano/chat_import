@@ -1,0 +1,151 @@
+- 423 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+saniter, serbet (popok), pembebat
+popok dan barang semacam itu,
+dari bahan apapun.
+
+- Barang sekali pakai:
+
+2221.
+
+9619.00.11
+
+-- Dengan inti gumpalan penyerap
+dari bahan tekstil
+
+PCE
+
+2222.
+
+9619.00.12
+
+-- Sanitary towel dan tampon
+saniter dari kertas, pulp kertas,
+gumpalan selulosa atau jaring dari
+serat selulosa
+
+PCE
+
+2223.
+
+9619.00.13
+
+-- Popok dan pad bayi dan dewasa,
+dari kertas, pulp kertas, gumpalan
+selulosa atau jaring dari serat
+selulosa
+
+PCE
+
+2224.
+
+9619.00.14
+
+-- Lain-lain, dari kertas, pulp
+kertas, gumpalan selulosa atau
+jaring dari serat selulosa
+
+PCE
+
+2225.
+
+9619.00.19
+
+-- Lain-lain
+
+PCE
+
+- Lain-lain:
+
+2226.
+
+9619.00.92
+
+-- Sanitary towel (pad)
+
+PCE
+
+2227.
+
+9619.00.93
+
+-- Lain-lain, rajutan atau kaitan
+
+PCE
+
+2228.
+
+9619.00.99
+
+-- Lain-lain
+
+PCE
+
+63.05
+
+Kantong dan karung, dari jenis
+yang digunakan untuk
+membungkus barang.
+
+6305.10
+
+- Dari serat jute atau serat tekstil
+kulit pohon lainnya dari pos 53.03:
+
+-- Baru:
+
+2229.
+
+6305.10.11
+
+--- Dari serat jute
+
+KGM
+
+2230.
+
+6305.10.19
+
+--- Lain-lain
+
+KGM
+
+dan
+
+. Pelabuhan udara:
+
+Kualanamu di Deli
+Serdang, Soekarno
+Hatta di Tangerang,
+Ahmad Yani di
+Semarang, Juanda di
+Surabaya, dan Sultan
+Hasanuddin di
+Makassar.
+
+<jet2
+
+<jet2
+

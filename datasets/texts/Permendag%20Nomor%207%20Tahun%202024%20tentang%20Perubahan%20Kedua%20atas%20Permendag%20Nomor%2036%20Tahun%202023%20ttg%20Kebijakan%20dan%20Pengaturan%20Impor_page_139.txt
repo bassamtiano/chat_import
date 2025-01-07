@@ -1,0 +1,42 @@
+- 124 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+235. 4403.26.90 --- Lain-lain jenis, jumlah, satuan, Komoditas telah V
+- Lain-lain, dari kayu tropis negara asal kayu, negara_ | ditetapkan atau Neraca
+produsen, negara ekspor, | Komoditas belum
+4403.41 -- Meranti Merah Tua, Meranti Merah Muda pelabuhan muat, ditetapkan, masa berlaku
+dan Meranti Bakau: pelabuhan tujuan perubahan PI Produk
+236. | 4403.41.10 --- Baulk, sawlog dan veneer log dan/ foe keterangan/ APLU) ole (API-P atau V V
+; : spesifikasi: -U) selama sisa masa
+237. | 4403.41.90 — Lain-lain 1. PI Produk Kehutanan berlaku PI induknya. v y
+~~ dati (API-P) yang masih
+238. | 4403.42.10 --- Baulk, sawlog dan veneer log berlaku; dan KETENTUAN V V
+239. | 4403.42.90 --- lain-lain 2. Perubahan Deklarasi PERPANJANGAN PI J V
+: — Impor, untuk
+4403.49 ~~ Lain-lain: perubahan data dan Dalam hal Neraca
+240. | 4403.49.10 --- Baulk, sawlog dan veneer log informasi yang Komoditas telah V V
+241. | 4403.49.90 --- Lain-lain tercantum dalam ditetapkan atau Neraca V Rl
+Lai _, Deklarasi Impor. Komoditas belum
+- Lain-lain: . .
+- ditetapkan, perpanjangan
+4403.91 77 Dari ek (Quercus spp): PERPANJANGAN PI PI Produk Kehutanan
+242. | 4403.91.10 --- Baulk, sawlog dan veneer log (API-P atau API-U) hanya
+- - Perpanjangan PI Produk | dapat dilakukan 1 (satu)
+248. | 4403.91.90 ~~ Lain-lain Kehutanan (API-P): kali dengan masa berlaku
+4403.93 -- Dari beech (Fagus spp.), dengan ukuran perpanjangan PI paling
+penampang silang terkecil berukuran 15 cm Dalam hal Neraca lama 30 (tiga puluh) hari
+atau lebih: Komoditas telah kalender terhitung setelah
+244. | 4403.93.10 --- Baulk, sawlog dan veneer log ditetapkan atau Neraca berakhirnya masa berlaku V V
+245. | 4403.93.90 --- Lain-lain pomoditas belum PI. J J
+: : : itetapkan:
+4403.94 ~~ Dari beech (Fagus spp.), lain-lain: 1. PI Produk Kehutanan | Perpanjangan PI Produk
+246. | 4403.94.10 --- Baulk, sawlog dan veneer log (API-P) yang masih Kehutanan (API-P atau V V
+247. | 4403.94.90 --- Lain-lain berlaku; API-U) hanya dapat V V
+4403.95 -- Dari birch (Betula spp.), dengan ukuran 2. Surat pernyataan yang | diajukan dalam hal:
+
+penampang silang terkecil berukuran 15 cm
+
+menjelaskan alasan
+
+a. Barang telah dimuat
+

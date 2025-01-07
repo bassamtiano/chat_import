@@ -1,0 +1,48 @@
+-25-
+
+PENEMPATAN LABEL
+
+E | _PENEMPATANLABEL |
+iia | BARANG | KEMASAN _|
+ae eee SE -
+
+Karburator dan bagiannya untuk kendaraan a. Nama barang; b
+bermotor. . Merek barang; b
+untuk kendaraan dari pos 87.11. . Nama dan alamat produsen, dan/atau b
+untuk kendaraan lainnya dari pos 87. pemegang merek untuk barang produksi
+untuk kendaraan dari pos 87.11. dalam negeri yang diproduksi berdasarkan
+untuk kendaraan dari pos 87.11. pesanan dari pemegang merek; atau
+untuk kendaraan lainnya dari pos 87. Nama dan alamat importir, agen, dan/atau
+
+perwakilan produsen luar negeri untuk barang impor;
+
+Negara Pembuat atau Made in.
+
+12. |Koil Penyalaan untuk Koil Penyalaan dari jenis yang cocok untuk kendaraan . Nama barang;
+Kendaraan Bermotor bermotor tidak dirakit. . Merek barang;
+Lain-lain, selain tidak dirakit. . Nama dan alamat produsen, dan/atau
+
+pemegang merek untuk barang produksi
+dalam negeri yang diproduksi berdasarkan
+pesanan dari pemegang merek; atau
+Nama dan alamat importir, agen dan/atau
+perwakilan produsen luar negeri untuk barang impor;
+Negara Pembuat atau Made in.
+
+13. |Kopling dan Bagiannya Kopling dan bagiannya untuk kendaraan bermotor.'untuk . Nama barang;
+kendaraan dari pos 87.01. . Merek barang*;
+Kopling dan bagiannya untuk kendaraan bermotor.'untuk - Nama dan alamat produsen, dan/atau
+kendaraan dari pos 87.03. pemegang merek untuk barang produksi
+Kopling dan bagiannya untuk kendaraan bermotor.'untuk dalam negeri yang diproduksi berdasarkan
+kendaraan dari pos 87.01 dan 87.03. pesanan dari pemegang merek; atau
+Kopling dan bagiannya untuk kendaraan bermotor.’untuk Nama dan alamat importir, agen, dan/atau
+sepeda motor perwakilan produsen luar negeri untuk barang impor;
+Negara Pembuat atau Made in.
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh.

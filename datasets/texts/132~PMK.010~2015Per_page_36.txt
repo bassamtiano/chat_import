@@ -1,0 +1,98 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-33-
+POS/SUB POS
+HEADING/ URAIAN BARANG DESCRIPTION OF GOODS BEAIMASUK?/
+SUB HEADING IMPORT DUTY
+@) (3) ® 6
+Dalam keadaan terurai lengkap (CKD): - - - Completely Knocked Down:
+Lain-lain: |- - - Other:
+8979 |8704.21.21.00 Lori (truk) pendingin |- - - - Refrigerated lorries (trucks) 50%
+8980 |8704.21.22.00 - Kendaraan pengumpul sampah mempunyai alat untuk/- - - - Refuse/garbage collection vehicles having a_ refuse] 50%
+memadatkan sampah compressing device .
+8981 |}8704.21.23.00 - - - - Kendaraan tangki; lori (truk) semen curah - Tanker vehicles; bulk-cement lorries (trucks) 50%
+8982 |8704.21.24.00 - - - - Kendaraan kargo berlapis baja untuk pengangkutan barang|- Armoured cargo vehicles for transporting valuables 50%
+berharga
+8983 |8704.21.25.00 - Lori (truk) Hooklift - - - - Hooklift lorries (trucks) 50%
+8984 |8704.21.29.00 - Lain-lain - - - - Other 50%
+8704.22 g.v.w. melebihi 5 t tetapi tidak melebihi 20 t: - - g.v.w. exceeding 5 t but not exceeding 20 t:
+g.v.w. tidak melebihi 6 t: 5 g.v.w. not exceeding 6 t:
+- Dalam keadaan terurai lengkap (CKD): - - - - Completely Knocked Down:
+- Lain-lain: iL - Other:
+8987 |8704.22.21.00 - - Lori (truk) pendingin - Refrigerated lorries (trucks) 50%
+8988 |8704.22.22.00 --Kendaraan pengumpul sampah mempunyai alat untuk - Refuse/garbage collection vehicles having a_ refuse 50%
+memadatkan sampah compressing device
+8989 |8704.22.23.00 = |---- - Kendaraan tangki; lori (truk) semen curah - Tanker vehicles; bulk-cement lorries (trucks) 50%
+8990 |8704.22.24.00 =—|-- - - - Kendaraan kargo berlapis baja untuk pengangkutan barang} - Armoured.cargo vehicles for transporting valuables 50%
+berharga
+8991 |8704.22.25.00 = |- - - - - Lori (truk) Hooklift - Hooklift lorries (trucks) 50%
+8992 |8704.22.29.00 - - - Lain-lain - Other 50%
+- g.v.w. melebihi 6 t, tetapi tidak melebihi 20 t: g.v.w. exceeding 6 t but not exceeding 20 t:
+- - Dalam keadaan terurai lengkap (CKD): Completely Knocked Down:
+- - Lain-lain: - Other:
+8995 |8704.22.41.00 - - - Lori (truk) pendingin - - Refrigerated lorries (trucks) 50%
+8996 ]8704.22.4200 |----- Kendaraan pengumpul sampah mempunyai alat untuk' - - Refuse/garbage collection vehicles having a_ refuse} 50%
+memadatkan sampah compressing device
+8997 ]8704.22.43.00 =|----- Kendaraan tangki; lori (truk) semen curah - - Tanker vehicles; bulk-cement lorries (trucks) 50%
+8998 |8704.22.44.00 =|----- Kendaraan kargo berlapis baja untuk pengangkutan barang| - - Armoured cargo vehicles for transporting valuables 50%
+berharga
+8999 |8704.22.45.00 =‘ |---- - Lori (truk) Hooklift - - Hooklift lorries (trucks) 50%
+R---- Lain-lain: - - Other:
+9000 {8704.22.51.00 |------ g.v.w. melebihi 6 t tetapi tidak melebihi 10 t - - - g.v.w. exceeding 6 t but not exceeding 10t 50%
+9001 |8704.22.59.00 = |- ----- Lain-lain - - - Other 50%
+8704.23 - g.v.w. melebihi 20 t: - - g.v.w. exceeding 20 t:
+- - g.v.w. tidak melebihi 24 t: - - - g.v.w. not exceeding 24 t:
+- - - Dalam keadaan terurai lengkap (CKD): - - - - Completely Knocked Down:
+- - - Lain-lain: |- - - - Other:
+9004 |8704.23.21.00 - - - - Lori (truk) pendingin |- - - - - Refrigerated lorries (trucks) 50%
+9005 |8704.23.22.00 = |----- Kendaraan pengumpul sampah mempunyai alat untuk}- - - - - Refuse/garbage collection vehicles having a_ refuse} 50%
+memadatkan sampah compressing device
+9006 }8704.23.23.00  |----- Kendaraan tangki; lori (truk)semencurah se = = = Tanker vehicles; bulk-cement lorries (trucks) 50%
+9007 |8704.23.24.00 |----- Kendaraan kargo berlapis baja untuk pengangkutan barang]- - - - - Armoured cargo vehicles for transporting valuables 50%
+berharga
+9008 |8704.23.25.00 = |-- -- - Lori(truk) Hooklift, fii Hooklift lorries (trucks) 50%
+9009 |8704.23.29.00 +- Lain-lain - - - - - Other 50%
+Lain-lain, dengan mesin piston pembakaran dalam cetus api: - Other, with spark-ignition internal combustion piston engine:
+8704.31 - g.v.w. tidak melebihi 5 t: |- - g.v.w. not exceeding 5 t:
+- - Dalam keadaan terurai lengkap (CKD): |- - - Completely Knocked Down:
+- - Lain-lain: - - - Other:
+9030 {8704.31.21.00 - - - Lori (truk) pendingin - - - - Refrigerated lorries (trucks) 50%
+9031 }8704.31.22.00 --- Kendaraan pengumpul sampah mempunyai alat untuk|- - - - Refuse/garbage collection vehicles having a refuse| 50%
+memadatkan sampah compressing device
+9032 |8704.31.23.00 - - - Kendaraan tangki; lori (truk) semen curah - - - - Tanker vehicles; bulk-cement lorries (trucks) 50%
+9033 }8704.31.24.00 - - - Kendaraan kargo berlapis baja untuk pengangkutan barang]- - - - Armoured cargo vehicles for transporting valuables 50%
+berharga
+9034 |8704.31.25.00 - - - Lori (truk) Hooklift - - - - Hooklift lorries (trucks) 50%
+9035 |8704.31.29.00 - - - Lain-lain - - - - Other 50%
+8704.32 - g.v.w. melebihi 5 t: - - g.v.w. exceeding 5 t:
+- g.v.w. tidak melebihi 6 t: - - - g.v.w. not exceeding 6 t:
+Dalam keadaan terurai lengkap (CKD): - - - - Completely Knocked Down:
+Lain-lain: - - - - Other:
+9038 |8704.32.21.00 Lori(truk)pendingn fn ie Refrigerated lorries (trucks) 50%
+9039 |8704.32.22.00 - Kendaraan pengumpul sampah mempunyai alat untuk}- - - - - Refuse/garbage collection vehicles having a refuse| 50%
+memadatkan sampah compressing device
+9040 |8704.32.23.00 - Kendaraan tangki; lori (truk) semen curah zoo Tanker vehicles; bulk-cement lorries (trucks) 50%
+9041 |8704.32.24.00 - Kendaraan kargo berlapis baja untuk pengangkutan barang}- - - - - Armoured cargo vehicles for transporting valuables 50%
+berharga
+9042 }8704.32.25.00 = Lori (truk)Hooklift ie Hooklift lorries (trucks) 50%
+9043 |8704.32.29.00 Lainlain ee Other 50%
+g.v.w. melebihi 6 t tetapi tidak melebihi 20 t: - - - g.v.w. exceeding 6 t but not exceeding 20 t:
+- Dalam keadaan terurai lengkap (CKD): - - - - Completely Knocked Down:
+Lain-lain: - - - - Other:
+9046 {8704.32.41.00 = Lori (truk) pendingin - - Refrigerated lorries (trucks) 50%
+9047 |8704.32.42.00 - Kendaraan pengumpul sampah mempunyai alat untuk|- - Refuse/garbage collection vehicles having a_ refuse} 50%
+memadatkan sampah compressing device
+9048 |8704.32.43.00 - Kendaraan tangki; lori (truk) semen curah on Tanker vehicles; bulk-cement lorries (trucks) 50%
+50%
+
+9049
+
+8704.32.44.00
+
+- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+
+Armoured cargo vehicles for transporting valuables
+
+www.jdih.kemenkeu.go.i

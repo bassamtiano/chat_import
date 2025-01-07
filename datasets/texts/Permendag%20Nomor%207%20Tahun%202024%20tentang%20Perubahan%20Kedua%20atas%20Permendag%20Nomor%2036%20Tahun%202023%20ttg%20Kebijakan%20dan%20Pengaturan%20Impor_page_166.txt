@@ -1,0 +1,36 @@
+- 151 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+- Kraftliner:
+490. | ex 4804.11.00 | -- Tidak Berasal dari kayu V V
+dikelantang
+491. | ex 4804.19.00 | -- Lain-lain Berasal dari kayu V V
+- Kertas kraft untuk kantong:
+4804.21 -- Tidak dikelantang:
+492. | ex 4804.21.10 | --- Dari jenis Berasal dari kayu V V
+yang digunakan
+untuk
+pembuatan
+kantong semen
+493. | ex 4804.21.90 | --- Lain-lain Berasal dari kayu V V
+4804.29 -- Lain-lain
+494. | ex 4804.29.10 | --- Dari jenis Berasal dari kayu V V
+yang digunakan
+untuk
+pembuatan
+kantong semen
+495. | ex 4804.29.90 | --- Lain-lain Berasal dari kayu V V
+- Kertas kraft dan kertas karton lainnya dengan
+berat 150 g/m? atau kurang:
+4804.31 -- Tidak dikelantang:
+496. | ex 4804.31.10 | --- Kertas kraft Berasal dari kayu V V
+insulator
+electrical grade
+497. | ex 4804.31.30 | --- Dari wet Berasal dari kayu V V
+
+strength 40 g
+
+sampai 60 g, dari
+
+jenis yang
+

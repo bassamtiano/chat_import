@@ -1,0 +1,57 @@
+- 288 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+PERUBAHAN PI
+
+Perubahan PI Bahan
+Baku Plastik (API-U):
+
+Perubahan PI Bahan Baku
+Plastik (API-U) dapat
+dilakukan dalam hal
+perubahan identitas
+Importir, uraian barang,
+pos tarif/HS, jumlah,
+satuan, negara asal,
+negara muat, Pelabuhan
+muat, Pelabuhan tujuan,
+dan/atau
+spesifikasi/keterangan:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan:
+
+1. PI Bahan Baku Plastik
+(API-U) yang masih
+berlaku; dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+identitas:
+1. PI Bahan Baku Plastik
+

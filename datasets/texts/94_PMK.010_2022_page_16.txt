@@ -1,0 +1,76 @@
+-16-
+
+No. ee Teel! Uraian Barang Description of Goods ba ort Duty
+(1) __{2) {3) 4
+165 |1513.29,95 - --- Minyak kernel kelapa sawit, ---- Palm kernel oil, refined, bleached
+dimurnikan, dijernihkan dan and deodorised (RBD)
+dihilangkan baunya (RBD)
+166 = |1513.29.96 ---- Lain-lain, minyak kernel kepala ---- Other, palm kernel oil
+sawit
+167 |1513.29.97 ~--- Lain-lain, dari minyak babassu --- - Other, of babassu oil
+16.05 Krustasea, moluska dan invertebrata Crustaceans, molluscs and other
+air lainnya, diolah atau diawetkan. aquatic invertebrates, prepared or
+preserved.
+1605.10 - Kepiting : ~ Crab:
+- - Dalam kemasan kedap udara untuk - - In airtight containers for retail sale :
+penjualan eceran :
+168 {1605.10.11 -- - Swimming crab (kepiting dari - - - Swimming crabs (crabs of the family 9%
+keluarga Portunidae) Portunidae)
+169 |1605.10.12 - - - King crab (kepiting dari keluarga -- - King crabs (crabs of the family 9%
+Lithodidae) Lithodidae)
+170 {1605.10.13 ~~ - Snow crab (kepiting dari keluarga + ~~ Snow crabs (crabs of the family 9%
+Oregoniidae} Oregoniidae)
+171 {1605.10.14 ~~~ Lain-lain -- - Other 9%
+172 |1605.10.90 - - Lain-lain - - Other 9%
+- Udang dan udang besar : - Shrimps and prawns :
+173 {1605.21.00 - - Tidak dalam kemasan kedap udara - - Not in airtight container 3%
+1605.29 - - Lain-lain : - - Other :
+174 |1605.29.20 ~ - - Bakso udang - - - Shrimp ball 9%
+175 |1605.29.30 - - - Udang diberi tepung --- Breaded shrimp 9%
+176 |1605.29.90 --- Lain-lain ~- - Other %
+177 |1605.30.00 - Lobster - Lobster 3%
+178 {1605.40.00 - Krustasea lainnya - Other crustaceans 3%
+- Moluska : ~ Molluscs :
+179 |1605.51.00 - - Tiram - - Oysters 3%
+180 }1605.52.00 - - Kerang kipas, termasuk kerang ratu - - Scallops, including queen scaliops 3%
+181 {1605.53.00 -- Remis - - Mussels 3%
+1605.54 - - Sotong dan cumi-cumi : -- Cuttle fish and squid :
+182 {1605.54.10 _-- Dalam kemasan kedap udara untuk |- - - In airtight containers for retail sale 3%
+penjualan eceran
+183 |1605.54.90 ~~~ Lain-lain ~~~ Other 3%
+184 |1605.55.00 ~~ Gurita - - Octopus 3%
+185 |1605.56.00 - - Kerang, tiram dan arkshells - + Clams, cockles and arkshells 3%
+1605.57 - - Abalon : - + Abalone :
+186 |1605.57.10 - -- Dalam kemasan kedap udara untuk |- - - In airtight containers for retail sale 3%
+penjualan eceran
+187 |1605.57.90 - - ~ Lain-lain ~~~ Other 3%
+188 {1605.58.00 . - Siput, selain siput laut - - Snails, other than sea snails 3%
+189 {1605.59.00 - - Lain-lain - - Other 3%
+- Invertebrata air lainnya : - Other aquatic invertebrates :
+190 |1605.61.00 - - Teripang - - Sea cucumbers 3%
+191 |1605.62.00 - - Bulu babi - - Sea urchins 3%
+192 [1605.63.00 - - Ubur-ubur - - Jellyfish 3%
+193 |1605.69.00 - - Lain-lain - - Other 3%
+19.02 Pasta, dimasak atau diisi maupun Pasta, whether or not cooked or
+tidak (dengan daging atau bahan stuffed (with meat or other
+lainnya) atau diolah secara lain, substances) or otherwise prepared,
+seperti spagheti, makaroni, mie, such as spaghetti, macaroni, noodles,
+lasagna, gnocchi, ravioli, cannelloni; lasagne, gnocchi, ravioli, cannelloni;
+couscous, diolah maupun tidak. couscous, whether or not prepared.
+- Pasta mentah, tidak diisi atau diolah ~ Uncooked pasta, not stuffed or
+secara lain : otherwise prepared :
+- - Mengandung telur - - Containing eggs
+1902.19 - - Lain-lain : - - Other :
+194 |1902.19.30 --- Soun ~ - - Transparent vermicelli 16%
+1902.20 ~ Pasta diisi, dimasak atau diolah secara_|- Stuffed pasta, whether or not cooked or
+lain maupun tidak : otherwise prepared :
+195 |1902.20.10 - - Diisi dengan daging atau sisa daging _|- - Stuffed with meat or meat offal 16%
+196 |1902.20.30 - - Diisi dengan ikan, krustasea atau ~~ Stuffed with fish, crustaceans or 16%
+
+moluska
+
+molluscs
+
+jdin.kemenkeu.go.id
+
+a

@@ -1,0 +1,39 @@
+- 60 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bec
+untuk mengerjakan kayu atau gabus
+8479.40 - Mesin pembuat tali atau kabel:
+214. | 8479.40.10 -- Dioperasikan secara elektrik V V V
+215. | 8479.50.00 - Robot industri, tidak dirinci atau V V V
+termasuk dalam pos lainnya
+-Mesin dan peralatan mekanis
+lainnya:
+8479.81 -- Untuk mengerjakan logam,
+termasuk penggulung kawat listrik:
+216. | 8479.81.10 --- Dioperasikan secara elektrik V V V
+8479.82 -- Mesin pencampur, pengadon,
+penghancur, penggerinda, penyaring,
+pengubah, penghomogen, pengemulsi
+atau_pengaduk:
+217. | 8479.82.10 --- Dioperasikan secara elektrik V V V
+218. | ex 8479.83.00 | -- Pengepres Dioperasikan V V V
+isostatik dingin secara elektrik
+8479.89 -- Lain-lain:
+--- Lain-lain, dioperasikan secara
+elektrik:
+219. | 8479.89.69 ---- Lain-lain vv V
+84.80 Kotak cetakan untuk pengecoran
+logam; dasar cetakan; pola cetakan;
+cetakan untuk logam (selain
+cetakan ingot), karbida logam, kaca,
+bahan mineral, karet atau plastik.
+8480.30 - Pola cetakan:
+220. | 8480.30.90 -- Lain-lain vv V
+- Cetakan untuk logam atau karbida
+logam:
+221. | ex 8480.41.00 | -- Tipe injeksi Untuk berat di Vv V
+
+atas 400 ton
+
+atau_kompresi
+

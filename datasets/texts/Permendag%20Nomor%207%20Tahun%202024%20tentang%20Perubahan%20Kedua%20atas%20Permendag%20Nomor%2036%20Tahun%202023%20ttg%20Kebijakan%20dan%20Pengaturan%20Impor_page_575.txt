@@ -1,0 +1,34 @@
+- 560 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+kedatangan barang dan/atau Pos Tarif/HS
+yang diakibatkan oleh | terhadap suatu nomor seri
+keadaan tertentu; dan | Barang dalam PI Sepeda
+3. Bill of Lading (B/L) Roda Dua dan Roda Tiga
+atau Airway Bill (AWB) | (API-U) hanya dapat
+terhadap barang yang | dilakukan selama:
+telah dimuat pada alat | a. belum dilakukan
+angkut. realisasi Impor atau
+tidak sedang dilakukan
+realisasi Impor;
+dan/atau
+b. belum diterbitkan
+Laporan Surveyor.
+XXXIX. PLASTIK HILIR
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+39.19 Pelat, lembaran, film, foil, pita, strip dan Plastik Hilir dapat diimpor
+bentuk pipih lainnya berperekat, dari oleh pelaku usaha pemilik
+plastik, dalam gulungan maupun tidak. API-P atau API-U.
+3919.10 - Dalam gulungan dengan lebar tidak melebihi
+20 cm: KETENTUAN
+3451. | 3919.10.10 -- Dari polimer vinil klorida PENGECUALIAN LS V V
+3452. | 3919.10.20 -- Dari polietilena Pengecualian dari LS V V
+-- Lain-lain: Impor Plastik Hilir yang
+3453. | 3919.10.91 --- Dari protein dikeraskan atau turunan kimia dilakukan oleh Importir V V
+dari karet alam Are aioe tah t
+mendapatkan Sura’
+3454. | 3919.10.92 --- Dari produk polimerisasi adisi; dari produk Keputusan dari V V
+polimerisasi kondensasi atau penyusunan kementerian yang
+ulang; dari selulosa nitrat, selulosa asetat dan
+

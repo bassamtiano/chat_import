@@ -1,0 +1,51 @@
+- 313 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+
+1356. | 6907.21.22 ---- Lain-lain, tidak diglasir V
+
+1357. | 6907.21.23 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, diglasir
+
+1358. | 6907.21.24 ---- Lain-lain, diglasir V V
+--- Lain-lain:
+
+1359. | 6907.21.91 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, tidak diglasir
+
+1360. | 6907.21.92 ---- Lain-lain, tidak diglasir V V
+
+1361. | 6907.21.93 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, diglasir
+
+1362. | 6907.21.94 ---- Lain-lain, diglasir V V
+
+1363. | 6907.22.11 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, tidak diglasir
+
+1364. | 6907.22.12 ---- Lain-lain, tidak diglasir V V
+
+1365. | 6907.22.13 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, diglasir
+
+1366. | 6907.22.14 ---- Lain-lain, diglasir V V
+
+1367. | 6907.22.91 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, tidak diglasir
+
+1368. | 6907.22.92 ---- Lain-lain, tidak diglasir V V
+
+1369. | 6907.22.93 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, diglasir
+
+1370. | 6907.22.94 ---- Lain-lain, diglasir V V
+
+1371. | 6907.23.11 ---- Ubin paving, ubin perapian atau ubin V V
+dinding, tidak diglasir
+
+1372. | 6907.23.12 ---- Lain-lain, tidak diglasir V V
+
+1373. | 6907.23.13 ---- Ubin paving, ubin perapian atau ubin V V
+
+dinding, diglasir
+

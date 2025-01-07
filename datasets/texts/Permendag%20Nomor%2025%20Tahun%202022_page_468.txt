@@ -1,0 +1,101 @@
+- 439 -
+
+No
+
+Pos Tarif
+
+Uraian Barang
+
+Nama Bahan
+Kimia
+
+Nomor
+CAS
+
+Kode
+Daftar
+
+Kemasan
+
+Distributor
+
+Terkecil
+
+Keperluan|
+Lain
+Tidak
+Untuk
+Pangan
+
+Laborator
+lium /Pene|
+litian
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+3653.
+
+3654.
+
+3655.
+
+Phosphonyldifl
+uorides
+
+Contoh:
+
+DF:
+Methylphospho
+nyldifluoride
+(CAS No. 676-
+99-3)
+
+1B09
+
+Chlorosarin:
+O-Isopropyl
+methylphospho
+nochloridate
+
+1445-76-7
+
+1B11
+
+Chlorosoman:
+O-Pinacolyl
+methylphospho
+nochloridate
+
+7040-57-5
+
+1B12
+
+Bahan kimia,
+kecuali yang
+termasuk
+dalam Daftar 1,
+yang
+mengandung
+atom fosfor
+yang padanya
+terikat satu
+gugus metil,
+etil, atau propil
+(normal
+maupun iso-)
+namun bukan
+gugus atom
+
+2B04
+

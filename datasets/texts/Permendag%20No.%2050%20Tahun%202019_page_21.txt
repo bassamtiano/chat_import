@@ -1,0 +1,117 @@
+15
+
+17
+
+18
+
+Pos Tarif
+
+Uraian Barang
+
+Campuran antara HC-
+1270 (Propilen); HCFC-
+22
+(Klorodifluorometana);H
+FC-152a (1,1-
+Difluoroetana)
+
+Campuran antara
+HCFC-22
+(Klorodifluorometana);
+PFC-218
+(Oktafluoropropane);
+HCFC-142b (1-Kloro-
+1,1-difluoroetana)
+
+Campuran antara
+HCFC-22
+(Klorodifluorometana) /
+PFC-218
+(Octafluoropropane)/
+HFC-143b
+
+Campuran antara
+HCFC-22
+(Klorodifluorometana);
+HCFC-124 (2-Kloro-
+1,1,1,2-tetrafluoroetana
+/Klorotetrafluoroetana);
+HC-600a (Isobutana);
+HCFC-142b (1-Kloro-
+1,1-difluoroetana)
+
+Campuran antara
+HCFC-22
+(Klorodifluorometana) /
+HCFC-124 (2-Kloro-
+1,1,1,2-tetrafluoroetana
+/Klorotetrafluoroetana);
+HC-600a (Isobutana);
+HCFC-142b (1-Kloro-
+1,1-difluoroetana)
+
+Campuran antara
+HCFC-22
+(Klorodifluorometana);
+HFC-152a
+(1,1-Difluoroetana)
+
+|
+
+Keterangan
+
+R-411B
+Campuran antara
+HC-1270/HCFC-
+22/HFC-152a
+(3,0/94,0/3,0)
+(CAS Number 115-
+07-1; 75-45-6; 75-
+37-6
+R-412A
+Campuran antara
+HCFC-22/PFC-
+218/HCFC-142b
+(70,0/5,0/25,0)
+(CAS Number 75-
+45-6; 76-19-7; 75-
+68-3
+
+R-414A
+
+Campuran antara
+
+HCFC-22/HCFC-
+124/HC-
+
+600a/HCFC-142b
+
+(51,0/28,5/4,0/16
+5)
+
+(CAS Number 75-
+45-6; 2837-89-
+0/63938-10-3; 75-
+28-5; 75-68-3
+R-414B
+Campuran antara
+HCFC-22/HCFC-
+124/HC-
+600a/HCFC-142b
+(50,0/39,0/1,5/9,
+5
+
+(CAS Number 75-
+45-6; 2837-89-
+0/63938-10-3; 75-
+28-5; 75-68-3
+R-415A
+Campuran antara
+HCFC-22/HFC-
+152a
+
+(82,0/18,0)
+
+(CAS Number 75-
+45-6; 75-37-6)
+

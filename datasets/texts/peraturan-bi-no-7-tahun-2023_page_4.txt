@@ -1,0 +1,104 @@
+2023, No.23/BI
+
+19.
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+Debitur adalah pihak yang menggunakan jasa LPEI.
+Rekening Khusus DHE SDA adalah rekening eksportir di
+LPEI dan/atau Bank, yang ditujukan khusus untuk
+menerima dan menyimpan DHE SDA.
+
+Laporan DHE adalah laporan yang menjelaskan informasi
+data kepabeanan dan _ penerimaan DHE yang
+disampaikan oleh Eksportir.
+
+Laporan DPI adalah laporan yang menjelaskan informasi
+data kepabeanan dan pembayaran DPI yang disampaikan
+oleh Importir.
+
+Perintah Transfer Dana adalah perintah tidak bersyarat
+dari pengirim kepada penyelenggara penerima untuk
+membayarkan sejumlah dana tertentu kepada penerima
+sebagaimana dimaksud dalam Undang-Undang mengenai
+transfer dana.
+
+Transfer Dana Keluar adalah transaksi berupa transfer
+dana keluar dari pengirim dana.
+
+Transfer Dana Masuk adalah transaksi berupa transfer
+dana masuk ke penerima dana.
+
+Nilai Ekspor adalah nilai Ekspor free on board yang
+tercantum pada PPE.
+
+Nilai Impor adalah nilai Impor cost, insurance, and freight
+yang tercantum pada PPI.
+
+Maklon adalah pemberian jasa untuk proses
+penyelesaian suatu barang tertentu dengan kepemilikan
+atas barang jadi berada pada pengguna jasa sebagaimana
+dimaksud dalam _ ketentuan peraturan perundang-
+undangan mengenai maklon.
+
+Nilai Maklon adalah nilai yang diperoleh dari kegiatan
+Maklon yang tercantum pada PPE.
+
+Pihak yang Tunduk kepada Kontrak Kerja Sama Minyak
+dan Gas Bumi yang selanjutnya disebut Pihak dalam
+Kontrak Migas adalah operator dan/atau pemegang
+participating interest beserta para penggantinya dari
+waktu. ke waktu, yang tercatat di otoritas yang
+berwenang.
+
+Pemilik Barang adalah Eksportir atau Importir yang
+menggunakan PJT.
+
+Message Financial Transaction Messaging System yang
+selanjutnya disebut Message FTMS adalah kumpulan
+data dalam format terstruktur yang dikirim atau diterima
+oleh pengguna atau aplikasi.
+
+Telegraphic Transfer yang selanjutnya disingkat TT
+adalah jenis transfer dana melalui Bank dengan
+menggunakan sarana elektronik berdasarkan perintah
+bayar dari pemilik dana.
+
+Laporan Transaksi Non-Telegraphic Transfer yang
+selanjutnya disebut Laporan Transaksi Non-TT adalah
+laporan yang disampaikan Bank atas transaksi non-TT.
+Bulan PPE adalah bulan pendaftaran yang diperoleh dari
+informasi tanggal pendaftaran yang tercantum pada PPE.
+Bulan PPI adalah bulan pendaftaran yang diperoleh dari
+informasi tanggal pendaftaran yang tercantum pada PPI.

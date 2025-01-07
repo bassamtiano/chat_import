@@ -1,0 +1,56 @@
+-A7 -
+
+OVERLEAF NOTES
+
+For the purpose of claiming preferential tariff treatment, this form shall be
+completed legibly and filled by the exporter. All items of the form shall be
+completed in the English language.
+
+If the space of this form is insufficient to specify the necessary particulars for
+identifying the goods and other related information, the exporter may provide
+the information using additional pages of the same format of Certificate of
+Origin. In that case, every additional page shall be completed legibly and in full
+by the exporter and certificated by the Competent Authority.
+
+If the Overleaf Notes are not printed with the Certificate of Origin, the Certificate
+of Origin shall remain valid.
+
+Field 1: State the full name, address and country of the exporter.
+
+Field 2: State the full name, address and country of the consignee.
+
+Field 3: Provide the name of loading port, transit port and discharging port and,
+the name of vessel / flight number, as far as known.
+
+Field 4: For official use only.
+
+Field 5: Provide item number (as necessary).
+
+Field 6: Provide marks and numbers of packages.
+
+Field 7: Provide number and kind of packages, description of goods. For each
+good, the HS tariff classification number shall be indicated at the six-digit level.
+The description of the good on the Certificate of Origin shall be sufficiently
+detailed to enable the goods to be identified by the Customs Authority.
+
+Field 8: For the goods that meet the origin criterion, the exporter must indicate
+the origin criterion met, in the manner shown in the following table:
+
+Origin Criterion
+(Insert in Field 8)
+
+Description of Criterion
+
+WO
+
+the good is wholly obtained or produced entirely in a Party
+as defined in Article 4.3
+
+PE
+
+the good is produced entirely in the territory of a Party
+exclusively from originating materials
+
+q
+
+www.jdih.kemenkeu.go.id

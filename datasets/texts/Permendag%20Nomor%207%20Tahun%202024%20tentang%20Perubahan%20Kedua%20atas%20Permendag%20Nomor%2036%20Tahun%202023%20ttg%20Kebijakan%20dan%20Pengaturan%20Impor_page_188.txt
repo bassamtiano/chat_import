@@ -1,0 +1,33 @@
+- 173 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+kertas karton (dilubangi atau dikeraskan
+maupun tidak).
+4822.10 - Dari jenis yang
+digunakan untuk
+menggulung
+benang tekstil:
+624. | ex 4822.10.10 | -- Cone Berasal dari kayu V V
+4822.90 - Lain-lain:
+625. | ex 4822.90.10 | -- Cone Berasal dari kayu V V
+48.23 Kertas, kertas karton, gumpalan selulosa
+dan web serat selulosa lainnya, dipotong
+menurut ukuran atau bentuk; barang lainnya
+dari pulp kertas, kertas, kertas karton,
+gumpalan selulosa atau web serat selulosa.
+4823.20 - Kertas dan
+kertas karton
+saring:
+626. | ex 4823.20.90 | -- Lain-lain Berasal dari kayu V V
+4823.40 - Gulungan, lembaran dan dial, dicetak untuk
+aparatus yang merekam sendiri:
+-- Untuk aparatus elektro-medical:
+627. | ex 4823.40.21 | --- Kertas rekam | Berasal dari kayu V V
+kardiograf
+628. | ex 4823.40.29 | --- Lain-lain Berasal dari kayu V V
+629. | ex 4823.40.90 | -- Lain-lain Berasal dari kayu V V
+- Nampan, pinggan, piring, cangkir dan
+sejenisnya dari kertas atau kertas karton:
+630. | ex 4823.69.00 | -- Lain-lain Berasal dari kayu V V
+631. | ex 4823.70.00 | - Barang Berasal dari kayu V V
+

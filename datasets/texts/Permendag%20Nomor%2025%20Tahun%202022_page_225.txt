@@ -1,0 +1,93 @@
+- 196 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Spp.), catfish (Pangasius spp., Silurus spp., Clarias
+spp., Ictalurus spp.), ikan mas (Cyprinus spp.,
+Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp.,
+Mylopharyngodon piceus, Catla catla, Labeo spp.,
+Osteochilus hasselti, Leptobarbus hoeveni,
+Megalobrama spp.), sidat (Anguilla spp.), Nile
+perch (Lates niloticus) dan gabus (Channa spp.):
+
+1560.
+
+0304.31.00
+
+-- Tilapia (Oreochromis spp.)
+
+1561.
+
+0304.32.00
+
+-- Catfish (Pangasius spp., Silurus spp., Clarias
+Spp., Ictalurus spp.)
+
+1562.
+
+0304.33.00
+
+-- Nile Perch (Lates niloticus)
+
+1563.
+
+0304.39.00
+
+-- Lain-lain
+
+- Fillet ikan segar atau dingin lainnya:
+
+1564.
+
+0304.41.00
+
+-- Salmon Pasifik (Oncorhynchus nerka,
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+Oncorhynchus tschawytscha, Oncorhynchus
+kisutch, Oncorhynchus masou dan Oncorhynchus
+rhodurus), salmon Atlantik (Salmo salar) dan
+salmon Danube (Hucho hucho)
+
+1565.
+
+0304.42.00
+
+-- Trout (Salmo trutta, Oncorhynchus mykiss,
+Oncorhynchus clarki, Oncorhynchus aguabonita,
+Oncorhynchus gilae, Oncorhyncus apache dan
+Oncorhynchus chrysogaster)
+
+1566.
+
+0304.43.00
+
+-- Ikan pipih (Pleuronectidae, Bothidae,
+Cynoglossidae, Soleidae, Scophthalmidae dan
+Citharidae)
+
+1567.
+
+0304.44.00
+
+-- Ikan dari keluarga Bregmacerotidae,
+Euclichthyidae, Gadidae, Macrouridae,
+Melanonidae, Merlucciidae, Moridae dan
+

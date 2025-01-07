@@ -1,0 +1,60 @@
+-26-
+
+Negara Asal
+
+Diisi pada kolom yang disediakan dengan negara asal barang untuk
+
+setiap jenis barang. Dalam hal terdapat sertifikat negara asal barang
+
+atas barang dimaksud, negara asal barang harus diisi sesuai dengan
+
+sertifikat negara asal barang.
+
+Contoh:
+
+Negara Asal : Korea Selatan
+
+Keterangan Fasilitas dan Nomor Urut serta Persyaratan dan Nomor
+
+Urut
+
+a.
+
+Diisi dengan jenis fasilitas yang digunakan untuk mengimpor
+barang berdasarkan surat keputusan yang menjadi dasar
+penggunaan fasilitas dimaksud.
+
+Contoh:
+
+Fasilitas impor antara lain impor kembali, penundaan
+pembayaran bea masuk, KITE, fasilitas perwakilan negara asing,
+dan lain-lain. Dalam hal barang yang diiimpor tidak
+menggunakan fasilitas impor, maka kolom ini tidak perlu diisi.
+Diisi dengan keterangan dari importir mengenai jenis
+persyaratan larangan atau pembatasan atas barang yang
+diimpor sesuai ketentuan larangan dan pembatasan impor
+berdasarkan dokumen pemenuhan persyaratan Jarangan atau
+pembatasan dimaksud. Pencantuman dokumen pemenuhan
+persyaratan larangan atau pembatasan merupakan keterangan
+atau pernyataan dari importir bahwa ketentuan larangan atau
+pembatasan dimaksud telah dipenuhi dengan dokumen
+dimaksud. Dalam hal atas item barang impor wajib memenuhi
+lebih dari satu ketentuan larangan dan pembatasan, importir
+harus mencantumkan semua _ ketentuan larangan atau
+pembatasan terkait barang impor dimaksud. Dalam hal
+pemenuhan ketentuan larangan atau pembatasan tidak
+dipersyaratkan adanya dokumen yang dilampirkan serta dalam
+hal barang yang diimpor bukan merupakan barang yang dilarang
+atau dibatasi impornya, maka kolom ini tidak perlu diisi.
+
+Contoh:
+
+Izin Impor Kementerian Pertanian Nomor 245/Kemtan/2020
+tanggal 11 April 2020.
+
+www.jdih.kemenkeu.go.id
+
+t
+
+f
+/

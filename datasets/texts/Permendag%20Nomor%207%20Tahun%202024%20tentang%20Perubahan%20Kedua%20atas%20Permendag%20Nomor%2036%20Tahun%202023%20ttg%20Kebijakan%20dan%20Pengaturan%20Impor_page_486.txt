@@ -1,0 +1,53 @@
+-471-
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+
+- Dicelup:
+
+2783. | 5514.21.00 -- Dari serat stapel poliester, MTR V V
+tenunan polos
+
+2784. | 5514.22.00 -- Kepar 3-benang atau 4-benang, | MTR V V
+termasuk kepar silang, dari serat
+stapel poliester
+
+2785. | 5514.23.00 -- Kain tenunan lainnya dari serat | MTR V V
+stapel poliester
+
+2786. | 5514.29.00 -- Kain tenunan lainnya MTR vV |v
+
+2787. | 5514.30.00 - Dari benang aneka warna MTR V V
+- Dicetak:
+
+2788. | 5514.41.00 -- Dari serat stapel poliester, MTR V V
+tenunan polos
+
+2789. | 5514.42.00 -- Kepar 3-benang atau 4-benang, | MTR V V
+termasuk kepar silang, dari serat
+stapel poliester
+
+2790. | 5514.43.00 -- Kain tenunan lainnya dari serat | MTR V V
+stapel poliester
+
+2791. | 5514.49.00 -- Kain tenunan lainnya MTR viv
+
+55.15 Kain tenunan lainnya dari serat
+
+stapel sintetik.
+- Dari serat stapel poliester:
+
+2792. | 5515.11.00 -- Dicampur terutama atau MTR V V
+semata-mata dengan serat stapel
+rayon viskose
+
+2793. | 5515.12.00 -- Dicampur terutama atau MTR V V
+semata-mata dengan filamen
+buatan
+
+2794. | 5515.13.00 -- Dicampur terutama atau MTR V V
+semata-mata dengan wol atau bulu
+hewan halus
+
+2795. | 5515.19.00 --_Lain-lain MTR Vv iv
+

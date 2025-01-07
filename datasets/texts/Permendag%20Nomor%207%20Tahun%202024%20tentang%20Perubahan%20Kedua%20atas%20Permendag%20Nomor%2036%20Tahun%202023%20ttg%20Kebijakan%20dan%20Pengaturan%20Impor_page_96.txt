@@ -1,0 +1,82 @@
+-81-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+pengurus perusahaan
+
+yang berisi informasi
+
+paling sedikit
+mengenai:
+
+a. nama perusahaan;
+
+b. alamat perusahaan;
+
+c. volume pengajuan
+Impor;
+
+d. jenis dan jumlah
+produk yang
+dihasilkan dari
+penggunaan bahan
+baku jagung yang
+akan diimpor;
+
+e. kapasitas produksi
+berbahan baku
+komoditi yang
+diimpor;
+
+f. alamat gudang
+penyimpanan; dan
+
+g. kapasitas gudang
+penyimpanan.
+
+dalam hal terdapat
+
+perubahan jumlah.
+
+PERPANJANGAN PI
+
+Perpanjangan PI Jagung
+Bahan Baku Industri
+(API-P):
+
+Dalam hal Neraca
+
+Industri (API-P) berlaku
+untuk 1 (satu) atau lebih
+penyampaian
+Pemberitahuan Pabean
+Impor.
+
+Perubahan satuan barang
+dan/atau Pos Tarif/HS
+terhadap suatu nomor
+seri PI Jagung Bahan
+Baku Industri (API-P)
+hanya dapat dilakukan
+selama belum dilakukan
+realisasi Impor atau tidak
+sedang dilakukan realisasi
+Impor.
+

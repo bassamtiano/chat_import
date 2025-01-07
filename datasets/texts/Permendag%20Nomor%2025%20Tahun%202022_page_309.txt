@@ -1,0 +1,32 @@
+- 280 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+- Monitor lainnya:
+2344. | ex 8528.52.00 --- Dapat dihubungkan secara | berwarna V V
+langsung ke dan dirancang
+untuk digunakan dengan
+mesin pengolah data otomatis
+dari pos 84.71
+- Aparatus penerima untuk televisi, digabung
+dengan penerima siaran radio atau aparatus
+perekam atau pereproduksi suara atau video
+maupun tidak:
+2345. | 8528.71 -- Tidak dirancang untuk dipasang video display
+atau layar:
+--- Set top box yang mempunyai fungsi
+komunikasi
+2346. | 8528.71.11 ---- Dioperasikan dengan tenaga listrik V V
+2347. | 8528.71.19 ---- Lain-lain V V
+8528.72 -- Lain-lain, berwarna:
+2348. | 8528.72.10 --- Dioperasikan dengan baterai V V
+--- Lain-lain:
+2349. | 8528.72.91 ---- Tabung sinar katoda J J
+2350. | 8528.72.92 ---- Liquid crystal device (LCD), light emitting V V
+diode (LED) dan tipe panel layar datar lainnya
+2351. | 8528.72.99 ---- Lain-lain V V
+2352. | 8528.73.00 -- Lain-lain, monokrom y y
+85.29 Bagian yang cocok untuk digunakan semata-
+mata atau terutama dengan aparatus dari pos
+85.24 sampai dengan 85.28.
+8529.10 - Antena dan reflektor antena dari segala jenis;
+

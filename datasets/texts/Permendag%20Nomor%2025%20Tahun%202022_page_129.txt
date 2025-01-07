@@ -1,0 +1,31 @@
+- 100 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Beste
+Permeabilitas Udara
+CORESTA
+593. | ex 4813.20.23 --- Plug wrap paper lainnya Berasal dari kayu V V
+594. | ex 4813.20.29 --- Lain-lain Berasal dari kayu V V
+-- Lain-lain, dilapisi :
+595. | ex 4813.20.31 --- Tobacco wrapping paper Berasal dari kayu V V
+596. | ex 4813.20.32 --- Plug wrap paper Berasal dari kayu V V
+597. | ex 4813.20.39 --- Lain-lain Berasal dari kayu V V
+4813.90 - Lain-lain:
+-- Dalam gulungan dengan Berasal dari kayu
+lebar melebihi 5 cm, dilapisi
+598. | ex 4813.90.11 --- Tobacco wrapping paper Berasal dari kayu V V
+599. | ex 4813.90.12 --- Cigarette tipping paper Berasal dari kayu V V
+600. | ex 4813.90.19 | --- Lain-lain Berasal dari kayu V Vv
+-- Lain-lain
+601. | ex 4813.90.91 --- Tobacco wrapping paper Berasal dari kayu V V
+602. | ex 4813.90.99 --- Lain-lain Berasal dari kayu V V
+48.14 Wallpaper dan penutup dinding semacam itu;
+kertas transparansi untuk jendela.
+4814.20 - Wallpaper dan penutup dinding semacam itu,
+terdiri dari kertas yang sisi mukanya dilapisi atau
+ditutupi lapisan plastik yang diberi hiasan
+berbentuk urat kayu, diembos, diwarnai, dicetak
+motif atau dihias dengan cara lain:
+603. | ex 4814.20.10 -- Dengan lebar tidak Berasal dari kayu V V
+
+melebihi 60 cm
+

@@ -1,0 +1,46 @@
+-27-
+
+d) Cakupan Sistem:
+Sistem yang diujicobakan untuk melakukan
+integrasi data melalui Portal Indonesia National
+Single Window hanya mencakup sistem National
+Single Window-Impor, yaitu  meliputi inhouse-
+system SAP-Impor di KPU Tanjung Priok (DJBC)
+dan sistem layanan e-BPOM di Badan POM.
+
+e) Lokasi Penerapan:
+Pada tahapan ini, uji coba awal hanya
+diberlakukan di Pelabuhan Tanjung Priok,
+Jakarta.
+
+2) Implementasi Tahap Kesatu
+
+a) Target Waktu:
+Sesuai dengan ASEAN Single Window Agreement
+yang direvisi melalui Dekalarasi AEC Blueprint,
+serta mendasarkan pada Blueprint Penerapan
+sistem NSW maka tahapan ini ditargetkan sudah
+harus diselesaikan paling lambat pada akhir
+Desember 2007.
+Pemenuhan target waktu tahapan ini telah
+berhasil dilakukan oleh Tim Persiapan National
+Single Window, dimana_ telah  dilakukan
+Peluncuran Implementasi Tahap Kesatu sistem
+National Single Window di Indonesia pada tanggal
+17 Desember 2007.
+
+b) Instansi Pemerintah (GA) yang dilibatkan:
+Untuk tahapan Implementasi Tahap Kesatu ini,
+instansi pemerintah (GA) yang dilibatkan
+diperluas dengan mencakup 5 (lima) GA yaitu:
+i. Direktorat Jenderal Bea dan Cukai (DJBC);
+ii. Badan Pengawas Obat dan Makanan (BPOM);
+iii. Direktorat Jenderal Perdagangan Luar Negeri;
+iv. Badan Karantina Pertanian; dan
+v. Pusat Karantina Ikan.
+
+c) Pelaku Usaha (User) yang menggunakan:
+Pelaku usaha yang dilibatkan sebagai pengguna
+Portal Indonesia National Single Window pada
+
+vananronencu ill

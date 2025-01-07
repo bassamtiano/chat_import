@@ -1,0 +1,84 @@
+- 154 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+pembengkok,
+pelipat, pelurus
+atau pemipih
+
+8462.63
+
+-- Pengepres servo:
+
+492.
+
+ex 8462.63.90
+
+--- Lain-lain
+
+Hanya untuk
+Mesin pelubang
+atau mesin
+penakik,
+termasuk
+kombinasi mesin
+pelubang dan
+penggunting yang
+dikontrol secara
+numerik, atau
+mesin lainnya
+yang dioperasikan
+secara elektrik
+
+8462.69
+
+-- Lain-lain:
+
+493.
+
+ex 8462.69.10
+
+---Mesin
+penempa atau
+pengecap
+dengan cetakan
+
+Dioperasikan
+secara elektrik
+
+494.
+
+ex 8462.69.90
+
+--- Lain-lain
+
+Hanya untuk
+mesin press plate
+dengan pneumatic
+system, supply
+listrik tiga phase
+380V, Duty Cycle
+50%, Feed Stroke
+hingga 35 mm
+
+8462.90
+
+- Lain-lain:
+

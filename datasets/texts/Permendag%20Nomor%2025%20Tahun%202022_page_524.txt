@@ -1,0 +1,90 @@
+- 42 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+84.74
+
+Mesin untuk menyortir, mengayak,
+memisahkan, mencuci,
+menghancurkan, menggerinda,
+mencampur atau mengaduk tanah,
+batu, bijih atau bahan mineral
+lainnya, dalam bentuk padat
+(termasuk bubuk atau pasta); mesin
+untuk aglomerasi, membentuk atau
+mencetak bahan bakar mineral
+padat, pasta keramik, semen yang
+tidak dikeraskan, bahan plesteran
+atau produk mineral lainnya dalam
+bentuk bubuk atau pasta; mesin
+untuk membentuk cetakan dari
+pasir.
+
+8474.10
+
+- Mesin penyortir, pengayak, pemisah
+atau _pencuci:
+
+210.
+
+8474.10.10
+
+-- Dioperasikan secara elektrik
+
+8474.20
+
+- Mesin penghancur atau
+penggerinda:
+
+-- Dioperasikan secara elektrik:
+
+211.
+
+8474.20.11
+
+--- Untuk batu
+
+84.77
+
+Mesin untuk mengerjakan karet
+atau plastik atau untuk pembuatan
+produk dari bahan tersebut, tidak
+dirinci atau termasuk dalam pos
+lainnya dalam Bab ini.
+
+8477.10
+
+- Mesin cetak injeksi:
+
+212.
+
+8477.10.10
+
+-- Untuk mencetak karet
+
+-- Untuk mencetak plastik:
+
+213.
+
+8477.10.31
+
+--- Mesin cetak injeksi untuk Poly
+(vinyl chloride)
+

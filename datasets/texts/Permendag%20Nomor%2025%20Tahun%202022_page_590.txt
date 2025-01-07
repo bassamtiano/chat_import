@@ -1,0 +1,83 @@
+- 108 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+slitting line dan cut-to-length line)
+untuk mengerjakan logam dengan
+membengkokkan, melipat,
+meluruskan, memipihkan,
+menggunting, melubangi, menakik
+atau menggigit (tidak termasuk
+bangku tarik); pengepres untuk
+mengerjakan logam atau karbida
+logam, tidak dirinci di atas.
+
+- Mesin pembentukan panas untuk
+menempa, menempa dengan cetakan
+(termasuk pengepres) dan mesin
+untuk memalu panas :
+
+484.
+
+ex 8462.11.00
+
+--Mesin penempa | Dioperasikan
+dengan cetakan secara elektrik
+tertutup
+
+485.
+
+ex 8462.19.00
+
+-- Lain-lain Dioperasikan
+
+secara elektrik
+
+- Mesin pembengkok, pelipat, pelurus
+atau pemipih (termasuk press brake)
+untuk produk lembaran :
+
+8462.22
+
+-- Mesin pembentukan profil :
+
+486.
+
+ex 8462.22.10
+
+--- Dikontrol Kecuali Mesin
+secara numerik Tekuk (Bending
+Machine) dengan
+Kapasitas: panjang
+max 1.270 mm;
+tebal 3 mm;
+bending angle 25-
+179 derajat
+
+487.
+
+ex 8462.22.90
+
+--- Lain-lain Hanya untuk
+mesin press plate
+dengan pneumatic
+
+system, supply
+

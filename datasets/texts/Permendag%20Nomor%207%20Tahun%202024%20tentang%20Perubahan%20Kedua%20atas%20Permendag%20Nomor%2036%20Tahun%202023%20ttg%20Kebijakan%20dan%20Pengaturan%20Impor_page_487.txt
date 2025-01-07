@@ -1,0 +1,52 @@
+- 472 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+
+- Dari serat staple akrilik atau
+modakrilik:
+
+2796. | 5515.21.00 -- Dicampur terutama atau MTR V V
+semata-mata dengan filamen
+buatan
+
+2797. | 5515.22.00 -- Dicampur terutama atau MTR V V
+semata-mata dengan wol atau bulu
+hewan halus
+
+2798. | 5515.29.00 --_Lain-lain MTR Viv
+- Kain tenunan lainnya:
+
+2799. | 5515.91.00 -- Dicampur terutama atau MTR V V
+semata-mata dengan filamen
+buatan
+
+5515.99 --_Lain-lain:
+
+2800. | 5515.99.10 --- Dicampur terutama atau MTR V V
+semata-mata dengan wol atau bulu
+hewan halus
+
+2801. | 5515.99.90 --- Lain-lain MTR viv
+
+55.16 Kain tenunan dari serat stapel
+
+artifisial.
+- Mengandung serat stapel artifisial
+85 % atau lebih menurut beratnya:
+
+2802. | 5516.11.00 -- Tidak dikelantang atau MTR Vv
+dikelantang
+
+2803. | 5516.12.00 -- Dicelup MTR viv
+
+2804. | 5516.13.00 -- Dari benang aneka warna MTR V V
+
+2805. | 5516.14.00 --_Dicetak MTR viv
+
+- Mengandung serat stapel artifisial
+kurang dari 85 % menurut
+beratnya, dicampur terutama atau
+semata-mata dengan filamen
+buatan:
+

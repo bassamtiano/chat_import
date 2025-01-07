@@ -1,0 +1,34 @@
+- 142 -
+
+kurang dari 42.000 psi, dengan diameter dalam
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+1037. | 7306.30.29 --- Lain-lain Vv |v
+1038. | 7306.30.49 --- Lain-lain viv
+1039. | 7306.30.91 --- Dengan diameter dalam 12,5 mm atau lebih, v V
+
+diameter luar kurang dari 140 mm dan
+mengandung karbon kurang dari 0,45 % menurut
+beratnya
+1040. | 7306.30.92 --- Dengan diameter dalam kurang dari 12,5 mm Vv |v
+1041. | 7306.30.99 --- Lain-lain Vv |v
+1042. | 7306.40.11 --- Dengan diameter luar tidak melebihi 12,5 mm V V
+1043. | 7306.40.19 --- Lain-lain viv
+1044. | 7306.40.20 -- Pembuluh dan pipa dari baja stainless, dengan V V
+diameter luar melebihi 105 mm
+1045. | 7306.40.30 -- Pipa dan pembuluh mengandung nikel V V
+sekurang-kurangnya 30 % menurut beratnya,
+dengan diameter luar tidak melebihi 10 mm
+1046. | 7306.40.90 -- Lain-lain Vv |v
+1047. | 7306.50.11 --- Dengan diameter luar kurang dari 12,5 mm v |v
+1048. | 7306.50.19 --- Lain-lain Vv |v
+1049. | 7306.50.91 --- Dengan diameter luar kurang dari 12,5 mm V V
+1050. | 7306.50.99 --- Lain-lain viv
+1051. | 7306.61.10 --- Dengan penampang silang diagonal luar V V
+kurang dari 12,5 mm
+1052. | 7306.61.90 --- Lain-lain viv
+1053. | 7306.90.11 --- Dengan penampang silang diagonal luar V V
+kurang dari 12,5 mm
+1054. | 7306.90.19 --- Lain-lain viv
+1055. | 7306.90.91 --- Pipa tekanan tinggi dengan yield strength tidak V V
+

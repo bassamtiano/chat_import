@@ -1,0 +1,67 @@
+- 39 -
+
+22.02 Air, termasuk air mineral dan air soda, mengandung tambahan
+gula atau bahan pemanis lainnya atau pemberi rasa, dan minuman
+yang tidak mengandung alkohol lainnya, tidak termasuk jus buah,
+buah bertempurung atau sayuran dari pos 20.09.
+
+2202.10 - Air, termasuk air mineral dan air soda, mengandung tambahan gula
+atau bahan pemanis lainnya atau pemberi rasa :
+127 | 2202.10.20 - - Minuman berenergi mengandung soda maupun tidak
+128 2202.10.30 - - Lain-lain, air mineral pancar atau air soda, diberi rasa
+129 | 2202.10.90 - - Lain-lain
+- Lain-lain :
+130 | 2202.91.00 - - Bir tanpa alkohol
+2202.99 - - Lain-lain :
+131 2202.99.10 - - - Minuman dengan bahan dasar susu UHT diberi rasa
+132 | 2202.99.20 - - - Minuman susu kedelai
+133 2202.99.30 - - - Minuman berbahan dasar air kelapa
+134 | 2202.99.40 - - - Minuman dengan bahan dasar kopi atau diberi rasa kopi
+135 | 2202.99.50 - - - Minuman tidak mengandung soda yang siap untuk dikonsumsi
+langsung tanpa diencerkan
+136 | 2202.99.90 - - - Lain-lain
+22.04 Minuman fermentasi (wine) dari buah anggur segar, termasuk
+minuman fermentasi (wine) yang diperkuat; grape must selain dari
+pos 20.09.
+137 | 2204.10.00 - Minuman fermentasi (wine) pancar
+
+- Minuman fermentasi (wine) lainnya; grape must yang fermentasinya
+dicegah atau dihentikan dengan penambahan alkohol :
+
+2204.21 - - Dalam kemasan 2 1 atau kurang:
+- - - Minuman fermentasi (wine) :
+138 | 2204.21.11 - - - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+139 | 2204.21.13 - - - - Dengan kadar alkohol melebihi 15 % tetapi tidak melebihi 23 %
+menurut volumenya
+140 | 2204.21.14 - - - - Dengan kadar alkohol melebihi 23 % menurut volumenya
+
+- - - Grape must yang fermentasinya dicegah atau dihentikan dengan
+penambahan alkohol :
+
+141 2204.21.21 - - - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+142 | 2204.21.22 - - - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+2204.22 - - Dalam kemasan lebih dari 2 | tetapi tidak lebih dari 101:
+- - - Minuman fermentasi (wine) :
+143 | 2204.22.11 - - - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+144 | 2204.22.12 - - - - Dengan kadar alkohol melebihi 15 % tetapi tidak melebihi 23 %
+menurut volumenya
+145 | 2204.22.13 - - - - Dengan kadar alkohol melebihi 23 % volume
+
+- - - Grape must yang fermentasinya dicegah atau dihentikan dengan
+penambahan alkohol :
+
+146 | 2204.22.21 - - - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+147 | 2204.22.22 - - - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+2204.29 - - Lain-lain :
+- - - Minuman fermentasi (wine) :
+148 | 2204.29.11 - - - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+149 | 2204.29.12 - - - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+
+- - - Grape must yang fermentasinya dicegah atau dihentikan dengan
+penambahan alkohol :
+
+150 | 2204.29.21 - - - - Dengan kadar alkohol tidak melebihi 15 % menurut volumenya
+151 2204.29.22 - - - - Dengan kadar alkohol melebihi 15 % menurut volumenya
+2204.30 - Grape must lainnya :
+
+wns erenic

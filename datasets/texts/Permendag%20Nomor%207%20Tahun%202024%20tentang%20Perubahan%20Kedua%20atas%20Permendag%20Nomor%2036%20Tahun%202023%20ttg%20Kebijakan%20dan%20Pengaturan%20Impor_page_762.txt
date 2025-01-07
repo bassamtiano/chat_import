@@ -1,0 +1,37 @@
+- 42 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bec
+- Mesin penajam (perkakas atau
+gerinda pemotong):
+8460.39 -- Lain-lain:
+135. | 8460.39.10 --- Dioperasikan secara elektrik V V V
+136. | ex 8460.40.00 | - Mesin Dioperasikan V | v V
+penggosok atau secara elektrik
+pengasah
+84.61 Mesin perkakas untuk mengetam,
+membentuk, menyerut, menggerek,
+memotong gir, menggerinda gir
+atau merampungkan gir,
+menggergaji, memotong dan mesin
+perkakas lainnya yang bekerja
+dengan menghilangkan logam atau
+sermet, tidak dirinci atau termasuk
+dalam pos lainnya.
+137. | ex 8461.20.00 | - Mesin Dioperasikan V V V
+pembentuk atau_ | secara elektrik
+penyerut
+138. | ex 8461.30.00 | - Mesin Dioperasikan Vv V
+penggerek secara elektrik
+139. | ex 8461.40.00 | - Mesin Dioperasikan Vv V
+pemotong gir, secara elektrik
+penggerinda gir
+atau perampung
+gir
+140. | ex 8461.50.00 | - Mesin Dioperasikan V V V
+penggergaji atau | secara elektrik
+mesin pemotong
+8461.90 - Lain-lain:
+141. | ex 8461.90.20 | -- Mesin Dioperasikan V| Vv V
+
+pengetam secara elektrik
+

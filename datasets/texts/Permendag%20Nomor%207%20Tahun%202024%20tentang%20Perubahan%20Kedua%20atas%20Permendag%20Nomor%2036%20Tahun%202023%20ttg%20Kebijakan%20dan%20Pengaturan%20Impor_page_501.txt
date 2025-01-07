@@ -1,0 +1,37 @@
+- 486 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+2968. | 5901.90.20 -- Kanvas lukis siap pakai MTR Viv
+2969. | 5901.90.90 -- Lain-lain MTR viv
+59.02 Kain untuk ban dari benang
+dengan kekuatan tinggi dari nilon
+atau poliamida lainnya, poliester
+atau rayon viskose.
+5902.10 - Dari nilon atau poliamida lainnya:
+-- Kain chafer, berkaret:
+2970. | 5902.10.11 --- dari benang nilon-6 MTR Viv
+2971. | 5902.10.19 --- Lain-lain MTR viv
+--_Lain-lain:
+2972. | 5902.10.91 --- Dari benang nilon-6 MTR viv
+2973. | 5902.10.99 --- Lain-lain MTR Viv
+5902.20 - Dari poliester:
+2974. | 5902.20.20 -- Kain chafer, berkaret MTR viv
+--_Lain-lain:
+2975. | 5902.20.91 --- Mengandung kapas MTR Viv
+2976. | 5902.90.00 - Lain-lain MTR viv
+59.03 Kain tekstil diresapi, dilapisi,
+ditutupi atau dilaminasi dengan
+plastik, selain yang dimaksud
+dalam pos 59.02.
+5903.10 - Dengan poli (vinil klorida):
+2977. | 5903.10.10 --_ Interlining MTR Viv
+2978. | 5903.10.90 -- Lain-lain MTR viv
+2979. | 5903.20.00 - Dengan poliuretan MTR Viv
+5903.90 - Lain-lain:
+2980. | 5903.90.10 -- Kain jenis kanvas diresapi, MTR Vv
+dilapisi, ditutupi atau dilaminasi
+dengan nilon atau poliamida
+lainnya
+2981. | 5903.90.90 --_Lain-lain MTR viv
+

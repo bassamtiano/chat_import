@@ -1,0 +1,80 @@
+| No | NAMA BARANG
+| 1 |
+
+PENEMPATAN LABEL
+
+KETERANGAN/PENJELASAN
+idea KEMASAN
+
+Lemari Es/Lemari Pendingin
+(Refrigerator)
+
+Mesin Cuci (Washing Machine)
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh.
+
+Kipas angin lantai, kipas angin dinding, kipas angin
+jendela, langit-langit atau atap tanpa layar pelindung,
+dengan motor listrik terpasang didalamnya dengan
+keluaran tidak melebihi 125 W.
+
+Kombinasi Lemari pendingin-pembeku, dilengkapi pintu
+luar terpisah tipe rumah tangga dengan kapasitas tidak
+melebihi 230 1
+
+Lemari pendingin tipe rumah tangga tipe kompresi dengan
+kapasitas tidak melebihi 230 |.
+
+Lemari pendingin tipe rumah tangga selain tipe kompresi
+dengan kapasitas tidak melebihi 230 1.
+
+Mesin otomatis penuh mempunyai kapasitas linen kering
+tidak melebihi 6 kg.
+
+Mesin otomatis penuh mempunyai kapasitas linen kering
+melebihi 6 kg.
+
+Mesin lainnya, dilengkapi dengan pengering sentrifugal,
+mempunyai kapasitas linen kering tidak melebihi 6 kg.
+
+Mesin lainnya, dilengkapi dengan pengering sentrifugal,
+mempunyai kapasitas linen kering melebihi 6 kg.
+
+Mesin lainnya dioperasikan secara elektrik mempunyai
+kapasitas linen kering tidak melebihi 6 kg.
+
+Mesin lainnya dioperasikan secara elektrik mempunyai
+kapasitas linen kering melebihi 6 kg.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang produksi dalam negeri;
+atau
+
+Nama dan alamat importir untuk barang impor;
+
+Penggunaan listrik: tegangan (Volt/V) dan frekuensi (Hz);
+
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang produksi dalam negeri;
+atau
+
+Nama dan alamat importir untuk barang impor;
+
+Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz)
+
+Negara Pembuat atau Made in.
+

@@ -1,0 +1,59 @@
+-%3-
+
+1020 | 8704.32.49 #£=|----- Lain-lain
+---g.v.w. melebihi 20 t tetapi tidak melebihi 24 t :
+- --- Lain-lain:
+1021 | 8704.32.61 $=|----- Lori (truk) berpendingin
+1022 | 8704.32.62 |----- Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1023 | 8704.32.63 #£=|----- Kendaraan tangki; lori (truk) semen curah
+1024 | 8704.32.64  $=|----- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1025 | 8704.32.65 #$=|----- Lori (truk) hooklift
+1026 | 8704.32.69 #$=|----- Lain-lain
+- Dengan kedua mesin piston pembakaran dalam nyala kompresi
+(diesel atau semi-diesel) dan motor listrik sebagai motor untuk
+penggerak :
+8704.41 - - g.v.w. tidak melebihi 5 ton :
+- - - Lain-lain :
+1027 | 8704.41.21 - - - - Lori (truk) berpendingin
+1028 | 8704.41.22 - - - - Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1029 | 8704.41.23 - - - - Kendaraan tangki; lori (truk) semen curah
+1030 | 8704.41.24 - - - - Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1031 | 8704.41.25 - - - - Lori (truk) hooklift
+1032 | 8704.41.26 - - - - Truk pick-up
+1033 | 8704.41.27 - - - - Kendaraan roda tiga
+1034 | 8704.41.29 - - - - Lain-lain
+8704.42 - - g.v.w. melebihi 5 ton tetapi tidak melebihi 20 ton :
+---g.v.w. tidak melebihi 6 t :
+---- Lain-lain :
+1035: | 8/04.42:21 = |-ns- Lori (truk) berpendingin
+1036 | 8704.42.22 |---- - Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1037 | 8704.42.23 #£=|----- Kendaraan tangki; lori (truk) semen curah
+1038 | 8704.42.24 #$=|----- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1039 | 8704.42.25 |----- Lori (truk) Hooklift
+1040 | 8704.42.29 |----- Lain-lain
+--- g.v.w. melebihi 6 t tetapi tidak melebihi 20 t :
+- --- Lain-lain:
+1041 | 8704.42.41 °#|-=---- Lori (truk) berpendingin
+1042 | 8704.42.42  |---- - Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1043 | 8704.42.43 #$=|----- Kendaraan tangki; lori (truk) semen curah
+1044 | 8704.42.45 #£=|----- Lori (truk) Hooklift
+1045 | 8704.42.46 $=|----- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga, g.v.w. melebihi 6 t tetapi tidak melebihi 10 t
+1046 | 8704.42.47 #x,\|----- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga, g.v.w. melebihi 10 t tetapi tidak melebihi 20 t
+22S 58 Lain-lain :
+1047 | 8704.42.51 $=|------ g.v.w. melebihi 6 t tetapi tidak melebihi 10 t
+1048 | 8704.42.59 |------ Lain-lain
+8704.43 - - g.v.w. melebihi 20 ton :
+---g.v.w. tidak melebihi 24 t :
+- --- Lain-lain :
+1049 | 8704.43.21 |----- Lori (truk) berpendingin
+
+won tomentoufi

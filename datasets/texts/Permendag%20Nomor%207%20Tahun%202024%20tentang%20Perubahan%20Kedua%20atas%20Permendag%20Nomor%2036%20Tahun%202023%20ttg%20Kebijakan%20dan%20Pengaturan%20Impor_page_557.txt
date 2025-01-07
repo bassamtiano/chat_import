@@ -1,0 +1,109 @@
+- 542 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+lampu sealed beam dan lampu
+ultra violet atau infra merah;
+lampu busur; sumber cahaya
+light-emitting diode (LED).
+
+- Lampu tabung, selain lampu
+ultra-violet:
+
+8539.31
+
+-- Fluoresen, katoda pijar:
+
+3363.
+
+8539.31.30
+
+--- Lampu fluoresen kompak
+swaballast
+
+PCE
+
+- Sumber cahaya light-emitting
+diode (LED):
+
+8539.52
+
+-- Lampu light-emitting diode (LED)
+
+3364.
+
+8539.52.10
+
+--- Dilengkapi dengan dasar tipe
+sekrup
+
+PCE
+
+3365.
+
+8539.52.90
+
+--- Lain-lain
+
+PCE
+
+85.44
+
+Kawat diisolasi (termasuk
+dienamel atau dianodisasi), kabel
+(termasuk kabel koaksial) dan
+konduktor listrik diisolasi
+lainnya, dilengkapi dengan
+konektor maupun tidak; kabel
+serat optik, dibuat dari serat
+berselubung tersendiri, dirakit
+dengan konduktor listrik atau
+dilengkapi dengan konektor
+maupun tidak.
+
+8544.70
+
+- Kabel serat optik:
+
+3366.
+
+8544.70.10
+
+-- Kabel telepon bawah air; kabel
+telegrap bawah air; kabel relai radio
+bawah air
+
+MTR
+
+3367.
+
+8544.70.90
+
+-- Lain-lain
+
+MTR
+
+94.05
+
+Luminer dan alat kelengkapan
+

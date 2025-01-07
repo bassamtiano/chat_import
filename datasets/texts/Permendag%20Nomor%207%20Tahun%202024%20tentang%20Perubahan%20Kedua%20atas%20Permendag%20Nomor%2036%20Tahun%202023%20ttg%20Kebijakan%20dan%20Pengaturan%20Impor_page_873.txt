@@ -1,0 +1,87 @@
+- 153 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+(Pressing Machine)
+dengan Max
+bending plates 3
+mm x 1.200 mm
+
+8462.62
+
+-- Pengepres mekanik:
+
+--- Dikontrol secara numerik
+
+488.
+
+8462.62.11
+
+---- Mesin penempa atau pengecap
+
+dengan cetakan
+
+489.
+
+ex 8462.62.19
+
+---- Lain-lain
+
+Tidak termasuk
+Mesin Tekuk
+(Bending Machine)
+dengan
+Kapasitas:
+panjang max
+1.270 mm; tebal 3
+mm; bending
+angle 25-179
+derajat, dan tidak
+termasuk Mesin
+penggunting,
+selain kombinasi
+mesin pelubang
+dan penggunting
+
+--- Lain-lain:
+
+490.
+
+ex 8462.62.91
+
+----Mesin
+penempa atau
+pengecap
+dengan cetakan
+
+Dioperasikan
+secara elektrik
+
+491.
+
+ex 8462.62.99
+
+---- Lain-lain
+
+Dioperasikan
+secara elektrik,
+tidak termasuk
+Mesin
+

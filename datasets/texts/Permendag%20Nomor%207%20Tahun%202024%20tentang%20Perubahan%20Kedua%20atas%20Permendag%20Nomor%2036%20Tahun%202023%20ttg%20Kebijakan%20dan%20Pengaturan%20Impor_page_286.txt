@@ -1,0 +1,47 @@
+- 271 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+4011.20 - Dari jenis yang digunakan untuk bus atau Komoditas telah pelaku usaha pemilik API-
+lori: ditetapkan, persyaratan P atau API-U.
+-- Dengan lebar tidak melebihi 450 mm: berupa Neraca Komoditas. MASA BERLAKU PI
+1281. | 4011.20.11 --- Memiliki lebar tidak melebihi 230 mm, dan Vv |v V
+: : Dalam hal Neraca
+cocok untuk pelek dengan diameter tidak :
+wpe : : Komoditas belum Dalam hal Neraca
+melebihi 16 inchi di :
+itetapkan, persyaratan Komoditas telah
+1282. | 4011.20.12 --- Memiliki lebar tidak melebihi 230 mm, dan | berupa Data Tersedia ditetapkan atau Neraca Vv} v V
+cocok untuk pelek dengan diameter melebihi dalam bentuk laporan Komoditas belum
+16 inchi hasil verifikasi, ditetapkan, masa berlaku
+1283. | 4011.20.13 --- Memiliki lebar melebihi 230 mm tetapi tidak | rekomendasi, atau PI Ban (API-P atau API-U) Vv] Vv V
+melebihi 385 mm pertimbangan teknis dari | paling lama 1 (satu) tahun
+1284. (4011.20.19 | --- Lain-lain kementerian yang takwim. Viv v
+— - - menyelenggarakan urusan T T T
+1285. | 4011.20.90 ~- Lain-lain pemerintahan di bidang Dalam hal Neraca
+1286. | 4011.40.00 - Dari jenis yang digunakan untuk sepeda perindustrian. Komoditas telah V V V
+motor ditetapkan atau Neraca
+1287. | 4011.50.00 - Dari jenis yang digunakan untuk sepeda roda | PERUBAHAN PI Komoditas belum Viv V
+dua ditetapkan, masa berlaku
+1288. | 4011.70.00 - Dari jenis yang digunakan untuk kendaraan Perubahan PI Ban (API- perubahan PI Ban (API-P Vv |v V
+dan P): atau API-U) selama sisa
+: ‘ Perubahan PI Ban (API-P) | masa berlaku PI
+mesin pertanian atau kehutanan dapat dilakukan dalam induknya.
+4011.80 - Dari jenis yang digunakan untuk kendaraan hal perubahan identitas
+dan mesin konstruksi, pertambangan atau Importir, uraian barang, KETENTUAN
+industri: pos tarif/HS, jumlah, PERPANJANGAN PI
+-- Cocok untuk pelek dengan diameter tidak satuan, negara asal,
+melebihi 24 inchi: negara muat, pelabuhan Dalam hal Neraca
+1289. | 4011.80.11 --- Dari jenis yang digunakan pada traktor, muat, pelabuhan tujuan Komoditas telah Vv} v V
+
+mesin dari pos 84.29 atau 84.30, forklift,
+wheel-barrow atau kendaraan dan mesin
+industri lainnya
+
+dan/atau keterangan/
+spesifikasi:
+1. PI Ban (API-P) yang
+
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan, perpanjangan
+

@@ -1,0 +1,33 @@
+- 207 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+--- Blue crab (Callinectes spp.) dan Snow crab
+(kepiting dari keluarga Oregoniidae):
+1670.| ex 0306.33.11 | ---- Hidup Selain untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1671.| 0306.33.12 ---- Segar atau dingin V V
+--- Lain-lain:
+1672.| ex 0306.33.91 | ---- Hidup Selain untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1673.) 0306.33.92 ---- Segar atau dingin V V
+1674.) ex 0306.34.00 | -- Lobster Norwegia (Nephrops | Selain untuk V V
+norvegicus) calon induk,
+induk dan benih
+untuk
+pembudidayaan
+0306.35 -- Udang dan udang besar air dingin (Pandalus
+spp, Crangon crangon):
+1675.| ex 0306.35.20 | --- Lain-lain, hidup Selain untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+1676.| 0306.35.30 --- Segar atau dingin V V
+0306.36 -- Udang dan udang besar lainnya :
+

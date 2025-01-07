@@ -1,0 +1,82 @@
+-18-
+
+Pos Tarif/
+
+Bea Masuk/
+
+No. HS Code Uraian Barang Description of Goods Import Duty
+(1) (2) (3) {4) (5)
+25.16 Granit, porphyry, basal, batu pasir Granite, porphyry, basalt, sandstone
+dan batu Jainnya untuk membuat and other monumental or building
+monumen atau bangunan, dikerjakan _|stone, whether or not roughly
+secara kasar atau semata-mata trimmed or merely cut, by sawing or
+dipotong maupun tidak, digergaji atau |otherwise, into blocks or slabs of a
+dengan cara lain, menjadi balok atau rectangular (including square) shape.
+lembaran tebal berbentuk empat
+persegi panjang (termasuk bujur
+sangkar).
+- Granit : - Granite :
+218 |2516.11.00 - - Tidak dikerjakan atau dikerjakan - - Crude or roughly trimmed 4%
+secara kasar
+2516.12 - - Semata-mata dipotong, digergaji atau |- - Merely cut, by sawing or otherwise,
+dengan cara lain, menjadi balok atau into blocks or slabs of a rectangular
+lembaran tebal berbentuk empat persegi | (including square) shape :
+panjang (termasuk bujur sangkar) :
+219 |2516.12.10 - - - Balok -- ~ Blocks 4%
+220 {2516.12.20 - - - Lembaran tebal --- Slabs 4%
+2516.20 - Batu pasir : - Sandstone :
+221 = |2516.20.10 - - Tidak dikerjakan atau dikerjakan. - - Crude or roughly trimmed. 4%
+secara kasar
+222 |2516.20.20 - - Semata-mata dipotong, digergaji atau _|- - Merely cut, by sawing or otherwise, 4%
+dengan cara lain, menjadi balok atau into blocks or slabs of a rectangular
+lembaran tebal berbentuk empat persegi | (including square) shape
+panjang (termasuk bujur sangkar)
+223 {2516.90.00 - Batu monumen atau bangunan - Other monumental or building stone 4%
+lainnya
+27.01 Batu bara; briket, ovoid dan bahan Coal; briquettes, ovoids and similar
+bakar padat semacam itu dibuat dari solid fuels manufactured from coal.
+batu bara.
+- Batu bara, dihancurkan maupun ~ Coal, whether or not pulverised, but
+tidak, tetapi tidak diaglomerasi : not agglomerated :
+224 = |2701.11.00 - - Antrasit - - Anthracite 4%
+2701.12 - - Batu bara bitumen ; - - Bituminous coal :
+225 }2701.12.10 - -- Batu bara bahan bakar ~ - - Coking coal 4%
+226 }2701.12.90 - - - Lain-lain Other 4%
+227 {2701.19.00 - - Batu bara lainnya - - Other coal 4%
+228 = |2701.20.00 - Briket, ovoid dan bahan bakar padat - Briquettes, ovoids and similar solid 4%
+semacam itu dibuat dari batu bara fueis manufactured from coal
+27.11 Gas petroleum dan gas hidrokarbon Petroleum gases and other gaseous
+Jainnya. hydrocarbons.
+- Dicairkan : |~ Liquefied
+-- Gas alam - - Natural gas.
+229 2711.12.00 ~ - Propana - - Propane 0%
+230 2711.13.00 -- Butana ~~ Butanes 0%
+2711.14 - - Etilena, propilena, butilena dan ~- Ethylene, propylene, butylene and
+butadiena : butadiene :
+- - - Etilena - - - Ethylene
+231 {2711.14.90 --- Lain-lain ~+- Other 4%
+232 |2711.19.00 - - Lain-lain - - Other 4%
+- Dalam bentuk gas : ~ In gaseous state :
+2711.21 -- Gas alam : - - Natural gas :
+233 |2711.21.10 - - - Dari jenis yang digunakan sebagai --~- Ofa kind used as a motor fuel 4%
+bahan bakar motor
+234 = |2711.21.90 -- + Lain-lain ~-~ Other 4%
+235 |2711.29.00 - - Lain-lain - - Other 4%
+38.08 Insektisida, rodentisida, fungisida, Insecticides, rodenticides, fungicides,
+herbisida, produk anti-sprouting dan herbicides, anti-sprouting products
+pengatur pertumbuhan tanaman, and plant-growth regulators,
+desinfektan dan produk semacam itu, jdisinfectants and similar products,
+disiapkan dalam bentuk atau kemasan [put up in forms or packings for retail
+untuk penjualan eceran atau sebagai sale or as preparations or articles (for
+preparat atau barang (misalnya, pita, example, sulphur-treated bands, wicks
+sumbu dan lilin yang diproses dengan [and candles, and fly-papers).
+belerang, dan kertas lalat).
+- Barang yang dirinci dalam Catatan - Goods specified in Subheading Note t
+Subpos 1 pada Bab ini: to this Chapter :
+3808.52 - - DDT (ISO) (klofenotan (INN)), dalam ~ - DDT (ISO) (clofenotane (INN)), in
+kemasan dengan berat bersih tidak packings of a net weight content not
+melebihi 300 g: exceeding 300 g:
+3808.59 - - Lain-lain : - - Other :
+
+invomeh lb ro .
+

@@ -1,0 +1,89 @@
+-55-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+500GB, Otomasi
+lengan robot.
+
+191.
+
+8471.70.40
+
+-- Optical disk drive, termasuk CD-
+ROM drive, DVD drive dan CD-R drive
+
+-- Lain-lain:
+
+192.
+
+ex 8471.70.90
+
+--- Lain-lain Hanya untuk
+USB, System
+Storage;
+
+High performance
+Storage, Dual
+active RAID
+controllers (4 to 8
+Gbps).
+
+84.72
+
+Mesin kantor lainnya (misalnya,
+hektograf atau mesin duplikasi
+stensil, mesin pencetak alamat,
+mesin penyedia uang kertas
+otomatis, mesin penyortir koin,
+mesin penghitung atau pembungkus
+koin, mesin peruncing pensil,
+mesin pembuat lubang atau mesin
+kokot).
+
+8472.90
+
+- Lain-lain:
+
+193.
+
+8472.90.10
+
+-- Automatic teller machine
+
+84.73
+
+Bagian dan aksesori (selain
+penutup, kotak pembawa dan
+sejenisnya) cocok untuk digunakan
+semata-mata atau terutama dengan
+mesin dari pos 84.70 sampai
+dengan 84.72.
+
+8473.30
+
+- Bagian dan aksesori dari mesin pada
+pos 84.71:
+
+194.
+
+8473.30.10
+
+-- Printed circuit board yang dirakit
+

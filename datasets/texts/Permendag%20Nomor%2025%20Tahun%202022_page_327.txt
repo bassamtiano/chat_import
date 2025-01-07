@@ -1,0 +1,27 @@
+- 298 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+greatcoat, hooded cape, mantel duffel, trench
+coat, gabardine dan padded waistcoat
+2532. | 6202.40.90 -- Lain-lain Vv |v V
+6202.90 - Dari bahan tekstil lainnya:
+2533. | 6202.90.10 -- Dari sutra
+2534. | 6202.90.20 -- Dari rami
+2535. | 6202.90.90 -- Lain-lain viv
+62.03 Setelan, ensemble, jas, blazer, celana panjang,
+pakaian terusan berpenutup di depan dan
+bertali, celana panjang sampai lutut dan celana
+pendek (selain pakaian renang) untuk pria atau
+anak laki - laki.
+- Setelan:
+2536. | 6203.11.00 -- Dari wol atau bulu hewan halus
+2537. | 6203.12.00 -- Dari serat sintetik
+6203.19 -- Dari bahan tekstil lainnya:
+--- Dari kapas:
+2538. | ex 6203.19.19 | ---- Lain-lain Selain motif viv V
+batik
+--- Dari sutra:
+2539. | ex 6203.19.29 | ---- Lain-lain Selain motif viv V
+batik
+2540. | ex 6203.19.90 | --- Lain-lain Selain batik dan viv V
+

@@ -1,0 +1,78 @@
+-15-
+
+No. ne Tarif] Uraian Barang Description of Goods paint
+fen) (2) (3) (4) {5)
+147 {1507.90.90 - - Lain-lain - - Other 0%
+15.11 Minyak kelapa sawit dan fraksinya, Palm oil and its fractions, whether or
+dimurnikan maupun tidak, tetapi not refined, but not chemically
+tidak dimodifikasi secara kimia. modified.
+- Minyak mentah ~ Crude oil
+1511.90 - Lain-lain : - Other :
+148 |1511.90.20 - - Minyak dimurnikan - - Refined oil 4%
+- - Fraksi dari minyak dimurnikan : - - Fractions of refined oil :
+- - - Fraksi padat : - - - Solid fractions :
+149 |1511.90.31 ~~ - - Dengan nilai iodine 30 atau lebih, _|- - - - With iodine value 30 or more, but 4%
+tetapi kurang dari 40 less than 40
+150 |1511.90.32 ---~ Lain-lain - --- Other 4%
+- - - Fraksi cair : Liquid fractions :
+---- Dalam kemasan dengan berat ----In packing of a net weight not
+bersih tidak melebihi dari 25 kg exceeding 25 kg
+151 {1511.90.37 - -- ~ Lain-lain, dengan nilai iodine 55 - - - - Other, with iodine value 55 or 4%
+atau lebih, tetapi kurang dari 60 more, but less than 60
+152 |1511.90.39 - --- Lain-lain ---- Other 4%
+- - Fraksi dari minyak yang tidak - - Fractions of unrefined oil :
+dimurnikan :
+15.12 Minyak biji bunga matahari, safflower |Sunflower-seed, safflower or cotton-
+atau biji kapas dan fraksinya, seed oil and fractions thereof,
+dimurnikan maupun tidak, tetapi whether or not refined, but not
+tidak dimodifikasi secara kimia. chemically modified.
+- Minyak biji bunga matahari atau ~ Sunflower-seed or safflower oi] and
+safflower dan fraksinya : fractions thereof :
+153 {1512.11.00 - - Minyak mentah - - Crude oil 0%
+1512.19 - - Lain-lain : - - Other:
+- Minyak biji kapas dan fraksinya : - Cotton-seed oil and its fractions :
+154 {1512.21.00 - - Minyak mentah, dihilangkan - - Crude oil, whether or not gossypol 0%
+gossypolnya maupun tidak has been removed
+1512.29 - - Lain-lain : - - Other :
+155 }1512.29.10 - - - Fraksi dari minyak biji kapas tidak - - - Fractions of unrefined cotton-seed 0%
+dimurnikan oil
+156 {1512.29.90 --~ Lain-lain -- - Other 0%
+15.13 Minyak kelapa (kopra), kernel kelapa Coconut {copra}, palm kernel or
+sawit atau babassu dan fraksinya, babassu oil and fractions thereof,
+dimurnikan maupun tidak, tetapi whether or not refined, but not
+tidak dimodifikasi secara kimia. chemically modified.
+- Minyak kelapa (kopra) dan fraksinya : - Coconut (copra) oil and its fractions :
+1513.11 .~ Minyak mentah : - - Crude oil :
+1513.19 - - Lain-lain : -- Other ;
+157 |1513.19.10 - - - Fraksi dari minyak kelapa tidak - - - Fractions of unrefined coconut oil 4%
+dimurnikan
+- Minyak kernel kelapa sawit atau - Palm kernel or babassu oil and
+babassu dan fraksinya : fractions thereof :
+1513.21 - - Minyak mentah : - - Crude oil :
+1513.29 - - Lain-lain : -- Other:
+- - - Fraksi dari minyak kernel kelapa --- Fractions of unrefined palm kernel
+sawit atau babassu tidak dimurnikan : oil or of unrefined babassu oil :
+158 {1513.29.11 - - -- Fraksi padat dari minyak kernel ---- Solid fractions of unrefined palm 4%
+kelapa sawit tidak dimurnikan kernel oil
+159 {1513.29.12 ---- Fraksi padat dari minyak babassu__|- - - - Solid fractions of unrefined 4%
+tidak dimurnikan babassu oil
+160 {1513.29.13 - - - ~ Lain-lain, dari minyak kernel ~~ -- Other, of unrefined palm kernel oil 4%
+kelapa sawit tidak dimurnikan (olein (palm kernel olein)
+‘kernel kelapa sawit)
+161 |1513.29.14 ---- Lain-lain, dari minyak babassu - - - - Other, of unrefined babassu oil 4%
+tidak dimurnikan
+--~ Lain-lain : - -- Other:
+162 [1513.29.91 - --- Fraksi padat dari minyak kernel - - - - Solid fractions of palm kernel oil 4%
+‘kelapa sawit
+163 | 1513.29.92 ---- Fraksi padat dari minyak babassu__|- - - - Solid fractions of babassu oil 4%
+164 | 1513.29.94 ~~ -- Olein kernel kelapa sawit, ---~- Palm kernel olein, refined, 4%
+
+dimurnikan, dijernihkan dan
+dihilangkan baunya (RBD)
+
+bleached and deodorised (RBD)
+
+jdin.kemenkeu.go.id
+
+Aen
+

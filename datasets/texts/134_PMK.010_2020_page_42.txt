@@ -1,0 +1,175 @@
+NO.
+
+23
+
+= AD a
+
+URAIAN BARANG
+
+SPESIFIKASI
+
+TERMASUK
+DALAM
+POS TARIF
+
+Frequency Relay
+
+Relai untuk pengaman
+frekuensi yang tidak stabil.
+Dengan voltase 380 V AC
+sampai dengan 440 V AC dan
+frekuensi 50 Hz sampai
+dengan 60 Hz
+
+8536.49.90
+
+24
+
+Reverse Power Relay
+
+Relai pengaman untuk
+mencegah terjadi berbaliknya
+arah aliran daya ke generator
+yang bekerja secara paralel.
+Dengan voltase 380 V AC
+sampai dengan 440 V AC dan
+frekuensi 50 Hz sampai
+dengan 60 Hz
+
+8536.49.90
+
+25
+
+Load Sharing Module
+
+Penyeimbang daya atau
+pembagi beban pada dua
+generator atau lebih
+
+8537.10.92
+8537.10.99
+
+26
+
+Remote Control
+
+Aparatus pengendali jarak
+jauh nirkabel untuk quick
+release hooks
+
+8543.70.20
+
+27
+
+Berthing Aid System (BAS)
+
+Instrumen pemandu pada
+pelabuhan yang digunakan
+oleh operator dermaga untuk
+memantau kapal yang hendak
+berlabuh. Menggunakan
+sistem laser sebagai metode
+pengukur
+
+9015.10.90
+
+28
+
+Environmental Monitoring
+System (EMS)
+
+Instrumen yang berfungsi
+sebagai alat untuk mengukur
+cuaca, dengan fungsi
+tambahan sebagai barometer,
+hydrometer, wind speed, wind
+direction dan current sensor
+
+9015.80.90
+
+29
+
+KW Meter
+
+Pengukur pemakaian daya
+aktif tanpa alat perekam
+
+9030.33.90
+
+30
+
+31
+
+Ampere Meter
+
+Pengukur pemakaian daya
+tanpa alat perekam
+
+9030.33.90
+
+Volt Meter/Double Volt Meter
+
+Pengukur tegangan listrik
+tanpa alat perekam
+
+9030.33.90
+
+32
+
+Frequency Meter/Double
+Frequency Meter
+
+Pengukur frekuensi tanpa alat
+perekam
+
+9030.33.90
+
+33
+
+Insulation Monitor
+
+Menghitung impedansi
+(resistansi) tanpa alat
+perekam
+
+|
+
+9030.33.90
+
+34
+
+Check Syncronizer
+
+Check sinkronisasi pada
+generator tanpa alat perekam
+
+9030.33.90
+
+35
+
+Phase Sequence Meter
+
+Check fase tanpa alat perekam
+
+9030.33.90
+
+36
+
+Load Monitoring
+
+Sistem pengukur gaya atau
+beban sebagai aksesoris quicl
+release hooks berupa kabel data
+
+9031.80.90
+
+37
+
+Hour Counter
+
+Penghitung waktu pemakaian
+
+9106.10.00
+
+wow jc kemenkeu.deh/
+

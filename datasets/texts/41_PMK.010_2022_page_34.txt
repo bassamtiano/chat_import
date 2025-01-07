@@ -1,0 +1,63 @@
+=~ 34.
+
+713 | 9506.32.00 - - Bola
+714 | 9506.39.00 - - Lain-lain
+95.07 Joran, mata kail dan perlengkapan pancing lainnya; jaring ikan,
+
+jaring kupu-kupu dan jaring semacam itu; “burung” pemikat
+(selain barang-barang dari pos 92.08 atau 97.05) dan
+perlengkapan berburu atau menembak semacam itu.
+
+715 | 9507.10.00 - Joran
+
+716 | 9507.30.00 - Penggulung tali pancing
+
+B. DAFTAR IMPOR BARANG-BARANG ‘TERTENTU LAINNYA YANG
+DIKENAKAN PEMUNGUTAN PAJAK PENGHASILAN PASAL 22 SEBESAR
+7,5% (TUJUH SETENGAH PERSEN)
+
+No Pos Tarif Uraian Barang
+8 HS Code
+09.01 Kopi, digongseng atau dihilangkan kafeinnya maupun tidak;
+sekam dan kulit kopi; pengganti kopi mengandung kopi dengan
+perbandingan berapapun.
+- Kopi, digongseng :
+0901.21 - - Tidak dihilangkan kafeinnya :
+- - - Tidak ditumbuk :
+I 0901.21.11 - --- Arabica
+2 0901.21.12 - -- - Robusta
+3 0901.21.19 - - - - Lain-lain
+4 0901.21.20 - - - Ditumbuk
+0901.22 - - Dihilangkan kafeinnya :
+5 0901.22.10 - - - Tidak ditumbuk
+6 0901.22.20 - - - Ditumbuk
+09.02 Teh, diberi rasa maupun tidak.
+0902.30 - Teh hitam (difermentasi) dan teh difermentasi sebagian, dikemas
+langsung dalam kemasan tidak melebihi 3 kg :
+t 0902.30.10 - - Daun
+8 0902.30.90 - - Lain-lain
+0902.40 - Teh hitam lainnya (difermentasi) dan teh lainnya yang difermentasi
+sebagian :
+9 0902.40.10 - - Daun
+10 0902.40.90 - - Lain-lain
+16.01 Sosis dan produk semacamnya, dari daging, sisa daging, darah
+atau serangga; olahan makanan berasal dari produk ini.
+dea 1601.00.10 - Dalam kemasan kedap udara untuk penjualan eceran
+12 1601.00.90 - Lain-lain
+16.02 Daging, sisa daging, darah atau serangga lainnya yang diolah atau
+diawetkan.
+1602.10 - Olahan homogen :
+13 1602.10.10 - - Mengandung babi, dalam kemasan kedap udara untuk penjualan
+eceran
+14 1602.10.90 - - Lain-lain
+15 1602.20.00 - Dari hati binatang
+- Dari unggas dari pos 01.05 :
+1602.31 - - Dari kalkun :
+16 1602.31.10 - - - Dalam kemasan kedap udara untuk penjualan eceran
+- - - Lain-lain :
+17 1602.31.91 - - - - Daging yang dihilangkan tulangnya atau dipisahkan dengan
+mesin
+18 1602.31.99 - --- Lain-lain
+1602.32 - - Unggas dari spesies Gallus domesticus :
+
+wn komen i

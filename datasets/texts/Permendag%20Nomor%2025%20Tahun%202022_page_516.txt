@@ -1,0 +1,37 @@
+- 34 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+--- Lain-lain:
+176.| ex 8462.62.91 | ---- Mesin Dioperasikan Viv V
+penempa atau secara elektrik
+pengecap dengan
+cetakan
+177.| ex 8462.62.99 | ---- Lain-lain Dioperasikan Viv V
+secara elektrik,
+kecuali Mesin
+pembengkok,
+pelipat, pelurus
+atau pemipih
+8462.63 -- Pengepres servo:
+178.| ex 8462.63.90 | --- Lain-lain Untuk Mesin vj ov V
+pelubang atau
+mesin penakik,
+termasuk
+kombinasi mesin
+pelubang dan
+penggunting yang
+dikontrol secara
+numerik, atau
+mesin lainnya
+yang dioperasikan
+secara elektrik
+8462.69 --- Lain-lain
+179.| ex 8462.69.10 | --- Mesin Dioperasikan Viv V
+penempa atau secara elektrik
+pengecap dengan
+cetakan
+180.| ex 8462.69.90 | --- Lain-lain Hanya untuk Viv V
+
+mesin press plate
+dengan pneumatic
+

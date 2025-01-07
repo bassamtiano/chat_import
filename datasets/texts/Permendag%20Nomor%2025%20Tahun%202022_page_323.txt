@@ -1,0 +1,25 @@
+- 294 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2495. | 6115.29.10 --- Dari kapas
+2496. | 6115.29.90 --- Lain-lain V
+6115.30 - Hosiery panjang atau sampai lutut lainnya
+untuk wanita, ukuran tiap benang tunggal
+kurang dari 67 desiteks:
+2497. | 6115.30.10 -- Dari kapas Viv
+2498. | 6115.30.90 -- Lain-lain V V V
+- Lain-lain:
+2499. | 6115.94.00 -- Dari wol atau bulu hewan halus v [Vv V
+2500. | 6115.95.00 -- Dari kapas Viv V
+2501. | 6115.96.00 -- Dari serat sintetik V V V
+2502. | 6115.99.00 -- Dari bahan tekstil lainnya v [Vv V
+61.16 Sarung tangan, mitten dan mitt, rajutan atau
+kaitan.
+6116.10 - Diresapi, dilapisi, ditutupi atau dilaminasi
+dengan plastik atau karet:
+2503. | 6116.10.10 -- Sarung tangan selam
+2504. | 6116.10.90 -- Lain-lain
+- Lain-lain:
+2505. | 6116.91.00 -- Dari wol atau bulu hewan halus V V
+2506. | 6116.92.00 -- Dari kapas V Bl
+

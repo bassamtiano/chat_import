@@ -1,0 +1,36 @@
+- 342 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+backing material untuk ubin mosaik
+3113. | 6006.32.20 --- Elastis (dikombinasi dengan benang karet) V V
+3114. | 6006.32.90 --- Lain-lain Vv [Vv
+6006.33 -- Dari benang aneka warna:
+3115. | 6006.33.10 --- Elastis (dikombinasi dengan benang karet) V V
+3116. | 6006.33.90 --- Lain-lain v [Vv
+6006.34 --_Dicetak:
+3117. | 6006.34.10 --- Elastis (dikombinasi dengan benang karet) V V
+3118. | 6006.34.90 --- Lain-lain v [Vv
+- Dari serat artifisial:
+6006.41 -- Tidak dikelantang atau dikelantang:
+3119. | 6006.41.10 --- Elastis (dikombinasi dengan benang karet) V V
+3120. | 6006.41.90 --- Lain-lain Vv [Vv
+6006.42 --_Dicelup:
+3121. | 6006.42.10 --- Elastis (dikombinasi dengan benang karet) V V
+3122. | 6006.42.90 --- Lain-lain Vv [Vv
+6006.43 -- Dari benang aneka warna:
+3123. | 6006.43.10 --- Elastis (dikombinasi dengan benang karet) V V
+3124. | 6006.43.90 --- Lain-lain Vv [Vv
+6006.44 --_Dicetak:
+3125. | 6006.44.10 --- Elastis (dikombinasi dengan benang karet) V V
+3126. | 6006.44.90 --- Lain-lain Vv [Vv
+3127. | 6006.90.00 - Lain-lain Vv [Vv
+54.02 Benang filamen sintetik (selain benang jahit),
+tidak disiapkan untuk penjualan eceran,
+termasuk monofilamen sintetik yang kurang
+dari 67 desiteks.
+- Benang kekuatan tinggi dari nilon atau
+poliamida lainnya, tekstur maupun tidak:
+3128. | 5402.19.00 - - Lain-lain V
+- Benang tekstur:
+3129. | 5402.31.00 -- Dari nilon atau poliamida lainnya, ukuran tiap V
+

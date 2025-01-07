@@ -1,0 +1,33 @@
+- 247 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2017. | 2101.12.99 ---- Lain-lain y
+2101.20 - Ekstrak, esens dan konsentrat, dari teh atau
+mate dan olahan dengan dasar ekstrak, esens
+atau konsentrat ini atau olahan dengan dasar
+teh atau mate :
+2018. | 2101.20.20 -- Ekstrak teh untuk produksi olahan teh, V V
+dalam bentuk bubuk
+2019. | 2101.20.30 -- Olahan teh terdiri dari campuran teh, bubuk V V
+susu dan gula
+2020. | 2101.20.90 -- Lain-lain V V
+2021. | 2101.30.00 - Chicory digongseng dan pengganti kopi V V
+digongseng lainnya, dan ekstrak, esens dan
+konsentratnya
+21.03 Saus dan olahannya; campuran bahan
+penyedap dan campuran bumbu; tepung
+mustar dan tepung kasar mustar serta mustar
+olahan.
+2022. | 2103.10.00 - Kecap V V
+2023. | 2103.20.00 - Tomato ketchup dan saus tomat lainnya V V
+2024. | 2103.30.00 - Tepung mustar dan tepung kasar mustar serta V V
+mustar olahan
+2103.90 - Lain-lain:
+-- Saus dan olahan daripadanya:
+2025. | 2103.90.11 --- Saus cabe V V
+2026. | 2103.90.12 --- Saus ikan V V
+2027. | 2103.90.13 --- Saus lainnya J J
+2028. | 2103.90.19 --- Lain-lain V V
+
+-- Campuran bahan penyedap dan campuran
+

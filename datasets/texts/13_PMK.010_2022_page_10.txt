@@ -1,0 +1,66 @@
+-10-
+
+LAMPIRAN II
+
+PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
+NOMOR 13/PMK.010/2022
+
+TENTANG
+
+PERUBAHAN KEEMPAT ATAS PERATURAN MENTERI
+KEUANGAN NOMOR 6/PMK.010/2017 TENTANG
+PENETAPAN SISTEM  KLASIFIKASI BARANG DAN
+PEMBEBANAN TARIF BEA MASUK ATAS BARANG IMPOR
+
+STRUKTUR KLASIFIKASI BARANG DAN PEMBEBANAN TARIF BEA MASUK
+
+Bea
+Pos Tarif/ Masuk/
+No. HS Code Uraian Barang Description Import
+Duty
+(1) (2) (3) (4) (5)
+98.01 Kendaraan bermotor dalam keadaan | Incompletely knocked down
+terurai tidak lengkap; sasis dengan motor vehicles; incompletely
+mesin terpasang dalam keadaan knocked down chassis fitted with
+terurai tidak lengkap. engines.
+10814 | 9801.40.00 | - Traktor jalan untuk semi-trailer dari | - Road tractors for semi-trailers of 0%
+subpos 8701.20 selain dari barang subheading 8701.20 other than
+pada subpos 9801.90. those of subheading 9801.90.
+9801.50 - Kendaraan jenis bus dari pos 87.02 | - Bus vehicles of heading 87.02
+selain dari barang pada subpos other than those of subheading
+9801.90: 9801.90 :
+10815 | 9801.50.10 | - - Dengan g.v.w. tidak lebih dari 5 -- Of a g.v.w. not exceeding 5 7.5%
+ton tonnes
+10815a | 9801.50.20 | - - Dengan g.v.w. lebih dari 5 ton - - Ofag.v.w. exceeding 5 tonnes 0%
+tetapi tidak lebih dari 24 ton but not exceeding 24 tonnes
+10815b | 9801.50.30 | - - Dengan g.v.w. lebih dari 24 ton -- Of a g.v.w. exceeding 24 tonnes 0%
+9801.60 - Kendaraan bermotor untuk - Motor vehicles for the transport of
+pengangkutan orang dari pos 87.03, persons of heading 87.03, with set
+dengan nilai set kendaraan paling value at least Rp150.000.000,00
+sedikit sebesar Rp 150.000.000,00 (one hundred and fifty million.
+(seratus lima puluh juta rupiah) rupiah) other than those of
+selain dari barang pada subpos subheading 9801.90 :
+9801.90:
+- - Sedan : - - Sedan :
+10816 9801.60.11 | - - - Dengan bodi belum disambung - - - With body in unassembled and 0%
+dan belum dicat unpainted
+10816a | 9801.60.12 | - - - Dengan bodi yang telah - - - With body in assembled and 0%
+disambung dan telah dicat _ | painted
+- - Lain-lain, dengan sistem gardan - - Others, with two wheel drive
+tunggal (4x2) : (4x2) system :
+10816b | 9801.60.21 | - - - Dengan bodi belum disambung - - - With body in unassembled and 0%
+dan belum dicat unpainted
+10816c | 9801.60.22 | - - - Dengan bodi yang telah - - - With body in assembled and 0%
+disambung dan telah dicat painted
+- - Lain-lain, dengan sistem gardan - - Others, with four wheel drive
+ganda (4x4) : (4x4) system :
+10816d | 9801.60.31 | - - - Dengan bodi belum disambung - - - With body in unassembled and 0%
+dan belum dicat unpainted
+10816e | 9801.60.32 | - - - Dengan bodi yang telah - - - With body in assembled and 0%
+disambung dan telah dicat painted
+9801.70 - Kendaraan bermotor roda empat - Motor vehicles for the transport of
+atau lebih jenis kendaraan angkutan | goods of heading 87.04 other than
+barang dari pos 87.04 selain dari those of subheading 9801.90 :
+barang pada subpos 9801.90 :
+
+www jh. Kemp. go.i

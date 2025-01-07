@@ -1,0 +1,48 @@
+-317-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+
+1413. | 7004.20.20 -- Lain-lain, dalam bentuk bujur sangkar atau V
+
+empat persegi panjang, satu atau lebih
+
+sudutnya telah terpotong maupun tidak
+1414. | 7004.20.90 -- Lain-lain V V
+1415. | 7004.90.10 -- Kaca optik, tidak dikerjakan secara optik V V
+1416. | 7004.90.20 -- Lain-lain, dalam bentuk bujur sangkar atau V V
+
+empat persegi panjang, satu atau lebih
+
+sudutnya telah terpotong maupun tidak
+1417. | 7004.90.90 -- Lain-lain V V
+
+70.05 Kaca apung dan kaca yang permukaannya
+
+digosok atau dipoles, dalam lembaran,
+
+mempunyai lapisan penyerap, pemantul
+
+atau bukan pemantul maupun tidak, tetapi
+
+tidak dikerjakan secara lain.
+1418. | 7005.10.10 -- Kaca optik, tidak dikerjakan secara optik V V
+1419. | 7005.10.90 -- Lain-lain V V
+1420. | 7005.21.10 --- Kaca optik, tidak dikerjakan secara optik V V
+1421. | 7005.21.20 --- Lain-lain, dalam bentuk bujur sangkar atau V V
+
+empat persegi panjang, satu atau lebih
+
+sudutnya telah terpotong maupun tidak
+1422. | 7005.21.90 --- Lain-lain V V
+1423. | 7005.29.10 --- Kaca optik, tidak dikerjakan secara optik V V
+1424. | 7005.29.20 --- Lain-lain, dalam bentuk bujur sangkar atau V V
+
+empat persegi panjang, satu atau lebih
+
+sudutnya telah terpotong maupun tidak
+1425. | 7005.29.90 --- Lain-lain V V
+1426. | 7005.30.10 -- Dalam bentuk bujur sangkar atau empat V V
+
+persegi panjang, satu atau lebih sudutnya
+telah terpotong maupun tidak
+

@@ -1,0 +1,62 @@
+Mesin Multi Fungsi
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh.
+
+| xo | NAMA BARANG URAIAN BARANG KETERANGAN/PENJELASAN oe ABEL
+| 1 | 2 3 eee © ee (ee) ee |
+
+Aparatus fotocopy lainnya dilengkapi dengan sistem optik
+berwarna
+
+Aparatus fotocopy lainnya dilengkapi dengan sistem optik
+selain berwarna
+
+Mesin yang menjalankan dua fungsi atau lebih untuk
+mencetak, menggandakan atau transmisi faksimili,
+memiliki kemampuan untuk berhubungan dengan mesin
+pengolah data otomatis atau jaringan : Printer-copier,
+mencetak dengan proses ink-jet, berwarna
+
+(masukan usulan dari Kemenperin)
+Mesin yang menjalankan dua fungsi atau lebih untuk
+
+mencetak, menggandakan atau transmisi faksimili,
+memiliki kemampuan untuk berhubungan dengan mesin
+pengolah data otomatis atau jaringan : Printer-copier,
+mencetak dengan proses laser, berwarna
+
+a. Nama barang;
+b. Merek barang;
+ec. Jenis produk:
+1) Pencetak Hitam Putih;
+2) Pencetak Berwarna.
+d. Nama dan alamat produsen untuk barang produksi
+dalam negeri; atau
+Nama dan alamat importir untuk barang impor;
+e. Penggunaan listrik; tegangan (Volt/V) dan frekuensi (Hz);
+Negara Pembuat atau Made in.
+
+Mesin yang menjalankan dua fungsi atau lebih untuk
+mencetak, menggandakan atau transmisi faksimili,
+memiliki kemampuan untuk berhubungan dengan mesin
+pengolah data otomatis atau jaringan : Printer-copier,
+mencetak dengan proses laser, tidak berwarna
+
+Mesin yang menjalankan dua fungsi atau lebih untuk
+mencetak, menggandakan atau transmisi faksimili,
+memiliki kemampuan untuk berhubungan dengan mesin
+pengolah data otomatis atau jaringan : Kombinasi mesin
+printer-copier-faksimil, berwarna
+
+Mesin yang menjalankan dua fungsi atau lebih untuk
+mencetak, menggandakan atau transmisi faksimili,
+memiliki kenampuan untuk berhubungan dengan mesin
+pengolah data otomatis atau jaringan : Kombinasi mesin
+printer-copier-faksimil, tidak berwarna
+

@@ -1,0 +1,95 @@
+= D0) =
+
+316 | 8703.24.59 #£=|----- Lain-lain
+
+- --- Lain-lain:
+317 | 8703.24.61 $|----- Berpenggerak empat roda
+318 | 8703.24.69 $=|----- Lain-lain
+
+- Kendaraan lainnya, hanya dengan mesin piston pembakaran dalam
+nyala kompresi (diesel atau semi-diesel) :
+
+8703.31 - - Dengan kapasitas silinder tidak melebihi 1.500 cc :
+
+- - - Lain-lain :
+
+319 | 8703.31.41 - - - - Gokart
+
+320 | 8703.31.42 - - - - All-Terrain Vehicles (ATV)
+
+321 | 8703.31.43 - -- - Ambulan
+
+322 | 8703.31.44 - - - - Mobil jenazah
+
+323 | 8703.31.45 ---- Van tahanan
+
+324 | 8703.31.46 ---- Karavan
+
+325 | 8703.31.47 ---- Sedan
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van) :
+
+326 | 8703.31.51  $|----- Berpenggerak empat roda
+
+S27 | 8703.31.59 |$|---=-- Lain-lain
+- - -- Lain-lain:
+
+328 | 8703.31.91 #$=|----- Kendaraan roda tiga
+
+329 | 8703.31.99 # | -+-=-- Lain-lain
+
+8703.32 - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak melebihi
+
+2.500 cc:
+- - - Lain-lain :
+
+330 | 8703.32.51 - --- Ambulan
+
+331 | 8703.32.52 - - - - Mobil jenazah
+
+332 | 8703.32.53 ---- Van tahanan
+
+333 | 8703.32.54 ---- Karavan
+---- Sedan:
+
+334 | 8703.32.61 $$ |-+---- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+835 | 87038:382:.02 $$ |---=-- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+336 | 8703.32.63 |$|===== Dengan kapasitas silinder melebihi 2.000 cc
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), berpenggerak empat roda :
+
+33% | 8703.32.71 j|2=+=~ = Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+338 | 8703.32.72 $%||----- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+339 | 8703.32.73 |----- Dengan kapasitas silinder melebihi 2.000 cc
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), bukan berpenggerak empat roda :
+
+340 | 8703.32.74  |----- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+341 | 8703.32.75 =|----- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+342 | 8703.32.76 +#£§|----- Dengan kapasitas silinder melebihi 2.000 cc
+- --- Lain-lain:
+
+343 | 8703.32.81 $|----- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+344 | 8703.32.82 |----- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+345 | 8703.32.83 |----- Dengan kapasitas silinder melebihi 2.000 cc
+
+wwe ih. kemenkoa.d Id

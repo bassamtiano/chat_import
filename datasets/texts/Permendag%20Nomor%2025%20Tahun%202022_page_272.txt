@@ -1,0 +1,32 @@
+- 243 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1969. | 2008.11.10 --- Digongseng V
+1970. | 2008.11.20 --- Mentega kacang V V
+1971. | 2008.11.90 --- Lain-lain V V
+2008.19 -- Lain-lain, termasuk campuran:
+1972. | 2008.19.10 --- Kacang mede V V
+--- Lain-lain:
+1973. | 2008.19.91 ---- Digongseng V V
+1974. | 2008.19.99 ---- Lain-lain V V
+2008.20 - Nanas:
+1975. | 2008.20.10 -- Dalam kemasan kedap udara untuk V V
+penjualan eceran
+1976. | 2008.20.90 -- Lain-lain V V
+2008.30 - Buah Jeruk:
+1977. | 2008.30.10 -- Mengandung tambahan gula atau bahan V V
+pemanis lainnya atau alcohol
+1978. | 2008.40.00 - Pir V V
+1979. | 2008.50.00 - Aprikot V V
+2008.60 - Ceri:
+1980. | 2008.60.10 -- Mengandung tambahan gula atau bahan V V
+pemanis lainnya atau alkohol
+1981. | 2008.60.90 -- Lain-lain V V
+2008.70 - Persik, termasuk nektarin:
+1982. | 2008.70.10 -- Mengandung tambahan gula atau bahan V V
+pemanis lainnya atau alkohol
+1983. | 2008.70.90 -- Lain-lain V V
+1984. | 2008.80.00 - Stroberi V V
+
+- Lain-lain, termasuk campuran selain
+

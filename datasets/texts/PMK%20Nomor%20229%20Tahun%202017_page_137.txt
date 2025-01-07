@@ -1,0 +1,43 @@
+- 137 -
+
+3.  Penelitian Third Country Invoicing
+Penelitian penggunaan Third Country Invoicing meliputi:
+a. SKA Form Ad yang diterbitkan oleh negara anggota ASEAN:
+
+1) nama dan alamat perusahaanyang menerbitkan invoice
+pihak ketiga (Third Country Invoice) harus dicantumkan
+pada Kolom 7 SKA Form AJ;
+
+2) pencantuman nomor invoice pihak ketiga (Third
+Country Invoice) pada kolom 10 SKA Form AJ;
+
+3) dalam hal invoice pihak ketiga belum diterbitkan maka
+pada kolom 10 SKA Form AJ dicantumkan nomor
+invoice pihak pertama dan pada kolom 7 SKA Form AJ
+dicantumkan nama dan alamat perusahaan yang akan
+menerbitkan invoice pihak ketiga (Third Country
+Invoice); dan
+
+4)  tanda ( V) atau ( X ) harus dicantumkan pada kotak
+“Third Country Invoicing” di kolom 13 SKA Form AJ.
+
+b. SKA Form Ad yang diterbitkan Jepang:
+
+1) nama dan alamat perusahaan yang menerbitkan
+invoice pihak ketiga (Third Country Invoice) harus
+dicantumkan pada Kolom 9 SKA Form AJ;
+
+2) pencantuman nomor invoice pihak ketiga (Third
+Country Invoice) pada kolom 8 SKA Form AJ;
+
+3) dalam hal invoice pihak ketiga belum diterbitkan maka
+pada Kolom 8 SKA Form AJ dicantumkan nomor
+invoice pihak pertama dan pada kolom 9 SKA Form AJ
+dicantumkan nama dan alamat perusahaan yang akan
+menerbitkan invoice pihak ketiga (Third Country
+Invoice); dan
+
+4) tanda ( V) atau (X ) harus dicantumkan pada kotak
+"Third Country Invoicing” di kolom 9 SKA Form AJ.
+
+www jdih.kemepke@, go.id

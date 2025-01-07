@@ -1,0 +1,33 @@
+- 137 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+945. 7215.50.99 --- Lain-lain vy |v
+946. 7215.90.10 -- Dari jenis yang digunakan untuk penguatan V V
+
+beton (rebar)
+947. 7215.90.91 --- Dengan penampang silang lingkaran V V
+948. 7215.90.99 --- Lain-lain vy |v
+949. 7216.10.00 - U, latau H section, tidak dikerjakan lebih lanjut V V
+selain dicanai panas, ditarik panas atau
+diekstrusi, dengan tinggi kurang dari 80 mm
+950. 7216.21.10 --- Mengandung karbon kurang dari 0,6 % V V
+menurut beratnya
+951. | 7216.21.90 --- Lain-lain Vv {Vv
+952. 7216.22.00 -- T section J Rl
+953. 7216.31.10 --- Mengandung karbon 0,6 % atau lebih menurut V V
+beratnya
+954. | 7216.31.90 --- Lain-lain Vv {Vv
+955. 7216.32.10 --- Dengan ketebalan 5 mm atau kurang Vv V
+956. 7216.32.90 --- Lain-lain Vv |v
+957. 7216.33.11 ---- Ketebalan flensa tidak kurang dari ketebalan V V
+web
+958. | 7216.33.19 ---- Lain-lain Vv {Vv
+959. 7216.33.90 --- Lain-lain Vv |v
+960. 7216.40.10 -- Mengandung karbon 0,6 % atau lebih menurut V V
+beratnya
+961. 7216.40.90 -- Lain-lain Vv |v
+962. 7216.50.11 --- Mengandung karbon 0,6 % atau lebih menurut V V
+beratnya
+963. 7216.50.19 --- Lain-lain v [Vv
+964. 7216.50.91 --- Mengandung karbon 0,6 % atau lebih menurut V V
+

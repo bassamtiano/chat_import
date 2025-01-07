@@ -1,0 +1,91 @@
+- 149 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+dikontrol secara
+numerik
+
+Mesin Tekuk
+(Bending Machine)
+dengan Kapasitas:
+panjang max
+1.270 mm; tebal 3
+mm; bending
+angle 25-179
+derajat
+
+475.
+
+ex 8462.24.00
+
+-- Pembengkok
+panel dikontrol
+secara numerik
+
+Tidak termasuk
+Mesin Tekuk
+(Bending Machine)
+dengan Kapasitas:
+panjang max
+1.270 mm; tebal 3
+mm; bending
+angle 25-179
+derajat
+
+476.
+
+ex 8462.25.00
+
+-- Mesin
+pembentuk
+gulungan
+dikontrol secara
+numerik
+
+Tidak termasuk
+Mesin Tekuk
+(Bending Machine)
+dengan Kapasitas:
+panjang max
+1.270 mm; tebal 3
+mm; bending
+angle 25-179
+derajat
+
+477.
+
+ex 8462.26.00
+
+-- Mesin
+pembengkok,
+pelipat, pelurus
+atau pemipih
+lainnya,
+dikontrol secara
+numerik
+
+Tidak termasuk
+Mesin Tekuk
+(Bending Machine)
+dengan Kapasitas:
+panjang max
+1.270 mm; tebal 3
+mm; bending
+

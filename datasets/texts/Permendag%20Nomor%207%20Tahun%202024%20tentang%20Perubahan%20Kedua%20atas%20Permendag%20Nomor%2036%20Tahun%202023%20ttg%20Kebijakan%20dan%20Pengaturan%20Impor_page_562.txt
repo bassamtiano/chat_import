@@ -1,0 +1,119 @@
+- 547 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+digunakan untuk keperluan
+rumah tangga; pemanas air
+instant atau pemanas air dengan
+tempat penyimpanan, bukan
+listrik.
+
+- Pemanas air instant atau
+pemanas air dengan tempat
+penyimpanan, bukan listrik:
+
+8419.11
+
+-- Pemanas air instant dengan gas:
+
+3391.
+
+8419.11.10
+
+--- Tipe rumah tangga
+
+PCE
+
+3392.
+
+8419.11.90
+
+--- Lain-lain
+
+PCE
+
+3393.
+
+8419.12.00
+
+-- Pemanas air tenaga
+matahari/surya
+
+PCE
+
+8419.19
+
+-- Lain-lain:
+
+3394.
+
+8419.19.10
+
+--- Tipe rumah tangga
+
+PCE
+
+3395.
+
+8419.19.90
+
+--- Lain-lain
+
+PCE
+
+84.50
+
+Mesin cuci tipe rumah tangga
+atau binatu, termasuk mesin
+yang dapat digunakan untuk
+mencuci dan mengeringkan.
+
+- Mesin, yang mempunyai
+kapasitas linen kering tidak
+melebihi 10 kg:
+
+8450.19
+
+-- Lain-lain:
+
+--- Dioperasikan secara elektrik:
+
+3396.
+
+8450.19.99
+
+---- Lain-lain
+
+NIU
+
+84.71
+
+Mesin pengolah data otomatis
+dan unitnya; pembaca magnetik
+atau optik, mesin untuk
+menyalin data pada media data
+dalam bentuk kode dan mesin
+untuk mengolah data tersebut,
+
+2ie)e]
+

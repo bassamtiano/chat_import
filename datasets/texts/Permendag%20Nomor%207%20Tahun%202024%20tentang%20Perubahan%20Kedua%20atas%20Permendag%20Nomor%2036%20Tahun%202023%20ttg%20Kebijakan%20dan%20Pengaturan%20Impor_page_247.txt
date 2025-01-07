@@ -1,0 +1,39 @@
+- 232 -
+
+No Pos Tarif/HS Uraian Barang Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+KGM PERUBAHAN PI
+833. 7210.69.11 ---- Dengan ketebalan tidak TNE; KETENTUAN LAIN-LAIN V V
+melebihi 1,2 mm KGM Perubahan PI Besi atau
+334. 7210.69.19 __-- Lain-lain TNE; Baja, Baja Paduan, dan Dalam hal Neraca V V
+KGM Produk Turunannya (API- | Komoditas belum
+835. 7210.69.91 ---- Dengan ketebalan tidak TNE; U): ditetapkan atau Neraca Vv |v
+melebihi 1,2 mm KGM . Komoditas telah .
+- - - — Perubahan PI Besi atau ditetapkan Importir hanya
+836. 7210.69.99 ~--- Lain-lain TNE; Baja, Baja Paduan, dan dapat memiliki 1 (satu) PI V V
+- - — KGM Produk Turunannya (API- | Besi atau Baja, Baja
+837. 7210.70.12 --- Dicat setelah dilapisi dengan TNE; U) dapat dilakukan dalam | Paduan, dan Produk V V
+seng KGM hal perubahan identitas Turunannya (API-P atau
+838. 7210.70.13 --- Dicat setelah dilapisi dengan TNE; Importir, uraian barang, API-U) yang masih V V
+paduan aluminium-seng KGM pos tarif/HS, jumlah, berlaku, dalam 1 (satu)
+839. | 7210.70.19 --- Lain-lain TNE; satuan, negara asal, periode. viqv
+KGM negara muat, Pelabuhan
+840. 7210.70.21 --- Dicat TNE; muat, Pelabuhan tujuan, | PI Besi atau Baja, Baja via
+KGM dan/atau Paduan, dan Produk
+841. 7210.70.29 _-- Lain-lain TNE; spesifikasi/keterangan: Turunannya (API-P atau y y
+KGM API-U) berlaku untuk 1
+849. 7210.70.91 __- Dicat TNE; Dalam hal Neraca (satu) atau lebih T T
+KGM Komoditas telah penyampaian
+843. 7210.70.99 ~-- Lain-lain TNE; ditetapkan: Pemberitahuan Pabean J J
+KGM 1. PI Besi atau Baja, Baja | Impor.
+844. 7210.90.10 -- Mengandung karbon kurang dari | TNE; Paduan, dan Produk V V
+0,6 % menurut beratnya dan KGM Turunannya (API-U) Perubahan satuan barang
+dengan ketebalan 1,5 mm atau yang masih berlaku; dan/atau Pos Tarif/HS
+kurang > dan terhadap suatu nomor seri
+- - - — 2. Perubahan Neraca Barang dalam PI Besi atau
+845. | 7210.90.90 -- Lain-lain TNE; Komoditas. Baja, Baja Paduan, dan viv
+KGM Produk Turunannya (API-
+846. 7211.13.12 ---- Bergelombang hoy, Dalam hal Neraca P atau API-U) hanya dapat viv
+
+Q
+s
+

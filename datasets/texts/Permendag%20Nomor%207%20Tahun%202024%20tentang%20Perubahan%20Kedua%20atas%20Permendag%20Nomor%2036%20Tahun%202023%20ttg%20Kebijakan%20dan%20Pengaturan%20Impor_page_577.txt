@@ -1,0 +1,30 @@
+- 562 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+3466. | 3920.20.99 --- Lain-lain V
+3920.30 - Dari polimer stirena:
+3467. | 3920.30.20 -- Lembaran acrylonitrile butadiene styrene V V
+(ABS) dari jenis yang digunakan dalam
+pembuatan lemari pendingin
+-- Lain-lain:
+3468. | 3920.30.91 --- Pelat dan lembaran, kaku V V
+3469. | 3920.30.92 --- Lain-lain, pelat dan lembaran V V
+3470. | 3920.30.99 --- Lain-lain V V
+- Dari polimer vinil klorida:
+3920.43 -- Mengandung bahan peliat tidak kurang dari
+6 % menurut beratnya:
+3471. | 3920.43.10 --- Pelat dan lembaran V V
+3472. | 3920.43.90 --- Lain-lain V V
+3473. | 3920.49.00 -- Lain-lain V V
+- Dari polimer akrilik:
+3920.51 -- Dari poli(metil metakrilat):
+--- Pelat dan lembaran:
+3474. | 3920.51.11 ---- Kaku V V
+3475. | 3920.51.19 ---- Lain-lain V V
+3476. | 3920.51.90 --- Lain-lain V V
+3920.59 -- Lain-lain:
+--- Pelat dan lembaran:
+3477. | 3920.59.11 ---- Kaku V V
+3478. | 3920.59.19 ---- Lain-lain V V
+3479. | 3920.59.90 --- Lain-lain V V
+

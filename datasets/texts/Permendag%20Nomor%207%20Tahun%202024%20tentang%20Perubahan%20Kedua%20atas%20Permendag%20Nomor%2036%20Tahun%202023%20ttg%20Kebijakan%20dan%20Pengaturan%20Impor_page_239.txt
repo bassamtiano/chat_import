@@ -1,0 +1,58 @@
+- 224 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Tarif/HS, uraian barang,
+jenis, jumlah, satuan,
+negara asal, pelabuhan
+muat, pelabuhan tujuan
+dan/atau keterangan/
+spesifikasi:
+
+1.
+
+PI Calon Induk, Induk,
+Benih Ikan, dan/atau
+Inti Mutiara Negara
+Non-WOAH (API-U)
+yang masih berlaku;
+dan
+
+Perubahan laporan
+hasil verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari Kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang kelautan dan
+perikanan, untuk
+perubahan data dan
+informasi yang
+tercantum dalam
+laporan hasil verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang kelautan dan
+perikanan.
+

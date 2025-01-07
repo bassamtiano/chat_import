@@ -1,0 +1,38 @@
+- 409 -
+
+. : Post
+No Pos Tarif/HS Uraian Barang Keterangan IT | IP | PI Border
+3473. Jex 8415.81.95 | ---- Dengan kapasitas pendinginan melebihi 21,10 kW tetapi tidak V
+melebihi 26,38 kW dengan kecepatan aliran udara pada tiap unit
+evaporator lebih dari 67,96 m3/ menit
+3474. Jjex 8415.81.96 | ---- Dengan kapasitas pendinginan melebihi 26,38 kW dengan V
+kecepatan aliran udara pada tiap unit evaporator lebih dari 67,96
+m3/ menit
+---- Lain-lain:
+3475. jex 8415.81.97 | ----- Dengan kapasitas pendinginan tidak melebihi 21,10 kW V
+3476. Jex 8415.81.98 | ----- Dengan kapasitas pendinginan melebihi 21,10 kW tetapi tidak V
+melebihi 26,38 kW
+3477. lex 8415.81.99 | ----- Lain-lain 7
+8415.82 -- Lain-lain, digabung dengan unit refrigerating:
+--- Dari jenis yang digunakan pada kendaraan udara:
+3478. |jex 8415.82.11 | ---- Dengan kapasitas pendinginan melebihi 21,10 kW dengan V
+kecepatan aliran udara pada tiap unit evaporator lebih dari 67,96
+m3/ menit
+3479. |ex 8415.82.19 | ---- Lain-lain v
+--- Dari jenis yang digunakan pada kendaraan diatas rel:
+3480. |ex 8415.82.21 | ---- Dengan kapasitas pendinginan tidak melebihi 26,38 kW V
+3481. lex 8415.82.29 | ---- Lain-lain V
+--- Dari jenis yang digunakan di kendaraan bermotor (selain dari
+yang dimaksud pada subpos 8415.20):
+3482. |jex 8415.82.31 | ---- Dengan kapasitas pendinginan tidak melebihi 26,38 kW V
+3483. jex 8415.82.39 | ---- Lain-lain V
+---_Lain-lain:
+3484. Jjex 8415.82.91 | ---- Dengan kapasitas pendinginan tidak melebihi 26,38 kW V
+8485. |ex 8415.82.99 | ---- Lain-lain V
+
+8415.83
+
+-- Tidak digabung dengan unit refrigerating:
+
+--- Dari jenis yang digunakan pada kendaraan udara:
+

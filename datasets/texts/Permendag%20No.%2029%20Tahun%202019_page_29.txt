@@ -1,0 +1,35 @@
+0105.13.10 --- Bebek bibit Pedaging dan Petelur
+0105.94 -- Ayam dari spesies
+Gallus domesticus
+14. 0105.94.10 --- Ayam bibit, selain
+ayam sabung
+| [01.06 —_| Bimatang lainnya, hidup. |
+| - Binatang menyusui:
+Ex. 0106.14.00 -- Kelinci dan hare Bibit Kelinci
+Ex. 0106.39.00 ‘| -- Lain-lain Bibit Puyuh dan Bibit
+Merpati
+05.11 Produk hewani tidak dirinci atau termasuk dalam
+rt pos lain; binatang mati dari Bab 1 atau 3, tidak
+layak untuk dikonsumsi manusia
+| |_| - Mani dari binatang jenis lembu
+|| - Lain-lain:
+ma 0511.91 -- Produk dari ikan atau krustasea, moluska, atau
+invertebrata air lainnya; binatang mati dari Bab 3:
+| [0511.99 -- Lain-lain:
+
+Ex. 0511.99.10
+
+--- Mani dari binatang Mani Babi, Kambing
+peliharaan atau Biri-biri mini straw
+dan standar
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+=
+N
+
+ttd
+ENGGARTIASTO LUKITA
+
+Salinan sesuai dengan aslinya
+

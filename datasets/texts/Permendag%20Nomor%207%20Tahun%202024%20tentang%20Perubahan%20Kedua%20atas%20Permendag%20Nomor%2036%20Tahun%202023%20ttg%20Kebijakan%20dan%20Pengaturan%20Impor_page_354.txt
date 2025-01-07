@@ -1,0 +1,31 @@
+- 339 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+dengan 0303.99:
+1557. | 0303.81.00 -- Dogfish dan hiu lainnya V V
+1558. | 0303.82.00 -- Pari dan skates (Rajidae) V V
+1559. | 0303.83.00 -- Toothfish (Dissostichus spp.) V V
+1560. | 0303.84.00 -- Seabass (Dicentrarchus spp.) V V
+-- Lain-lain:
+--- Ikan laut:
+1561. | 0303.89.11 ---- Kerapu V V
+1562. | 0303.89.13 ---- Bluntnose lizardfish (Trachinocephalus V V
+myops)
+1563. | 0303.89.14 ---- Layur (Lepturacanthus savala), Belanger’s V V
+croakers (Johnius belangerii), Reeve’s croakers
+(Chrysochir aureus) dan bigeye croakers
+(Pennahia anea)
+1564. | 0303.89.15 ---- Indian threadfins (Polynemus indicus) V V
+1565. | 0303.89.16 ---- Scad torpedo (Megalaspis cordyla), spotted V V
+sicklefish (Drepane punctata) dan barracuda
+besar (Sphyraena barracuda)
+1566. | 0303.89.17 ---- Bawal hitam (Parastromatus niger) V V
+1567. | 0303.89.18 ---- Kakap merah (Lutjanus argentimaculatus) V V
+1568. | 0303.89.19 ---- Lain-lain V V
+--- Lain-lain:
+1569. | 0303.89.22 ---- Swamp barb (Puntius chola) V V
+1570. | 0303.89.23 --- Bandeng (Chanos chanos) V V
+1571. | 0303.89.24 ---- Silver grunts (Pomadasys argenteus) V V
+1572. | 0303.89.27 ---- Hilsa shad (Tenualosa ilisha) V V
+1573. | 0303.89.28 ---- Wallago (Wallago attu) dan giant river- V V
+

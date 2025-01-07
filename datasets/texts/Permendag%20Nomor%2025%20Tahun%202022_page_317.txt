@@ -1,0 +1,26 @@
+- 288 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2426. | 6104.63.00 -- Dari serat sintetik
+2427. | 6104.69.00 -- Dari bahan tekstil lainnya V
+61.05 Kemeja pria atau anak laki- laki, rajutan atau
+kaitan.
+2428. | 6105.10.00 - Dari kapas V |v V
+6105.20 - Dari serat buatan :
+2429. | 6105.20.10 -- Dari serat sintetik v/v
+2430. | 6105.20.20 -- Dari serat artifisial v/v
+2431. | 6105.90.00 - Dari bahan tekstil lainnya V V
+61.06 Blus, kemeja dan kemeja blus, untuk wanita
+atau anak perempuan, rajutan atau kaitan.
+2432. | 6106.10.00 - Dari kapas
+2433. | 6106.20.00 - Dari serat buatan
+2434. | 6106.90.00 - Dari bahan tekstil lainnya
+61.07 Celana kolor, celana dalam, kemeja tidur,
+piyama, pakaian mandi, dressing gown dan
+barang semacam itu, untuk pria atau anak laki-
+laki, rajutan atau kaitan.
+- Celana kolor dan celana dalam:
+2435. | 6107.11.00 -- Dari kapas Vv |v
+2436. | 6107.12.00 -- Dari serat buatan V |v
+2437. | 6107.19.00 -- Dari bahan tekstil lainnya v [Vv
+

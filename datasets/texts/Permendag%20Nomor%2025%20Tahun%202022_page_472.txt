@@ -1,0 +1,111 @@
+- 443 -
+
+No
+
+Pos Tarif
+
+Uraian Barang
+
+Nama Bahan
+Kimia
+
+Nomor
+CAS
+
+Kode
+Daftar
+
+Kemasan
+
+Terkecil
+
+Distributor
+
+Keperluan|
+Lain
+Tidak
+Untuk
+Pangan
+
+Laborator
+lium /Pene|
+litian
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+38.24
+
+Olahan pengikat untuk
+acuan atau inti
+penuangan logam;
+produk dan preparat
+kimia dari industri
+kimia atau industri
+terkait (termasuk
+olahan yang terdiri
+dari campuran produk
+alami), tidak dirinci
+atau termasuk dalam
+pos lainnya.
+
+- Lain-lain:
+
+3672.
+
+3824.91.00
+
+-- Campuran dan
+olahan mengandung
+terutama (5-etil-2-metil-
+2-oksido-1,3,2-
+dioksafosfinan-5-il)metil
+metil metilfosfonat dan
+bis[(5-etil-2-metil-2-
+oksido-1,3,2-
+dioksafosfinan-5-il)metil]
+metilfosfonat
+
+170836-
+68-7
+
+2B04
+
+3673.
+
+3674.
+
+ex 3824.92.00
+
+-- Ester poliglikol dari
+asam metilfosfonat
+
+Phosphonic
+acid, methyl-
+polyglycol ester
+(Exolit OP 560
+TP)
+
+294675-
+51-7
+
+Phosphonic
+acid, methyl-
+polyglycol ester
+(Exolit OP 560)
+
+663176-
+00-9
+
+2B04
+

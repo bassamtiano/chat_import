@@ -1,0 +1,45 @@
+- 430 -
+
+No Pos Tarif/HS Uraian Barang Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+tangan: pelabuhan muat, hanya dapat memiliki 1
+2272. | 4202.31.00 -- Dengan permukaan luar dari PCE pelabuhan tujuan Impor, | (satu) PI Tas (API-U) yang Vv |v
+kulit samak, atau dari kulit dan/atau masih berlaku, dalam 1
+komposisi keterangan/spesifikasi (satu) periode.
+; barang:
+2273. | 4202.32.00 -- Dengan permukaan luar dari PCE 1. PI Tas (API-U) yang Dalam hal Neraca V V
+lembaran plastik atau dari bahan . :
+tekstil masih berlaku; Komoditas telah
+eks : : 2. Perubahan laporan ditetapkan atau Neraca
+2274. | 4202.39.00 -- Lain-lain PCE hasil verifikasi, Komoditas belum Vv |v
+- Lain-lain: rekomendasi, atau ditetapkan, PI Tas (API-U)
+4202.91 -- Dengan permukaan luar dari pertimbangan teknis berlaku untuk 1 (satu)
+kulit samak atau dari kulit kementerian yang atau lebih penyampaian
+komposisi: menyelenggarakan Pemberitahuan Pabean
+: urusan pemerintahan | Impor.
+--- Tas olahraga: di bidang
+2275. | 4202.91.11 ---- Tas bowling PCE perindustrian, untuk Kebijakan dan pengaturan V V
+2276. | 4202.91.19 ---- Lain-lain PCE perubahan data dan Impor diberlakukan V V
+2277. | 4202.91.90 --- Lain-lain PCE informasi yang terhadap Impor Tas (API- Vid
+4202.92 -- Dengan permukaan luar dari tercantum dalam U) dalam rangka
+lembaran plastik atau dari bahan laporan hasil verifikasi, | kemudahan Impor tujuan
+tekstil: rekomendasi, atau ekspor pembebasan.
+2278. | 4202.92.10 --- Tas rias, dari lembaran plastik | PCE pertimbangan teknis viv
+2279. | 4202.92.20 --- Tas bowling PCE dari kementerian yang | Perubahan satuan barang V V
+2280. | 4202.92.90 ~- Lain-lain PCE menyelenggarakan dan/atau Pos Tarif/HS J J
+- 4202.90 ~~ Lain-lain: urusan pemerintahan terhadap suatu nomor seri
+2281. | 4202.99.10 --- Dengan permukaan luar serat PCE di bidang _ Barang dalam PI Tas (API- Vv] ov
+divulkanisasi dari kertas karton perindustrian. U) hanya dapat dilakukan
+2282. | 4202.99.90 --- Lain-lain PCE selama : v |v
+
+Perpanjangan PI Tas
+(API-U):
+
+Dalam hal Neraca
+Komoditas telah
+
+a. belum dilakukan
+realisasi Impor atau
+tidak sedang dilakukan
+realisasi Impor;
+dan/atau
+

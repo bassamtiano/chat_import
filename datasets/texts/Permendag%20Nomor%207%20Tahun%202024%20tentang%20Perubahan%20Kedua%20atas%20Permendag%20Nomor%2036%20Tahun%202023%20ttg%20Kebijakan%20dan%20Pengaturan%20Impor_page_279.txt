@@ -1,0 +1,42 @@
+- 264 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+
+kandungan kromium 16% sampai
+dengan 18% dan nikel 10% sampai
+dengan 15% menurut beratnya,
+yang termasuk dalam pos tarif
+7307.23.10
+
+1196. | 9805.40.60 --Alat kelengkapan butt welding PCE; V [Vv
+dari baja stainles, dengan diameter | TNE;
+dalam 15 cm atau lebih, dengan KGM
+kandungan kromium16% sampai
+dengan 18% dan nikel 10% sampal
+dengan 15% menurut beratnya,
+yang termasuk dalam pos tarif
+7307.23.90
+
+1197. | 9805.40.70 -- Tees and reducers, dengan PCE; V V
+diameter dalam kurang dari 15 cm, | TNE;
+dengan kandungan kromium 16% KGM
+sampai dengan 18% dan nikel 10%
+sampai dengan 15% menurut
+beratnya, yang termasuk dalam pos
+tarif 7307.29.10
+
+1198. | 9805.40.80 -- Tees and reducers, dengan PCE; V V
+diameter dalam 15 cm atau lebih, TNE;
+dengan kandungan kromium 16% KGM
+sampai dengan 18% dan nikel 10%
+sampai dengan 15% menurut
+beratnya, yang termasuk dalam pos
+tarif 7307.29.90
+
+1199. | 9805.50.10 -- Rantai jangkar kapal jenis stud PCE; V V
+link, yang termasuk dalam pos tarif | TNE;
+7315.81.00 KGM
+
+1200. | 9805.50.20 -- Rantal jangkar kapal selain jenis | PCE; V V
+

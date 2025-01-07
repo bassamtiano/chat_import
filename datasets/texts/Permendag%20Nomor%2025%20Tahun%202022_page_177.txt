@@ -1,0 +1,32 @@
+- 148 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+paduan seng-aluminium-magnesium
+1157. | 7225.92.90 --- Lain-lain Vv {Vv
+1158. | 7225.99.10 --- Dari baja high speed Vi] Vv
+1159. 7225.99.90 --- Lain-lain Vv |v
+1160. 7226.11.10 --- Simpai dan strip, dengan lebar tidak melebihi V
+400 mm
+1161. 7226.11.90 --- Lain-lain V
+1162. 7226.19.10 --- Simpai dan strip, dengan lebar tidak melebihi V
+400 mm
+1163. 7226.19.90 --- Lain-lain V
+1164. 7226.20.10 -- Simpai dan strip, dengan lebar tidak melebihi V V
+400 mm
+1165. | 7226.20.90 -- Lain-lain viv
+1166. 7226.91.10 --- Simpai dan strip, dengan lebar tidak melebihi V V
+400 mm
+1167. | 7226.91.90 --- Lain-lain viv
+1168. 7226.92.10 --- Simpai dan strip, dengan lebar tidak melebihi V V
+400 mm
+1169. | 7226.92.90 --- Lain-lain viv
+1170. 7226.99.11 ---- Disepuh atau dilapisi dengan seng V V
+1171. | 7226.99.19 ---- Lain-lain viv
+1172. | 7226.99.91 ---- Disepuh atau dilapisi dengan seng v [Vv
+1173. | 7226.99.99 ---- Lain-lain Vv |v
+1174. | 7227.10.00 - Dari baja high speed Vi] Vv
+1175. | 7227.20.00 - Dari baja silikon-mangan v [Vv
+1176. 7227.90.10 -- Mengandung kromium 0,5 % atau lebih V V
+
+menurut beratnya
+

@@ -1,0 +1,90 @@
+- 578 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan persyaratan
+berupa:
+
+1. PI Prekursor Non
+Farmasi (API-P) yang
+masih berlaku;
+
+2. IP Prekursor Non
+Farmasi (API-P) yang
+mengalami perubahan,
+dalam hal terdapat
+perubahan identitas
+Importir; dan
+
+3. perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan, persyaratan
+berupa Data Tersedia
+sebagai berikut:
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI Prekursor Non
+Farmasi (API-P) yang
+masih berlaku; dan
+
+2. IP Prekursor Non
+Farmasi yang
+
+mengalami perubahan.
+
+Dalam hal perubahan Pos
+Tarif/HS, uraian barang,
+
+dikecualikan dari
+pemenuhan Perizinan
+Berusaha di Bidang Impor
+berupa Importir Terdaftar,
+Importir Produsen, dan
+Persetujuan Impor
+Prekursor Non Farmasi
+dari kementerian yang
+menyelenggarakan
+urusan pemerintahan di
+bidang perdagangan dan
+dikecualikan dari
+ketentuan verifikasi atau
+penelusuran teknis Impor
+Prekursor Non Farmasi.
+
+Verifikasi atau
+Penelusuran Teknis Impor
+(VPTI) dilakukan di:
+
+a. Negara muat;
+
+b. Pelabuhan muat; atau
+c. Negara asal barang,
+
+di luar negeri.
+

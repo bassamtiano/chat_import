@@ -1,0 +1,72 @@
+d)
+
+e)
+
+- 32 -
+
+iv. Sistem National Single Window-AirPort:
+Beberapa Air-Line dan Cargo-Handling yang
+dominan.
+
+Cakupan Sistem:
+
+Pada tahapan Implementasi Tahap Ketiga ini,
+
+sistem yang akan digabungkan ke dalam Portal
+
+Indonesia National Single Window untuk dapat
+
+dilakukan integrasi data dan informasi melalui
+
+Portal Indonesia National Single Window diperluas
+
+dengan cakupan’ keseluruhan 4 _  (empat)
+
+komponen sistem pada Portal Indonesia National
+
+Single Window, yaitu:
+
+i. Sistem National Single Window-Impor:
+Diberlakukan secara penuh (mandatory).
+
+ii. Sistem National Single Window-Ekspor:
+
+Akan dilakukan Uji-coba Awal.
+
+iii. Sistem National Single Window-SeaPort:
+
+Akan dilakukan Paralel-run di Tanjung Priok
+
+iv. Sistem National Single Window-AirPort:
+
+Akan dilakukan Paralel-run di Bandara
+Soekarno Hatta.
+
+Lokasi Penerapan:
+
+Pada tahapan Implementasi Tahap Ketiga ini,
+
+penerapan Portal Indonesia National Single
+
+Window akan diperluas ke beberapa pelabuhan
+
+lain (4 (empat) pelabuhan laut/udara) dengan
+
+mempertimbangkan pentahapan atas penerapan 4
+
+(empat) komponen sistem Portal Indonesia
+
+National Single Window, yaitu:
+
+i. Sistem National Single Window-Impor:
+¢ Mandatory: Tanjung Priok.
+¢ Uji coba/ Paralel-run: Tanjung Emas,
+
+Tanjung Perak, Bandara Soekarno Hatta
+dan Belawan.
+
+ii. Sistem National Single Window-Ekspor:
+
+Ujicoba Awal di Tanjung Priok.
+
+worw_jaih-kemenkeu.gp id ft

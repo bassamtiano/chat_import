@@ -1,0 +1,90 @@
+- 382 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Certification Scheme
+(KPCS).
+
+PERUBAHAN PI
+
+Perubahan PI Intan
+Kasar (API-P atau API-U):
+
+PI Intan Kasar (API-P atau
+API-U) dapat dilakukan
+dalam hal perubahan
+identitas Importir, uraian
+barang, pos tarif/HS,
+jumlah, satuan, negara
+asal, negara muat,
+pelabuhan muat,
+pelabuhan tujuan
+dan/atau keterangan/
+spesifikasi:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan:
+
+1. PI Intan Kasar (API-P
+atau API-U) yang
+masih berlaku; dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Sertifikat Kimberley
+Process Certification
+Scheme (KPCS), dalam
+hal Neraca Komoditas
+belum ditetapkan.
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan, masa berlaku
+perubahan PI Intan Kasar
+(API-P atau API-U) selama
+sisa masa berlaku PI
+induknya.
+
+KETENTUAN LAIN-LAIN
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan, Importir dapat
+memiliki 1 (satu) atau
+lebih PI Intan Kasar (API-P
+atau API-U) yang masih
+berlaku, dalam 1 (satu)
+periode.
+
+PI Intan Kasar (API-P atau
+API-U) berlaku untuk 1
+(satu) kali penyampaian
+Pemberitahuan Pabean
+

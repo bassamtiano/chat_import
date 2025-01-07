@@ -1,0 +1,57 @@
+2023, No.47/BI 3.
+
+Pasal 26
+Ayat (1)
+Contoh:
+PT SB melakukan Ekspor SDA pada tanggal:
+a. 1 September 2024 sebesar USD150,000.00 (seratus lima
+puluh ribu dolar Amerika Serikat); dan
+b. 10 September 2024 sebesar USD3,000,000.00 (tiga juta
+dolar Amerika Serikat).
+Dengan demikian, PT SB diwajibkan memasukkan DHE SDA
+dari Ekspor SDA tanggal 10 September 2024 sebesar
+USD3,000,000.00 (tiga juta dolar Amerika Serikat) ke dalam
+Reksus DHE SDA. Selain itu, PT SB juga dapat secara sukarela
+memasukkan DHE SDA dari Ekspor SDA tanggal 1 September
+2024 sebesar USD150,000.00 (seratus lima puluh ribu dolar
+Amerika Serikat) ke dalam Reksus DHE SDA.
+Ayat (2)
+Contoh:
+PT SM melakukan Ekspor SDA pada tanggal 1 Juli 2024 sebesar
+USD200,000.00 (dua ratus ribu dolar Amerika Serikat).
+Pada saat PT SM memasukkan DHE SDA dari Ekspor SDA
+tanggal 1 Juli 2024 sebesar USD200,000.00 (dua ratus ribu
+dolar Amerika Serikat) ke dalam Reksus DHE SDA, DHE SDA
+tersebut dikenakan kewajiban penempatan minimal 30% (tiga
+puluh persen) selama paling singkat 3 (tiga) bulan.
+
+Pasal 27
+Cukup jelas.
+
+Pasal 28
+Cukup jelas.
+
+Pasal 29
+
+Huruf a
+Yang dimaksud dengan “informasi Impor pada DPI yang
+dibayarkan melalui transaksi TT” adalah informasi tagihan
+Impor antara lain sandi tujuan transaksi, nomor invoice, dan
+nilai invoice.
+
+Huruf b
+Yang dimaksud dengan “informasi Impor pada DPI yang
+dibayarkan melalui transaksi Non-TT” adalah informasi tagihan
+Impor antara lain nomor Letter of Credit (L/C), tanggal jatuh
+tempo Letter of Credit (L/C), dan nomor invoice.
+
+Huruf c
+Yang dimaksud dengan “perubahan informasi pada PPI yang
+memengaruhi DPI” adalah perubahan informasi pada dokumen
+PPI yang memuat antara lain perubahan nomor invoice, tanggal
+invoice, nilai invoice, dan tanggal jatuh tempo pengeluaran DPI.
+
+Huruf d
+Yang dimaksud dengan “perubahan informasi pada DPI” adalah
+perubahan informasi atau alokasi pengeluaran DPI yang
+memuat antara lain nomor invoice dan nilai DPI.

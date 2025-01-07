@@ -1,0 +1,104 @@
+-95-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+- Mesin cetak digunakan untuk
+mencetak dengan memakai pelat,
+silinder dan komponen cetak lainnya
+dari pos 84.42:
+
+404.
+
+8443.11.00
+
+-- Mesin cetak offset, reel-fed
+
+405.
+
+8443.12.00
+
+-- Mesin cetak offset, sheet-fed, tipe
+kantor (menggunakan lembaran
+dengan satu sisinya tidak melebihi
+22 cm dan sisi lainnya tidak melebihi
+36 cm dalam keadaan tidak dilipat)
+
+406.
+
+8443.13.00
+
+-- Mesin cetak offset lainnya
+
+407.
+
+8443.14.00
+
+Mesin cetak letterpress, reel-fed
+tidak termasuk cetak flexographic
+
+408.
+
+8443.16.00
+
+-- Mesin cetak flexographic
+
+409.
+
+8443.17.00
+
+Mesin cetak grafir
+
+- Printer, mesin fotocopy dan
+mesin faksimili lainnya, baik
+dikombinasi maupun tidak:
+
+8443.31
+
+-- Mesin yang menjalankan dua fungsi
+atau lebih untuk mencetak,
+menggandakan atau transmisi
+faksimili, memiliki kemampuan untuk
+berhubungan dengan mesin pengolah
+data otomatis atau jaringan:
+
+--- Kombinasi mesin printer-copier-
+faksimili:
+
+410.
+
+ex 8443.31.39
+
+Hanya untuk
+mesin multifungsi
+tidak berwarna
+dengan kecepatan
+menggandakan
+sebanyak 20
+copy/menit atau
+lebih
+
+---- Lain - lain
+
+2/<] 2|<2)
+
+2/<] 2|<2)
+
+2/2) 2] J
+

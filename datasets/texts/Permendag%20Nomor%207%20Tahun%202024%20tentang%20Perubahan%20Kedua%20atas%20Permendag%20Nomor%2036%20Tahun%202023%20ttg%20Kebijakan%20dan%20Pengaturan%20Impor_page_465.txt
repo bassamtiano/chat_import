@@ -1,0 +1,38 @@
+- 450 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI| LS Post
+Barang Border
+2518. | 6210.10.19 --- Lain-lain PCE Vv [Vv
+2519. | 6210.10.90 --_Lain-lain PCE vV [Vv
+6210.20 - Garmen lainnya, dari tipe yang
+diuraikan dalam pos 62.01:
+2520. | 6210.20.20 -- Pakaian yang digunakan untuk | PCE V V
+pelindung dari api
+2521. | 6210.20.30 -- Pakaian yang digunakan untuk | PCE V V
+pelindung dari bahan kimia atau
+radiasi
+2522. | 6210.20.40 -- Pakaian pelindung kerja lainnya_| PCE viv
+2523. | 6210.20.90 -- Lain-lain PCE Vv [Vv
+6210.30 - Garmen lainnya, dari tipe yang
+diuraikan dalam pos 62.02 :
+2524. | 6210.30.20 -- Pakaian yang digunakan untuk | PCE V V
+pelindung dari api
+2525. | 6210.30.30 -- Pakaian yang digunakan untuk | PCE V V
+pelindung dari bahan kimia atau
+radiasi
+2526. | 6210.30.40 -- Pakaian pelindung kerja lainnya_| PCE Viv
+2527. | 6210.30.90 -- Lain-lain PCE Vv [Vv
+6210.40 - Garmen lainnya untuk pria atau
+anak laki- laki :
+2528. | 6210.40.10 -- Pakaian yang digunakan untuk | PCE V V
+pelindung dari api
+2529. | 6210.40.20 -- Pakaian yang digunakan untuk | PCE V V
+pelindung dari bahan kimia atau
+radiasi
+2530. | 6210.40.90 --_Lain-lain PCE viv
+6210.50 - Pakaian wanita atau anak
+perempuan lainnya:
+2531. | 6210.50.10 -- Pakaian yang digunakan untuk | PCE V V
+
+pelindung dari api
+

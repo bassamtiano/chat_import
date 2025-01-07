@@ -1,0 +1,142 @@
+- 468 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+- Benang lainnya, dari serat stapel
+akrilik atau modakrilik :
+
+2752.
+
+5509.61.00
+
+-- Dicampur terutama atau semata-
+mata dengan wol atau bulu hewan
+halus
+
+KGM
+
+2753.
+
+5509.62.00
+
+-- Dicampur terutama atau semata-
+mata dengan kapas
+
+KGM
+
+2754.
+
+5509.69.00
+
+-- Lain-lain
+
+KGM
+
+- Benang lainnya :
+
+2755.
+
+5509.91.00
+
+-- Dicampur terutama atau semata-
+mata dengan wol atau bulu hewan
+halus
+
+KGM
+
+2756.
+
+5509.92.00
+
+-- Dicampur terutama atau semata-
+mata dengan kapas
+
+KGM
+
+2757.
+
+5509.99.00
+
+-- Lain-lain
+
+KGM
+
+55.10
+
+Benang (selain benang jahit) dari
+serat stapel artifisial, tidak
+disiapkan untuk penjualan
+eceran.
+
+- Mengandung serat stapel artifisial
+85 % atau lebih menurut beratnya :
+
+2758.
+
+5510.11.00
+
+-- Benang tunggal
+
+KGM
+
+2759.
+
+5510.12.00
+
+-- Benang rangkap (dilipat) atau
+dibentuk kabel
+
+KGM
+
+2760.
+
+5510.20.00
+
+- Benang lainnya, dicampur
+terutama atau semata-mata dengan
+wol atau bulu hewan halus
+
+KGM
+
+2761.
+
+5510.30.00
+
+- Benang lainnya, dicampur
+terutama atau semata-mata dengan
+kapas
+
+KGM
+
+2762.
+
+5510.90.00
+
+- Benang lainnya
+
+KGM
+
+55.12
+
+Kain tenunan dari serat stapel
+

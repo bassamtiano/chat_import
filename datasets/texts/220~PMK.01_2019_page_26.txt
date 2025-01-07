@@ -1,0 +1,47 @@
+- 26 -
+
+penambahan dan perluasan unsur yang sudah ada pada
+
+tahapan sebelumnya dengan tetap melakukan
+
+penyempurnaan unsur-unsur yang sudah ada di tahapan
+sebelumnya.
+
+1) Tahapan Uji Coba Awal Sistem National Single Window
+Tahapan ini dilakukan untuk melakukan pengujian
+dan system-test atas prototype Portal Indonesia
+National Single Window yang telah diselesaikan
+pembangunannya selama tahapan technical-
+development, yang dilakukan dengan menggunakan
+real-data dan real-process dalam satu siklus penuh
+pelayanan atas barang impor.
+
+a) Target Waktu:
+Uji coba awal ini ditargetkan sudah harus
+diselesaikan paling lambat 1 (satu) bulan sebelum
+dilakukan penerapan tahapan “Implementasi
+Tahap Kesatu”, yang berarti paling lambat pada
+akhir November 2007 sudah harus dilaksanakan.
+Pencapaian target waktu tahapan uji coba ini
+telah berhasil dipenuhi oleh Tim Persiapan
+National Single Window, dimana telah dilakukan
+peluncuran uji coba awal sistem National Single
+Window pada tanggal 19 November 2007.
+
+b) Instansi Pemerintah (GA) yang dilibatkan:
+Untuk tahapan uji coba awal ini, instansi
+pemerintah (GA) yang dilibatkan hanya mencakup
+2 (dua) GA yaitu Direktorat Jenderal Bea dan
+Cukai (DJBC) dan Badan Pengawas Obat dan
+Makanan (BPOM).
+
+c) Pelaku Usaha (User) yang menggunakan:
+Pelaku usaha yang dilibatkan sebagai pengguna
+Portal Indonesia National Single Window pada
+tahapan ini hanya  meliputi . 10 (sepuluh)
+perusahan Importir Jalur Prioritas (MITA Prioritas)
+yang mengimpor komodita makanan, minuman
+
+dan obat.
+
+vanv sah remenkou cy

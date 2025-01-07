@@ -1,0 +1,95 @@
+- 436 -
+
+No
+
+Pos Tarif
+
+Uraian Barang
+
+Nama Bahan
+Kimia
+
+Nomor
+CAS
+
+Kode
+Daftar
+
+Kemasan
+
+Terkecil
+
+Distributor
+
+Keperluan|
+Lain
+Tidak
+Untuk
+Pangan
+
+Laborator
+lium /Pene|
+litian
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+3639.
+
+3640.
+
+cyanidates
+
+Contoh:
+Tabun: O-Ethyl
+N,N-dimethyl
+Phosphoramido
+cyanidate (CAS
+No. 77-81-6)
+
+1A02
+
+O-Alkyl (H or <
+Cio, incl.
+cycloalkyl)
+O-2-dialkyl
+(Me, Et, n-Pr or
+i-Pr)-
+aminoethyl
+alkyl (Me, Et,
+n-Pr or i-Pr)
+phosphonites
+dan garam
+alkilasi atau
+protonasinya
+yang sesuai
+
+Contoh:
+
+QL: O-Ethyl O-
+2Q-
+diisopropylami
+noethyl
+Methylphospho
+nite (CAS No.
+57856-11-8)
+
+1B10
+
+Bis[(5-etil-2-
+metil-2-oksido-
+
+42595-45-9
+
+2B04
+

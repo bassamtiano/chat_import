@@ -1,0 +1,118 @@
+- 441 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+6201.20
+
+- Dari wol atau bulu hewan halus :
+
+2414.
+
+6201.20.10
+
+-- Mantel panjang, mantel hujan,
+car-coat, cloak, jubah bertopi,
+poncho, mantel three-quarter,
+greatcoat, hooded cape, mantel
+duffel, trench coat, gabardine dan
+padded waistcoat
+
+PCE
+
+2415.
+
+6201.20.90
+
+-- Lain-lain
+
+PCE
+
+6201.30
+
+- Dari kapas:
+
+2416.
+
+6201.30.10
+
+-- Mantel panjang, mantel hujan,
+car-coat, cloak, jubah bertopi,
+poncho, mantel three-quarter,
+greatcoat, hooded cape, mantel
+duffel, trench coat, gabardine dan
+padded waistcoat
+
+PCE
+
+2417.
+
+6201.30.90
+
+-- Lain-lain
+
+PCE
+
+6201.40
+
+- Dari serat buatan :
+
+2418.
+
+6201.40.10
+
+-- Mantel panjang, mantel hujan,
+car-coat, cloak, jubah bertopi,
+poncho, mantel three-quarter,
+greatcoat, hooded cape, mantel
+duffel, trench coat, gabardine dan
+padded waistcoat
+
+PCE
+
+2419.
+
+6201.40.90
+
+-- Lain-lain
+
+PCE
+
+6201.90
+
+- Dari bahan tekstil lainnya :
+
+-- Dari sutra :
+
+2420.
+
+6201.90.11
+
+--- Mantel panjang, mantel hujan,
+car-coat, cloak, jubah bertopi,
+poncho, mantel three-quarter,
+greatcoat, hooded cape, mantel
+duffel, trench coat, gabardine dan
+padded waistcoat
+
+PCE
+

@@ -1,0 +1,92 @@
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+dan/atau
+spesifikasi/keterangan:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan:
+
+1. PI Hewan Dari Jenis
+Lembu untuk
+Pemenuhan Stok dan
+Stabilisasi Harga (API-
+U) yang masih berlaku;
+dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI Hewan Dari Jenis
+Lembu untuk
+Pemenuhan Stok dan
+Stabilisasi Harga (API-
+U) yang masih berlaku;
+dan
+
+2. Data elektronik dalam
+NIB, terkait dengan
+identitas Importir.
+
+Dalam hal perubahan
+uraian barang, pos
+
+(API-U) untuk Sapi
+Bakalan dan Kerbau
+Bakalan; dan
+2. PI Hewan Dari Jenis
+Lembu untuk
+Pemenuhan Stok dan
+Stabilisasi Harga ( API-
+U) untuk Sapi Bakalan
+dan Kerbau Bakalan,
+wajib menyampaikan
+laporan realisasi distribusi
+barang yang diimpor.
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan Importir dapat
+memiliki 1 (satu) atau lebih
+untuk setiap jenis PI
+Hewan yang masih
+berlaku, dalam 1 (satu)
+periode sesuai dengan
+Neraca Komoditasnya.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan Importir dapat
+memiliki 1 (satu) atau lebih
+untuk setiap jenis PI
+Hewan yang masih
+berlaku, dalam 1 (satu)
+periode.
+
+PI Hewan berlaku untuk 1
+

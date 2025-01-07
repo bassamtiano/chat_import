@@ -1,0 +1,87 @@
+- 64 -
+
+B. TATA KERJA PENGELUARAN BARANG IMPOR UNTUK DIPAKAI DENGAN
+PELAYANAN SEGERA (RUSH HANDLING)
+I. Menggunakan Sistem Komputer Pelayanan (SKP) Pelayanan Segera
+(Rush Handling)
+
+1.
+
+Importir mengakses SKP Pelayanan Segera (Rush Handling)
+
+melalui portal pengguna jasa melalui laman (website) Direktorat
+
+Jenderal Bea dan Cukai di http://www.beacukai.go.id.
+
+Importir mengajukan permohonan pengeluaran barang dengan
+
+Pelayanan Segera (Rush Handling) kepada Kantor Bea dan Cukai
+
+tempat pemasukan barang dengan memasukkan data, paling
+
+sedikit meliputi:
+
+a.
+
+b
+Cc,
+d
+
+—
+
+a
+
+79 5 9 BB
+
+NPWP/KTP/Paspor/Identitas Lainnya importir;
+
+nama importir;
+
+alamat importir;
+
+invoice - nomor dan tanggal;
+
+Bill of Lading / Airway Bill - House & Master / Dokumen
+Pengangkutan Barang Lainnya — nomor dan tanggal;
+
+nomor, tanggal, pos, dan subpos dokumen inward manifest
+(BC 1.1);
+
+valuta;
+
+NDPBM:
+
+nilai barang — FOB;
+
+freight,
+
+insurance;
+
+Bea Masuk;
+
+Cukai;
+
+Pajak Pertambahan Nilai (PPN);
+
+Pajak Penjualan Barang Mewah (PPnBM); dan
+
+Pajak Penghasilan (PPh);
+
+pos Tarif / HS Code barang;
+
+uraian jenis barang, merk, tipe, spesifikasi wajib;
+
+negara asal barang;
+
+fasilitas (jenis, nomor, dan tanggal dokumen);
+
+persyaratan larangan atau pembatasan (jenis, nomor, dan
+tanggal dokumen);
+
+tarif dan fasilitas;
+
+jumlah dan jenis satuan;
+
+berat bersih (Kg);
+
+swe jah: kemenkeu gel 7?

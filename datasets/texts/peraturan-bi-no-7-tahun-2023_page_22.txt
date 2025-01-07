@@ -1,0 +1,85 @@
+2023, No.23/BI
+
+(1)
+
+(2)
+
+(3)
+
+(1)
+
+(2)
+
+(3)
+
+-22-
+
+Pasal 52
+LPEI hanya dapat menerima DHE SDA debitur LPEI
+melalui rekening LPEI pada kantor cabang Bank yang
+berkedudukan di luar negeri.
+LPEI wajib memindahkan DHE SDA _ sebagaimana
+dimaksud pada ayat (1) ke Bank dalam jangka waktu
+tertentu yang ditetapkan oleh Bank Indonesia.
+LPEI yang tidak memenuhi kewajiban sebagaimana
+dimaksud pada ayat (2) dikenai sanksi administratif
+berupa teguran tertulis.
+
+Pasal 53
+
+LPEI wajib memastikan dana yang akan ditempatkan ke
+dalam instrumen keuangan yang diterbitkan oleh LPEI
+sebagaimana dimaksud dalam Pasal 20 ayat (1) huruf c
+berasal dari DHE SDA.
+
+LPEI harus memberikan penanda khusus untuk setiap
+instrumen keuangan yang diterbitkan LPEI sebagaimana
+dimaksud dalam Pasal 20 ayat (1) huruf c.
+
+LPEI yang tidak memenuhi kewajiban sebagaimana
+dimaksud pada ayat (1) dikenai sanksi administratif
+berupa teguran tertulis.
+
+Pasal 54
+
+LPEI hanya dapat melakukan pengaksepan Perintah Transfer
+Dana untuk Transfer Dana Keluar ke Bank.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+Pasal 55
+LPEI dapat melakukan pengkreditan pemasukan DHE
+SDA pada rekening Eksportir Debitur LPEI jika Message
+FTMS untuk seluruh pemasukan DHE SDA melalui
+transaksi TT telah dilengkapi informasi Ekspor
+sebagaimana dimaksud dalam Pasal 9 ayat (1).
+LPEI melakukan penilaian terhadap  kelengkapan
+informasi Ekspor yang terdapat pada Message FTMS
+sebagaimana dimaksud pada ayat (1).
+LPEI wajib menyampaikan informasi mengenai:
+a. Transfer Dana Masuk dan/atau Transfer Dana
+Keluar sebagaimana dimaksud dalam Pasal 26; dan
+b. penempatan DHE SDA ke dalam _ instrumen
+keuangan yang diterbitkan LPEI] sebagaimana
+dimaksud dalam Pasal 20 ayat (1) huruf c,
+kepada Bank Indonesia dalam laporan DHE SDA.
+LPEI wajib menyampaikan Laporan Transaksi Non-TT
+SDA yang dilengkapi informasi Ekspor kepada Bank
+Indonesia.
+LPEI yang tidak memenuhi kewajiban sebagaimana
+dimaksud pada ayat (3) dan ayat (4) dikenai sanksi
+administratif berupa kewajiban membayar.
+
+Pasal 56
+
+Ketentuan lebih lanjut mengenai kewajiban LPEI dan tata cara
+pengenaan sanksi administratif diatur dalam Peraturan
+Anggota Dewan Gubernur.

@@ -1,0 +1,35 @@
+- 120 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Beste
+8479.81 -- Untuk mengerjakan logam,
+termasuk penggulung kawat listrik:
+542.| 8479.81.10 --- Dioperasikan secara elektrik V V V
+8479.82 -- Mesin pencampur, pengadon,
+penghancur, penggerinda, penyaring,
+pengubah, penghomogen, pengemulsi
+atau pengaduk:
+543. | 8479.82.10 --- Dioperasikan secara elektrik V V V
+544. | ex 8479.83.00 -- Pengepres Dioperasikan V V V
+isostatik dingin secara elektrik
+84.80 Kotak cetakan untuk pengecoran
+logam; dasar cetakan; pola
+cetakan; cetakan untuk logam
+(selain cetakan ingot), karbida
+logam, kaca, bahan mineral, karet
+atau plastik.
+8480.30 - Pola cetakan:
+545. | 8480.30.90 -- Lain-lain v |v Vv
+- Cetakan untuk logam atau karbida
+logam:
+546. | 8480.41.00 -- Tipe injeksi atau kompresi V V V
+547. | 8480.49.00 -- Lain-lain viv V
+548. | 8480.50.00 - Cetakan untuk kaca V V V
+- Cetakan untuk bahan karet atau
+plastik:
+8480.71 -- Tipe injeksi atau kompresi:
+549.| 8480.71.10 --- Cetakan untuk sol alas kaki V V V
+550. | ex 8480.71.90 --- Lain-lain: Kecuali cetakan V V V
+
+untuk cakram
+optik
+

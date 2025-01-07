@@ -1,0 +1,45 @@
+- 194 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+1530.] 0303.59.20 --- Bawal putih (Pampus spp.) V V
+1531.] 0303.59.90 --- Lain-lain V V
+
+- Ikan dari keluarga Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae dan
+
+Muraenolepididae, tidak termasuk sisa ikan yang
+
+dapat dimakan dari subpos 0303.91 sampai
+
+dengan 0303.99:
+1532.) 0303.63.00 -- Cod (Gadus morhua, Gadus ogac, Gadus V V
+
+macrocephalus)
+1533.) 0303.64.00 -- Haddock (Melanogrammus aeglefinus) v V
+1534.| 0303.65.00 -- Coalfish (Pollachius virens) V V
+1535.| 0303.66.00 -- Hake (Merluccius spp., Urophycis spp.) V V
+1536.] 0303.67.00 -- Alaska Pollock (Theragra chalcogramma) v V
+1537.| 0303.68.00 -- Blue whitings (Micromesistius poutassou, V V
+
+Micromesistius australis)
+1538.| 0303.69.00 -- Lain-lain V V
+
+- Ikan lainnya, tidak termasuk sisa ikan yang
+
+dapat dimakan dari subpos 0303.91 sampai
+
+dengan 0303.99:
+1539.) 0303.81.00 -- Dogfish dan hiu lainnya V V
+1540.] 0303.82.00 -- Pari dan skates (Rajidae) V V
+1541.) 0303.83.00 -- Toothfish (Dissostichus spp.) V V
+1542.| 0303.84.00 -- Seabass (Dicentrarchus spp.) V V
+
+-- Lain-lain:
+
+--- Ikan laut:
+1543.] 0303.89.11 ---- Kerapu V V
+1544.| 0303.89.13 ---- Bluntnose lizardfish (Trachinocephalus V V
+

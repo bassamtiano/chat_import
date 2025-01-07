@@ -1,0 +1,31 @@
+- 355 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+maupun tidak sebelum atau selama proses
+pengasapan.
+- Tiram:
+0307.11 -- Hidup, segar atau dingin:
+1728. | ex 0307.11.10 | --- Hidup Selain untuk calon induk, V V
+induk dan benih untuk
+pembudidayaan
+1729. | 0307.11.20 --- Segar atau dingin V V
+1730. | 0307.12.00 -- Beku V V
+0307.19 -- Lain-lain:
+1731. | 0307.19.20 --- Dikeringkan, diasinkan atau dalam air V V
+garam
+1732. | 0307.19.30 --- Diasapi V V
+- Kerang dan moluska lainnya dari keluarga
+Pectinidae:
+0307.21 -- Hidup, segar atau dingin:
+1733. | ex 0307.21.10 | --- Hidup Selain untuk calon induk, V V
+induk dan benih untuk
+pembudidayaan
+1734. | 0307.21.20 --- Segar atau dingin V V
+1735. | 0307.22.00 -- Beku V V
+0307.29 -- Lain-lain:
+1736. | 0307.29.30 --- Dikeringkan, diasinkan atau dalam air V V
+garam
+1737. | 0307.29.40 --- Diasapi V V
+- Remis (Mytillus spp., Perna spp.):
+0307.31 -- Hidup, segar atau dingin:
+

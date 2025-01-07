@@ -1,0 +1,31 @@
+- 145 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+094. | 7308.90.99 --- Lain-lain viv
+095. | 7310.10.10 -- Dari tinplate Vi] Vv
+096. | 7310.10.9 --- Dituang, ditempa atau dicap, dalam keadaan V V
+kasar
+097. | 7310.10.99 --- Lain-lain Vv |v
+098. | 7310.21.1 ---- Dari tinplate viv
+099. | 7310.21.19 ---- Lain-lain viv
+100. | 7310.21.9 ---- Dari tinplate Vi] Vv
+101. | 7310.21.99 ---- Lain-lain viv
+102. | 7310.29.1 ---- Dari tinplate V [Vv
+103. | 7310.29.19 ---- Lain-lain viv
+104. | 7310.29.9 ---- Dari tinplate V Bl
+105. | 7310.29.92 ---- Dituang, ditempa atau dicap, dalam keadaan V V
+kasar
+106. | 7310.29.99 ---- Lain-lain viv
+107. | 7312.10.10 -- Locked coil, flattened strand dan non-rotating V V
+wire rope
+108. | 7312.10.20 -- Disepuh atau dilapisi dengan kuningan dan V V
+dengan diameter tidak melebihi 3 mm
+109. | 7312.10.30 -- Disepuh atau dilapisi dengan aluminium V/V
+110. | 7312.10.91 --- Kawat baja dipilin untuk beton pra-tekan V V
+111. | 7312.10.99 --- Lain-lain Vv |v
+112. | 7312.90.00 - Lain-lain viv
+113. | 7316.00.00 Jangkar, jangkar kecil dan bagiannya, dari besi V V
+atau baja.
+114. | 7317.00.10 - Paku kawat v [Vv
+115. | 7317.00.20 - Paku kokot Vv |v
+

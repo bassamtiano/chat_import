@@ -1,0 +1,97 @@
+- 193 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+brisling atau sprats (Sprattus sprattus), mackerel
+(Scomber scombrus, Scomber australasicus,
+Scomber japonicus), makarel Indian (Rastrelliger
+spp.), seerfishes (Scomberomorus spp.), makarel
+jack dan makarel kuda (Trachurus spp.), jacks,
+crevalles (Caranx spp.), cobia (Rachycentron
+canadum), bawal putih (Pampus spp.), Pacific
+saury (Cololabis saira), scads (Decapterus spp.),
+capelin (Mallotus villosus), todak (Xiphias gladius),
+Kawakawa (Euthynnus affinis), bonitos (Sarda
+Spp.), marlin, ikan layar, spearfish (Istiophoridae),
+tidak termasuk sisa ikan yang dapat dimakan
+dari subpos 0303.91 sampai dengan 0303.99:
+
+1522.
+
+0303.51.00
+
+-- Herring (Clupea harengus, Clupea pallasii)
+
+1523.
+
+0303.53.00
+
+-- Sarden (Sardina pilchardus, Sardinops spp.),
+sardinella (Sardinella spp.), brisling atau sprats
+(Sprattus sprattus)
+
+0303.54
+
+-- Makarel (Scomber scombrus, Scomber
+australasicus, Scomber japonicus):
+
+1524.
+
+0303.54.10
+
+--- Makarel (Scomber scombrus, Scomber
+australasicus)
+
+1525.
+
+0303.54.20
+
+--- Makarel pasifik (Scomber japonicus)
+
+1526.
+
+0303.55.00
+
+-- Makarel jack dan makarel kuda (Trachurus
+spp.)
+
+1527.
+
+0303.56.00
+
+-- Cobia (Rachycentron canadum)
+
+1528.
+
+0303.57.00
+
+-- Todak (Xiphias gladius)
+
+0303.59
+
+-- Lain-lain:
+
+1529.
+
+0303.59.10
+
+--- Makarel Indian (Rastrelliger kanagurta);
+Makarel Island (Rastrelliger faughni)
+

@@ -1,0 +1,10 @@
+- 48 -
+
+Nomor (25) : diisi nomor pemberitahuan pabean dari barang impor terkait.
+Nomor (26) : diisi tanggal, bulan dan tahun pemberitahuan pabean dari
+barang impor terkait.
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+ttd
+
+SRI MULYANI INDRAWATI

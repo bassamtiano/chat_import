@@ -1,0 +1,59 @@
+-74-
+
+1050 | 8704.43.22 |---- - Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1051 | 8704.43.23 #£=|----- Kendaraan tangki; lori (truk) semen curah
+1052 | 8704.43.24 $|----- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1053 | 8704.43.25 |----- Lori (truk) Hooklift
+1054 | 8704.43.29 =| ----- Lain-lain
+- Dengan kedua mesin piston pembakaran dalam cetus api dan motor
+listrik sebagai motor untuk penggerak :
+8704.51 - - g.v.w. tidak melebihi 5 ton :
+- - - Lain-lain :
+1055 | 8704.51.21 - - - - Lori (truk) berpendingin
+1056 | 8704.51.22 - - - - Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1057 | 8704.51.23 - - - - Kendaraan tangki; lori (truk) semen curah
+1058 | 8704.51.24 - - - - Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1059 | 8704.51.25 - - - - Lori (truk) Hooklift
+1060 | 8704.51.26 - - -- Truk pick-up
+1061 | 8704.51.27 - - - - Kendaraan roda tiga
+1062 | 8704.51.29 - - -- Lain-lain
+8704.52 - - g.v.w. melebihi 5 ton :
+---g.v.w. tidak melebihi 6 t :
+- --- Lain-lain
+1063 | 8704.52.21 |==-=- Lori (truk) berpendingin
+1064 | 8704.52.22 |---- - Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1065 |: 8704.52:23 | --=-=- Kendaraan tangki; lori (truk) semen curah
+1066 | 8704.52.24 |----- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1067 | 8704.52.25 | ===+=2- Lori (truk) Hooklift
+1068 | 8704.52.29 | === 5 Lain-lain
+--- g.v.w. melebihi 6 t tetapi tidak melebihi 20 t :
+- --- Lain-lain :
+1069 | 8704.52.41 #£=|----- Lori (truk) berpendingin
+1070 | 8704.52.42 |----- Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1071. | 8704.52.43 $=‘™|-=+--- Kendaraan tangki; lori (truk) semen curah
+1072 | 8704.52.44 $|-==--- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1073 | 8704.52.45 |----- Lori (truk) Hooklift
+1074 | 8704.52.48 #£=<x|----- Lain-lain, g.v.w. melebihi 6 t tetapi tidak melebihi 10 t
+1075 | 8704.52.49 | --<-- Lain-lain
+- -- g.v.w. melebihi 20 t tetapi tidak melebihi 24 t :
+- --- Lain-lain :
+1076 | 8704.52.61 #£=%+|----- Lori (truk) berpendingin
+1077 | 8704.52.62  $|---- - Kendaraan pengumpul sampah mempunyai alat untuk
+memadatkan sampah
+1078 | 8704.52.63 |----- Kendaraan tangki; lori (truk) semen curah
+1079 | 8704.52.64 |----- Kendaraan kargo berlapis baja untuk pengangkutan barang
+berharga
+1080 | 8704.52.65 |----- Lori (truk) Hooklift
+1081 | 8704.52.69 |----- Lain-lain
+8704.60 - Lain-lain, hanya dengan motor listrik untuk penggerak :
+- - Lain-lain, g.v.w. tidak melebihi 5 t :
+
+wea tone

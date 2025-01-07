@@ -1,0 +1,78 @@
+«{1i=
+
+134 | 6405.90.00 - Lain-lain
+65.06 Tutup kepala lainnya, diberi garis atau dirapikan pinggirannya
+maupun tidak.
+6506.10 - Tutup kepala pengaman :
+135 | 6506.10.10 - - Helm untuk pengendara sepeda motor
+136 | 6506.10.90 - - Lain-lain
+- Lain-lain :
+137 | 6506.91.00 - - Dari karet atau dari plastic
+68.02 Batu monumen dan batu bangunan dikerjakan (kecuali batu
+
+sabak) dan barang terbuat dari padanya, selain barang dari pos
+68.01; kubus mosaik dan sejenisnya, dari batu alam (termasuk
+batu sabak), dengan alas maupun tidak; butiran, kepingan dan
+bubuk dengan warna artifisial dari batu alam (termasuk batu
+sabak).
+
+138 | 6802.10.00 - Ubin, kubus dan barang semacam itu, empat persegi panjang
+maupun tidak (termasuk bujur sangkar), yang permukaan
+terluasnya dapat menutupi bujur sangkar dengan sisi kurang dari 7
+cm; butiran dengan warna artifisial, serpihan dan bubuk
+
+- Batu monumen atau batu bangunan lainnya dan barang terbuat
+dari padanya, dipotong atau digergaji secara sederhana, dengan
+permukaan datar atau rata :
+
+139 6802.21.00 - - Marmer, travertine dan alabaster
+140 | 6802.23.00 - - Granit
+
+6802.29 - - Batu lainnya :
+141 6802.29.10 - - - Batu calcareous lainnya
+142 | 6802.29.90 - - - Lain-lain
+
+- Lain-lain :
+
+6802.91 - - Marmer, travertine dan alabaster :
+143 | 6802.91.10 - - - Marmer
+144 | 6802.91.90 - - - Lain-lain
+145 6802.92.00 - - Batu calcareous lainnya
+
+6802.93 - - Granit :
+146 | 6802.93.10 - - - Lembaran tebal dipoles
+147 6802.93.90 - - - Lain-lain
+148 | 6802.99.00 - - Batu lainnya
+
+69.10 Bak cuci, wastafel, alas baskom cuci, bak mandi, bidet, bejana
+
+kloset, tangki air pembilasan, tempat kencing, dan perlengkapan
+saniter semacam itu dari keramik.
+
+149 | 6910.10.00 - Dari porselin atau keramik cina
+150 | 6910.90.00 - Lain-lain
+Patung dan barang keramik ornamental lainnya
+
+6913.10 - Dari porselin atau keramik cina :
+151 | 6913.10.90 - - Lain-lain
+
+6913.90 - Lain-lain :
+152 | 6913.90.90 - - Lain-lain
+
+70.13 Barang kaca dari jenis yang digunakan untuk meja, dapur, toilet,
+
+kantor, dekorasi dalam ruangan atau keperluan semacam itu
+(selain yang disebut dalam pos 70.10 atau 70.18).
+
+- Gelas minum stemware, selain keramik kaca :
+
+153 | 7013.22.00 - - Dari kristal timbal
+- Gelas minum lainnya, selain keramik kaca :
+154 | 7013.33.00 - - Dari kristal timbal
+
+- Barang kaca dari jenis yang digunakan untuk meja (selain gelas
+minum) atau keperluan dapur selain keramik kaca :
+
+155 7013.41.00 - - Dari kristal timbal
+
+www.jdih.kemenkeu.go.id

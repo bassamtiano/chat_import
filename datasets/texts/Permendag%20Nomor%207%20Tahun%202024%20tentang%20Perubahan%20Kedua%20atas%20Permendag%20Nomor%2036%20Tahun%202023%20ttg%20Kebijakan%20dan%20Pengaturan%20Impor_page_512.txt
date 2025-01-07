@@ -1,0 +1,37 @@
+- 497 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+3092. | 5402.51.00 -- Dari nilon atau poliamida KGM V
+lainnya
+3093. | 5402.52.00 -- Dari poliester KGM V
+3094. | 5402.53.00 -- Dari polipropilena KGM V
+- Benang lainnya, rangkap (dilipat)
+atau dibentuk kabel:
+3095. | 5402.61.00 -- Dari nilon atau poliamida KGM
+lainnya
+3096. | 5402.62.00 -- Dari poliester KGM V
+3097. | 5402.63.00 -- Dari polipropilena KGM V
+- Benang lainnya, rangkap (dilipat)
+atau dibentuk kabel :
+3098. | 5402.69.00 -- Lain-Lain KGM V
+54.03 Benang filamen artifisial (selain
+benang jahit), tidak disiapkan
+untuk penjualan eceran,
+termasuk monofilamen artifisial
+yang kurang dari 67 desiteks.
+3099. | 5403.10.00 - Benang kekuatan tinggi dari KGM V
+rayon viskose
+- Benang lainnya, tunggal :
+5403.31 -- Dari rayon viskose, tanpa
+antihan, atau dengan antihan tidak
+melebihi 120 putaran tiap meter :
+3100. | 5403.31.10 --- Benang bertekstur KGM V
+3101. | 5403.31.90 --- Lain-lain KGM V
+5403.32 -- Dari rayon viskose, dengan
+antihan, melebihi 120 putaran tiap
+meter :
+3102. | 5403.32.90 --- Lain-lain KGM V
+5403.33 -- Dari selulosa asetat :
+3103. | 5403.33.10 --- Benang bertekstur KGM V
+

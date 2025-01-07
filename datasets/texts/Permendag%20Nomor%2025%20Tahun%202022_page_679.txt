@@ -1,0 +1,54 @@
+-31-
+
+Parameter
+
+Output
+
+No Kategori Pengecualian Persyaratan : : Masa Berlaku | Keterangan
+Pengecualian Pengecualian
+barang untuk konservasi alam sejak tanggal
+diterbitkan
+121. |Barang untuk keperluan Pertimbangan dari instansi atau Pos Tarif/HS, Surat Keterangan Transaksional
+khusus kaum penyandang kementerian/lembaga terkait Jumlah, Jenis Direktur Jenderal
+cacat Barang atas nama Menteri_ | Paling lama 6
+(enam) bulan
+sejak tanggal
+diterbitkan
+122. |Barang perlengkapan militer Pertimbangan dari instansi atau Pos Tarif/HS, Surat Keterangan Transaksional
+dan kepolisian, yang kementerian/lembaga terkait Jumlah, Jenis Direktur Jenderal
+diperuntukkan bagi keperluan Barang atas nama Menteri_ | Paling lama 6
+pertahanan dan keamanan (enam) bulan
+negara sejak tanggal
+diterbitkan
+123. |Barang untuk keperluan Pertimbangan dari instansi atau Pos Tarif/HS, Surat Keterangan Transaksional
+olahraga yang diimpor oleh kementerian/lembaga terkait Jumlah, Jenis Direktur Jenderal
+induk organisasi olahraga Barang atas nama Menteri_ | Paling lama 6
+nasional (enam) bulan
+sejak tanggal
+diterbitkan
+124. | Barang yang diimpor oleh Surat pernyataan yang menyatakan | Pos Tarif/HS, Surat Keterangan Transaksional | Hanya dapat
+perusahaan pemilik API-P barang yang diimpor akan Jumlah, Jenis Direktur Jenderal diberikan
+digunakan sebagai barang modal, Barang atas nama Menteri | Selama 6 kepada
+bahan baku, dan/atau bahan (enam) bulan Importir
+penolong yang terkait dengan sejak tanggal pemilik API-P
+industrinya diterbitkan
+125. | Barang yang diimpor oleh Pertimbangan dari instansi atau Pos Tarif/HS, Surat Keterangan Transaksional
+
+pemerintah pusat atau
+pemerintah daerah yang
+ditujukan untuk kepentingan
+umum.
+
+kementerian/lembaga terkait
+
+Jumlah, Jenis
+Barang
+
+Direktur Jenderal
+atas nama Menteri
+
+Paling lama 6
+(enam) bulan
+sejak tanggal
+diterbitkan
+

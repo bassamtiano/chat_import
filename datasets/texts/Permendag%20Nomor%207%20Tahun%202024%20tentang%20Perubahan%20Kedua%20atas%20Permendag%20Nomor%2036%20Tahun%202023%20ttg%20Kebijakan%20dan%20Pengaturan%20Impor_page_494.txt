@@ -1,0 +1,38 @@
+- 479 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+5801.22 -- Kain corduroy dipotong:
+2890. | 5801.22.10 --- Dilapisi, ditutupi atau MTR Vv
+dilaminasi
+2891. | 5801.22.90 --- Lain-lain MTR Viv
+5801.23 -- Kain bulu pakan lainnya:
+2892. | 5801.23.10 --- Dilapisi, ditutupi atau MTR Vv
+dilaminasi
+2893. | 5801.23.90 --- Lain-lain MTR Viv
+5801.26 -- Kain chenille:
+2894. | 5801.26.10 --- Dilapisi, ditutupi atau MTR Vv
+dilaminasi
+2895. | 5801.26.90 --- Lain-lain MTR viv
+5801.27 -- Kain bulu lusi:
+2896. | 5801.27.10 --- Dilapisi, ditutupi atau MTR Vv] Vv
+dilaminasi
+2897. | 5801.27.90 --- Lain-lain MTR viv
+- Dari serat buatan:
+5801.31 -- Kain bulu pakan tidak dipotong:
+2898. | 5801.31.10 --- Dilapisi, ditutupi atau MTR Vv] Vv
+dilaminasi
+2899. | 5801.31.90 --- Lain-lain MTR Viv
+5801.32 -- Kain corduroy dipotong:
+2900. | 5801.32.10 --- Dilapisi, ditutupi atau MTR Vv
+dilaminasi
+2901. | 5801.32.90 --- Lain-lain MTR Viv
+5801.33 -- Kain bulu pakan lainnya:
+2902. | 5801.33.10 --- Dilapisi, ditutupi atau MTR Vv
+dilaminasi
+2903. | 5801.33.90 --- Lain-lain MTR viv
+5801.36 -- Kain chenille:
+2904. | 5801.36.10 --- Dilapisi, ditutupi atau MTR Vv] Vv
+
+dilaminasi
+

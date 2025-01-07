@@ -1,0 +1,38 @@
+- 408 -
+
+XLI. BARANG BERBASIS SISTEM PENDINGIN
+. : Post
+No Pos Tarif/HS Uraian Barang Keterangan IT | IP | PI Border
+84.15 Mesin pengatur suhu udara, terdiri dari kipas yang digerakkan | Impor barang berbasis sistem
+dengan motor dan elemen untuk mengubah suhu dan berpendingin dapat dilakukan oleh
+kelembaban udara, termasuk mesin tersebut yang tidak dapat Importir (API-P) atau Importir (API-
+mengatur kelembaban udara secara terpisah. U).
+8415.20 - Dari jenis yang digunakan untuk orang, di dalam kendaraan
+bermotor; Selain yang menggunakan
+3464. lex 8415.20.10 | -- Dengan kapasitas pendinginan tidak melebihi 26,38 kW refrigerant Chlorofluorocarbon V
+8465. lex 8415.20.90 | -- Lain-lain (CFC) atau HCFC-22 baik dalam T
+keadaan terisi maupun keadaan
+- Lain-lain: kosong.
+8415.81 -- Digabungkan dengan unit refrigerating dan katup untuk
+mengubah siklus pendingin/ pemanas (pompa panas Impor Barang Berbasis Sistem
+reversible): Pendingin dari luar daerah pabean
+--- Darijenis yang digunakan pada kendaraan udara: ke Tempat Penimbunan Berikat
+3466. jex 8415.81.11 ---- Dengan kapasitas pendinginan tidak melebihi 21,10 (TPB), diberlakukan kebijakan dan V
+kW pengaturan Impor.
+3467. Jjex 8415.81.12 | ---- Dengan kapasitas pendinginan melebihi 21,10 kW dengan Kebijakan d t I V
+kecepatan aliran udara pada tiap unit evaporator lebih dari epyakan Can pengaturan ‘mpor
+67,96 m3/ menit diberlakukan terhadap Impor
+7 —— A Barang Berbasis Sistem Pendingin
+8468. |ex 8415.81.19 | ---- Lain-lain V
+dalam rangka kemudahan Impor
+--- Dari jenis yang digunakan pada kendaraan diatas rel: tujuan ekspor pembebasan.
+3469. |jex 8415.81.21 | ---- Dengan kapasitas pendinginan tidak melebihi 26,38 kW V
+3470. lex 8415.81.29 | ---- Lain-lain erifikasi atau Penelusuran Teknis V
+--- Dari jenis yang digunakan di kendaraan bermotor (selain dari [Impor (VPTI) dilakukan di:
+yang dimaksud pada subpos 8415.20): a. Negara muat;
+b. Pelabuhan muat; atau
+3471. |jex 8415.81.31 | ---- Dengan kapasitas pendinginan tidak melebihi 26,38 kW c. Negara asal barang, V
+3472, jex 8415.81.39 | ---- Lain-lain di luar negeri. V
+
+--- Lain - lain:
+

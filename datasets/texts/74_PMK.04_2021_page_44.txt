@@ -1,0 +1,41 @@
+~ 44 -
+
+PETUNJUK PENGISIAN
+
+Kop Nota diisi dengan identitas nama Kantor Pabean yang menerbitkan
+Nota Pemberitahuan Persetujuan/Penolakan Izin Barang Impor Eksep.
+Untuk Kantor Pabean yang merupakan satuan kerja Kantor Pelayanan
+Utama hanya mengisi identitas nama satuan kerja Eselon II dan untuk
+Kantor Pabean yang merupakan satuan kerja Kantor Pengawasan dan
+Pelayanan Bea dan Cukai mengisi identitas nama satuan kerja Eselon II
+dan Eselon II.
+Pengisian kolom dalam Nota Pemberitahuan Persetujuan/Penolakan Izin
+Barang Impor Eksep adalah sebagai berikut:
+a. Nomor Nota Pemberitahuan Persetujuan/Penolakan Izin Barang
+Impor Eksep
+Diisi dengan nomor urutan administrasi penerbitan Nota
+Pemberitahuan Persetujuan/Penolakan Izin Barang Impor Eksep
+Contoh:
+Nota Nota Pemberitahuan Persetujuan/Penolakan Izin Barang Impor
+Eksep diterbitkan pada urutan ke-11.
+Nomor : OOOO1L
+b.  Importir
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai berupa data importir
+yaitu pihak yang bertindak sebagai penerima barang (consignee)
+dalam dokumen pengangkutan barang (bill of lading, airway bill, atau
+dokumen pengangkutan barang lainnya).
+1) NPWP
+Diisi pada kolom yang disediakan dengan data Nomor Pokok
+Wajib Pajak (NPWP) Importir berdasarkan data yang diberikan
+oleh kantor pajak kepada wajib pajak sebagai sarana dalam
+administrasi perpajakan yang dipergunakan sebagai tanda
+pengenal diri atau identitas wajib pajak dalam melaksanakan
+hak dan kewajiban perpajakannya.
+Dalam hal importir tidak memiliki NPWP, importir dapat
+mengisikan data KTP atau Paspor atau identitas lainnya yang
+merupakan tanda pengenal importir yang memuat nomor
+identitas, nama, jenis kelamin, umur/tanggal dan tempat lahir,
+
+dan alamat jelas Importir.
+
+www jdih, kemenkeu.go.it f

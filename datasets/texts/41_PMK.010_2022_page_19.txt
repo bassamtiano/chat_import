@@ -1,0 +1,198 @@
+= 19'=
+
+286
+287
+288
+
+289
+290
+291
+292
+293
+294
+295
+
+296
+
+297
+
+298
+
+299
+
+300
+
+301
+
+302
+
+303
+
+304
+
+305
+
+306
+
+307
+
+308
+
+309
+
+310
+
+311
+
+312
+
+313
+314
+
+8703.22.51
+8703.22.59
+8703.22.90
+8703.23
+
+8703.23.51
+8703.23.52
+8703.23.53
+8703.23.54
+8703.23.55
+8703.23.56
+8703.23.57
+
+8703.23.58
+
+8703.23.61
+
+8703.23.62
+
+8703.23.63
+
+8703.23.64
+
+8703.23.65
+
+8703.23.66
+
+8703.23.67
+
+8703.23.68
+
+8703.23.71
+
+8703.23.72
+
+8703.23.73
+
+8703.23.74
+8703.24
+
+8703.24.41
+8703.24.42
+8703.24.43
+8703.24.44
+
+8703.24.45
+8703.24.49
+
+8703.24.51
+
+----- Berpenggerak empat roda
+
+a ane eee Lain-lain
+
+- --- Lain-lain
+
+- - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak melebihi
+3.000 cc:
+
+- - - Lain-lain :
+
+- ---Ambulan
+
+- - - - Mobil jenazah
+
+---- Van tahanan
+
+---- Karavan
+
+----Sedan:
+
+sees Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+----- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+----- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+----- Dengan kapasitas silinder melebihi 2.500 cc
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), berpenggerak empat roda :
+
+----- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+screw tr Loe Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+----- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+spose Dengan kapasitas silinder melebihi 2.500 cc
+
+- --- Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), bukan berpenggerak empat roda :
+
+ieamieael Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+Seis mS Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+oe es Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+oes ee Dengan kapasitas silinder melebihi 2.500 cc
+
+- - - - Lain-lain :
+
+----- Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+----- Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+----- Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+----- Dengan kapasitas silinder melebihi 2.500 cc
+
+- - Dengan kapasitas silinder melebihi 3.000 cc :
+
+- - - Lain-lain :
+
+----Ambulan
+
+- - - - Mobil jenazah
+
+---- Van tahanan
+
+---- Karavan
+
+---- Sedan:
+
+-o--- Berpenggerak empat roda
+
+----- Lain-lain
+
+- - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van) :
+
+as a Berpenggerak empat roda
+
+www.jdih.kemen

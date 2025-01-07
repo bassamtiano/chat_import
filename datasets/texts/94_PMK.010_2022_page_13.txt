@@ -1,0 +1,77 @@
+-13-
+
+re tent! Uraian Barang Description of Goods Import Duty
+en @) 4) 5)
+0804.10.00 ~ Korma - Dates 4%
+0804.30.00 - Nanas - Pineapples 3%
+0804.40.00 - Alpokat - Avocados 3%
+0804.50 - Jambu, mangga dan manggis : - Guavas, mangoes and mangosteens :
+- - Mangga : - - Mangoes:
+0804.50.21 -- - Segar --- Fresh 14%
+0804.50.22 ---+ Dikeringkan --- Dried 14%
+08.05 Buah jeruk, segar atau dikeringkan. Citrus fruit, fresh or dried.
+0805.10 - Orange : - Oranges :
+104 {0805.10.10 - - Segar - - Fresh 3,5%
+- Mandarin (termasuk tangerin dan - Mandarins (including tangerines and
+satsuma); clementine, wilking dan buah |satsumas); clementines, wilkings and
+|jeruk hibrida semacamnya : similar citrus hybrids :
+105 [0805.40.00 - Grapefruit dan pomelo - Grapefruit and pomelos 3%
+0805.50 - Lemon (Citrus lemon, Citrus limonum) - Lemons (Citrus limon, Citrus limonum)
+dan limau (Citrus aurantifolia, Citrus and limes (Citrus aurantifolia, Citrus
+latifolia) : latifolia) :
+106 [0805.50.10 - - Lemon (Citrus Limon, Citrus limonum) _ |- - Lemons (Citrus limon, Citrus limonum) 4%
+107 {0805.50.20 - - Limau (Citrus aurantifolia, Citrus - - Limes (Citrus aurantifolia, Citrus 4%
+latifolia) latifolia)
+108 {0805.90.00 - Lain-lain - Other 3%
+08.07 Melon (termasuk semangka} dan Melons (including watermelons) and
+papaw (pepaya), segar. papaws (papayas), fresh.
+109 |0807.20.00 - Papaw (pepaya) - Papaws (papayas) 4%
+08.10 Buah lainnya, segar. Other fruit, fresh.
+0810.90 - Lain-lain : - Other :
+110 {0810.90.20 - - Leci - - Lychees 4%
+08.11 Buah dan buah bertempurung, tidak Fruit and nuts, uncooked or cooked
+dimasak atau dimasak dengan cara by steaming or boiling in water,
+dikukus atau direbus, beku, frozen, whether or not containing
+mengandung tambahan gula atau added sugar or other sweetening
+bahan pemanis lainnya maupun tidak. | matter.
+~ Stroberi - Strawberries
+- Rasberi, blackberry, mulberry, - Raspberries, blackberries, mulberries,
+Joganberry, currant hitam, putih atau Joganberries, black, white or red
+merah dan gooseberry currants and gooseberries
+111 {0811.90.00 - Lain-lain - Other 3%
+08.13 Buah, kering, selain yang disebut Fruit, dried, other than that of
+dalam pos 08.01 sampai dengan headings 08.01 to 08.06; mixtures of
+08.06; campuran dari buah nuts or dried fruits of this Chapter.
+‘bertempurung atau buah kering dari
+Bab ini.
+- Aprikot - Apricots
+112 {0813.20.00 - Prune - Prunes 4%
+- Apel - Apples.
+0813.40 - Buah lainnya : ~ Other fruit :
+- - Lengkeng - - Longans
+-- Tamarin ~~ Tamarinds
+113 |0813.40.90 - - Lain-lain - - Other 3%
+09.01 Kopi, digongseng atau dihilangkan Coffee, whether or not roasted or
+kafeinnya maupun tidak; sekam dan decaffeinated; coffee husks and skins;
+kulit kopi; pengganti kopi coffee substitutes containing coffee in
+mengandung kopi dengan any proportion.
+perbandingan berapapun.
+- Kopi, tidak digongseng : - Coffee, not roasted :
+0901.11 - - Tidak dihilangkan kafeinnya : ~ - Not decaffeinated :
+114 |0901.11.20 ~~ - Arabika -- - Arabica 3%
+115 {0901.11.30 - - - Robusta Robusta 3%
+116 {0901.11.90 -- - Lain-lain Other 3%
+0901.12 ~ - Dihilangkan kafeinnya : - - Decaffeinated :
+117 |0901.12.20 --- Arabika atau Robusta --- Arabica or Robusta 3%
+118 |0901.12.90 --- Lain-lain --- Other 3%
+- Kopi, digongseng : - Coffee, roasted :
+0901.21 - - Tidak dihilangkan kafeinnya : - - Not decaffeinated :
+- - - Tidak ditumbuk : - - - Unground :
+119 |0901,.21.11 ~--- Arabica - --- Arabica 19%
+120 |0901.21.12 ---- Robusta ---- Robusta 19%
+121 {0901.21.19 ---- Lain-lain - -- - Other 19%
+122 |0901.21.20 - - - Ditumbuk - - - Ground 19%
+0901.22 - - Dihilangkan kafeinnya : - - Decaffeinated :
+123 _|0901.22.10 - - - Tidak ditumbuk - - - Unground 19%
+
+idih. kemenkeo id

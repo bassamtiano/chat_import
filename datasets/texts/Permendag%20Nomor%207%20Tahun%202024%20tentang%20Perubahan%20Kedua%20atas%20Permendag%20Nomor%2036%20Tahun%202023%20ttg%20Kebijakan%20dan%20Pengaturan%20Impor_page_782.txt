@@ -1,0 +1,99 @@
+- 62 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+bantalan poros polos:
+
+227.
+
+ex 8483.30.90
+
+-- Lain-lain Tidak termasuk
+untuk mesin dari
+pos 84.29 atau
+84.30
+
+8483.40
+
+- Gir dan gearing, selain roda bergigi,
+chain sprocket dan elemen transmisi
+lainnya diajukan secara terpisah; ball
+screw atau roller screw; gear box dan
+pengubah kecepatan lainnya,
+termasuk torak konverter:
+
+228.
+
+8483.40.40
+
+-- Untuk mesin kendaraan dari Bab
+87
+
+8483.90
+
+- Roda bergigi, chain sprocket dan
+elemen transmisi lainnya diajukan
+secara terpisah; bagian:
+
+-- Bagian dari barang pada subpos
+8483.10:
+
+229.
+
+8483.90.15
+
+--- Untuk barang lainnya dari Bab 87
+
+85.01
+
+Motor dan generator listrik (tidak
+termasuk perangkat pembangkit
+tenaga listrik).
+
+- Generator AC (alternator), selain
+generator fotovoltaik:
+
+230.
+
+8501.64.00
+
+-- Dengan keluaran melebihi 750 kVA
+
+8501.80
+
+- Generator AC fotovoltaik:
+
+231.
+
+8501.80.40
+
+-- Dengan keluaran melebihi 750 kVA
+
+85.02
+
+Perangkat pembangkit tenaga
+listrik dan konverter berputar.
+
+- Perangkat pembangkit tenaga listrik
+dengan mesin piston pembakaran
+dalam nyala kompresi (mesin diesel
+
+Bl
+

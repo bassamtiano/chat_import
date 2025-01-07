@@ -1,0 +1,37 @@
+- 243 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+dengan timah KGM
+984. 7217.30.39 --- Lain-lain TNE; Vv |v
+KGM
+985. 7217.90.10 -- Mengandung karbon kurang dari | TNE; V V
+0,25 % menurut beratnya KGM
+986. 7217.90.90 -- Lain-lain TNE; Viv
+KGM
+987. | 7301.10.00 - Sheet piling TNE; V [Vv
+KGM
+988. 7301.20.00 - Angle, shape dan section TNE; V V
+KGM
+989. 7303.00.91 -- Dengan diameter luar tidak TNE; V V
+melebihi 100 mm KGM
+990. 7304.19.00 -- Lain-lain TNE; Vv |v
+KGM
+991. 7304.22.90 --- Lain-lain TNE; Viv
+KGM
+992. 7304.23.90 --- Lain-lain TNE; Vv |v
+KGM
+993. 7304.24.10 --- Casing dan tubing dengan yield | TNE; V V
+strength kurang dari 80.000 psi, KGM
+ujungnya tidak diulir
+994. 7304.24.20 --- Casing dan tubing dengan yield | TNE; V V
+strength kurang dari 80.000 psi, KGM
+ujungnya diulir
+995. 7304.24.30 --- Casing dan tubing dengan yield | TNE; V V
+strength 80.000 psi atau lebih dan | KGM
+ujungnya diulir maupun tidak
+996. 7304.29.10 --- Casing dan tubing dengan yield | TNE; V V
+strength kurang dari 80.000 psi, KGM
+
+ujungnya tidak diulir
+

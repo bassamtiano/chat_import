@@ -1,0 +1,37 @@
+- 321 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2802. | 5310.90.00 - Lain-Lain Vv [Vv
+53.11 Kain tenunan dari serat tekstil nabati lainnya;
+kain tenunan dari benang kertas.
+2803. | 5311.00.20 - Kain goni dari abaca Vv |v
+2804. | 5311.00.90 - Lain-lain Viv
+54.07 Kain tenunan dari benang filamen sintetik,
+termasuk kain tenunan yang diperoleh dari
+bahan dari pos 54.04.
+5407.10 - Kain tenunan diperoleh dari benang kekuatan
+tinggi dari nilon atau poliamida lainnya atau dari
+poliester:
+2805. | 5407.10.20 -- Kain tenunan untuk ban; conveyor duck V V
+--_Lain-lain:
+2806. | 5407.10.91 --- Tidak dikelantang viv
+2807. | 5407.10.99 --- Lain-lain Vv [iv
+2808. | 5407.20.00 - Kain tenunan diperoleh dari strip atau V V
+sejenisnya
+2809. | 5407.30.00 - Kain yang dirinci dalam Catatan 9 pada Bagian V V
+XI
+- Kain tenunan lainnya, mengandung filamen
+nilon atau poliamida lainnya 85 % atau lebih
+menurut beratnya:
+5407.41 -- Tidak dikelantang atau dikelantang:
+2810. | 5407.41.10 --- Kain tenunan nilon mesh dari benang filamen V V
+tidak dipilin cocok digunakan sebagai bahan
+penguat terpal
+2811. | 5407.41.90 --- Lain-lain Vv |v
+2812. | 5407.42.00 -- Dicelup Vv [Vv
+2813. | 5407.43.00 -- Dari benang aneka warna V V
+2814. | 5407.44.00 -- Dicetak Vv [Vv
+
+- Kain tenunan lainnya, mengandung filamen
+poliester tekstur 85 % atau lebih menurut
+

@@ -1,0 +1,299 @@
+- 20 -
+
+253
+
+254
+255
+256
+
+257
+
+258
+
+259
+
+260
+
+261
+
+262
+
+263
+
+264
+
+265
+
+266
+
+267
+
+268
+
+269
+
+Pos Tarif/
+HS Code
+
+Uraian Barang
+
+Description of Goods
+
+(3)
+
+4}
+
+Bea Masuk/
+Import Duty
+
+(5)
+
+52.02
+
+5202.10.00
+
+5202.91.00
+5202.99.00
+5203.00.00
+52.05
+
+5205.21.00
+
+5205.27.00
+
+5205.28.00
+
+5205.31.00
+
+5205.33.00
+
+5205.41.00
+
+5205.43.00
+
+5205.46.00
+
+52.07
+
+5207.10.00
+
+5207.90.00
+76,01
+7601.10.00
+76.04
+
+7604.10
+7604.10.10
+
+7604.21
+7604.21.20
+
+Sisa kapas (termasuk sisa benang dan
+garnetted stock).
+
+- Sisa benang (termasuk sisa benang
+pintal)
+
+- Lain-lain :
+
+- - Garnetted stock
+
+- - Lain-lain
+
+Kapas, digaruk atau disisir.
+Benang kapas (selain benang jahit},
+mengandung kapas 85 % atau lebih
+menurut beratnya, tidak disiapkan
+untuk penjualan eceran.
+
+- Benang tunggal, dari serat disisir :
+- - Ukuran 714,29 desiteks atau lebih
+(tidak melebihi nomor metrik 14)
+
+- - Ukuran kurang dari 106,38 desiteks
+tetapi tidak kurang dari 83,33 desiteks
+(melebihi nomor metrik 94 tetapi tidak
+melebihi nomor metrik 120)
+
+- - Ukuran kurang dari 83,33 desiteks
+(melebihi nomor metrik 120)
+
+- Benang rangkap (dilipat) atau benang
+kabel, dari serat tidak disisir :
+
+- - Ukuran tiap benang tunggal 714,29
+desiteks atau lebih (tidak melebihi
+nomor metrik 14 tiap benang tunggal)
+
+- - Ukuran tiap benang tunggal kurang
+dari 232,56 desiteks tetapi tidak kurang
+dari 192,31 desiteks (melebihi nomor
+metrik 43 tetapi tidak melebihi nomor
+metrik 52 tiap benang tunggal)
+
+- Benang rangkap (dilipat) atau benang
+kabel, dari serat disisir :
+
+- - Ukuran tiap benang tunggal 714,29
+desiteks atau lebih (tidak melebihi
+nomor metrik 14 tiap benang tunggal)
+
+- - Ukuran tiap benang tunggal kurang
+dari 232,56 desiteks tetapi tidak kurang
+dari 192,31 desiteks (melebihi nomor
+metrik 43 tetapi tidak melebihi nomor
+metrik 52 tiap benang tunggal)
+
+- - Ukuran tiap benang tunggal kurang
+dari 125 desiteks tetapi tidak kurang
+dari 106,38 desiteks (melebihi nomor
+metrik 80 tetapi tidak melebihi nomor
+metrik 94 tiap benang tunggal)
+
+Benang kapas (selain benang jahit)
+disiapkan untuk penjualan eceran.
+- Mengandung kapas 85 % atau lebih
+menurut beratnya
+
+- Lain-lain
+
+Aluminium tidak ditempa.
+
+- Aluminium, bukan paduan
+Batang, batang kecil dan profil
+aluminium.
+
+- Dari aluminium, bukan paduan :
+
+- - Batang dan batang kecil
+
+- Dari paduan aluminium :
+
+- - Profil berongga :
+
+-- - Aluminium spacers untuk pintu
+dan jendela
+
+Cotton waste (including yarn waste
+and garnetted stock).
+
+- Yarn waste (including thread waste)
+
+- Other :
+
+- - Garnetted stock
+
+- - Other
+
+Cotton, carded or combed.
+
+Cotton yarn (other than sewing
+thread), containing 85 % or more by
+weight of cotton, not put up for retail
+sale.
+
+- Single yarn, of combed fibres :
+- - Measuring 714.29 decitex or more
+{not exceeding 14 metric number)
+
+- - Measuring less than 106.38 decitex
+but not less than 83.33 decitex
+(exceeding 94 metric number but not
+exceeding 120 metric number)
+
+- - Measuring less than 83.33 decitex
+(exceeding 120 metric number)
+
+- Multiple (folded) or cabled yarn, of
+uncombed fibres :
+
+- - Measuring per single yarn 714.29
+decitex or more (not exceeding 14 metric
+number per single yarn)
+
+- - Measuring per single yarn less than
+232.56 decitex but not less than 192.31
+decitex (exceeding 43 metric number but
+not exceeding 52 metric number per
+single yarn)
+
+- Multiple (folded) or cabled yarn, of
+combed fibres :
+
+- - Measuring per single yarn 714.29
+decitex or more (not exceeding 14 metric
+number per single yarn)
+
+- - Measuring per single yarn less than
+232.56 decitex but not less than 192.31
+decitex (exceeding 43 metric number but
+not exceeding 52 metric number per
+single yarn)
+
+- - Measuring per single yarn less than
+125 decitex but not less than 106.38
+decitex (exceeding 80 metric number but
+not exceeding 94 metric number per
+single yarn)
+
+Cotton yarn (other than sewing
+thread) put up for retail sale.
+
+- Containing 85 % or more by weight of
+cotton
+
+- Other
+
+‘Unwrought aluminium.
+
+- Aluminium, not alloyed
+
+Aluminium bars, rods and profiles.
+
+- Of aluminium, not alloyed :
+
+- - Bars and rods
+
+- Of aluminium alloys :
+
+- - Hollow profiles :
+
+- Aluminium spacers for doors and
+
+__t windows
+
+4%
+
+4%
+4%
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+0%
+
+6%
+
+6%
+
+0%
+
+3%
+
+0%
+
+/}
+
+jdin.kemenkeu.go.id

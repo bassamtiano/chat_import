@@ -1,0 +1,77 @@
+KETERANGAN
+JENIS ITEM JENIS ITEM
+POTONGAN POTONGAN
+(INTERNATIONAL
+(5)
+ex. i Daging Cheek Meat
+0206.29.00 i variasi
+(Fancy and
+variety meat)
+Boneless/
+tanpa tulang
+
+POS TARIF/
+HS CODE
+
+KATEGORI
+DAGING
+
+Lung
+Daging Tail Buntut
+variasi Tail pieces Potongan
+(Fancy and Buntut
+variety meat)
+Bone in/
+
+B. Produk Hewan dari Jenis Selain Lembu
+
+POS TARIF /
+pecthenna URAIAN BARANG KETERANGAN
+3 4
+
+02.03 Daging babi, segar, dingin atau beku.
+
+-Segar atau dingin :
+
+0203.11.00 _| --Karkas dan setengah karkas
+
+--Paha, bahu dan potongannya,
+bertulang
+
+-Beku : eel
+4. 0203.21.00 --Karkas dan setengah karkas
+0203.22.00 | --Paha, bahu dan potongannya,
+
+0203.12.00
+
+0203.19.00
+
+bertulang
+6. 0203.29.00 --Lain-lain
+02.04 Daging biri-biri atau kambing, segar, dingin atau beku.
+
+7. 0204.10.00 - Karkas dan setengah karkas dari
+biri-biri muda, segar atau dingin
+
+- Daging lainnya dari biri-biri, segar atau dingin:
+
+8. 0204.21.00 --Karkas dan setengah karkas
+
+19. | 0204.22.00 _| --Potongan daging lainnya, bertulang
+
+--Daging tanpa tulang
+
+11. | 0204.30.00 -Karkas dan setengah karkas dari
+
+biri-biri muda, beku
+
+-Daging lainnya daribiri-biri, beku: [ sd
+12. | 0204.41.00 --Karkas dan setengah karkas ae
+13. | 0204.42.00 --Potongan daging lainnya, bertulang
+14. | 0204.43.00 --Daging tanpa tulang Po
+15.. | ex. -Daging Kambing
+
+0204.50.00
+16. | 0205.00.00 Daging kuda, keledai, bagal atau
+| hinnie, segar, dingin atau _beku.
+

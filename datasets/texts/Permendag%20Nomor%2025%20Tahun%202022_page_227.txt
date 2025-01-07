@@ -1,0 +1,34 @@
+- 198 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+Carassius spp., Ctenopharyngodon idellus,
+Hypophthalmichthys spp., Cirrhinus spp.,
+Mylopharyngodon piceus, Catla catla, Labeo spp.,
+Osteochilus hasselti, Leptobarbus hoeveni,
+Megalobrama spp.), sidat (Anguilla spp.), Nile
+perch (Lates niloticus) dan gabus (Channa spp.):
+1581.| 0304.61.00 -- Tilapia (Oreochromis spp.) V V
+1582.| 0304.62.00 -- Catfish (Pangasius spp., Silurus spp., Clarias V V
+Spp., Ictalurus spp.)
+1583.) 0304.63.00 -- Nile Perch (Lates niloticus) V V
+1584.| 0304.69.00 -- Lain-lain V V
+- Fillet beku ikan dari keluarga Bregmacerotidae,
+Euclichthyidae, Gadidae, Macrouridae,
+Melanonidae, Merlucciidae, Moridae dan
+Muraenolepididae:
+1585.| 0304.71.00 -- Cod (Gadus morhua, Gadus ogac, Gadus V V
+macrocephalus)
+1586.| 0304.72.00 -- Haddock (Melanogrammus aeglefinus) V V
+1587.| 0304.73.00 -- Coalfish (Pollachius virens) V V
+1588.] 0304.74.00 -- Hake (Merluccius spp., Urophycis spp.) V V
+1589.| 0304.75.00 -- Alaska Pollock (Theragra chalcogramma) V V
+1590. | 0304.79.00 -- Lain-lain VJ J
+- Fillet beku dari ikan lainnya:
+1591.| 0304.81.00 -- Salmon Pasifik (Oncorhynchus nerka, V V
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+Oncorhynchus tschawytscha, Oncorhynchus
+kisutch, Oncorhynchus masou dan Oncorhynchus
+rhodurus), salmon Atlantik (Salmo salar) dan
+salmon Danube (Hucho hucho)
+

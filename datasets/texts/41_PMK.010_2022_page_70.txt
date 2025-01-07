@@ -1,0 +1,186 @@
+= FO=
+
+929
+930
+
+931
+932
+933
+
+934
+935
+
+936
+
+937
+938
+939
+940
+941
+942
+
+943
+944
+
+945
+
+946
+947
+
+948
+
+949
+
+951
+
+952
+
+8702.10.72
+8702.10.79
+
+8702.10.81
+8702.10.82
+8702.10.89
+
+8702.10.91
+8702.10.99
+8702.20
+
+8702.20.50
+
+8702.20.61
+8702.20.62
+8702.20.69
+
+8702.20.71
+8702.20.72
+8702.20.79
+8702.20.91
+
+8702.20.99
+8702.30
+
+8702.30.50
+
+8702.30.61
+8702.30.69
+
+8702.30.71
+8702.30.79
+
+8702.30.91
+8702.30.99
+8702.40
+
+8702.40.50
+
+8702.40.61
+8702.40.69
+
+8702.40.71
+8702.40.79
+
+8702.40.91
+
+- --- Dengan g.v.w. melebihi 24 t
+
+- - - - Lain-lain
+
+- - - Coach, bus atau minibus bermotor lainnya :
+
+- --- Dengan g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- - -- Lain-lain
+
+- - - Lain-lain :
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- - - - Lain-lain
+
+- Dengan kedua mesin piston pembakaran dalam nyala kompresi
+(diesel atau semi-diesel) dan motor listrik sebagai motor untuk
+penggerak :
+
+- - Lain-lain :
+
+- - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+bus, minibus atau van)
+
+- - - Lain-lain, untuk pengangkutan 30 orang atau lebih dan dirancang
+khusus untuk digunakan di bandara :
+
+---- Dengan g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- --- Lain-lain
+
+- -- Coach, bus atau minibus bermotor lainnya :
+
+- --- Dengan g.v.w. setidaknya 6 t tetapi tidak melebihi 18 t
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- - -- Lain-lain
+
+- - - Lain-lain :
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- -- - Lain-lain
+
+- Dengan kedua mesin piston pembakaran dalam cetus api dan motor
+listrik sebagai motor untuk penggerak :
+
+- - Lain-lain :
+
+- - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+bus, minibus atau van)
+
+- - - Lain-lain, untuk pengangkutan 30 orang atau lebih dan dirancang
+khusus untuk digunakan di bandara :
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- - -- Lain-lain
+
+- -- Coach, bus atau minibus bermotor lainnya :
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- --- Lain-lain
+
+- - - Lain-lain :
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- --- Lain-lain
+
+- Hanya dengan motor listrik sebagai penggerak :
+
+- - Lain-lain :
+
+- - - Mobil (termasuk limousin panjang tetapi tidak termasuk coach,
+bus, minibus atau van)
+
+- -- Lain-lain, untuk pengangkutan 30 orang atau lebih dan dirancang
+khusus untuk digunakan di bandara :
+
+- --- Dengan g.v.w. melebihi 24 t
+
+- --- Lain-lain
+
+- - - Coach, bus atau minibus bermotor lainnya :
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+- - - - Lain-lain
+
+- - - Lain-lain :
+
+- - - - Dengan g.v.w. melebihi 24 t
+
+wvvnw din. kemenké

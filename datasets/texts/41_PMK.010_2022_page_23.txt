@@ -1,0 +1,89 @@
+-~23-
+
+403 | 8703.40.95 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+404 | 8703.40.96 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+405 | 8703.40.97 - - - - Dengan kapasitas silinder melebihi 3.000 cc, berpenggerak
+empat roda
+
+406 | 8703.40.98 - - - - Dengan kapasitas silinder melebihi 3.000 cc, bukan
+berpenggerak empat roda
+
+8703.50 - Kendaraan lainnya, dengan kedua mesin piston pembakaran dalam
+
+nyala kompresi (diesel atau semi-diesel) dan motor listrik sebagai
+motor untuk penggerak, selain dari kendaraan yang dapat diisi
+tenaganya dengan menghubungkannya ke sumber tenaga listrik
+eksternal :
+- - Lain-lain :
+
+407 | 8703.50.31 - - - Gokart
+- - - All-Terrain Vehicles (ATV) :
+
+408 | 8703.50.32 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+409 | 8703.50.33 - - - - Dengan kapasitas silinder melebihi 1.000 cc
+--- Ambulan :
+
+410 | 8703.50.34 - - - - Dengan kapasitas silinder tidak melebihi 1.500 cc
+
+411 8703.50.35 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 2.500 cc
+
+412 | 8703.50.36 - - - - Dengan kapasitas silinder melebihi 2.500 cc
+- - - Mobil jenazah :
+
+413 | 8703.50.41 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+414 | 8703.50.42 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+415 | 8703.50.43 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+416 | 8703.50.44 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+417 | 8703.50.45 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+418 | 8703.50.46 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+419 | 8703.50.47 - - - - Dengan kapasitas silinder melebihi 3.000 cc
+--- Van tahanan :
+
+420 | 8703.50.51 - - -- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+421 8703.50.52 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+422 | 8703.50.53 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+423 | 8703.50.54 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.500 cc
+
+424 | 8703.50.55 - - -- Dengan kapasitas silinder melebihi 2.500 cc
+- - - Karavan :
+
+425 | 8703.50.56 - - - - Dengan kapasitas silinder tidak melebihi 1.500 cc
+
+426 | 8703.50.57 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 2.000 cc
+
+427 | 8703.50.58 - - - - Dengan kapasitas silinder melebihi 2.000 cc
+--- Sedan :
+
+428 8703.50.61 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+429 | 8703.50.62 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+430 | 8703.50.63 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+von ja een fi

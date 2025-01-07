@@ -1,0 +1,37 @@
+- 148 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+logam, tidak dirinci di atas.
+- Mesin pembentukan panas untuk
+menempa, menempa dengan cetakan
+(termasuk pengepres) dan mesin
+untuk memalu panas:
+470. | ex 8462.11.00 | --Mesin Dioperasikan Viv V
+penempa secara elektrik
+dengan cetakan
+tertutup
+471. | ex 8462.19.00 | -- Lain-lain Dioperasikan Viv V
+secara elektrik
+- Mesin pembengkok, pelipat, pelurus
+atau pemipih (termasuk press brake)
+untuk produk lembaran:
+8462.22 -- Mesin pembentukan profil:
+472. | ex 8462.22.10 | --- Dikontrol Tidak termasuk V V V
+secara numerik | Mesin Tekuk
+(Bending Machine)
+dengan Kapasitas:
+panjang max
+1.270 mm; tebal 3
+mm; bending
+angle 25-179
+derajat
+473. | ex 8462.22.90 | --- Lain-lain Hanya untuk Vv V
+mesin press plate
+dengan pneumatic
+system, supply
+listrik tiga phase
+380V, Duty Cycle
+50%, Feed Stroke
+hingga 35 mm
+474. | ex 8462.23.00 | -- Press brake Tidak termasuk V V V
+

@@ -1,0 +1,81 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-27-
+POS/SUB POS
+NO. | HEADING/ URAIAN BARANG DESCRIPTION OF GOODS Ng
+SUB HEADING ‘ IMPORT DUTY
+@ (2) @) (4) (5)
+84.50 Mesin cuci tipe rumah tangga atau binatu, termasuk mesin|Household or laundry-type washing machines, including
+lyang dapat digunakan untuk mencuci dan mengeringkan. machines which both wash and dry.
+- Mesin, yang mempunyai kapasitas linen kering tidak melebihi 10]- Machines, each of a dry linencapacity not exceeding 10 kg:
+kg:
+8450.11 |- - Mesin otomatis penuh: - - Fully-automatic machines:
+7434 |8450.11.10.00 |- - - Mempunyai kapasitas linen kering tidak melebihi 6 kg - - - Each of a dry linen capacity not exceeding 6 kg 15%
+7435 |8450.11.90.00 |- - - Lain-lain - - - Other 15%
+8450.12.00 |- - Mesin lainnya, dilengkapi dengan pengering sentrifugal: - - Other machines, with built-in centrifugal drier:
+7436 |8450.12.00.10 |- - - Mempunyai kapasitas linen kering tidak melebihi 6 kg |- - - Each of a dry linen capacity not.exceeding 6 kg 15%
+7437 |8450.12.00.20 - - - Mempunyai kapasitas linen kering melebihi 6 kg - - - Each of a dry linen capacity exceeding 6 kg 15%
+8450.19 |- - Lain-lain: - - Other:
+8450.19.10 |- - - Dioperasikan secara elektrik: - - - Electrically operated:
+7438 |8450.19.10.10 - - - - Mempunyai kapasitas linen kering tidak melebihi 6 kg |- - - - Each of a dry linen capacity not exceeding 6 kg 15%
+7439 |8450.19.10.20 |- - - - Mempunyai kapasitas linen kering melebihi 6 kg - - - - Each of a dry linen capacity exceeding 6 kg 15%
+8450.19.90 - - - Lain-lain: - - - Other:
+7440 |8450.19.90.10 - - - - Mempunyai kapasitas linen kering tidak melebihi 6 kg |- - - - Each of a dry linen capacity not exceeding 6 kg 15%
+7441 |8450.19.90.20 |- - - - Mempunyai kapasitas linen kering melebihi 6 kg |- - - - Each of a dry linen capacity exceeding 6 kg 15%
+85.06 ‘Sel primer dan baterai primer. Primary cells and primary batteries.
+8506.10 - Mangan dioksida: - Manganese dioxide:
+8079 |8506.10.10.00 - - Mempunyai volume bagian luar tidak melebihi 300 cm? - - Havina an external volume not exceedina 300 cm® 15%
+8080 |8506.10.90.00 - - Lain-lain |- - Other 15%
+8506.30 - Merkuri oksida - Mercuric oxide
+8506.40 |- Perak oksida - Silver oxide
+8083 |8506.50.00.00 - Litium |- Lithium 15%
+8506.60 - Air-zine: - Air-zine:
+8506.80 - Sel primer dan baterai primer lainnya: |- Other primary cells and primary batteries:
+8086 |8506.80.10.00 |- - Zinc carbon, mempunyai volume bagian luar tidak melebihi 300]- - Zinc carbon, having an external volume not exceeding 300 cm* 15%
+cm? .
+8087 |8506.80.20.00 - - Zinc carbon, mempunyai volume bagian luar melebihi 300 cm? _|- - Zinc carbon, having an external volume exceeding 300 cm® 15%
+- - Lain-lain: |- - Other:
+8088 |8506.80.91.00 - - - Mempunyai volume bagian luar tidak melebihi 300 cm? - - - Lavina an external volume not exceedina 300 cm? 15%
+8089 |8506.80.99.00 - - - Lain-lain - - - Other 15%
+85.09 Peralatan rumah tangga mekanik elektrik dengan motor listrik/Electro-mechanical domestic appliances, with self-contained]
+terpasang, selain vacuum cleaner dari pos 85.08. electric motor, other than vacuum cleaners of heading 85.08.
+8124 /8509.40.00.00 - Penggiling dan pencampur makanan; pengekstrak jus buah atau|- Food grinders and mixers; fruit or vegetable juice extractors 15%
+sayur
+185.10 Alat cukur, alat pangkas: rambut dan peralatan penghilang Shavers, hair clippers and hair-removing appliances, with self-}
+rambut dengan motor listrik terpasang. contained electric motor.
+8131 |8510.20.00.00 - Alat pangkas rambut - Hair clippers 15%
+8132 |8510.30.00.00 - Peralatan penghilang rambut - Hair-removing appliances 10%
+85.16 Pemanas air instan atau pemanas air dengan _tempat/Electric instantaneous or storage water heaters and immersion|
+penyimpanan dan pemanas celup, listrik; aparatus pemanas|heaters; electric space heating apparatus and soil heating
+ruangan dan pemanas tanah,| istrik; aparatus penata rambutlapparatus; electro-thermic hair-dressing apparatus (for|
+lelektro-termal (misalnya, pengering rambut, pengeriting/example, hair dryers, hair curlers, curling tong heaters) and|
+rambut, pemanas jepit untuk mengeriting rambut) danjhand dryers; electric smoothing irons; other electro-thermic
+pengering tangan; Setrika listrik; peralatan elektro-termallappliances of a kind used for domestic purposes; electric}
+lainnya dari jenis yang digunakan untuk keperluan rumah|heating resistors, other than those of heading 85.45.
+tangga; resistor panas listrik, selain yang dimaksud dalam pos,
+85.45.
+8516.10 -Pemanas air instan atau pemanas air dengan tempat|- Electric instantaneous or storage water heaters and immersion|
+penyimpanan dan pemanas celup, listrik: heaters:
+8516.10.10 --Pemanas air instan atau pemanas air dengan tempatl- - Instantaneous or storage water heaters:
+penyimpanan:
+8207 |8516.10.10.10 - - - Dispenser air dilengkapi semata-mata dengan pemanas air|- - - Water dispenser fitted with solely water heater for domestic| 15%
+untuk keperluan rumah tangga use
+8208 |8516.10.10.90 - - - Lain-lain - - - Other 15%
+8516.40 ~ Setrika listrik: |- Electric smoothing irons:
+8516.40.10 - - Dari jenis yang dirancang untuk menggunakan uap dari ketel]- - Of a kind designed to use steam from industrial boilers
+industri
+8216 |8516.40.90.00 - - Lain-lain - - Other 15%
+8516.50 - Microwave oven |- Microwave ovens
+8516.60 |- Oven lainnya; pemasak, cooking plate, boiling ring, pemanggang]- Other ovens; cookers, cooking plates, boiling rings, grillers and
+dan pembakar: roasters:
+8218 |8516.60.10.00 - - Rice cookers - - Rice cookers 15%
+8219 |8516.60.90.00 - - Lain-lain Other 15%
+- Peralatan elektro-termal lainnya: - Other electro-thermic appliances:
+8220 /8516.71.00.00 - - Pembuat kopi atau teh Coffee or tea makers 15%
+8221 |8516.72.00.00 - - Pemanggang roti Toasters 15%
+8516.79 - - Lain-lain: |- - Other:
+8222 |8516.79.10.00 - - - Ketel - - - Kettles 15%
+
+www.jdih.kemenkeu.go.id
+

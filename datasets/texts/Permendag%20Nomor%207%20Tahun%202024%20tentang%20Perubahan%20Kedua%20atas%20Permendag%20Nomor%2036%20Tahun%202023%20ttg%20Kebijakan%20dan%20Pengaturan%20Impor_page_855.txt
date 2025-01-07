@@ -1,0 +1,37 @@
+- 135 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+menggandakan atau transmisi
+faksimili, memiliki kemampuan
+untuk berhubungan dengan mesin
+pengolah data otomatis atau
+jaringan:
+--- Kombinasi mesin printer-copier-
+faksimili:
+396. | ex 8443.31.39 | ---- Lain - lain Hanya untuk Vv V
+mesin multifungsi
+tidak berwarna
+dengan kecepatan
+menggandakan
+sebanyak 20
+copy/menit atau
+lebih
+--- Lain — lain
+397. | ex 8443.31.91 | ---- Kombinasi Hanya untuk Viv V
+mesin printer- mesin multifungsi
+copier-scanner- | tidak berwarna
+faksimili dengan kecepatan
+menggandakan
+sebanyak 20
+copy/menit atau
+lebih
+398. | ex 8443.31.99 | ---- lain - lain Hanya untuk Viv V
+mesin multifungsi
+tidak berwarna
+dengan kecepatan
+menggandakan
+sebanyak 20
+copy/menit atau
+lebih
+8443.39 -- Lain-lain:
+

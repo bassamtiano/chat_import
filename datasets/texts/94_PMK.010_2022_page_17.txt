@@ -1,0 +1,73 @@
+-17-
+
+Pos Tarif/ n Bea M:
+No. Ne Gate Uraian Barang Description of Goods Inno ne Duty
+a) 2) g) 4) ®)
+20.09 Jus buah atau buah bertempurung Fruit or nut juices (including grape
+(termasuk grape must dan air kelapa) | must and coconut water) and
+dan jus sayuran, tidak difermentasi vegetable juices, unfermented and not
+dan tidak mengandung tambahan containing added spirit, whether or
+alkohol, mengandung tambahan gula not containing added sugar or other
+atau pemanis lainnya maupun tidak. sweetening matter.
+~ Jus orange : ~ Orange juice :
+- Jus grapefruit; jus pomelo : - Grapefruit juice; pomelo juice :
+|- Jus dari satu jenis buah jeruk lainnya {- Juice of any other single citrus fruit :
+- Jus nanas : - Pineapple juice :
+- Jus tomat - Tomato juice
+~ Jus anggur (termasuk grape must) : ~ Grape juice (including grape must) :
+- Jus apel : - Apple juice :
+- Jus dari satu jenis buah, kacang atau ~ Juice of any other single fruit, nut or
+sayuran lainnya : vegetable :
+2009.90 - Campuran jus : ~ Mixtures of juices :
+197 |2009.90.10 |- - Cocok untuk bayi atau anak-anak - - Suitable for infants or young children T%
+- - Lain-lain : - - Other :
+~~ - Siap untuk dikonsumsi langsung - - - Ready for immediate consumption
+198 {2009.90.99 - - - Lain-lain ~-- Other 7%
+24.01 ‘Tembakau belum dipabrikasi; sisa Unmanufactured tobacco; tobacco
+tembakau. refuse.
+2401.10 - Tembakau, tidak bertangkai/bertulang |- Tobacco, not stemmed/stripped :
+daun :
+199 {2401.10.10 - - Jenis Virginia, diolah dengan udara - - Virginia type, flue-cured 3%
+panas
+200 {2401.10.20 ~ - Jenis Virginia, selain yang diolah - - Virginia type, other than flue-cured 3%
+dengan udara panas
+201 |2401,10.40 - - Jenis Burley - - Burley type 4%
+202 |2401.10.50 ~~ Lain-lain, diolah dengan udara panas_|- - Other, flue-cured 4%
+203 |2401.10.90 - - Lain-lain - - Other 4%
+2401.20 - Tembakau, bertangkai/bertulang daun__|- Tobacco, partly or wholly
+sebagian atau seluruhnya : stemmed/stripped :
+204 |2401,20.10 ~ - Jenis Virginia, diolah dengan udara ~ - Virginia type, flue-cured 3%
+panas
+205 |2401.20.20 - - Jenis Virginia, selain yang diolah - - Virginia type, other than flue-cured 3%
+dengan udara panas
+206 |2401.20.30 - - Jenis Oriental - - Oriental type 3%
+207 |2401.20.40 ~~ Jenis Burley - - Burley type 3%
+208 |2401.20.50 - - Lain-lain, diolah dengan udara panas_|- - Other, flue-cured 3%
+209 |2401.20.90 - - Lain-lain - - Other 3%
+2401.30 - Sisa tembakau : - Tobacco refuse :
+210 |2401.30.10 ~ - Batang tembakau - - Tobacco stems 3%
+211 |2401,30.90 - - Lain-lain - - Other 3%
+25.01 Garam (termasuk garam meja dan Salt (including table salt and
+garam didenaturasi) dan natrium denatured salt) and pure sodium
+klorida murni, dalam larutan air atau chloride, whether or not in aqueous
+mengandung tambahan bahan anti- solution or containing added anti-
+caking atau free-flowing maupun caking or free-flowing agents; sea
+tidak; air laut. water.
+212 |2501.00.20 - Garam batu tidak diproses - Unprocessed rock salt 6%
+25.04 Grafit alam. Natural graphite.
+213 |2504.10.00 - Dalam bentuk bubuk atau serpih ~ In powder or in flakes 4%
+214 [2504.90.00 - Lain-lain - Other 4%
+25.05 Pasir alam dari segala jenis, berwarna {Natural sands of all kinds, whether or
+maupun tidak, selain pasir not coloured, other than metal-
+mengandung logam dari Bab 26. bearing sands of Chapter 26.
+~ Pasir silika dan pasir kuarsa ~ Silica sands and quartz sands
+215 {2505.90.00 - Lain-lain ~ Other 4%
+25.13 Batu apung; amril; korundum alam, Pumice stone; emery; natural
+garnet alam dan ampelas alam corundum, natural garnet and other
+lainnya, diolah dengan cara natural abrasives, whether or not heat-
+dipanaskan maupun tidak. treated.
+216 {2513.10.00 - Batu apung - Pumice stone 4%
+217 +|2513.20.00 - Amril, korundum alam, garnet alam ~ Emery, natural corundum, natural A%
+dan abrasive alam lainnya garnet and other natural abrasives
+
+ainrtomol lero

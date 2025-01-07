@@ -1,0 +1,85 @@
+-121-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+84.83
+
+Poros transmisi (termasuk poros
+berputar dan poros engkol) dan
+engkol; rumah bantalan dan
+bantalan poros polos; gir dan
+gearing; ball screw atau roller
+screw; gear box dan pengubah
+kecepatan lainnya, termasuk torak
+konverter; roda gaya dan puli,
+termasuk blok puli; kopling dan
+poros penyambung (termasuk
+sambungan universal).
+
+8483.30
+
+- Rumah bantalan, tidak digabung
+dengan bantalan peluru atau gulung;
+bantalan poros polos:
+
+551.
+
+ex 8483.30.90
+
+-- Lain-lain Kecuali untuk
+mesin dari pos
+84.29 atau 84.30
+
+85.01
+
+Motor dan generator listrik (tidak
+termasuk perangkat pembangkit
+tenaga listrik).
+
+- Generator AC (alternator), selain
+generator fotovoltaik:
+
+552.
+
+8501.64.00
+
+-- Dengan keluaran melebihi 750 kVA
+
+8501.80
+
+- Generator AC fotovoltaik :
+
+553.
+
+8501.80.40
+
+-- Dengan keluaran melebihi 750 kVA
+
+85.02
+
+Perangkat pembangkit tenaga listrik
+dan konverter berputar.
+
+- Perangkat pembangkit tenaga
+listrik dengan mesin piston
+pembakaran dalam nyala kompresi
+(mesin diesel atau mesin semi
+diesel):
+

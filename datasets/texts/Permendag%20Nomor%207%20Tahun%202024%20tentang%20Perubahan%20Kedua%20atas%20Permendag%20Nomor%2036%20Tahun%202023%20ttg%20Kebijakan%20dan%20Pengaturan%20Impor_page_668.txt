@@ -1,0 +1,44 @@
+- 653 -
+
+: . Nama Bahan Nomor Kode Satuan Post
+No Pos Tarif/HS Uraian Barang Kimia CAS Daftar Barang Persyaratan Keterangan IT/IP| PI | LS Border
+diklorida (fosgen) KGM;
+LTR
+-- Fosf 10025-871 TNE;
+3773. | 2812.12.00 OStOr 3B05 KGM; V vo] v
+oksiklorida 3
+LTR
+TNE;
+3774. | 2812.13.00 -- Fosfor triklorida P7192 3B06 KGM; V V V
+LTR
+-- Fosfor 10026-13+ TNE;
+3775. | 2812.14.00 . 3B07 KGM; V V V
+pentaklorida 8
+LTR
+-- Sulfur 10025-67, TNE;
+3776. | 2812.15.00 . 3B12 KGM; V V V
+monoklorida 9
+LTR
+-- Sulfur diklorid 10545-99 TNE;
+3777. | 2812.16.00 Tear acorica 3B13_‘| KGM; V Vv |v
+(0)
+LTR
+-- Tionil klorida 7719-09- TNE;
+3778. | 2812.17.00 7 3B14 KGM; V V V
+LTR
+Arsenic 7784-34- TNE;
+3779. | ex 2812.19.00 -- Lain-lain : . 2B07 KGM; V V V
+trichloride 1
+LTR
+Isotop selain pos
+28.44; senyawa,
+anorganik atau
+organik, dari
+28.45 isotop seperti itu,
+mempunyai
+rumus kimia
+tertentu maupun
+tidak.
+3780. | ex 2845.90.00 | - Lain-lain Methyl(d3) 104801- | 5804 | KGM Vojv jy
+phosphonic 16-3
+

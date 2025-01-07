@@ -1,0 +1,60 @@
+Nomor (1)
+Nomor (2)
+
+Nomor (3)
+Nomor (4)
+Nomor (5)
+Nomor (6)
+
+Nomor (7)
+Nomor (8)
+Nomor (9)
+Nomor (10)
+Nomor (11)
+
+Nomor (12)
+Nomor (13)
+Nomor (14)
+
+Nomor (15)
+
+-27-
+
+PETUNJUK PENGISIAN
+
+diisi nomor Keputusan Menteri mengenai perubahan atas
+Keputusan Menteri.
+
+diisi nomor dan judul Keputusan Menteri yang dilakukan
+perubahan.
+
+diisi nama Badan Usaha.
+
+diisi nomor dan tanggal permohonan.
+
+diisi alasan dilakukan perubahan.
+
+diisi nomor dan judul Peraturan Menteri mengenai pembebasan
+bea masuk atas impor Peralatan dan Bahan yang digunakan
+untuk mencegah pencemaran lingkungan.
+
+diisi nomor dan judul peraturan perundang-undangan terkait.
+diisi Diktum atau Lampiran yang dilakukan perubahan.
+
+diisi elemen data yang dilakukan perubahan.
+
+diisi detail atau isi perubahan yang dilakukan.
+
+diisi kementerian/lembaga, instansi, atau unit lain yang perlu
+diberikan salinan Keputusan Menteri.
+
+diisi kota tempat diterbitkannya Keputusan Menteri.
+
+diisi tanggal diterbitkannya Keputusan Menteri.
+
+diisi Kantor Pelayanan Utama Bea dan Cukai atau Kantor
+Pengawasan dan Pelayanan Bea dan Cukai yang menerbitkan
+Keputusan Menteri.
+
+diisi nama Pejabat Bea dan Cukai yang menandatangani
+Keputusan Menteri.

@@ -1,0 +1,88 @@
+- 58 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+udara untuk penjualan eceran
+
+176.
+
+1602.90.20
+
+-- Olahan dari darah
+
+177.
+
+1602.90.90
+
+-- Lain-lain
+
+19.01
+
+Ekstrak malt; olahan makanan dari tepung,
+menir, tepung kasar, pati atau ekstrak malt,
+tidak mengandung kakao atau mengandung
+kakao kurang dari 40 % menurut beratnya
+yang dihitung atas dasar kakao yang
+dihilangkan seluruh lemaknya, tidak dirinci
+atau termasuk pos lainnya; olahan makanan
+dari pos 04.01 sampai dengan 04.04, tidak
+mengandung kakao atau mengandung kakao
+kurang dari 5 % menurut beratnya yang
+dihitung atas dasar kakao yang dihilangkan
+seluruh lemaknya, tidak dirinci atau
+termasuk pos lainnya.
+
+1901.10
+
+- Olahan yang cocok untuk bayi atau anak-
+anak, disiapkan untuk penjualan eceran:
+
+178.
+
+ex 1901.10.20
+
+-- Dari barang Berasal dari hewan
+dari pos 04.01
+sampai dengan
+04.04
+
+1901.90
+
+- Lain-lain:
+
+-- Olahan yang cocok untuk bayi atau anak-
+anak, tidak disiapkan untuk penjualan
+eceran:
+
+179.
+
+ex 1901.90.20
+
+-- Ekstrak malt Berasal dari hewan
+
+-- Lain-lain,dari
+barang dari pos
+04.01 sampai
+dengan 04.04:
+
+Bl
+
+Bl
+

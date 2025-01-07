@@ -1,0 +1,114 @@
+- 669 -
+
+No
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Nama Bahan
+Kimia
+
+Nomor
+CAS
+
+Kode
+Daftar
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+onochloridate
+
+Bahan kimia,
+kecuali yang
+termasuk
+dalam Daftar
+1, yang
+mengandung
+atom fosfor
+yang padanya
+terikat satu
+gugus metil,
+etil, atau
+propil (normal
+maupun iso-)
+namun bukan
+
+gugus atom
+karbon lainnya
+
+Contoh:
+
+TNE;
+KGM;
+LTR
+
+Ethylphospho
+nic dichloride
+
+1066-50-
+8
+
+2B04
+
+TNE;
+KGM;
+LTR
+
+2931.90
+
+- Lain-Iain:
+
+-- Senyawa organo-
+arsenik:
+
+3816.
+
+ex 2931.90.41
+
+--- Dalam bentuk
+cair
+
+(Z)-2-
+Chlorovinyldic
+hloroarsine
+
+34461-
+56-8
+
+KGM
+
+Bis(2-
+chlorovinyl)chl
+oroarsine
+
+40334-
+69-8
+
+1A05
+
+KGM
+
+Tris(2-
+chlorovinyl)ars
+ine
+
+40334-
+70-1
+
+KGM
+

@@ -1,0 +1,78 @@
+- 76 -
+
+- Lain-lain :
+1112 | 9102.91.00 - - Dioperasikan secara elektrik
+1113 | 9102.99.00 - - Lain-lain
+92.02 Instrumen musik bersenar lainnya (misalnya, gitar, biola, harpa).
+1114 | 9202.90.00 - Lain-lain
+92.05 Instrumen musik tiup (misalnya, organ keyboard berpipa,
+
+akordeon, klarinet, trompet, bag pipe), selain organ fairground
+dan organ jalanan mekanis.
+
+1115 | 9205.10.00 - Instrumen brass-wind
+9205.90 - Lain-lain :
+1116 | 9205.90.10 - - Organ keyboard berpipa; harmonium dan instrumen keyboard
+semacam itu dengan strip logam getar
+1117 | 9205.90.90 - - Lain-lain
+1118 | 9206.00.00 Instrumen musik perkusi (misalnya, drum, xylophone, simbal,
+kastanyet, marakas).
+92.08 Kotak musik, fairground organ, organ jalanan mekanis, kicauan
+
+burung mekanis, gergaji musik dan instrumen musik lainnya yang
+tidak termasuk dalam pos manapun dari Bab ini; suling pemikat
+dari segala jenis; peluit, terompet panggil dan instrumen isyarat
+suara dengan tiupan mulut lainnya.
+
+1119 | 9208.10.00 - Kotak musik
+9208.90 - Lain-lain :
+1120 | 9208.90.10 - - Suling pemikat, peluit, terompet panggil dan instrumen isyarat
+suara dengan tiupan mulut lainnya
+1121 | 9208.90.90 - - Lain-lain
+95.03 Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda
+
+semacam itu; kereta boneka; boneka; mainan lainnya; model yang
+diperkecil ("skala") dan model rekreasi semacam itu, dapat
+digerakkan atau tidak; puzzle dari segala jenis.
+
+1122 | 9503.00.10 - Sepeda roda tiga, skuter, mobil berpedal dan mainan beroda
+semacam itu; kereta boneka
+
+- Boneka :
+
+1123 | 9503.00.21 - - Boneka, dikenakan pakaian atau tidak
+- - Bagian dan aksesori :
+
+1124 | 9503.00.22 - - - Garment dan aksesorinya; alas kaki dan tutup kepala
+
+1125 | 9503.00.29 - - - Lain-lain
+
+1126 | 9503.00.30 - Kereta elektrik, termasuk rel, tanda dan aksesori lainnya
+
+1127 | 9503.00.40 - Perabot rakitan model yang diperkecil ("skala") dan model rekreasi
+semacam itu, dapat digerakkan atau tidak
+
+1128 | 9503.00.50 - Set kontruksi dan mainan kontruksional lainnya, dari bahan selain
+plastik
+
+1129 | 9503.00.60 - Stuffed toy menyerupai binatang atau selain manusia
+
+1130 | 9503.00.70 - Puzzle dari segala jenis
+
+1131 | 9503.00.80 - Peralatan edukasi elektronik interaktif portabel yang dirancang
+terutama untuk anak-anak
+- Lain-lain :
+
+1132 | 9503.00.91 - - Blok atau potongan angka, huruf atau binatang; set penyusun kata;
+
+set penyusun dan pengucap kata; set toy printing; counting frame
+mainan (abaci); mesin jahit mainan; mesin ketik mainan
+
+1133 | 9503.00.92 - - Tali lompat
+
+1134 | 9503.00.93 - - Kelereng
+
+1135 | 9503.00.94 - - Mainan lainnya, dari karet
+1136 | 9503.00.99 - - Lain-lain
+
+sv jet kementoulf

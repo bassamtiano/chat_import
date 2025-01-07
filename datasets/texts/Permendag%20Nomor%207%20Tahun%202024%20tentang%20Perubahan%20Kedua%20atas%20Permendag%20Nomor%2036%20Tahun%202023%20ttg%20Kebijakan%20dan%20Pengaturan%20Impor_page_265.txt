@@ -1,0 +1,49 @@
+- 250 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+
+KGM
+
+1071. | 7307.29.90 --- Lain-lain PCE; Vv |v
+TNE;
+KGM
+
+1072. | 7307.91.10 --- Mempunyai diameter dalam PCE; V V
+kurang dari 15 cm TNE;
+KGM
+
+1073. | 7307.91.90 --- Lain-lain PCE; Vv |v
+TNE;
+KGM
+
+1074. | 7307.92.10 --- Mempunyai diameter dalam PCE; V V
+kurang dari 15 cm TNE;
+KGM
+
+1075. | 7307.92.90 --- Lain-lain PCE; viv
+TNE;
+KGM
+
+1076. | 7307.93.10 --- Mempunyai diameter dalam PCE; V V
+kurang dari 15 cm TNE;
+KGM
+
+1077. | 7307.93.90 --- Lain-lain PCE; Viv
+TNE;
+KGM
+
+1078. | 7307.99.10 --- Mempunyai diameter dalam PCE; V V
+kurang dari 15 cm TNE;
+KGM
+
+1079. | 7307.99.90 --- Lain-lain PCE; Viv
+TNE;
+KGM
+
+1080. | 7308.10.10 -- Modular prapabrikasi dari jenis PCE; V V
+yang disambung dengan konektor TNE;
+gunting KGM
+
+1081. | 7308.10.90 -- Lain-lain PCE; Vv |v
+

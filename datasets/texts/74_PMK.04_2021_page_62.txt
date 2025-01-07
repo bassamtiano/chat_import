@@ -1,0 +1,67 @@
+-~ 62 -
+
+PETUNJUK PENGISIAN
+
+Kop Laporan diisi dengan identitas nama Kantor Pabean yang
+
+menerbitkan Instruksi Pemeriksaan Fisik Pelayanan Segera (Rush
+
+Handling). Untuk Kantor Pabean yang merupakan satuan kerja Kantor
+
+Pelayanan Utama hanya mengisi identitas nama satuan kerja Eselon II
+
+dan untuk Kantor Pabean yang merupakan satuan kerja Kantor
+
+Pengawasan dan Pelayanan Bea dan Cukai mengisi identitas nama satuan
+
+kerja Eselon IJ dan Eselon III.
+
+Pengisian kolom dalam Laporan Hasil Pemeriksaan Fisik Pelayanan Segera
+
+(Rush Handling) adalah sebagai berikut:
+
+a.
+
+Nomor dan Tanggal Pendaftaran Permohonan
+
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan.
+
+Contoh:
+
+Permohonan didaftarkan di kantor pabean pada urutan ke-37 pada
+tanggal 1 Oktober 2021.
+
+Nomor Pendaftaran Permohonan: 000037/RH
+
+Tanggal : 01-10-2021
+
+Detail Pemeriksaan
+
+Wajib diisi oleh Pejabat Bea dan Cukai berupa data hari/tanggal
+pemeriksaan, jam mulai periksa, jam selesai periksa, dan lokasi
+pemeriksaan.
+
+Jumlah Partai Barang
+
+Diisi dengan jumlah partai barang Pelayanan Segera (Rush Handling).
+Nomor Peti Kemas yang Diperiksa
+
+Diisi dengan nomor peti kemas yang diperiksa.
+
+Kondisi Segel
+
+Diisi dengan kondisi segel, utuh atau rusak.
+
+Jumlah dan Jenis Barang yang Diperiksa
+
+Diisi dengan jumlah dan jenis barang yang diperiksa.
+
+Hasil Pemeriksaan
+
+Diisi dengan lengkap hasil pemeriksaan, berupa jumlah, jenis, dan
+ukuran kemasan, uraian barang, jumlah satuan barang, spesifikasi
+
+lengkap barang, negara asal, serta kesimpulan pemeriksaan fisik.
+
+www.jdih.kemenkeu.go.id ‘a

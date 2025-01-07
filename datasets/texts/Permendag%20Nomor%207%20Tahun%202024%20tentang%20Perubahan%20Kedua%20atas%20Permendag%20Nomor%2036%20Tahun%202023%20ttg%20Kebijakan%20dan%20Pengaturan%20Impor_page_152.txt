@@ -1,0 +1,32 @@
+- 137 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+laminated timber
+(CLT atau X-lam)
+395. | ex 4418.83.00 | -- I beams Berasal dari kayu V V
+396. | ex 4418.89.00 | -- Lain-lain Berasal dari kayu V V
+- Lain-lain:
+397. | 4418.92.00 -- Panel kayu seluler V V
+398. | 4418.99.00 -- Lain-lain V V
+44.19 Perangkat makan dan perangkat dapur, dari
+kayu
+399. | 4419.20.00 - Dari kayu tropis V V
+400. | 4419.90.00 - lain-lain V V
+44.20 Tatakan kayu dan kayu bertatah; kotak dan
+peti untuk perhiasan atau peralatan makan
+dan barang semacam itu, dari kayu; patung
+kecil dan ornamen lainnya, dari kayu;
+perabotan dari kayu yang tidak termasuk
+Bab 94.
+- Patung kecil dan ornamen lainnya:
+401. | 4420.11.00 -- Dari kayu tropis V V
+402. | 4420.19.00 -- Lain-lain V V
+4420.90 - Lain-lain:
+403. | 4420.90.10 -- Perabotan dari kayu yang tidak termasuk V V
+Bab 94
+404. | 4420.90.20 -- Kotak dan kemasan kecil lainnya yang V V
+ditujukan/dirancang untuk dan cocok untuk
+dibawa dalam saku, dalam tas tangan atau
+dipegang orang
+405. | 4420.90.90 -- Lain-lain V V
+

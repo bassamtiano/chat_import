@@ -1,0 +1,37 @@
+- 489 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+cat
+2998. | 6001.92.30 --- Mengandung benang elastomer | KGM V V
+atau benang karet
+2999. | 6001.92.90 --- Lain-lain KGM viv
+3000. | 6001.99.00 -- Dari bahan tekstil lainnya KGM viv
+60.02 Kain rajutan atau kaitan dengan
+lebar tidak melebihi 30 cm,
+mengandung benang elastomer
+atau benang karet 5 % atau lebih
+menurut beratnya, selain yang
+dimaksud dalam pos 60.01.
+3001. | 6002.40.00 - Mengandung benang elastomer 5 | KGM V V
+% atau lebih menurut beratnya
+tetapi tidak mengandung benang
+karet
+3002. | 6002.90.00 - Lain-lain KGM viv
+60.03 Kain rajutan atau kaitan dengan
+lebar tidak melebihi 30 cm,
+selain yang dimaksud dalam pos
+60.01 atau 60.02.
+3003. | 6003.10.00 - Dari wol atau bulu hewan halus_ | KGM viv
+3004. | 6003.20.00 - Dari kapas KGM Viv
+3005. | 6003.30.00 - Dari serat sintetik KGM viv
+3006. | 6003.40.00 - Dari serat artifisial KGM viv
+3007. | 6003.90.00 - Lain-lain KGM Viv
+60.04 Kain rajutan atau kaitan dengan
+lebar melebihi 30 cm,
+mengandung benang elastomer
+atau benang karet 5 % atau lebih
+menurut beratnya, selain yang
+dimaksud dalam pos 60.01.
+6004.10 - Mengandung benang elastomer 5
+

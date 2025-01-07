@@ -1,0 +1,40 @@
+- 60 -
+
+2) Nama dan Alamat
+
+Diisi pada kolom yang disediakan dengan nama dan alamat
+
+importir.
+
+Contoh:
+
+NPWP : 01.061.747.0-092.000
+Nama : Sumber Makmur, PT
+
+Alamat : Jalan Samudera 1 No. 15, Jakarta Utara.
+
+c. Tingkat Pemeriksaan
+
+Diisi dengan tingkat pemeriksaan fisik barang Pelayanan Segera
+
+(Rush Handling).
+d. Jumlah Kemasan yang Harus Diperiksa
+
+Diisi dengan jumlah kemasan barang yang harus diperiksa.
+e. Nomor Kontainer yang Diperiksa
+
+Diisi dengan nomor kontainer yang diperiksa.
+f. |Nomor Kemasan yang Diperiksa
+
+Diisi dengan nomor kemasan yang diperiksa.
+g. Ajukan Contoh dan Foto
+
+Diisi apabila importir mengajukan barang contoh/foto atau tidak.
+Kantor Pabean, melalui SKP atau Pejabat Bea dan Cukai, mengisi nama
+kota dan tanggal penerbitan Instruksi, Nama jelas Pejabat Pemeriksa
+Dokumen beserta Nomor Identitas Pegawai Negeri Sipil (NIP) yang
+menerbitkan Instruksi pada kolom yang disediakan. Kolom ini
+
+ditandasahkan oleh Pejabat Pemeriksa Dokumen tersebut.
+
+awww ih. kemenkeu.go.el

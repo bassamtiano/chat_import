@@ -1,0 +1,37 @@
+- 325 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+55.15 Kain tenunan lainnya dari serat stapel
+sintetik.
+- Dari serat stapel poliester:
+2864. | 5515.11.00 -- Dicampur terutama atau semata-mata dengan V V
+serat stapel rayon viskose
+2865. | 5515.12.00 -- Dicampur terutama atau semata-mata dengan V V
+filamen buatan
+2866. | 5515.13.00 -- Dicampur terutama atau semata-mata dengan V V
+wol atau bulu hewan halus
+2867. | 5515.19.00 --_Lain-lain Vv |v
+- Dari serat staple akrilik atau modakrilik:
+2868. | 5515.21.00 -- Dicampur terutama atau semata-mata dengan V V
+filamen buatan
+2869. | 5515.22.00 -- Dicampur terutama atau semata-mata dengan V V
+wol atau _bulu hewan halus
+2870. | 5515.29.00 --_Lain-lain Vv {ov
+- Kain tenunan lainnya:
+2871. | 5515.91.00 -- Dicampur terutama atau semata-mata dengan V V
+filamen buatan
+5515.99 --_Lain-lain:
+2872. | 5515.99.10 --- Dicampur terutama atau semata-mata dengan V V
+wol atau _bulu hewan halus
+2873. | 5515.99.90 --- Lain-lain
+55.16 Kain tenunan dari serat stapel artifisial.
+- Mengandung serat stapel artifisial 85 % atau
+lebih menurut beratnya:
+2874. | 5516.11.00 --_ Tidak dikelantang atau dikelantang V V
+2875. | 5516.12.00 -- Dicelup viv
+2876. | 5516.13.00 -- Dari benang aneka warna V V
+2877. | 5516.14.00 -- Dicetak Vv |v
+
+- Mengandung serat stapel artifisial kurang dari
+85 % menurut beratnya, dicampur terutama atau
+

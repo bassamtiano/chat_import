@@ -1,0 +1,65 @@
+- 27 -
+
+Tarif dan Fasilitas
+
+Diisi pada kolom yang disediakan dengan:
+
+a. Tarif Bea Masuk, tarif Bea Masuk tambahan seperti Bea Masuk
+Anti Dumping, Bea Masuk Anti Dumping Sementara, Bea Masuk
+Tindakan Pengamanan, Bea Masuk Tindakan Pengamanan
+Sementara, Bea Masuk Imbalan, Bea Masuk Imbalan Sementara,
+Bea Masuk Pembalasan, Cukai, PPN, PPnBM, dan PPh; dan
+
+b.  Fasilitas pembebasan, keringanan, ditanggung pemerintah, tidak
+dipungut, atau penundaan pembayaran bea masuk, bea masuk
+tambahan, Cukai, PPN, PPnBM, dan PPh,
+
+pada tanggal pengajuan permohonan Pelayanan Segera (Rush
+
+Handling).
+
+Kode fasilitas terdiri atas:
+
+a. DTP untuk ditanggung pemerintah;
+
+b. DTG untuk ditunda;
+
+c. TDP untuk tidak dipungut;
+
+d. BBS untuk dibebaskan; dan
+
+e. LNS untuk telah dilunasi.
+
+Pembebasan, keringanan, ditanggung pemerintah, tidak dipungut,
+
+atau. penundaan pembayaran bea masuk yang dicantumkan
+
+disesuaikan dengan pos tarif BTKI yang digunakan.
+
+BM
+
+Diisi pembebanan Bea Masuk sesuai ketentuan yang berlaku.
+
+Ada 2 (dua) jenis tarif/pembebanan untuk BM:
+
+a. Advalorum, yang mempergunakan % (persentase), yang dalam
+perhitungan nilai BM nya = Nilai % dikalikan nilai pabeannya
+dalam Rupiah;
+
+b.  Spesifik, yang mempergunakan nilai Rupiah per unit satuan,
+sehingga jumlah satuan yang diisikan pada jumlah barang
+adalah merupakan jumlah satuan unit, perhitungan BM nya =
+Nilai Rupiah per unit satuan dikalikan dengan jumlah satuan
+unit.
+
+BM KITE
+
+Diisi pembebanan Bea Masuk untuk barang yang diimpor oleh
+
+importir yang mendapatkan fasilitas KITE pengembalian sesuai
+
+ketentuan yang berlaku.
+
+\
+
+www.jdih.kemenkeu.go.id

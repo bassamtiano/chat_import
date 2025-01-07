@@ -1,0 +1,56 @@
+2 FQ) =
+
+C. DAFTAR IMPOR BARANG BERUPA KEDELAI, GANDUM, DAN TEPUNG
+TERIGU YANG DIKENAKAN PEMUNGUTAN PAJAK PENGHASILAN PASAL
+22 SEBESAR 0,5% (NOL KOMA LIMA PERSEN)
+
+No he a Uraian Barang
+10.01 Gandum dan meslin.
+- Gandum durum :
+1 1001.19.00 - - Lain-lain
+- Lain-lain :
+1001.99 - - Lain-lain :
+- - - Layak untuk dikonsumsi oleh manusia :
+2 1001.99.12 - - - - Biji gandum tanpa cangkang
+a] 1001.99.19 - -- - Lain-lain
+- - - Lain-lain :
+4 1001.99.99 - --- Lain-lain
+11.01 Tepung gandum atau tepung meslin.
+- Tepung gandum :
+5 1101.00.11 - - Telah difortifikasi
+6 1101.00.19 - - Lain-lain
+12.01 Kacang kedelai, pecah maupun tidak.
+¥ 1201.90.00 - Lain-lain
+
+DAFTAR EKSPOR KOMODITAS TAMBANG BATUBARA, MINERAL LOGAL
+DAN MINERAL BUKAN LOGAM YANG DIKENAKAN PEMUNGUTAN PAJAK
+PENGHASILAN PASAL 22
+
+Pos Tarif .
+No HS Code Uraian Barang
+1 2502.00.00 Pirit besi tidak digongseng.
+2 2503.00.00 Belerang dari segala jenis, selain belerang sublimasi, belerang
+hasil endapan dan belerang koloidal.
+25.04 Grafit alam.
+3 2504.10.00 - Dalam bentuk bubuk atau serpih
+4 2504.90.00 - Lain-lain
+25.05 Pasir alam dari segala jenis, berwarna maupun tidak, selain pasir
+mengandung logam dari Bab 26.
+5 2505.10.00 - Pasir silika dan pasir kuarsa
+25.06 Kuarsa (selain pasir alam); kuarsit, dikerjakan secara kasar atau
+semata-mata dipotong maupun tidak, digergaji atau dengan cara
+lainnya menjadi balok atau lembaran tebal berbentuk empat
+persegi panjang (termasuk bujur sangkar).
+6 2506.10.00 - Kuarsa
+th 2506.20.00 - Kuarsit
+8 2507.00.00 Kaolin dan tanah liat kaolin lainnya, dikalsinasi maupun tidak.
+25.08 Tanah liat lainnya (tidak termasuk tanah liat muai dari pos
+68.06), andalusite, kyanite dan sillimanite, dikalsinasi maupun
+tidak; mullite; tanah chamotte atau tanah dinas.
+9 2508.10.00 - Bentonit
+10 2508.30.00 - Tanah liat tahan api
+2508.40 - Tanah liat lainnya :
+11 2508.40.10 - - Fuller's earth
+
+www jdih.kemenka,
+

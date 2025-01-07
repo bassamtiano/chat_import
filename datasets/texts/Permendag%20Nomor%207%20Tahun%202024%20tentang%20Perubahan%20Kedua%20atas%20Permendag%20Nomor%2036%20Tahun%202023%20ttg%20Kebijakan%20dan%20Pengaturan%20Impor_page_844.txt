@@ -1,0 +1,36 @@
+- 124 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+telah dimuat pada alat
+angkut.
+2) BMTB KELOMPOK A USIA PALING LAMA 20 TAHUN
+84.06 Turbin uap air dan turbin uap PI BARU KETENTUAN
+° lainnya. PENERBITAN PI
+343. | 8406.10.00 - Turbin untuk penggerak kendaraan | PI BMTB Rekondisi Viv V
+air Kelompok A 20 Tahun BMTB Rekondisi
+- Turbin Lainnya: (API-P): Kelompok A 20 Tahun
+344. | 8406.81.00 -- Dengan keluaran melebihi 40 MW hanya dapat diimpor oleh Viv V
+84.08 Mesin piston pembakaran dalam Dalam hal Neraca Komoditas | API-P.
+nyala kompresi (mesin diesel atau | telah ditetapkan,
+semi diesel). persyaratan berupa Neraca KETENTUAN
+8408.10 - Mesin penggerak kendaraan air: Komoditas. PERSYARATAN PI
+345. | ex 8408.10.20 | -- Dengan Hanya untuk V V V
+tenaga melebihi | diatas 25 kW Dalam hal Neraca Komoditas | Perizinan Berusaha
+22,38 kW tetapi | tetapi tidak belum ditetapkan, Berbasis Risiko yaitu
+tidak melebihi melebihi 100 kw __| Persyaratan berupa Data Perizinan Berusaha
+100 kw Tersedia sebagai berikut: berdasarkan tingkat risiko
+346. | 8408.10.30 -- Dengan tenaga melebihi 100 kw 1. Perizinan Berusaha kegiatan usaha v| Vv v
+tetapi tidak melebihi 750 kW berupa: sesuai dengan klasifikasi
+347. | 8408.10.90 -- Lain-lain a. Izin usaha berlaku KBLI-nya. Vv |v V
+8408.20 - Mesin dari jenis yang digunakan efektif yang dimiliki ,
+untuk penggerak kendaraan dari Bab oleh perusahaan Perizinan Berusaha ..
+: untuk melakukan Berbasis Risiko terdiri
+= F kegiatan usaha selain | atas:
+-- Lain-lain:
+—_ Sn ain perdagangan yang 1. Tingkat Risiko Rendah
+348. | ex 8408.20.96 | ---- Dengan Hanya untuk diterbitkan oleh berupa NIB; Vi 4 v
+kapasitas kapasitas silinder instansi berwenang 2. Tingkat Risiko
+silinder melebihi | melebihi sesuai dengan Menengah berupa NIB
+3.500 cc 3.500 cc tetani ketentuan peraturan dan Sertifikat Standar
+. tidak elebint perundang-undangan; (risiko menengah
+

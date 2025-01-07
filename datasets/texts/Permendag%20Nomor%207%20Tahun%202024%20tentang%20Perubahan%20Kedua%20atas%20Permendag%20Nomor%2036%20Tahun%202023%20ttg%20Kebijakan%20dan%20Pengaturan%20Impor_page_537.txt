@@ -1,0 +1,57 @@
+- 522 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+identitas :
+
+1. IT Minuman Beralkohol
+Duty Not Paid (BUMN
+pemilik API -U) yang
+mengalami Perubahan;
+2. PI Minuman Beralkohol
+Duty Not Paid (BUMN
+pemilik API -U) yang
+masih berlaku; dan
+
+3. Data elektronik dalam
+NIB, terkait dengani
+dentitas Importir.
+
+Dalam hal perubahan
+golongan minuman
+beralkohol, jumlah
+barang, pos tarif/HS,
+dan/atau negara asal:
+1. PI Minuman
+Beralkohol Duty Not
+Paid (BUMN pemilik
+API-U) yang masih
+berlaku;dan
+2. Perubahan Rencana
+distribusi ke Toko
+Bebas Bea.
+

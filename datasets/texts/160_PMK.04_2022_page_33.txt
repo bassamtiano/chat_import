@@ -1,0 +1,8 @@
+~ 33 -
+
+Nomor (24) :  diisi negara asal barang yang bersangkutan.
+Nomor (25) : diisi pelabuhan/bandar udara tempat pemasukan atau
+pembongkaran barang yang bersangkutan.
+
+fii :
+jdth.kemenkeu.go.id |

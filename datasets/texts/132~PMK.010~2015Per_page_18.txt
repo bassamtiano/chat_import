@@ -1,0 +1,88 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-15-
+
+POS/SUB POS
+
+No. URAIAN BARANG DESCRIPTION OF GOODS BEM ASU!
+IMPORT DUTY
+@) (4) [ &
+61.07 ‘Celana kolor, celana dalam, kemeja tidur, piama, pakaian|Men’s or boys’ underpants, briefs, nightshirts, pyjamas,
+mandi, dressing gown dan barang semacam itu, untuk pria|bathrobes, dressing gowns and similar: articles, knitted or|
+atau anak laki- laki, rajutan atau kaitan. crocheted.
+- Celana kolor dan celana dalam: - Underpants and briefs:
+4874 |6107.11.00.00 - - Dari kapas - - Of cotton 25%
+4875 |6107.12.00.00 Dari serat buatan |- - Of man-made fibres 25%
+4876 /6107.19.00.00 - - Dari bahan tekstil lainnya - - Ofother textile materials 25%
+- Kemeja tidur dan piyama: - Nightshirts and pyjamas:
+4877 |6107.21.00.00 Dari kapas - - Ofcotton 25%
+4878 |6107.22.00.00 Dari serat buatan - - Of man-made fibres 25%
+4879 |6107.29.00.00 - - Dari bahan teksti! lainnya |- - Of other textile materials 25%
+- Lain-lain: '- Other:
+'6107.91.00.00 - - Dari kapas - - Of cotton 25%
+'6107.99.00.00 - - Dari bahan tekstil lainnya - - Of other textile materials 25%
+61.08 Rok dalam, petticoat, celana dalam, panty, gaun malam, piama,|Women’s or girls’ slips, petticoats, briefs, panties,
+gaun rumah, pakaian mandi , dressing gown dan barangj|nightdresses, pyjamas, négligés, bathrobes, dressing gowns,
+Isemacam itu, untuk wanita dan anak perempuan, rajutan atau|and similar articles, knitted or crocheted.
+kaitan.
+- Rok dalam dan petticoat: - Slips and petticoats:
+'6108.11.00.00 - - Dari serat buatan - - Of man-made fibres 25%
+6108.19 - - Dari bahan tekstil lainnya: Of other textile materials:
+'6108.19.20.00 - - - Dari wol atau bulu hewan halus Of wool or fine animal hair 20%
+6108.19.30.00 - - - Dari kapas Of cotton 25%
+6108.19.90 - - - Lain-lain: Other:
+'6108.19.90.10 - - - - Dari sutra - Of silk 25%
+'6108.19.90.90 - - - - Lain-lain - Other 25%
+}- Celana dalam dan panty: - Briefs and panties:
+
+.|6108.21.00.00 - - Dari kapas Of cotton 25%
+'6108.22.00.00 - - Dari serat buatan Of man-made fibres 25%
+'6108.29.00.00 - - Dari bahan tekstil lainnya Of other textile materials 25%
+
+- Gaun tidur dan piyama: - Nightdresses and pyjamas:
+6108.31.00.00 - - Dari kapas - - Of cotton 25%
+6108.32.00.00 - - Dari serat buatan - - Of man-made fibres 25%
+'6108.39.00.00 - - Dari bahan tekstil lainnya - - Of other textile materials 25%
+~ Lain-lain: | Other:
+6108.91.00.00 |- - Dari kapas - - Of cotton 25%
+6108.92.00.00 - - Dari serat buatan - - Of man-made fibres 25%
+'6108.99.00.00 - - Dari bahan tekstil lainnya - - Of other textile materials 25%
+61.09 T- shirt, singlet dan kaus kutang lainnya, rajutan atau kaitan. _| T-shirts, singlets and other vests, knitted or crocheted.
+6109.10 - Dari kapas: - Of cotton:
+'6109.10.10.00 - - Untuk pria atau anak laki- laki - - For men or boys 25%
+6109.10.20.00 - - Untuk wanita atau anak perempuan - - For women or girls 25%
+6109.90 - Dari bahan teksti! lainnya: - Of other textile materials:
+6109.90.10.00 - - Untuk pria atau anak laki- laki, dari rami, linen atau sutra - - For men or boys, of ramie, linen or silk 25%
+6109.90.20.00 - - Untuk pria atau anak laki- laki, dari bahan lainnya - - For men or boys, of other textile materials 25%
+16109.90.30.00 - - Lain-lain - - Forwomenor girls 25%
+161.10 Jersey, pullover, cardigan, rompi dan barang semacam itu,|Jerseys, pullovers, cardigans, waistcoats and similar articles,
+irajutan atau kaitan. knitted or crocheted.
+- Dari wol atau bulu hewan halus: - Of wool or fine animal hair:
+6110.11.00.00 - - Dari wol - - Of wool 20%
+'6110.12.00.00 - - Dari kambing Kashmir - - Of Kashmir (cashmere) goats 25%
+6110.19.00.00 - = Lain-lain - - Other 25%
+6110.20.00.00 - Dari kapas - Of cotton 25%
+6110.30.00.00 - Dari serat buatan - Of man-made fibres Zoe
+6110.90.00.00 - Dari bahan tekstil lainnya - Of other textile materials 25%
+61.11 Garmen dan aksesori pakaian untuk bayi, rajutan atau kaitan. |Babies’ garments and clothing accessories, knitted or}
+crocheted.
+6111.20.00.00 |- Dari kapas - Of cotton 25%
+16111.30.00.00 ~ Dari serat sintetik - Of synthetic fibres 25%
+6111.90.00.00 - Dari bahan tekstil lainnya - Of other textile materials 25%
+61.12 Track suit, ski suit dan pakaian renang, rajutan atau kaitan. Track suits, ski suits and swimwear, knitted or crocheted.
+- Track suit: - Track suits:
+6112.11.00.00 - - Dari kapas |- - Of cotton 25%
+6112.12.00.00 - - Dari serat sintetik - - Of synthetic fibres 25%
+'6112.19.00.00 - - Dari bahan tekstil lainnya |- - ‘Of other textile materials 25%
+'6112.20.00.00 ~ Ski suit |- Ski suits 25%
+* |- Pakaian renang pria atau anak laki- laki: - Men's or boys’ swimwear:
+6112.31.00.00 - - Dari serat sintetik - - Of synthetic fibres 25%
+6112.39.00.00 - - Dari bahan tekstil lainnya - - Ofother textile materials 25%
+- Pakaian renang wanita atau anak perempuan: - Women's or girls’ swimwear:
+6112.41.00.00 - - Dari serat sintetik - - Ofsynthetic fibres 25%
+'6112.49.00.00 - - Dari bahan teksti! lainnya |- - Of other textile materials 25%
+
+o
+
+www.jdih.kemenkeu.go.i

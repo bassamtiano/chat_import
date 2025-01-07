@@ -1,0 +1,33 @@
+-12-
+
+Topologi Portal National Single Window merupakan suatu bentuk
+topologi sistem yang menggambarkan pola keterkaitan antar
+“seluruh Entitas yang akan tergabung ke dalam sistem National
+Single Window, sebagai dasar dan acuan dalam _ proses
+pembangunan, pengembangan dan pengoperasian sistem
+National Single Window di Indonesia.
+
+Desain Topologi Portal Indonesia National Single Window dapat
+digambarkan sebagai berikut:
+
+on
+
+Topologi Portal National Single Window menggunakan
+pendekatan Single Integrated Portal, yang mengintegrasikan
+seluruh proses bisnis dalam kerangka pembangunan sistem
+National Single Window. Portal ini akan menjadi access point
+bagi semua pihak yang terlibat dalam proses pelayanan kegiatan
+customs release and clearance of cargoes. Dengan demikian
+hanya dibutuhkan satu portal (common portal) untuk melayani
+seluruh proses pelayanan transaksi dalam kegiatan ekspor dan
+impor.
+
+Pemilihan topologi ini dimaksudkan agar pengembangan dan
+pemeliharaan sistem terpusat dalam satu pengelola, sehingga
+secara teoritis akan memudahkan pelaksanaannya. Namun
+demikian pendekatan ini memerlukan pengelola yang benar-
+benar mampu menangani dan menyelesaikan kompleksitas
+
+sistem secara keseluruhan.
+
+von in kemenkeu ic

@@ -1,0 +1,37 @@
+- 447 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+2480. | 6205.20.90 -- Lain-lain PCE Vv |v
+6205.30 - Dari serat buatan:
+2481. | 6205.30.10 -- Barong Tagalog PCE vV |v
+2482. | 6205.30.90 -- Lain-lain PCE v |v
+6205.90 - Dari bahan tekstil lainnya:
+2483. | 6205.90.10 -- Dari wol atau bulu hewan halus_ | PCE vV |v
+-- Lain-lain :
+2484. | ex 6205.90.92 | --- Barong Selain motif PCE Vv |v
+Tagalog batik
+2485. | 6205.90.99 --- Lain-lain PCE Vv |v
+62.06 Blus, kemeja dan blus kemeja,
+untuk wanita atau anak
+perempuan.
+6206.10 - Dari sutra atau sisa sutra :
+2486. | 6206.10.90 -- Lain-lain PCE vV |v
+2487. | 6206.20.00 - Dari wol atau bulu hewan halus __| PCE Vv |v
+6206.30 - Dari kapas :
+2488. | 6206.30.90 -- Lain-lain PCE Vv |v
+2489. | 6206.40.00 - Dari serat buatan PCE vV |v
+2490. | 6206.90.00 - Dari bahan tekstil lainnya PCE Vv [Vv
+62.07 Singlet dan kaus kutang lainnya,
+celana kolor, celana dalam,
+pakaian tidur, piyama, pakaian
+mandi, dressing gown dan barang
+semacam itu, untuk pria atau
+anak laki-laki.
+- Celana kolor dan celana dalam:
+2491. | 6207.11.00 -- Dari kapas PCE Vv [Vv
+2492. | 6207.19.00 -- Dari bahan tekstil lainnya PCE Vv [Vv
+- Pakaian tidur dan piyama:
+6207.21 -- Dari kapas:
+2493. | ex 6207.21.90 | --- Lain-lain Selain motif PCE Viv
+

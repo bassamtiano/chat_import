@@ -1,0 +1,70 @@
+- 68 -
+
+- Pengeras suara, dipasang pada rumahnya maupun tidak :
+
+8518.21 - - Pengeras suara tunggal, dipasang pada rumahnya :
+889 | 8518.21.10 - - - Tipe box speaker
+890 | 8518.21.90 - - - Lain-lain
+8518.22 - - Pengeras suara multipel, dipasang pada rumah yang sama:
+891 8518.22.10 - - - Tipe box speaker
+892 | 8518.22.90 - - - Lain-lain
+8518.29 - - Lain-lain :
+893 | 8518.29.90 - - - Lain-lain
+8518.50 - Set amplifier suara listrik :
+894 | 8518.50.10 - - Mempunyai tingkat kekuatan 240 W atau lebih
+895 | 8518.50.20 - - Lainnya, dengan pengeras suara, dari jenis yang cocok untuk
+
+penyiaran, mempunyai voltage rating 50 V atau lebih tetapi tidak
+melebihi 100 V
+
+896 | 8518.50.90 - - Lain-lain
+
+85.23 Cakram, pita, media penyimpan non-volatile berbentuk padat,
+"smart card" dan media lain untuk merekam suara atau fenomena
+lain, baik direkam maupun tidak, termasuk matrice dan master
+untuk produksi cakram, tetapi selain produk dari Bab 37.
+
+- Media optik :
+
+8523.41 - - Tidak terekam :
+897 | 8523.41.10 - - - Dari jenis yang cocok untuk penggunaan komputer
+898 | 8523.41.90 - - - Lain-lain
+85.25 Aparatus transmisi untuk penyiaran radio atau televisi digabung
+
+dengan aparatus penerima atau dengan aparatus perekam suara
+maupun tidak; kamera televisi, kamera digital dan kamera
+perekam video.
+
+- Kamera televisi, kamera digital dan kamera perekam video :
+
+8525.81 - - Barang berkecepatan tinggi sebagaimana dirinci dalam Catatan
+Subpos 1 pada Bab ini:
+899 | 8525.81.10 - - - Kamera perekam video
+900 | 8525.81.20 - - - Kamera televisi
+8525.82 - - Lain-lain, barang diperkuat untuk radiasi atau tahan radiasi
+sebagaimana dirinci dalam Catatan Subpos 2 pada Bab ini:
+901 8525.82.10 - - - Kamera perekam video
+902 | 8525.82.20 - - - Kamera televisi
+8525.83 - - Lain-lain, barang penglihatan malam sebagaimana dirinci dalam
+Catatan Subpos 3 pada Bab ini :
+903 | 8525.83.10 - - - Kamera perekam video
+904 | 8525.83.20 - - - Kamera televisi
+8525.89 - - Lain-lain :
+905 | 8525.89.10 - - - Kamera perekam video
+906 | 8525.89.20 - - - Kamera televisi
+907 | 8525.89.30 - - - Kamera web
+85.28 Monitor dan proyektor, tidak digabung dengan pparatus penerima
+
+televisi; pparatus penerima untuk televisi, digabung dengan
+penerima siaran radio atau pparatus perekam atau pereproduksi
+suara atau video, maupun tidak.
+
+- Aparatus penerima untuk televisi, digabung dengan penerima siaran
+radio atau aparatus perekam atau pereproduksi suara atau video
+maupun tidak :
+
+8528.71 - - Tidak dirancang untuk dipasang video display atau layar :
+
+- - - Set top box yang mempunyai fungsi komunikasi :
+
+www.jdih.kemenke(/go.id

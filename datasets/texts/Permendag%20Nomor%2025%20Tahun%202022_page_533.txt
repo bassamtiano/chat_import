@@ -1,0 +1,37 @@
+-51-
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+- Tanur dan oven dipanaskan secara
+resistansi :
+258.| 8514.11.00 -- Pengepres isostatik panas V V V
+259.| 8514.19.00 -- Lain-lain viv V
+85.15 Mesin dan aparatus penyolder,
+pematri atau pengelas listrik
+(termasuk gas dipanaskan secara
+elektrik), sinar laser atau sinar
+lainnya atau sinar foton, ultrasonik,
+sinar elektron, pulsa magnetis atau
+busur plasma, dapat memotong
+maupun tidak; mesin dan aparatus
+listrik untuk penyemprotan panas
+logam atau sermet.
+8515.39 -- Lain-lain:
+260.) 8515.39.10 --- Pengelas busur AC, tipe V V V
+transformator
+8515.90 - Bagian:
+261.| 8515.90.90 -- Lain-lain viv V
+85.17 Perangkat telepon, termasuk
+
+smartphone dan telepon lainnya
+untuk jaringan seluler atau untuk
+jaringan tanpa kabel lainnya;
+aparatus lainnya untuk
+mengirimkan atau menerima suara,
+gambar, atau data lainnya termasuk
+aparatus untuk komunikasi dalam
+jaringan kabel atau tanpa kabel
+(seperti local atau wide area
+network), selain dari aparat
+transmisi atau penerima dari pos
+84.43, 85.25, 85.27 atau 85.28.
+

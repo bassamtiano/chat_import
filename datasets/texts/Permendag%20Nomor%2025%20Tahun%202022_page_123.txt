@@ -1,0 +1,43 @@
+-~ 94 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+
+551. | ex 4810.13.91 ---- Dengan lebar 150 mm Berasal dari kayu V V
+atau kurang
+
+552. | ex 4810.13.99 ---- Lain-lain: Berasal dari kayu V V
+
+4810.14 Dalam lembaran dengan satu sisinya tidak
+
+melebihi 435 mm dan sisi lainnya tidak melebihi
+297 mm dan tidak dilipat :
+
+553. | ex 4810.14.10 | --- Dicetak, dari jenis yang Berasal dari kayu V v
+digunakan untuk aparatus
+yang merekam sendiri, yang
+sisinya tidak ada yang
+melebihi 360 mm
+--- Lain-lain:
+
+554. | ex 4810.14.91 ---- Yang sisinya tidak ada Berasal dari kayu V Vv
+yang melebihi 360 mm
+
+555. | ex 4810.14.99 | ---- Lain-Lain Berasal dari kayu V v
+
+4810.19 -- Lain-lain:
+
+556. | ex 4810.19.10 | --- Dicetak, dari jenis yang Berasal dari kayu V Vv
+digunakan untuk aparatus
+yang merekam sendiri, dengan
+sisi tidak melebihi 360 mm
+dalam keadaan tidak dilipat:
+
+557. | ex 4810.19.90 | --- Lain-lain Berasal dari kayu V V
+
+- Kertas dan kertas karton dari jenis yang
+digunakan untuk menulis, mencetak atau
+keperluan grafik lainnya, mengandung serat yang
+diperoleh melalui proses mekanik atau kimia
+mekanik lebih dari 10% menurut berat
+keseluruhan kandungan seratnya:
+

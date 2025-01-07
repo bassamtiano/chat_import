@@ -1,0 +1,33 @@
+- 277 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2319. | 8518.50.90 -- Lain-lain V
+85.19 Aparatus untuk perekam atau reproduksi
+suara.
+- Aparatus lainnya:
+8519.81 -- Menggunakan magnet, media optik atau semi
+konduktor:
+2320. | 8519.81.30 --- Compact disc player J J
+85.21 Aparatus perekam atau pereproduksi video,
+digabung dengan video tuner maupun tidak.
+8521.10 - Tipe pita magnetik:
+2321. | 8521.10.90 -- Lain-lain V V
+8521.90 - Lain-lain
+-- Laser disc player:
+2322. | 8521.90.19 --- Lain-lain V V
+-- Lain-lain:
+2323. | 8521.90.99 --- Lain-lain V V
+85.25 Aparatus transmisi untuk penyiaran radio
+atau televisi digabung dengan aparatus
+penerima atau dengan aparatus perekam
+suara maupun tidak; kamera televisi, kamera
+digital dan kamera perekam video.
+- Kamera televisi, kamera digital dan kamera
+perekam video :
+8525.81 -- Barang berkecepatan tinggi sebagaimana
+dirinci dalam Catatan Subpos 1 pada Bab ini:
+2324. | ex 8525.81.10 --- Kamera perekam Selain dari jenis yang V V
+
+video digunakan dalam
+penyiaran
+

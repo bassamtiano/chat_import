@@ -1,0 +1,31 @@
+- 24 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+- Mesin bubut lainnya:
+129.) 8458.91.00 -- Dikontrol secara numerik V V V
+8458.99 -- Lain-lain:
+130. }| 8458.99.10 --- Dengan jarak antara pusat spindle V V V
+dan bed tidak melebihi 300 mm
+131.| 8458.99.90 --- Lain-lain vj ov V
+84.59 Mesin perkakas (termasuk mesin
+way-type unit head) untuk
+mengebor, menggurdi, menggiling,
+membuat ulir atau alur dengan
+menghilangkan logam, selain mesin
+bubut (termasuk turning centre)
+dari pos 84.58.
+132.| ex 8459.10.00 - Mesin way-type | Dioperasikan V V V
+unit head secara elektrik
+- Mesin penggurdi lainnya:
+133.] 8459.21.00 -- Dikontrol secara numerik V V V
+8459.29 -- Lain-lain:
+134. | ex 8459.29.10 --- Dioperasikan | Kecuali mesin V V V
+secara elektrik penggurdi dengan
+diameter mata
+penggurdi
+maksimal 5 inchi
+- Mesin pengebor-penggiling lainnya:
+135. | 8459.31.00 -- Dikontrol secara numerik V V V
+8459.39 -- Lain-lain:
+136. | ex 8459.39.10 --- Dioperasikan | Kecuali Mesin Fris V V V
+

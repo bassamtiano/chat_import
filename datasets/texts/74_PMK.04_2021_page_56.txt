@@ -1,0 +1,46 @@
+-56-
+
+Dalam hal PIB diajukan sebelum pengangkut menyampaikan manifes
+kedatangan sarana pengangkut (inward manifest) ke Kantor Pabean,
+kolom ini dapat diisi setelah pengangkut menyampaikan inward
+manifes. Informasi mengenai nomor dan tanggal BC 1.1 dan nomor
+pos BC 1.1 dapat diperoleh dari pengangkut atau dari portal
+pengguna jasa DJBC.
+
+Contoh:
+
+SPPB diterbitkan atas barang yang terdaftar dalam BC 1.1 nomor
+000482 tanggal 10 November 2020 pada pos 05 subpos 0501.
+
+No. BC 1.1 : 000482
+
+Tanggal : 10-11-2020
+Pos 205
+Sub Pos : 0501
+
+Jumlah Kemasan dan Berat
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan, dengan data berupa jumlah kemasan yang digunakan
+untuk mengemas barang impor dan berat kotor (bruto) keseluruhan
+barang impor dalam satuan kg (kilogram). Berat kotor adalah berat
+barang impor termasuk dengan pengemasnya.
+Contoh:
+Berat barang impor keseluruhan sejumlah 10.150 Kgs dengan jumlah
+total kemasan 120 Packages.
+Jumlah Kemasan : 120 PK
+Berat : 10.150 kg
+Catatan Pengeluaran
+Wajib diisi berupa keterangan Pejabat yang Mengawasi Pengeluaran
+Barang atas kondisi barang impor yang diterbitkan SPPB
+berdasarkan dengan jumlah dan jenis kemasan yang diberitahukan.
+Contoh:
+1) Jumlah kemasan barang impor yang dikeluarkan dari Kawasan
+Pabean sesuai.
+Catatan Pengeluaran:
+TELAH DIKELUARKAN.
+2) Jumlah kemasan barang impor yang dikeluarkan dari Kawasan
+Pabean tidak sesuai.
+Catatan Pengeluaran:
+TIDAK SESUAI.
+
+www.jdih.kemenkeu.go.id f

@@ -1,0 +1,66 @@
+a DD, =
+
+E. DAFTAR BARANG IMPOR KEPERLUAN BADAN SIBER DAN SANDI
+NEGARA *
+
+NO. NAMA BARANG URAIAN
+
+I. PERALATAN SANDI
+
+1. | Mesin Sandi (a) Berbasis Data;
+
+(b) Berbasis Voice meliputi radio dan telepon (desk
+phone dan mobile phone);
+
+(c) Berbasis teks/ fax.
+
+2. | KDCNDA . Alat pembangkit kunci/ random key generator.
+
+3. | KDCSA Alat pendistribusi kunci.
+
+Il. PERALATAN KRIPTO ANALISIS
+
+1. | Alat Monitoring Alat untuk memantau komunikasi melalui radio,
+telepon, internet, satelit yang digunakan sebagai alat
+bantu analisis sinyal. :
+
+2. | Alat Traffic Analysist | Alat untuk mengamati lalu lintas data pada jaringan
+internet. ,
+
+3. | Code Breaker Super Alat bantu untuk menyelesaikan perhitungan dalam
+Computer skala besar yang tidak dapat diselesaikan oleh
+komputer biasa.
+
+I. ALAT PENDUKUNG UTAMA
+
+1, | Counter surveillance | (a) Alat untuk mendeteksi bahan-bahan
+semikonduktor pada tempat-tem pat tertentu;
+
+(b) Alat untuk mendeteksi gelombang radio yang’
+terpancarkan;
+
+(c) Alat untuk menangkap/mencari frekuensi radio
+dengan frekuensi tertentu;
+
+(qd) Alat untuk mendisplay/menampilkan hasil
+monitoring;
+
+(e) Alat untuk mendeteksi hasil tegangan pada saluran
+telepon, apabila_ terjadi penurunan — tegangan,
+indikasi terjadi penyadapan.
+
+2. | Jammer F (a) Alat untuk menggangu (jamming) frekuensi GSM |
+
+. tertentu yang berguna untuk menonaktifkan alat
+komunikasi yang bekerja pada frekuensi tertentu;
+
+(b) Alat untuk mengganggu (jamming) frekuensi CDMA
+tertentu yang berguna untuk menonaktifkan alat
+komunikasi yang bekerja pada frekuensi tertentu.
+
+3. Tempest Alat pendukung suatu) ruangan yang dapat
+mengendalikan atau meniadakan pancaran gelombang
+elektromagnetik yang keluar ataupun masuk ke
+s ruangan tersebut.
+
+DISTRIBUSI I wow Jel kemenkeu.go 4

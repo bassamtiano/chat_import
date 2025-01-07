@@ -1,0 +1,108 @@
+LAMPIRAN
+
+TENTANG
+
+PENETAPAN. SISTEM _ KLASIFIKASI
+
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+PERUBAHAN KETIGA ATAS PERATURAN
+
+KEUANGAN NOMOR- 213/PMK.011/2011
+BARANG
+
+PEMBEBANAN TARIF BEA MASUK ATAS BARANG IMPOR
+
+PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
+
+NoMOR 132/PMK.010/2015
+
+MENTERI
+TENTANG
+DAN
+
+POS/SUB POS
+NO. | _HEADING/ URAIAN BARANG DESCRIPTION OF GOODS pre
+SUB HEADING IMPORT DUTY
+@) G) (4) (5)
+09.01 Kopi, digongseng atau dihilangkan kafeinnya maupun tidak;|Coffee, whether or not roasted or decaffeinated; coffee husks
+lsekam dan kulit kopi; pengganti kopi mengandung kopiland skins; coffee substitutes containing. coffee in any
+dengan perbandingan berapapun. proportion.
+- Kopi, digongseng: - Coffee, roasted:
+0901.21 - - Tidak dihilangkan kafeinnya: - - Not decaffeinated:
+806 |0901.21.10.00 Tidak ditumbuk = = = Unground Pra
+807 |0901.21.20.00 Ditumbuk ~~ Ground 20%
+0901.22 Dihilangkan kafeinnya: - -. Decaffeinated:
+808 /0901.22.10.00 Tidak ditumbuk - = = Unground 20%
+809 |0901.22.20.00 - - - Ditumbuk ~~~ Ground 20%
+09.02 Teh, diberi rasa maupun tidak. ‘Tea, whether or not flavoured.
+0902:10 - Teh hijau (tidak difermentasi) dikemas langsung dalam kemasan]- Green tea (not fermented) in Immediate packings of a content not|
+tidak melebihi 3 kg: exceeding 3 kg: .
+0902.20 - Teh hijau lainnya (tidak difermentasi): |- Other green tea (not fermented):
+0902.30 - Teh hitam (difermentasi) dan teh difermentasi sebagian, dikemas]- Black tea (fermented) and partly fermented tea, in immediate}
+langsung dalam kemasan tidak melebihi 3 kg: packings of a content not exceeding 3 kg:
+816 |0902.30.10.00 - - Daun - - Leaves 20%
+817 }0902.30.90.00 - - Lain-lain - - Other 20%
+0902.40 ~Teh hitam lainnya (difermentasi) dan teh lainnya yang|- Other black tea (fermented) and other partly fermented tea:
+difermentasi sebagian:
+818 |0902.40.10.00 - - Daun - - Leaves 20%
+819 |0902.40.90.00 - - Lain-lain - - Other 20%
+16.01 Sosis dan produk semacamnya,dari daging, sisa daging atau] Sausages and similar products,’ of meat, meat. offal or blood;
+darah; olahan makanan berasal dari produk ini. food preparations based on these products.
+1216 |1601.00.10.00 '- Dalam kemasan kedap udara '- In airtight containers 30%
+1217 }1601.00.90.00 ~ Lain-lain - Other 30%
+16.02 Daging, sisa daging atau darah lainnya yang diolah atau|Other prepared or preserved meat, meat offal or blood.
+diawetkan.
+1602.10 - Olahan homogen: - Homogenised preparations:
+1218 }1602.10.10.00 - - Mengandung babi, dalam kemasan kedap udara - - Containing pork, in airtight containers 30%
+1219 |1602.10.90.00 - ~ Lain-lain - - Other 30%
+1220 |1602.20.00.00 - Dari hati binatang |- Of liver of any animal 30%
+- Dari unggas dari pos 01.05: - Of poultry of heading 01.05:
+1602.31 - - Dari kalkun: Of turkeys:
+1221 [1602.31.10.00 - - - Dalam kemasan kedap udara In airtight containers 30%
+- - - Lain-lain: Other:
+1222 |1602.31.91.00 - - - - Daging yang dihilangkan tulangnya atau dipisahkan dengan) - - Mechanically deboned or separated meat 30%
+mesin
+1223 |1602.31.99.00 - - - - Lain-lain - -- - Other 30%
+1602.32 - - Dari ayam spesies Gallus domesticus: - - Of fowls of the species Gallus domesticus:
+1224 |1602.32.10.00 - - - Kari ayam, dalam kemasan kedap udara - - - Chicken curry, in airtight containers 30%
+1225 |1602.32.90.00 - - - Lain-lain |- - - Other 30% ©
+1226 |1602.39.00.00 |- - Lain-lain - - Other 30%
+~ Dari babi: - Of swine:
+1602.41 - - Paha dan potongannya: - = Hams and cuts thereof:
+1227 |1602.41.10.00 - - - Dalam kemasan kedap udara - - - In airtight containers 30%
+1228 |1602.41.90.00 - - - Lain-lain }- - - Other 30%
+1602.42 - - Bahu dan potongannya: - - Shoulders and cuts thereof:
+1229 }1602.42.10.00 - - - Dalam kemasan kedap udara - - In airtight containers a0
+1230 | 1602.42.90.00 ~~ - Lain-lain - Other 30%
+1602.49 - - Lain-lain, termasuk campuran: Other, including mixtures:
+- - - Luncheon meat: - Luncheon meat:
+1231 |1602.49.11.00 |- - - - Dalam kemasan kedap udara - - - Inairtight containers 30%
+1232 }1602.49.19.00 > = - - - Other 30%
+- - - Lain-lain: - - Other:
+1233 |1602.49.91.00 - Dalam kemasan kedap udara - - - In airtight containers poe
+1234 |1602.49.99.00 - Lain-lain - - - - Other 30%
+1235 |1602.50.00.00 ~ Dari binatang jenis lembu - Of bovine animals 30%
+1602.90 ~ Lain-lain, termasuk olahan dari darah binatang: - Other, including preparations of blood of any animal:
+1236 |1602.90.10.00 - - Kari domba, dalam kemasan kedap udara - - Mutton curry, in airtight containers Es)
+1237 |1602.90.90.00 - - Lain-lain - - Other 30%
+16.04 Ikan diolah atau diawetkan;-kaviar dan pengganti kaviar yang|Prepared or preserved fish; caviar and caviar substitutes
+diolah dari telur ikan. prepared from fish eggs.
+- Ikan, utuh atau'dalam potongan, tetapi tidak dicincang: - Fish, whole or in pieces, but not minced:
+1604.11 - - Salmon: - - Salmon:
+1604.12 - - Herring: ~~ Herrings: 5
+1244 |1604.12.10.00 - - - Dalam kemasan kedap udara - - - Inairtight containers 5%
+1245 |1604.12.90.00 > Lain-lain - - - Other 15%
+1604.13 - Sarden, sardinella dan brisling atau sprat: |- - Sardines, sardinella and brisling or sprats:
+Sarden: - - - Sardines: 5
+1246 |1604.13.11.00 Dalam kemasan kedap udara ~ - - - Inairtight containers ee
+1247 ]1604.13.19.00 Lain-lain -- - - Other 15%
+Lain-lain: -- - Other:
+1248 |1604.13.91.00 - Dalam kemasan kedap udara |- - - - In airtight containers pee
+1249 |1604.13.99.00 ~ Lain-lain |- - - - Other 15%
+
+www.jdih.kemenkeu.go.i
+
+a
+

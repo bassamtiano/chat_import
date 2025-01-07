@@ -1,0 +1,95 @@
+2020, No.80 -24-
+
+7214.99.11
+
+'
+'
+'
+
+- Mengandung mangan kurang dari 1,15 %
+menumut beratnya
+
+7214.99.19
+7214.99.91 - - - - Mengandung karbon kurang dari 0,38 %, fosfor
+tidak lebih dari 0,05 % dan sulfur tidak lebih dari 0,05
+% menurut beratnya
+
+- - - - Mengandung karbon 0,38 % atau lebih dan
+mangan kurang dari 1,15 % menurut beratnya
+7214.99.93 - - - - Mengandung karbon 0,17 % atau lebih tetapi
+kurang dari 0,46 % dan mangan 1,2 % atau lebih tetapi
+kurang dari 1,65 % menurut beratnya
+
+7214.99.99
+7215.10.90 ~- - Lain-lain
+
+7215.50.10 - - Mengandung karbon 0,6 % atau lebih menurut
+beratnya, selain penampang silang lingkaran
+
+7215.50.91 - - - Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+
+7215.50.99
+7215.90.10 - - Dari jenis yang digunakan untuk penguatan beton
+(rebar)
+
+7215.90.90
+7216.10.00 - U, l atau H section, tidak dikerjakan lebih lanjut selain
+dicanai panas, ditarik panas atau diekstrusi, dengan
+tinggi kurang dari 80 mm
+
+7216.21.10 - - - Mengandung karbon kurang dari 0,6 % menurut
+beratnya
+
+7216.21.90 - - - Lain-lain
+
+7216.22.00 - - T section
+
+7216.31.10 ~ - - Mengandung karbon 0,6 % atau lebih menurut
+beratnya
+
+7216.31.90
+
+'
+'
+'
+
+7216.32.10 - - - Dengan ketebalan 5 mm atau kurang
+7216.32.90
+7216.33.11 - -- - Ketebalan flensa tidak kurang dari ketebalan web
+
+7216.33.19
+
+7216.33.90 - -- Lain-lain
+
+7216.40.10 - - Mengandung karbon 0,6 % atau lebih menurut
+beratnya
+
+7216.40.90 - - Lain-lain
+
+7216.50.11 - - - Mengandung karbon 0,6 % atau lebih menurut
+
+beratnya
+
+7216.50.19
+
+7216.50.91 - - - Mengandung karbon 0,6 % atau lebih menurut
+
+beratnya
+
+7216.50.99
+
+7216.61.00 - - Diperoleh dari produk canai lantaian
+
+7216.69.00 ~- - Lain-lain
+
+[7214.99.19 |
+7214.99.92
+|7214.99.99 |
+[7215.10.90 |
+[7213.50.99 |
+| 7215.90.90 |
+[7216.31.90 |
+[7216.32.90 |
+
+www.peraturan.go.id

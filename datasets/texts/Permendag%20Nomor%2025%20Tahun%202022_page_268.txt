@@ -1,0 +1,32 @@
+- 239 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+1925. | 1902.19.40 --- Mie lainnya V V
+1926. | 1902.19.90 --- Lain-lain V V
+
+1902.20 - Pasta diisi, dimasak atau diolah secara lain
+maupun tidak:
+1927. | 1902.20.10 -- Diisi dengan daging atau sisa daging V V
+1928. | 1902.20.30 -- Diisi dengan ikan, krustasea atau moluska V V
+1929. | 1902.20.90 -- Lain-lain V V
+1902.30 - Pasta lainnya:
+1930. | 1902.30.20 -- Rice vermicilli (termasuk bihun) V V
+1931. | 1902.30.30 -- Soun V V
+1932. | 1902.30.40 -- Mi instan lainnya V V
+1933. | 1902.30.90 -- Lain-lain V V
+1934. | 1902.40.00 - Couscous y y
+19.04 Makanan olahan diperoleh dengan cara
+menggembungkan atau menggongseng
+serealia atau produk serealia (misalnya,
+keripik jagung); serealia (selain jagung), dalam
+bentuk butir atau serpih atau butir yang
+dikerjakan secara lain (kecuali tepung, menir
+dan tepung kasar), belum dimasak atau diolah
+secara lain, tidak dirinci atau termasuk pos
+lainnya.
+1904.10 - Makanan olahan diperoleh dengan
+menggembungkan atau menggongseng serealia
+atau produk serealia:
+1935. | 1904.10.10 -- Mengandung kakao V V
+1936. | 1904.10.90 -- Lain-lain V V
+

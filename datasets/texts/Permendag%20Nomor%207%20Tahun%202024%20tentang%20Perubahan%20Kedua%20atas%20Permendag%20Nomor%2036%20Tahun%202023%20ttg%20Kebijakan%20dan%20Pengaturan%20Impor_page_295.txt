@@ -1,0 +1,73 @@
+- 280 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+
+1323. | ex 8443.39.20 | --- Aparatus fotocopy elektrostatik, beroperasi Pos Tarif/HS, uraian PI Mesin Multifungsi V V
+dengan mereproduksi gambar asli melalui barang, jenis, merek, Berwarna, Mesin Fotokopi
+perantara di atas copy (proses tidak langsung) | jumlah, satuan, negara Berwarna, dan Mesin
+
+1324. | ex 8443.39.30 | --- Aparatus fotocopy lainnya dilengkapi asal, negara muat, Printer Berwarna (API-P V [Vv V
+dengan sistem optik. Pelabuhan muat, atau API-U) hanya dapat
+
+1325. | ex 8443.39.40 | --- Printer ink-jet pelabuhan tujuan, dilakukan | (satu) kali Vi 4 v
+
+dan/atau dengan masa berlaku
+1326. | ex 8443.39.90 | --- Lain-lain Vv |v V
+
+spesifikasi/keterangan:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan, persyaratan
+berupa:
+
+1. PI Mesin Multifungsi
+Berwarna, Mesin
+Fotokopi Berwarna,
+dan Mesin Printer
+Berwarna (API-P atau
+API-U) yang masih
+berlaku; dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal perubahan
+
+identitas:
+
+1. PI Mesin Multifungsi
+Berwarna, Mesin
+Fotokopi Berwarna,
+dan Mesin Printer
+Berwarna (API-P atau
+API-U) yang masih
+berlaku; dan
+
+perpanjangan PI Mesin
+Multifungsi Berwarna,
+Mesin Fotokopi Berwarna,
+dan Mesin Printer
+Berwarna (API-P atau API-
+U) paling lama 30 (tiga
+puluh) hari kalender,
+terhitung setelah
+berakhirnya masa berlaku
+PI.
+
+Perpanjangan PI Mesin
+Multifungsi Berwarna,
+Mesin Fotokopi Berwarna,
+dan Mesin Printer
+Berwarna (API-P atau API-
+U) hanya dapat diajukan
+dalam hal:
+1. Barang telah dimuat
+pada alat angkut; dan
+2. Terjadi keterlambatan
+kedatangan Barang
+yang diakibatkan oleh
+keadaan tertentu
+berupa: keadaan
+kahar, bencana
+

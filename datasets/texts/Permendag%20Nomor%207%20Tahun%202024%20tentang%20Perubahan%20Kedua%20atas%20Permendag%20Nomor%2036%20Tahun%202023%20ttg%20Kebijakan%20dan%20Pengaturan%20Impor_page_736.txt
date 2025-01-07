@@ -1,0 +1,98 @@
+-16-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+3. Sertifikat kalibrasi yang
+masih berlaku yang
+diterbitkan oleh lembaga
+kalibrasi di negara
+penjual atau pemilik
+merek dari alat tersebut.
+
+PERUBAHAN PI
+
+Perubahan PI BMTB A 15
+Tahun (API-P):
+
+Perubahan PI BMTB A 15
+Tahun (API-P) dapat
+dilakukan dalam hal
+perubahan identitas
+importir, pos tarif/HS,
+uraian barang, jumlah
+barang, satuan barang,
+negara asal, negara muat,
+pelabuhan muat, pelabuhan
+tujuan, dan/atau
+keterangan/spesifikasi
+barang:
+
+Dalam hal Neraca Komoditas
+
+telah ditetapkan:
+
+1. PI BMTB A 15 Tahun
+(API-P) yang masih
+berlaku; dan
+
+2. Perubahan Neraca
+Komoditas.
+
+KETENTUAN
+PERUBAHAN PI
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan, perubahan
+jumlah barang dalam PI
+BMTB A 15 Tahun (API-P)
+dapat dilakukan
+sepanjang tidak
+menambah jumlah total
+dalam PI induknya.
+
+Perubahan satuan barang
+
+dan/atau pos tarif/HS
+
+terhadap suatu nomor
+seri Barang dalam PI
+
+BMTB A 15 Tahun (API-P)
+
+hanya dapat dilakukan
+
+selama:
+
+a. belum dilakukan
+realisasi impor atau
+tidak sedang dilakukan
+realisasi impor;
+dan/atau
+
+b. belum diterbitkan
+Laporan Surveyor.
+
+KETENTUAN
+PERPANJANGAN PI
+
+Dalam hal Neraca
+Komoditas telah
+

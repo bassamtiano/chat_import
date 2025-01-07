@@ -1,0 +1,42 @@
+- 82 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+89.05 Kapal suar, kapal pemadam tarif/HS, uraian barang, jumlah | Perpanjangan PI
+kebakaran, kapal keruk, crane dan satuan barang, Negara muat, | BMTB (API-P)
+terapung dan kendaraan air lainnya | Negara asal dan/atau Pelabuhan | hanya dapat
+yang fungsi berlayarnya bukan tujuan: dilakukan 1 (satu)
+merupakan fungsi utama; dok 1. PI BMTB (API-P) yang masih | kali.
+terapung; platform pengeboran atau berlaku;
+produksi terapung atau di bawah 2. Laporan realisasi impor; Masa berlaku
+arr. 3. Izin usaha yang diberikan perpanjangan PI
+353. | ex 8905.10.00 | - Kapal keruk Hanya untuk BMTB (API-P) V V
+kepada perusahaan untuk :
+kapal dengan : selama 30 (tiga
+kapasitas melebihi melakukan kegiatan usaha puluh) hari sejak
+5.000 m3 selain perdagangan yang tanggal
+354. | ex 8905.20.00 _| - Platform Hanya untuk dikeluarkan oleh  instansi | berakhirnya masa v V
+pengeboran atau | platform dengan berwenang sesuai dengan | berlaku PI BMTB
+produksi tonase kotor ketentuan peraturan | sebelumnya.
+terapung atau di | melebihi 2.000 GT perundang-undangan;
+bawah air 4. Rencana impor yang
+8905.90 ~ Lain-lain : ditandatangani dan | Impor Barang
+355. | 8905.90.10 -- Dok terapung ditandasahkan oleh pimpinan pode! Dara ak V V
+356. | 8905.90.90 -- Lain-lain perusahaan, yang memuat Baru (BMTB) dari v V
+uraian barang, Pos Tarif/HS 8 | 4+ daerah
+(delapan) digit, jumlah dan pabean ke:
+satuan barang, negara muat,
+: a. Kawasan
+dan pelabuhan tujuan;
+Perdagangan
+5. Surat pernyataan yang Bebas dan
+menyatakan bahwa BMTB Pelabuhan
+yang diimpor tidak akan Bebas
+diperjualbelikan atau (KPBPB);
+dijadikan skrap dan usia| P. Kawasan
+paling lama 25 (dua puluh Ekonomi
+Khusus (KEK);
+
+lima) tahun;
+
+dan
+

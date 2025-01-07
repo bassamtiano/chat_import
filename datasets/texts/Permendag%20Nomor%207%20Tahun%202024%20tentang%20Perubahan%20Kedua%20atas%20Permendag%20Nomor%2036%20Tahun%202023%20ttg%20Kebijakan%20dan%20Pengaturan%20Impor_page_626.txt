@@ -1,0 +1,59 @@
+-611-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan persyaratan
+berupa :
+
+1. IP NC; dan
+
+2. Neraca Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan, persyaratan
+berupa Data Tersedia
+dalam bentuk sebagai
+berikut:
+
+1. IP NC;
+2. Laporan hasil
+verifikasi,
+
+rekomendasi, atau
+pertimbangan teknis
+dari Kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang
+Perindustrian; dan
+
+3. Laporan hasil
+verifikasi,
+rekomendasi, atau
+pertimbangan teknis
+dari Kementerian yang
+menyelenggarakan
+urusan pemerintahan
+di bidang Pertahanan.
+

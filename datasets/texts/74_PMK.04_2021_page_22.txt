@@ -1,0 +1,57 @@
+-~ 22 -
+
+identitas, nama, jenis kelamin, umur/tanggal dan tempat lahir,
+dan alamat jelas importir.
+2) Nama dan Alamat
+
+Diisi pada kolom yang disediakan dengan nama dan alamat
+
+importir.
+
+Contoh:
+
+NPWP : 01.061.747.0-092.000
+
+Nama : Sumber Makmur, PT
+
+Alamat : Jalan Samudera 1 No. 15, Jakarta Utara.
+
+3) Nomor dan Tanggal Invoice
+Diisi pada kolom yang disediakan dengan nomor, tanggal, bulan
+dan tahun invoice yang digunakan dalam transaksi barang
+impor. Dalam hal barang impor bukan merupakan obyek
+transaksi jual beli, wajib diisi dengan nomor, tanggal, bulan dan
+tahun dokumen yang diterbitkan oleh pengirim sebagai
+pemberitahuan nilai barang untuk keperluan penyelesaian
+kewajiban pabean (for Customs purpose only) seperti proforma
+invoice. Dalam hal invoice lebih dari 1 (satu), kolom diisi dengan
+“terlampir”. Rincian invoice selanjutnya diisi dalam lampiran
+
+surat permohonan, dengan format:
+
+LEMBAR LANJUTAN DOKUMEN PELENGKAP
+PERMOHONAN PENGELUARAN BARANG IMPOR UNTUK DIPAKAI
+DENGAN PELAYANAN SEGERA (RUSH HANDLING)
+
+No. Kode Nama Dokumen Nomor dan Tanggal Dokumen
+Dokumen
+
+Contoh:
+
+Barang impor dibeli dengan bukti invoice nomor 0999020997
+tanggal 28 Maret 2020.
+
+Nomor dan Tanggal Invoice: 0999020997 / 28-03-2020
+
+Nomor dan Tanggal Airway Bill/Bill of Lading/Dokumen
+Pengangkutan Barang Lainnya
+
+Wajib diisi pada kolom yang disediakan, berupa data nomor, tanggal,
+bulan dan tahun dokumen pengangkutan barang impor dari tempat
+pemuatan barang di luar daerah pabean ke tempat/pelabuhan
+tujuan akhir pengangkutan barang impor di dalam daerah pabean.
+Dokumen pengangkutan barang dapat berupa bill of lading (B/L),
+
+airway bill (AWB) atau dokumen pengangkutan barang lainnya sesuai
+
+ww jth kemenkeu.ob ie?

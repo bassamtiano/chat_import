@@ -1,0 +1,62 @@
+- 38 -
+
+PETUNJUK PENGISIAN
+
+Kop Nota diisi dengan identitas nama Kantor Pabean yang menerbitkan
+
+Nota Pemberitahuan -Barang Larangan/Pembatasan Pelayanan Segera
+
+(Rush Handling). Untuk Kantor Pabean yang merupakan satuan kerja
+
+Kantor Pelayanan Utama hanya mengisi identitas nama satuan kerja
+
+Eselon JI dan untuk Kantor Pabean yang merupakan satuan kerja Kantor
+
+Pengawasan dan Pelayanan Bea dan Cukai mengisi identitas nama satuan
+
+kerja Eselon II dan Eselon II.
+
+Pengisian kolom dalam Nota Pemberitahuan Barang Larangan/
+
+Pembatasan Pelayanan Segera (Rush Handling) adalah sebagai berikut:
+
+a.
+
+Nomor Nota Pemberitahuan Barang Larangan/Pembatasan Pelayanan
+Segera (Rush Handling)
+
+Diisi dengan nomor urutan administrasi penerbitan pemberitahuan
+barang larangan/pembatasan Pelayanan Segera (Rush Handling)
+Contoh:
+
+Nota Pemberitahuan Barang Larangan/Pembatasan diterbitkan pada
+urutan ke-16.
+
+Nomor: 000016
+
+Nomor Permohonan dan Tanggal Respon
+
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan.
+
+Nomor Permohonan
+
+Diisi dengan data berupa nomor Permohonan yang diajukan oleh
+importir.
+Tanggal Respon
+Diisi dengan data berupa tanggal, bulan dan tahun Nota
+Pemberitahuan Barang Larangan/Pembatasan Pelayanan Segera
+(Rush Handling) diterbitkan oleh masing-masing kantor pabean.
+Importir
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai berupa data importir
+yaitu pihak yang bertindak sebagai penerima barang (consignee)
+dalam dokumen pengangkutan barang (bill of lading, airway bill, atau
+dokumen pengangkutan barang lainnya).
+1) NPWP
+Diisi pada kolom yang disediakan dengan data Nomor Pokok
+Wajib Pajak (NPWP) Importir berdasarkan data yang diberikan
+oleh kantor pajak kepada wajib pajak sebagai sarana dalam
+
+{
+
+www.jdih.kemenkeu.go.id /

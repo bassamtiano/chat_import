@@ -1,0 +1,36 @@
+- 460 -
+
+No | Pos Tarif/HS Uraian Barang Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+kepar silang perindustrian. dapat memiliki 1 (satu) PI
+2650. | 5209.49.00 -- Kain lainnya MTR TPT (API-P atau API-U) Viv
+- Dicetak: PERPANJANGAN PI yang masih berlaku,
+5209.51 --_Tenunan polos: dalam 1 (satu) periode.
+2651. | 5209.51.90 --- Lain-lain MTR Perpanjangan PI TPT J V
+5209.52 -- Kepar 3-benang atau 4-benang, (API-P): PI TPT (API-P atau API-U)
+termasuk kepar silang: berlaku untuk 1 (satu)
+2652. | 5209.52.90 --- Lain-lain MTR Dalam hal Neraca atau lebih penyampaian V V
+5209.59 -- Kain lainnya: Komoditas telah Pemberitahuan Pabean
+2653. | 5209.59.90 --- Lain-lain MTR ditetapkan atau Neraca | Impor. v4
+52.10 Kain tenunan dari kapas, Komoditas belum
+mengandung kapas kurang dari ditetapkan: Perubahan satuan barang
+85 % menurut beratnya, 1. PI TPT (API-P) yang dan/atau Pos Tarif/HS
+dicampur terutama atau semata- masih berlaku terhadap suatu nomor seri
+mata dengan serat buatan, 2. Surat pernyataan yang | Barang dalam PI TPT (API-
+beratnya tidak lebih dari 200 menjelaskan alasan P atau API-U) hanya
+g/m2. perpanjangan yang dapat dilakukan selama:
+- Tidak dikelantang: dibuktikan dengan a. belum dilakukan
+2654. | 5210.11.00 -- Tenunan polos MTR informasi secara realisasi Impor atau 7 7
+2655. | 5210.19.00 ~ Kain lainnya MIR tertulis dari penyedia tidak sedang dilakukan J J
+- Dikelantang: alat angkut yang realisasi Impor;
+2656. | 5210.21.00 -- Tenunan polos MTR eter! atakan alasan dan/atau T[4
+= 7 : eterlambatan b. belum diterbitkan
+2657. | 5210.29.00 “Dieclupe a MTR kedatangan barang Laporan Surveyor. viv
+2658. | 5210.31.00 -- _Tenunan polos MTR ae a eetentasdan viv
+2659. | 5210.32.00 -- Kepar 3-benang atau 4-benang, | MTR 3. Bill of Lading (B/L) Vv |v
+termasuk kepar silang atau Airway Bill (AWB)
+2660. | 5210.39.00 -- Kain lainnya MTR terhadap barang yang V V
+- Dari benang aneka warna: telah dimuat pada alat
+5210.41 --_Tenunan polos: angkut.
+2661. | 5210.41.10 --- Tenun ikat MTR Vv [Vv
+2662. | 5210.41.90 --- Lain-lain MTR Viv
+

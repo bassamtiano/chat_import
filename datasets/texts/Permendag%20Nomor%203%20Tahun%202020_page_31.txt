@@ -1,0 +1,110 @@
+31 2020, No.80
+
+mesh 100 cm2 atau lebih
+
+~ - Disepuh atau dilapisi deng
+F7314.39.00 [~~ Lain-lain
+
+- - Dilapisi dengan plastik
+P73i4.49.00 [Lain
+
+7314.20.00 - Anyaman kisi, jala dan pagar, dilas pada bagian
+silangnya, dari kawat dengan ukuran penampang silang
+maksimum 3 mm atau lebih dan mempunyai ukuran
+
+F
+
+7314.50.00 - Expanded metal
+7315.11.10 --- tai sepeda roda dua atau sepeda motor
+
+F
+
+7315.11.91 - - - - Jenis transmisi, dengan panjang jarak antar gigi
+tidak kurang dari 6 mm dan tidak lebih dari 32 mm
+
+7315.11.99 Lain-lain
+7315.12.10 -- - Rantai sepeda roda dua atau sepeda motor
+
+7315.12.90 - - - Lain-lain
+7315.19.10 - - - Dari rantai sepeda roda dua atau sepeda motor
+
+[7315.19.90 __| --— Lain-lain
+[7315.20.00 | - Rantai penyangga
+7315.81.00 g g e
+[20 [7315.82.00 |--Lain-lain, penghubungdilas SSS
+[21_|7315.89.10 | - -- Rantal sepeda roda dua atau sepeda motor
+
+7315.90.90 - - Lain-lain
+
+7320.10.11 - - - Cocok digunakan untuk kendaraan bermotor dari
+pos 87.02, 87.03 atau 87.04
+
+- - - Cocok digunakan untuk kendaraan bermotor
+lainnya
+
+~~~ Lain-lain
+
+- - Lain-lain
+
+- - - Untuk kendaraan bermotor
+
+- -- Untuk mesin pengolah tanah
+
+- - - Lain-lain
+
+7320.20.90 Lain-lain
+
+7320.90.10 - - Cocok digunakan untuk kendaraan bermotor
+7320.90.90 sist
+7321.11.00 - - Dengan bahan bakar gas atau gabungan gas dan
+bahan bakar lainnya
+
+- - Dengan bahan bakar cair
+
+- - - Dengan bahan bakar padat
+
+~ ~~ Lain-lain
+
+- - Dengan bahan bakar gas atau gabungan gas dan
+bahan bakar lainnya
+
+- - Lain-lain, termasuk peralatan dengan bahan bakar
+padat
+
+- - Dari peralatan masak dan piring pemanas
+menggunakan bahan bakar gas
+
+Lain-lain
+
+7320.10.12
+
+7320.10.19
+7320.10.90
+7320,20.11
+7320.20.12
+7320.20.19
+
+£
+
+7321.12.00
+7321.19.10
+
+7321.19.90
+7321.81.00
+
+7321.89.00
+
+7321.90.20
+
+[-==taimdaims
+[--Laindain
+[=== Untuk mesin pengolah tanah————————
+[=--Lainlain
+[= aimelain
+[--Dengan bahan bakarcair
+[=== Dengan bahan baker padat
+[---Lainlain
+
+7321.90.90
+
+www.peraturan.go.id

@@ -1,0 +1,104 @@
+Nomor (1)
+
+Nomor (2)
+Nomor (3)
+Nomor (4)
+Nomor (5)
+
+Nomor (6)
+
+Nomor (7)
+
+Nomor (8)
+
+Nomor (9)
+
+Nomor (10)
+
+Nomor (11)
+
+Nomor (12)
+
+Nomor (13)
+
+Nomor (14)
+
+Nomor (15)
+
+Nomor (16)
+Nomor (17)
+
+Nomor (18)
+
+-29-
+
+PETUNJUK PELAKSANAAN
+
+diisi urutan angka romawi dan tahun pelaporan.
+
+Contoh:
+
+Jika diimpor pada tahun 2024, maka pelaporan dilakukan
+paling lambat 31 Januari 2025 dan diisi periode pelaporan:
+“1/2024”
+
+diisi nama Badan Usaha.
+
+diisi Nomor Induk Berusaha (NIB).
+
+diisi nomor urut.
+
+diisi nomor dan tanggal Keputusan Menteri mengenai
+pembebasan bea masuk atas impor/pengeluaran Peralatan
+dan/atau Bahan yang digunakan untuk mencegah pencemaran
+lingkungan.
+
+diisi jumlah Peralatan dan/atau Bahan yang tercantum dalam
+Keputusan Menteri mengenai pembebasan bea masuk atas
+impor/pengeluaran Peralatan dan/atau Bahan yang digunakan
+untuk mencegah pencemaran lingkungan.
+
+diisi jenis Peralatan dan/atau Bahan yang tercantum dalam
+Keputusan Menteri mengenai pembebasan bea masuk atas
+impor/pengeluaran Peralatan dan/atau Bahan yang digunakan
+untuk mencegah pencemaran lingkungan.
+
+diisi spesifikasi Peralatan dan/atau Bahan yang tercantum
+dalam Keputusan Menteri mengenai pembebasan bea masuk
+atas impor/pengeluaran Peralatan dan/atau Bahan yang
+digunakan untuk mencegah pencemaran lingkungan.
+
+diisi nilai Peralatan dan/atau Bahan yang tercantum dalam
+Keputusan Menteri mengenai pembebasan bea masuk atas
+impor/pengeluaran Peralatan dan/atau Bahan yang digunakan
+untuk mencegah pencemaran lingkungan.
+
+diisi nomor dan tanggal Surat Persetujuan Pengeluaran Barang
+(SPPB).
+
+diisi jumlah Peralatan dan/atau Bahan yang diimpor sesuai
+dengan data yang tercantum dalam dokumen pemberitahuan
+pabean impor.
+
+diisi jenis Peralatan dan/atau Bahan yang diimpor sesuai
+dengan data yang tercantum dalam dokumen pemberitahuan
+pabean impor.
+
+diisi spesifikasi Peralatan dan/atau Bahan yang diimpor sesuai
+dengan data yang tercantum dalam dokumen pemberitahuan
+pabean impor.
+
+diisi nilai Peralatan dan/atau Bahan yang diimpor sesuai dengan
+data yang tercantum dalam dokumen pemberitahuan pabean
+impor.
+
+diisi nama pelabuhan tempat Peralatan dan/atau Bahan
+dibongkar.
+
+diisi lokasi penggunaan barang modal/barang dan bahan.
+
+diisi nomor dokumen bukti penerimaan barang di lokasi Badan
+Usaha.
+
+diisi tanggal dokumen bukti penerimaan barang di lokasi Badan
+Usaha.

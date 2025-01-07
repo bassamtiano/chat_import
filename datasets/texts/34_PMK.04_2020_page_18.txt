@@ -1,0 +1,131 @@
+-18-
+
+NO.
+
+KELOMPOK
+PRODUK
+
+POS TARIF
+
+URAIAN BARANG/JENIS BARANG
+
+14
+
+15
+
+Virus Transfer
+Media
+
+ex.3821.00.10
+
+Media kultur olahan untuk
+pengembangan mikroorganisme untuk
+swab test
+
+ex.3821.00.90
+
+Media kultur olahan lainnya untuk swab
+test
+
+IV
+
+OBAT & VITAMIN
+
+16
+
+17
+18
+
+19
+20
+21
+22
+
+23
+
+24
+
+25
+
+26
+
+Obat dan Vitamin
+
+ex.2924.29.30
+
+Asetaminofen murni
+
+maupun tidak
+
+(parasetamol)
+
+ex.2924.29.90
+
+Oseltamivir, murni maupun tidak
+
+ex.2933.49.90
+
+Senyawa hydrochloroquine murni
+
+maupun tidak
+
+ex.2933.99.90
+
+Favipiravir, murni maupun tidak
+
+ex.2941.90.00
+
+Senyawa azithromycin
+
+ex.2941.90.00
+
+Senyawa levofloxacin
+
+ex.3003.20.00
+
+Obat terdiri dari dua atau lebih
+konstituen yang telah dicampur
+bersama-sama untuk keperluan
+terapeutik atau profilaktik, mengandung
+antibiotik dari jenis azithromycin atau
+levofloxacin, tidak disiapkan dalam dosis
+tertentu. atau tidak dalam  bentuk
+kemasan untuk penjualan eceran
+
+ex.3003.60.00
+
+Obat mengandung  hydrochloroquine
+dikombinasikan dengan bahan aktif
+farmasi lainnya, tidak disiapkan dalam
+dosis tertentu atau tidak dalam bentuk
+kemasan untuk penjualan eceran
+
+ex.3004.20.91
+
+Obat terdiri dari produk campuran atau
+tidak untuk keperluan terapeutik atau
+profilaktik, mengandung antibiotik dari
+jenis azithromycin atau levofloxacin,
+disiapkan dalam dosis tertentu atau
+dalam bentuk atau kemasan untuk
+penjualan eceran, dari jenis untuk
+pemakaian oral
+
+ex.3004.20.99
+
+Obat terdiri dari produk campuran atau
+tidak untuk keperluan terapeutik atau
+profilaktik, mengandung antibiotik dari
+jenis azithromycin atau levofloxacin,
+disiapkan dalam dosis tertentu atau
+dalam bentuk atau kemasan untuk
+penjualan eceran, dari jenis untuk
+pemakaian suntik secara intravena
+
+ex.3004.50.10
+
+Vitamin C, dari jenis yang cocok untuk
+anak-anak, dalam bentuk sirup
+
+wor jh kemenkeu fog
+

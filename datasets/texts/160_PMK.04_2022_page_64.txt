@@ -1,0 +1,60 @@
+- 64 -
+
+Nomor (29) : diisi nama pemilik/penerima fasilitas yang tercantum dalam
+diisi nomor surat keterangan pengimporan Kendaraan
+Bermotor berupa Formulir B atau surat keterangan lainnya.
+
+Nomor (30) =: diisi jenis, merek, tipe Kendaraan Bermotor yang akan
+dimusnahkan.
+
+Nomor (31) =: diisi tahun pembuatan Kendaraan Bermotor sesuai dengan
+invoice.
+
+Nomor (32) : diisi mnomor rangka Kendaraan Bermotor yang akan
+dimusnahkan.
+
+Nomor (33) : diisi nomor mesin Kendaraan Bermotor yang akan
+dimusnahkan.
+
+Nomor (34) : diisi negara asal tempat pengiriman barang/Kendaraan
+Bermotor.
+
+Nomor (35) =: diisi nomor polisi Kendaraan Bermotor pada saat beroperasi di
+Indonesia.
+
+Nomor (36) =: diisi Kantor Wilayah Direktorat Jenderal Bea dan Cukai atau
+
+Kepala Kantor Pelayanan Utama Bea dan Cukai yang
+menerbitkan Keputusan Menteri mengenai persetujuan
+pemusnahan Kendaraan Bermotor yang mendapatkan
+pembebasan bea masuk untuk keperluan Badan Internasional
+beserta pejabatnya yang bertugas di Indonesia.
+
+Nomor (37) : diisi nomor Keputusan Menteri mengenai persetujuan
+pemusnahan Kendaraan Bermotor yang mendapatkan
+pembebasan bea masuk untuk keperluan Badan Internasional
+beserta pejabatnya yang bertugas di Indonesia.
+
+Nomor (38) .: diisi tanggal mengenai persetujuan pemusnahan Kendaraan
+Bermotor yang mendapatkan pembebasan bea masuk untuk
+keperluan Badan Internasional beserta pejabatnya yang
+bertugas di Indonesia.
+
+Nomor (39) =: diisi metode pemusnahan lainnya (jika ada).
+
+Nomor (40) =: diisi lokasi tempat dilaksanakan pemusnahan.
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+ttd.
+SRI MULYANI INDRAWATI
+
+Salinan sesuai dengan aslinya
+Kepala Biro Umum
+
+u.b.
+Kepala Bagian Ad
+
+AYP
+
+jdih.kemenkeu.go.id

@@ -1,0 +1,46 @@
+| BARANG | KEMASAN |
+ss
+bulu hewan halus. . Ukuran; a/b/c/d
+Wrist band, knee band atau ankle band. - Label pemeliharaan (care label); a/b/c/d
+Selain dasi, dasi kupu- kupu, cravat, wrist band, . Negara Pembuat atau Made in. a/b/c/d
+knee band atau ankle band. Jumlah barang dalam hal kemasan berisi lebih dari 1 (satu)
+* barang a/b/c/d
+Bagian dari Syal, scarf, muffler, mantilla, veil dan
+sejenisnya serta aksesoris lainnya.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya
+dari sutra atau sisa sutra dicetak dengan proses batik
+tradisional.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+sutra atau sisa sutra tidak dicetak dengan proses
+selain batik tradisional.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+wol atau bulu hewan halus.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+serat sintetik dicetak dengan proses batik tradisional.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+serat sintetik tidak dicetak dengan proses selain
+batik tradisional.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+serat artifisial dicetak dengan proses batik
+tradisional.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+serat artifisial tidak dicetak dengan proses selain
+batik tradisional.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+bahan selain wol atau bulu hewan halus, serat
+sitetik dan serat artifisial dicetak dengan proses
+batik tradisional.
+Syal, scarf, muffler, mantilla, veil dan sejenisnya dari
+bahan selain wol atau bulu hewan halus, serat
+sitetik dan serat artifisial tidak dicetak dengan
+proses batik tradisional.
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh;
+
+d. disertakan atau dimasukkan ke dalam barang/kemasan.

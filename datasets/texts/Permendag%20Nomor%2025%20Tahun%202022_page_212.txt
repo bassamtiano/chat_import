@@ -1,0 +1,102 @@
+183 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+2. Data yang tersedia,
+dalam hal Neraca
+Komoditas belum
+ditetapkan; dan
+
+3. Neraca Komoditas,
+dalam hal Neraca
+Komoditas telah
+ditetapkan.
+
+Perubahan PI Garam
+
+(API-U):
+
+1. PI Garam (API-U)
+yang masih berlaku;
+
+2. Data yang tersedia,
+dalam hal Neraca
+Komoditas belum
+ditetapkan; dan
+
+3. Neraca Komoditas,
+dalam hal Neraca
+Komoditas telah
+ditetapkan.
+
+Masa berlaku
+perubahan PI Garam
+selama sisa masa
+berlaku PI Garam.
+
+XXIV. HASIL PERIKANAN
+
+No
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+03.01
+
+Ikan hidup
+
+1427.
+
+ex 0301.91.00
+
+-- Trout (Salmo trutta,
+Oncorhynchus mykiss,
+Oncorhynchus clarki,
+
+Selain untuk
+calon induk,
+induk dan benih
+
+Bahan Baku/Penolong
+Industri
+
+Penerbitan Persetujuan
+
+Impor berdasarkan:
+
+a. Neraca Komoditas
+dalam hal Neraca
+

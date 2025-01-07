@@ -1,0 +1,37 @@
+- 332 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+2979. | 5801.37.12 ---- Dengan bulu tidak dipotong V V
+--- Lain-lain :
+2980. | 5801.37.91 ---- Dengan bulu dipotong V V
+2981. | 5801.37.92 ---- Dengan bulu tidak dipotong V V
+5801.90 - Dari bahan tekstil lainnya:
+-- Dari sutra:
+2982. | 5801.90.11 --- Dilapisi, ditutupi atau dilaminasi V V
+2983. | 5801.90.19 --- Lain-lain Vv [Vv
+--_Lain-lain:
+2984. | 5801.90.91 --- Dilapisi, ditutupi atau dilaminasi V V
+2985. | 5801.90.99 --- Lain-lain Vv {ov
+58.02 Terry towelling dan kain tenunan terry
+semacam itu, selain kain pita dari pos 58.06;
+kain tekstil berumbai, selain produk dari pos
+57.03.
+- Terry towelling dan kain tenunan terry semacam
+itu, dari kapas:
+2986. | 5802.10.10 - - Tidak dikelantang Vv |v
+2987. | 5802.10.90 - - Lain-lain Vv |v
+5802.20 - Terry towelling dan kain tenunan terry semacam
+itu, dari bahan tekstil lainnya:
+2988. | 5802.20.10 -- Dari wol atau bulu hewan halus V V
+2989. | 5802.20.90 --_Lain-lain Vv [Vv
+5802.30 - Kain tekstil berumbai:
+2990. | 5802.30.10 --_Diresapi, dilapisi atau ditutupi V V
+2991. | 5802.30.20 -- Tenunan, dari kapas atau serat buatan V V
+2992. | 5802.30.30 -- Tenunan, dari bahan lain V V
+2993. | 5802.30.90 --_Lain-lain v [Vv
+58.04 Kain tule dan kain jaring lainnya, tidak
+
+termasuk kain tenunan, rajutan atau kaitan;
+renda dalam lembaran, strip atau motif, selain
+kain dari pos 60.02 sampai dengan 60.06.
+

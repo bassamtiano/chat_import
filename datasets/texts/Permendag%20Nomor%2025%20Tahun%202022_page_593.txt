@@ -1,0 +1,79 @@
+-1l11-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+Kapasitas: panjang
+max 1.270 mm;
+tebal 3 mm;
+bending angle 25-
+179 derajat), dan
+kecuali Mesin
+penggunting,
+selain kombinasi
+mesin pelubang
+dan penggunting
+yang dikontrol
+secara numerik
+
+498.
+
+ex 8462.59.00
+
+-- Lain-lain
+
+Mesin
+penggunting,
+selain kombinasi
+mesin pelubang
+dan penggunting,
+atau Mesin
+pelubang atau
+mesin penakik,
+termasuk
+kombinasi mesin
+pelubang dan
+penggunting,
+dioperasikan
+secara elektrik
+
+8462.61
+
+-- Pengepres hidrolik :
+
+--- Dikontrol secara numerik
+
+499.
+
+8462.61.11
+
+---- Mesin penempa atau pengecap
+
+dengan cetakan
+
+500.
+
+ex 8462.61.19
+
+---- Lain-lain
+
+Kecuali Mesin
+Tekuk (Bending
+Machine) dengan
+

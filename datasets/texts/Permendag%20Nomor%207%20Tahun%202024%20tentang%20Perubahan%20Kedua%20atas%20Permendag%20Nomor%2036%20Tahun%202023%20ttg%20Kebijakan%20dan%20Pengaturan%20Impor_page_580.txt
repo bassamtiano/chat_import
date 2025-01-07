@@ -1,0 +1,30 @@
+- 565 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+3508. | 3920.99.10 --- Dari protein dikeraskan; turunan kimia dari V
+karet alam
+--- Dari produk polimerisasi adisi:
+3509. | 3920.99.21 ---- Pelat dan lembaran V V
+3510. | 3920.99.29 ---- Lain-lain V V
+--- Dari produk polimerisasi kondensasi atau
+penyusunan ulang:
+3511. | 3920.99.31 ---- Pelat dan lembaran V V
+3512. | 3920.99.39 ---- Lain-lain V V
+3513. | 3920.99.90 --- Lain-lain V V
+39.21 Pelat, lembaran, film, foil dan strip lainnya
+dari plastik.
+- Seluler:
+3921.11 -- Dari polimer stirena:
+--- Kaku:
+3514. | 3921.11.21 ---- Pelat dan lembaran V V
+3515. | 3921.11.29 ---- Lain-lain V V
+--- Lain-lain:
+3516. | 3921.11.91 ---- Pelat dan lembaran V V
+3517. | 3921.11.92 ---- Film V V
+3518. | 3921.11.99 ---- Lain-lain V V
+3519. | 3921.12.00 -- Dari polimer vinil klorida V V
+3921.13 -- Dari poliuretan:
+--- Kaku:
+3520. | 3921.13.11 ---- Pelat dan lembaran V V
+3521. | 3921.13.19 ---- Lain-lain V V
+

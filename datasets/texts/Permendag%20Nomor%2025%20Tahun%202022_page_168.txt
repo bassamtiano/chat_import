@@ -1,0 +1,33 @@
+- 139 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS pos.
+timah
+982. 7217.30.34 --- Kawat baja dilapisi paduan tembaga lainnya V V
+dari jenis yang digunakan dalam pembuatan ban
+karet pneumatik
+983. 7217.30.35 --- Lain-lain, disepuh atau dilapisi dengan timah V V
+984. 7217.30.39 --- Lain-lain VY I4
+985. 7217.90.10 -- Mengandung karbon kurang dari 0,25 % V V
+menurut beratnya
+986. | 7217.90.90 -- Lain-lain Vv {Vv
+987. | 7301.10.00 - Sheet piling Vi] Vv
+988. 7301.20.00 - Angle, shape dan section v [Vv
+989. 7303.00.91 -- Dengan diameter luar tidak melebihi 100 mm Vv |v
+990. | 7304.19.00 -- Lain-lain Vv {Vv
+991. 7304.22.90 --- Lain-lain Vv |v
+992. 7304.23.90 --- Lain-lain Vv |v
+993. 7304.24.10 --- Casing dan tubing dengan yield strength V V
+kurang dari 80.000 psi, ujungnya tidak diulir
+994. 7304.24.20 --- Casing dan tubing dengan yield strength V V
+kurang dari 80.000 psi, ujungnya diulir
+995. 7304.24.30 --- Casing dan tubing dengan yield strength V V
+80.000 psi atau lebih dan ujungnya diulir
+maupun tidak
+996. 7304.29.10 --- Casing dan tubing dengan yield strength V V
+kurang dari 80.000 psi, ujungnya tidak diulir
+997. 7304.29.20 --- Casing dan tubing dengan yield strength Vv |v
+kurang dari 80.000 psi, ujungnya diulir
+998. 7304.29.30 --- Casing dan tubing dengan yield strength V V
+
+80.000 psi atau lebih dan ujungnya diulir
+

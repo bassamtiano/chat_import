@@ -1,0 +1,96 @@
+- 271 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+maupun tidak (tidak termasuk tanur, oven
+dan perlengkapan lain-nya dari pos 85.14),
+untuk mengolah bahan dengan proses yang
+memerlukan perubahan suhu seperti
+memanaskan, memasak, memanggang,
+menyuling, rektifikasi, mensterilkan,
+mempasteurisasi, menguapkan,
+mengeringkan, mengevaporasi, menguapkan,
+mengkondensasi atau mendinginkan, selain
+mesin atau instalasi dari jenis yang
+digunakan untuk keperluan rumah tangga;
+pemanas air instant atau pemanas air dengan
+tempat penyimpanan, bukan listrik.
+
+- Pemanas air instant atau pemanas air dengan
+tempat penyimpanan, bukan listrik:
+
+8419.11
+
+-- Pemanas air instant dengan gas:
+
+2275.
+
+8419.11.10
+
+--- Tipe rumah tangga
+
+2276.
+
+8419.11.90
+
+--- Lain-lain
+
+2277.
+
+8419.12.00
+
+-- Pemanas air tenaga matahari/surya
+
+8419.19
+
+-- Lain-lain:
+
+2278.
+
+8419.19.10
+
+--- Tipe rumah tangga
+
+2279.
+
+8419.19.90
+
+--- Lain-lain
+
+84.50
+
+Mesin cuci tipe rumah tangga atau binatu,
+termasuk mesin yang dapat digunakan untuk
+mencuci dan mengeringkan.
+
+- Mesin, yang mempunyai kapasitas linen kering
+tidak melebihi 10 kg:
+
+8450.11
+
+-- Mesin otomatis penuh:
+
+2280.
+
+8450.11.10
+
+--- Mempunyai kapasitas linen kering tidak
+melebihi 6 kg
+

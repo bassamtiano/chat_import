@@ -1,0 +1,32 @@
+-77-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI |LS Beste
+414. |] 4421.99.94 ---- Manik-Manik lainnya V V
+415. | 4421.99.95 ---- Stik dari jenis yang digunakan untuk V V
+
+pembuatan joss sticks
+416. | 4421.99.96 ---- Barecore V J
+417. | 4421.99.99 ---- Lain-lain V V
+418. | 4701.00.00 Pulp kayu mekanik. V V
+47.02 Pulp kayu kimia, dissolving grade
+419. | 4702.00.10 - Pohon jenis konifera V V
+420. | 4702.00.20 - Pohon selain jenis konifera V V
+47.03 Pulp kayu kimia, soda atau sulfat, selain
+dissolving grade.
+- Tidak dikelantang:
+421. | 4703.11.00 -- Pohon jenis konifera V V
+422. | 4703.19.00 -- Pohon selain jenis konifera V V
+- Semi kelantang atau dikelantang:
+423. | 4703.21.00 -- Pohon jenis konifera V V
+424. | 4703.29.00 -- Pohon selain jenis konifera V V
+47.04 Pulp kayu kimia, sulfit, selain dissolving grade.
+- Tidak dikelantang:
+425. | 4704.11.00 -- Pohon jenis konifera J V
+426. | 4704.19.00 -- Pohon selain jenis konifera V V
+- Semi kelantang atau dikelantang:
+427. | 4704.21.00 -- Pohon jenis konifera y V
+428. | 4704.29.00 -- Pohon selain jenis konifera V V
+429. | 4705.00.00 Pulp kayu yang diperoleh melalui kombinasi V V
+
+proses pembuatan pulp secara mekanik dan
+

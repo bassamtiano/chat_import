@@ -1,0 +1,57 @@
+-~ 33 -
+
+b. Importir
+
+Diisi oleh SKP atau Pejabat Bea dan Cukai berupa data importir,
+
+yaitu pihak yang bertindak sebagai penerima barang (consignee)
+
+dalam dokumen pengangkutan barang (bill of lading, airway bill, atau
+
+dokumen pengangkutan barang lainnya).
+
+1) NPWP
+Diisi pada kolom yang disediakan dengan data Nomor Pokok
+Wajib Pajak (NPWP) Importir berdasarkan data yang diberikan
+oleh Kantor Pelayanan Pajak kepada wajib pajak sebagai sarana
+dalam administrasi perpajakan yang dipergunakan sebagai
+tanda pengenal diri atau identitas wajib pajak dalam
+melaksanakan hak dan kewajiban perpajakannya.
+Dalam hal importir tidak memiliki NPWP, importir dapat
+mengisikan data KTP atau Paspor atau identitas lainnya yang
+merupakan tanda pengenal importir yang memuat nomor
+identitas, nama, jenis kelamin, umur/tanggal dan tempat lahir,
+dan alamat jelas importir.
+
+2} Nama dan Alamat
+
+Diisi pada kolom yang disediakan dengan nama dan alamat
+
+importir.
+
+Contoh:
+
+NPWP : 01.061.747.0-092.000
+Nama : Sumber Makmur, PT
+
+Alamat : Jalan Samudera 1 No. 15, Jakarta Utara.
+
+c. Nomor dan Tanggal Surat Permohonan
+
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+
+disediakan, berdasarkan nomor dan tanggal surat permohonan yang
+
+diajukan oleh importir.
+Kantor Pabean mencoret salah satu “dapat/tidak dapat” berdasarkan
+keputusan yang diberikan atas permohonan izin yang diajukan oleh
+importir dengan menyampaikan alasan pengambilan keputusan tersebut.
+Kantor Pabean, melalui SKP atau Pejabat Bea dan Cukai, mengisi nama
+kota dan tanggal penerbitan Nota, Nama jelas kepala Kantor Pabean atau
+Pejabat Bea dan Cukai yang ditunjuk beserta Nomor Identitas Pegawai
+Negeri Sipil (NIP) yang menerbitkan Nota pada kolom yang disediakan.
+Kolom ini ditandasahkan oleh kepala Kantor Pabean atau Pejabat Bea dan
+
+Cukai yang ditunjuk tersebut.
+
+www jdih.kemenkeu.g@.if

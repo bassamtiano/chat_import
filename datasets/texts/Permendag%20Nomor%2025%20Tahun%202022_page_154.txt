@@ -1,0 +1,35 @@
+- 125 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+induk dan benih
+untuk
+pembudidayaan
+03.08 Invertebrata air selain krustasea dan moluska,
+Invertebrata air selain krustasea dan moluska,
+hidup, segar, dingin, beku, dikeringkan,
+diasinkan atau dalam air garam; Invertebrata
+air selain krustasea dan moluska diasapi,
+dimasak maupun tidak sebelum atau selama
+proses pengasapan.
+- Teripang (Stichopus japonicus, Holothurioidea)
+0308.11 -- Hidup, segar atau dingin:
+753. | ex 0308.11.10 | --- Hidup Hanya untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+- Bulu babi (Strongylocentrotus spp., Paracentrotus
+lividus, Loxechinus albus, Echichinus esculentus):
+0308.21 -- Hidup, segar atau dingin:
+754. | ex 0308.21.10 | --- Hidup Hanya untuk V V
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+0308.30 - Ubur-ubur (Rhopilema spp.):
+755. | ex 0308.30.10 | -- Hidup Hanya untuk V Vv
+calon induk,
+induk dan benih
+untuk
+pembudidayaan
+

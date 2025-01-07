@@ -1,0 +1,71 @@
+~ {% -
+
+237 | 8527.92.20 - - - Dioperasikan dengan tenaga listrik
+238 | 8527.92.90 - - - Lain-lain
+8527.99 - - Lain-lain :
+239 | 8527.99.20 - - - Dioperasikan dengan tenaga listrik
+240 | 8527.99.90 - - - Lain-lain
+85.28 Monitor dan proyektor, tidak digabung dengan aparatus
+
+penerima televisi; aparatus penerima untuk televisi, digabung
+dengan penerima siaran radio atau aparatus perekam atau
+pereproduksi suara atau video, maupun tidak.
+
+- Monitor tabung sinar katoda :
+
+241 8528.42.00 - - Dapat secara langsung dihubungkan ke dan dirancang untuk
+digunakan dengan mesin pengolah data otomatis dari pos 84.71
+8528.49 - - Lain-lain :
+242 | 8528.49.10 - - - Berwarna
+- Monitor lainnya :
+243 | 8528.52.00 - - Dapat secara langsung dihubungkan ke dan dirancang untuk
+digunakan dengan mesin pengolah data otomatis dari pos 84.71
+8528.59 - - Lain-lain :
+244 | 8528.59.10 - - - Berwarna
+- Proyektor :
+245 | 8528.62.00 - - Dapat secara langsung dihubungkan ke dan dirancang untuk
+digunakan dengan mesin pengolah data otomatis dari pos 84.71
+8528.69 - - Lain-lain :
+246 | 8528.69.10 - - - Mempunyai kemampuan memproyeksikan pada layar dengan
+ukuran diagonal 300 inci atau lebih
+247 | 8528.69.90 - - - Lain-lain
+
+- Aparatus penerima untuk televisi, digabung dengan penerima
+siaran radio atau aparatus perekam atau pereproduksi suara atau
+video maupun tidak :
+
+8528.72 - - Lain-lain, berwarna :
+248 | 8528.72.10 - - - Dioperasikan dengan baterai
+- - - Lain-lain :
+249 | 8528.72.91 - ---Tabung sinar katoda
+250 | 8528.72.92 - - - - Liquid crystal devices (LCD), light-emitting diode (LED) dan tipe
+panel layar datar lainnya
+251 | 8528.72.99 - --- Lain-lain
+85.39 Lampu filamen atau lampu discharge listrik, termasuk unit
+
+lampu sealed beam dan lampu ultra violet atau infra merah;
+lampu busur; sumber cahaya light-emitting diode (LED).
+
+- Lampu filamen lainnya, tidak termasuk lampu ultra-violet atau
+infra-merah :
+
+8539.21 - - Tungsten halogen :
+252 | 8539.21.40 - - - Bola lampu reflektor lainnya
+253° | 8539.21.90 - - - Lain-lain
+8539.22 - - Lain-lain, dengan daya tidak melebihi 200 W dan untuk voltase
+
+melebihi 100 volt :
+- - - Bola lampu reflektor lainnya :
+
+254 | 8539.22.31 ---- Darijenis yang digunakan pada pencahayaan dekoratif, dengan
+daya tidak melebihi 60 W
+
+255 | 8539.22.32 ---- Dari jenis yang digunakan pada pencahayaan dekoratif, dengan
+daya melebihi 60 W
+
+256 | 8539.22.33 - - - - Lain-lain, untuk penerangan rumah tangga
+
+257 | 8539.22.39 - --- Lain-lain
+- - - Lain-lain :
+
+wom jihsemennal

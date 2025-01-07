@@ -1,0 +1,96 @@
+- 615 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan atau Neraca
+Komoditas belum
+ditetapkan:
+
+1.
+
+2.
+
+PI NC (API-P) yang
+masih berlaku;
+
+Surat pernyataan yang
+menjelaskan alasan
+perpanjangan yang
+dibuktikan dengan
+informasi secara
+tertulis dari penyedia
+alat angkut yang
+menyatakan alasan
+keterlambatan
+kedatangan barang
+yang diakibatkan oleh
+keadaan tertentu; dan
+Bill of Lading (B/L)
+atau Airway Bill (AWB)
+terhadap barang yang
+telah dimuat pada alat
+angkut.
+
+XLII.
+
+BAHAN PELEDAK (HANDAK) UNTUK INDUSTRI KOMERSIAL
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Jenis Barang
+
+CAS
+Number
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT/IP
+
+PI
+
+LS
+
+Post
+Border
+
+29.04
+
+Turunan
+sulfonasi,
+nitrasi atau
+
+IP Handak (API-P):
+
+Rekomendasi dari
+
+Perizinan Berusaha di
+bidang Impor untuk
+Impor bahan peledak
+

@@ -1,0 +1,87 @@
+-70-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+logam:
+
+259.
+
+9024.10.10
+
+-- Dioperasikan secara elektrik
+
+90.26
+
+Instrumen dan aparatus untuk
+mengukur atau memeriksa aliran,
+tinggi permukaan, tekanan atau
+variabel lainnya dari cairan atau gas
+(misalnya, pengukur arus, pengukur
+tinggi permukaan, manometer,
+pengukur panas), tidak termasuk
+instrumen dan aparatus dari pos
+90.14, 90.15, 90.28 atau 90.32.
+
+9026.20
+
+- Untuk mengukur atau memeriksa
+tekanan:
+
+260.
+
+ex 9026.20.90
+
+-- Lain-lain Tidak
+dioperasikan
+secara elektrik
+
+90.29
+
+Penghitung putaran, penghitung
+produksi, taksimeter, pengukur
+jarak, pedometer dan sejenisnya;
+indikator kecepatan dan takometer
+selain barang dari pos 90.14 atau
+90.15; stroboskop.
+
+9029.10
+
+- Penghitung putaran, penghitung
+produksi, taksimeter, pengukur jarak,
+pedometer dan sejenisnya:
+
+261.
+
+ex 9029.10.90
+
+-- Lain-lain Hanya untuk
+Production Control
+Board
+
+90.30
+
+Oscilloscope, penganalisa spektrum
+dan instrumen serta aparatus
+lainnya untuk mengukur atau
+memeriksa kuantitas elektrik, tidak
+termasuk pengukur dari pos 90.28;
+
+Bl
+

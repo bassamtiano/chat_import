@@ -1,0 +1,59 @@
+-16-
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+pelabuhan tujuan,
+dan/atau
+spesifikasi/keterangan:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan:
+
+1. PI DOC untuk
+Pemenuhan Stok dan
+Stabilisasi Harga
+(BUMN pemilik API-P
+atau API-U) yang
+masih berlaku; dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI DOC untuk
+Pemenuhan Stok dan
+Stabilisasi Harga
+(BUMN pemilik API-P
+atau BUMN pemilik
+API-U) yang masih
+berlaku; dan
+
+2. Data elektronik dalam
+NIB, terkait dengan
+identitas Importir.
+

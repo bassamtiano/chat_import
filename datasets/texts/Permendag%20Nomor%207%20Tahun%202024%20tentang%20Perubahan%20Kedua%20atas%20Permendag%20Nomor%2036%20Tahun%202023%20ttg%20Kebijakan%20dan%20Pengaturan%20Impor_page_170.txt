@@ -1,0 +1,33 @@
+- 155 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+karton dari jenis
+yang digunakan
+untuk
+pembuatan
+kemasan
+makanan
+517. | ex 4804.59.90 | --- Lain-lain Berasal dari kayu V V
+48.05 Kertas dan kertas karton tidak dilapisi
+lainnya, dalam gulungan atau lembaran,
+tidak dikerjakan atau diproses lebih lanjut
+selain yang dirinci dalam Catatan 3 pada
+Bab ini.
+- Kertas beralur:
+518. | ex 4805.11.00 | -- Kertas beralur | Berasal dari kayu V V
+semi kimia
+519. | ex 4805.12.00 | -- Kertas beralur | Berasal dari kayu V V
+jerami
+4805.19 -- Lain-lain:
+520. | ex 4805.19.10 | --- Dengan berat | Berasal dari kayu V V
+lebih dari 150
+g/m? tapi kurang
+dari 225 g/m?
+521. | ex 4805.19.90 | --- Lain-lain Berasal dari kayu V V
+- Testliner (karton liner daur ulang):
+522. | ex 4805.24.00 | -- Beratnya 150 Berasal dari kayu V V
+g/m? atau
+kurang
+4805.25 -- Beratnya lebih dari 150 g/m?:
+523. | ex 4805.25.10 | --- Dengan berat | Berasal dari kayu V V
+

@@ -1,0 +1,54 @@
+-15-
+
+NO. NAMA BARANG URAIAN
+4
+Il. ALAT PENDUKUNG
+1. | Peralatan Fasilitas (a) Peralatan Dock Kapal, Peralatan Refuilling Unit,
+Pangkalan (Statis dan Flow meter, Peralatan Tambat;
+Mobile) (b) Kendaraan dan Peralatan Pemadam Kebakaran;
+(c) Floating Crane, Peralatan Bengkel;
+(d) Kapal Tunda, Kapal Keruk, Tongkang;
+(c} Mesin Pembangkit Kapal, Peralatan Angkat dan
+Angkut; .
+() Ground Support Equipment, Ruruvay Sweeper;
+(g) Peralatan meteorologi dan lalu lintas udara, flood
+light;
+(h) Arresting Barrier, Pump;
+(i) Peralatan SAR.
+2. | Komunikasi dan (a) Jamming, Directing Finder, Transceiver, Repeater;
+Navigasi (b) Faximile, Telex, Telegraph, Cryptograph;
+(c) Peralatan Navigasi, Peralatan Global Position
+System (GPS) Darat, Global Position System. (GPS)
+Laut, dan Global Position System (GPS) Udara;
+(d) Alat Komunikasi Khusus;
+(e) Alat deteksi bawah air;
+(f}) Pesawat Pemancar Radio, Pemancar Penerima
+Radio, Peralatan Komsat (Komunikasi Satelit),
+Radio Microwave Link;
+(g)} Kamera Surveillance, perlengkapan elektronik RDF
+(Stationer, Transportable, Portable};
+(h) Alat deteksi dan surveillance lainnya;
+(i). Central Battery, Local Battery (Telephone System);
+(j) Generating Set, Alat Ukur, Directing Finder,
+(k) Processor/Bilik Hitung tekan (Peralatan Radar),
+Multiplexer, Scrembler,
+(l) Echo Sounder;
+(m) Speed Log, Epirp, FSK (Frequency Shift Keyer);
+(n) Gyrocompass; :
+(o) Tiang Antena.
+3. | Peralatan Survey dan | (a) Peralatan Hidrografi, Topografi;
+Pemetaan (b) Peralatan Survei dan Pemotretan Udara;
+(c) Peralatan Kartografi, Peralatan Grafika.
+4. | Peralatan Kesehatan (a) Peralatan Kedokteran;
+a (b) Peralatan Produksi Farmasi.
+5. | Peralatan (a) Lab Senjata dan Amunisi;
+Laboratorium (b) Lab Elektronika, Lab Kimia, Lab Mesin;
+(c) Lab Kesehatan, Lab Kriminal, dan Identifikasi;
+(d) Lab Komponcn Pcsawat Terbang, Lab Radar, Lab
+Pemotretan, Lab Avionic;
+(e) Lab Presisi, Lab Kapal, Lab Nubika.
+6. | Peralatan Pendidikan | (a) Simulator;
+(b) Alat instruksi alut;
+(c) Alat demonstrasi.
+www.jain-kemenkeu.go.if .
+DISTRIBUSI II

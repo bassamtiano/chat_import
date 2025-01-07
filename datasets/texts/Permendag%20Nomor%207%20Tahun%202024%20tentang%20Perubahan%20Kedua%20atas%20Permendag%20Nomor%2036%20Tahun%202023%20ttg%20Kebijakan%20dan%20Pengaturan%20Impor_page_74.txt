@@ -1,0 +1,42 @@
+-59-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+180. | ex 1901.90.31 | --- Filled milk Berasal dari hewan V V
+181. ex 1901.90.32 | --- Lain-lain, Berasal dari hewan V V
+
+mengandung
+bubuk kakao
+182. | ex 1901.90.39 | --- Lain-lain Berasal dari hewan V V
+183. ex Es krim dan es Berasal dari hewan V V
+2105.00.00 lainnya yang
+dapat dimakan,
+mengandung
+kakao maupun
+tidak.
+22.02 Air, termasuk air mineral dan air soda,
+mengandung tambahan gula atau bahan
+pemanis lainnya atau pemberi rasa, dan
+minuman yang tidak mengandung alkohol
+lainnya, tidak termasuk jus buah, buah
+bertempurung atau sayuran dari pos 20.09.
+184. ex 2202.99.10 | --- Minuman Berasal dari hewan V V
+dengan bahan
+dasar susu UHT
+diberi rasa
+35.01 Kasein, kaseinat dan turunan kasein
+lainnya; lem kasein.
+185. ex 3501.10.00 | - Kasein Berasal dari hewan V V
+3501.90 - Lain-lain:
+186. ex 3501.90.10 | -- Kaseinat dan Berasal dari hewan V V
+
+turunan kasein
+
+lainnya
+
+35.02
+
+Albumin (termasuk konsentrat dari dua atau
+lebih protein whey, yang mengandung
+protein whey lebih dari 80% menurut
+beratnya, dihitung dari bahan kering),
+

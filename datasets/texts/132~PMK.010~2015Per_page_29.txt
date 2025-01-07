@@ -1,0 +1,80 @@
+MENTERI KEUANGAN
+REPUBLIK INDONESIA
+
+-26-
+POS/SUB POS a
+NO. | HEADING/ URAIAN BARANG DESCRIPTION OF GOODS BEA MASUK/
+SUB HEADING IMPORT DUTY
+a) (2) eS) (4) @
+- - Lain-lain: - - Other:
+6912 |8414.60.91.00 - - - Cocok untuk keperluan industri - - - Suitable for industrial use 15%
+6913 |8414.60.99.00 - - - Lain-lain - - - Other 15%
+84.15 Mesin pengatur suhu udara, terdiri dari kipas yang digerakkanj Air conditioning machines, comprising a motor-driven fan and
+dengan motor dan elemen untuk mengubah suhu danljelements for changing the temperature and humidity, including]
+kelembaban udara, termasuk mesin tersebut yang tidak dapat|those machines in which the humidity cannot be separately]
+mengatur kelembaban udara secara terpisah. regulated.
+8415.10 - Tipe jendela atau dinding, menyatu atau "sistem terpisah": - Window or wall types, self-contained or “split-system”:
+6932 }8415.10.10.00 - - Dengan keluaran tidak melebihi 26,38 kW - - Of an output not exceeding 26.38 kW 15%
+84.18 Lemari pendingin, lemari pembeku dan_ perlengkapan|Refrigerators, freezers and other refrigerating or freezing}
+pendingin atau pembeku lainnya, listrik atau lainnya; pompalequipment, electric or other; heat pumps other than_air|
+Panas selain mesin pengatur suhu udara dari pos 84.15. conditioning machines of heading 84.15.
+8418.10 - Kombinasi lemari pendingin-pembeku, dilengkapi dengan pintu|- Combined refrigerator-freezers, fitted with separate externall
+luar terpisah: doors:
+8418.10.10 - - Tipe rumah tangga: - - Household type:
+6987 |8418.10.10.10 - - - Dengan kapasitas tidak melebihi 230 | - - - Of-capacity not exceeding 230 | 15%
+6988 }8418.10.10.90 - - - Lain-lain |- - - Other 15%
+6989 |8418.10.90.00 ~ - Lain-lain - - Other 15%
+- Lemari pendingin, tipe rumah tangga: - Refrigerators, household type:
+8418.21.00 - - Tipe kompresi: - - Compression-type:
+6990 |8418.21.00.10 - Dengan kapasitas tidak melebihi 230 | -'- - Of capacity not exceeding 230 | 15%
+6991 |8418.21.00.90 Lain-lain - - - Other 15%
+8418.29.00 ~ Lain-lain: - - Other:
+6992 |8418.29.00.10 - - - Dengan kapasitas tidak melebihi 2301 - - - Of capacity not exceeding 230 | 15%
+6993 |8418.29.00.90 - - - Lain-lain - - - Other 15%
+8418.30 - Lemari pembeku dari tipe peti, dengan kapasitas tidak melebihi|- Freezers of the chest type, not exceeding 800 | capacity:
+800 I:
+6994 /8418.30.10.00 - - Dengan kapasitas tidak melebihi 2001 - ~ Not exceeding 200 | capacity 15%
+6995 |8418.30.90.00 - - Lain-lain - - Other 15%
+8418.40 - Lemari pembeku dari tipe tegak, dengan kapasitas tidak melebihi|- Freezers of the upright type, not exceeding 900 | capacity:
+900 |:
+6996 |8418.40.10.00 - - Dengan kapasitas tidak melebihi 200 | - - Not exceeding 200 | capacity 15%
+6997 |8418.40.90.00 - - Lain-lain - - Other 15%
+8418.50 - Perabotan lainnya (peti, kabinet, etalase, peti pajang dan|- Other furniture (chests, cabinets, display counters, show-cases}
+sejenisnya) untuk menyimpan dan display, dilengkapi dengan} and the like) for storage and display, incorporating refrigerating or}
+perlengkapan pendingin atau pembeku: freezing equipment:
+- - Konter display, peti pajang dan sejenisnya, dilengkapi dengan|- - Display counters, show-cases and the like, incorporating}
+perlengkapan pendingin, dengan kapasitas melebihi 200 |: refrigerating equipment, exceeding 200 | capacity:
+8418.50.11 - - - Dari jenis yang cocok untuk penggunaan medis, operasi atau]- - - Of a kind suitable for medical, surgical or laboratory use
+laboratorium
+6999 |8418.50.19.00 - - - Lain-lain - - - Other 15%
+- - Lain-lain: - Other:
+8418.50.91 - - - Dari jenis yang cocok untuk penggunaan medis, bedah atau]- - - Of a kind suitable for medical, surgical or laboratory use
+laboratorium
+7001 |8418.50.99.00 - = - Lain-lain - + - Other 15%
+- Perlengkapan pendinginatau pembeku lainnya; pompa panas: - Other refrigerating or freezing equipment; heat pumps:
+8418.61 - - Pompa panas selain dari mesin pengatur suhu udara dari pos}- - Heat pumps other than air conditioning machines of heading
+84.15 :
+8418.69 - - Lain-lain: Other:
+7003 /8418.69.10.00 - - - Pendingin minuman Beverage coolers 15%
+7004 |8418.69.30.00 - - - Pendingin air minum Drinking water coolers 15%
+- - - Water chiller dengan kapasitas pendinginan melebihi 21,10] - Water chillers with a refrigeration capacity exceeding 21.10)
+kW: kw:
+8418.69.41 - - - - Untuk mesin pengatur suhu - For air conditioning machines
+8418.69.49 - - - - Lain-lain - Other ;
+8418.69.50 - - - Scale ice-maker unit Scale ice-maker units
+7008 |8418.69.90.00 - - - Lain-lain |- - = Other 15%
+84.33 Mesin tuai atau mesin tebah, termasuk pengepak jerami atau|Harvesting or threshing machinery, including straw or fodder]
+rumput makanan ternak; mesin pemotong rumput atau rumput}balers; grass or hay mowers; machines for cleaning, sorting or|
+kering; mesin untuk membersihkan, menyortir atau memilih/grading eggs, fruit or other agricultural produce, other than
+mutu telur, buah atau produk pertanian lainnya, selain mesin|machinery of heading 84.37.
+dari pos 84.37.
+- Mesin pemotong untuk lapangan rumput, taman atau lapangan|- Mowers for lawns, parks or sports-grounds:
+olah raga:
+7237 |8433.11.00.00 - - Bertenaga, dengan alat potong berputar pada bidang horizontal |- - Powered, with the cutting device rotating in a horizontal plane 15%
+8433.19 - - Lain-lain: - - Other: 5
+7238 |8433.19.10.00 - - - Tidak bertenaga - - - Not powered 15%
+- - - Lain-lain - - - Other 15%
+
+7239 /8433.19.90.00
+
+www.jdih.kemenkeu.go.id ty

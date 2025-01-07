@@ -1,0 +1,74 @@
+2020, No.80 -22-
+
+--- Lain-lain, dengan ketebalan 0,17 mm atau kurang
+
+ATT 33.90
+= Bergeiombang
+
+- - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+7211.29.30 - -- Lain-lain, dengan ketebalan 0,17 mm atau kurang
+
+7211.29.90 --- Lain-lain
+7211.90.11 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm
+
+7211.90.14 --- Lain-lain, dengan ketebalan 0,17 mm atau kurang
+
+[108 [7211.90.19  [---Laindaim
+109 | 7211.90.91 - - - Dengan ketebalan 0,17 mm atau kurang
+
+=== Lain-lain
+[111 [7211.90.13 | - - - Bergelombang
+7211.90.12 - -- Simpai dan strip, dengan lebar melebihi 400 mm
+113 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm
+
+114 | 7212.10.13 - - - Simpai dan strip, dengan lebar melebihi 25 mm
+tetapi tidak melebihi 400 mm
+
+115 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+mm
+
+7212.10.93 - - - Simpai dan strip, dengan lebar melebihi 25 mm
+tetapi tidak melebihi 400 mm
+
+117_| 7212.10.19
+118 [7212.10.99
+
+119 - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+120 | 7212.20.20 - - Lain-lain, mengandung karbon kurang dari 0,6 %
+menurut beratnya dan dengan ketebalan 1,5 mm atau
+
+kurang
+
+7212.20.90
+
+7212.30.11 - - - Simpai dan strip, dengan lebar tidak melebihi 25
+
+mm
+
+123 | 7212.30.12 - - - Simpai dan strip, dengan lebar melebihi 25 mm
+tetapi tidak melebihi 400 mm
+
+124 --- Lain-lain, dengan ketebalan 1,5 mm atau kurang
+
+125 | 7212.30.14 - - - Lain-lain, dilapisi dengan seng dengan metode
+paduan besi-seng, mengandung karbon kurang dari
+0,04 % menurut beratnya
+
+7212.30.19
+
+ai
+
+128 | 7212.40.11 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+129 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+
+mm
+
+www.peraturan.go.id

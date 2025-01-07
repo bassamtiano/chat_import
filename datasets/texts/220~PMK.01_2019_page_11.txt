@@ -1,0 +1,41 @@
+-ll-
+
+Window dan mulai bergabung dengan sistem ASEAN Single
+Window pada tahun 2009;
+
+b. Sedangkan untuk negara-negara CLMV atau ASEAN-4
+(Cambodia, Lao PDR, Myanmar and Vietnam), harus sudah
+bergabung dengan’ sistem ASEAN Single Window paling
+lambat pada akhir tahun 2012.
+
+Untuk menggambarkan model konseptual sistem National Single
+
+Window sesuai konsep yang digariskan ASEAN Single Window
+
+Technical Guide dan beberapa referensi internasional, ilustrasi
+
+yang menggambarkan antara existing-system yang ada sekarang
+
+dengan sistem National Single Window yang akan dibangun:
+
+Existing-System ————>» NSW-System
+
+Dari ilustrasi tersebut di atas, dapat dijelaskan bahwa melalui
+Portal National Single Window akan dilakukan “Integrasi Data”
+antara seluruh Entitas yang terkait dengan proses ekspor-impor,
+sehingga pihak User yang memerlukan jasa layanan
+(eksportir/importir/lainnya) cukup melakukan satu kali akses
+ke Portal National Single Window, selanjutnya Portal yang akan
+meneruskan dan mendistribusikan sesuai dengan ketentuan
+yang telah disepakati antar entitas yang terkait ke Portal.
+Topologi Portal Indonesia National Single Window
+
+Secara teknis, model konseptual sistem National Single Window
+yang telah digariskan dalam ASEAN Single Window Technical
+Guidance diterjemahkan ke dalam topologi, arsitektur dan
+desain teknis sistem National Single Window yang akan menjadi
+pedoman dalam pembangunan, pengembangan dan
+
+pengoperasian sistem National Single Window.
+
+vnc Kemenku of 4

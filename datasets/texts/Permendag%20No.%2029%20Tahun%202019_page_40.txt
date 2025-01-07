@@ -1,0 +1,59 @@
+POS TARIF /
+No HS CODE URAIAN BARANG KETERANGAN
+1 2 3 4
+- Telur segar lainnya:
+0407.21.00 -- Dari ayam dari spesies Gallus
+Domesticus
+|_| 0407.29 --Lain-lain : |
+52. | 0407.29.90 --- Lain-lain
+0407.90 - Lain-lain:
+53. | 0407.90.10 -- Dari ayam dari spesies Gallus
+Domesticus
+0407.90.20 -- Dari bebek
+0407.90.90 -- Lain-lain
+
+04.08
+
+Telur unggas, tanpa kulit, dan kuning telur, segar,dikeringkan,
+dikukus atau direbus, dibentuk, beku atau diawetkan secara
+lain, mengandung tambahan gula atau bahan pemanis lainnya
+maupun tidak.
+
+on ayo
+
+0408.11.00 -- Dikeringkan
+57. | 0408.19.00 --Lain-lain
+-Lain-lain :
+58. | 0408.91.00 -- Dikeringkan
+59. | 0408.99.00 --Lain-lain
+O5.1-1 Produk Hewani tidak dirinci atau termasuk dalam pos lain;
+binatang dari Bab 1 atau 3, tidak layak untuk dikonsumsi
+manusia.
+60. | ex. -Mani dari binatang jenis lembu Sapi dan Kerbau
+0511.10.00
+
+0511.99
+
+--Produk dari ikan atau krustasea,
+moluska atau invertebrata air
+lainnya; binatang mati dari Bab 3:
+--Lain-lain
+
+61 ex.
+
+0511.99.10
+
+Mani Babi, kambing
+atau biri-biri
+
+---Mani dari binatang peliharaan
+
+MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+ttd
+
+ENGGARTIASTO LUKITA
+
+Salinan sesuai dengan aslinya
+Sekretariat Jenderal
+

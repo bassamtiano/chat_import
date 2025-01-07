@@ -1,0 +1,67 @@
+-~ 94 -
+
+No | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bec
+- Pesawat latih terbang di darat dan Standar belum tahun sejak tanggal
+bagiannya: terverifikasi karena diterbitkan.
+302. | 8805.21.00 -- Simulator pertempuran udara dan perusahaan masih V V
+bagiannya dalam tahap Dalam hal Neraca
+8805.29 -- Lain-lain: persiapan/konstruksi, | Komoditas telah
+303. | 8805.29.10 --- Pesawat latih terbang di darat atau ; ditetapkan atau Neraca V V
+304. | 8805.29.90 ~-- Lain-lain b. dalam hal kegiatan Komoditas belum V V
+88.07 Bagian dari barang pada pos 88.01, usaha dengan tingkat | ditetapkan, masa berlaku
+risiko tinggi perubahan PI BMTB
+88.02 atau 88.06. melampirkan NIB Kelompok B Tanpa
+305. | 8807.10.00 - Propeller dan rotor serta bagiannya Pp , P : P V V
+- maka Surat Batasan Usia (API-P)
+306. | 8807.20.00 - Rangka bawah dan bagiannya pernyataan selama sisa masa berlaku V V
+307. | 8807.30.00 - Bagian lainnya dari pesawat udara, ditambahkan PI induknya. V V
+helikopter atau kendaraan udara tak pernyataan bahwa
+berawak perusahaan KETENTUAN
+308. | ex 8807.90.00 | - Lain-lain Tidak termasuk V V
+
+dari balon udara,
+pesawat layang
+atau layang-
+layang, dan tidak
+termasuk dari
+satelit komunikasi
+
+melampirkan NIB
+karena perusahaan
+masih dalam tahap
+persiapan /konstruksi.
+
+PERUBAHAN PI
+
+Perubahan PI BMTB B
+
+Tanpa Batasan Usia (API-P):
+
+Perubahan PI BMTB B
+Tanpa Batasan Usia (API-P)
+dapat dilakukan dalam hal
+perubahan identitas
+importir, pos tarif/HS,
+uraian barang, jumlah
+barang, satuan barang,
+negara asal, negara muat,
+
+PERUBAHAN PI
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan, perubahan
+jumlah barang dalam PI
+BMTB Kelompok B Tanpa
+Batasan Usia (API-P)
+dapat dilakukan
+sepanjang tidak
+menambah jumlah total
+dalam PI induknya.
+
+Perubahan satuan barang
+dan/atau pos tarif/HS
+terhadap suatu nomor
+seri Barang dalam PI
+BMTB Kelompok B Tanpa
+

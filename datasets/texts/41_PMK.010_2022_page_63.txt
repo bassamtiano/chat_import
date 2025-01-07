@@ -1,0 +1,73 @@
+- 63 -
+
+791 | 7003.19.90 - - - Lain-lain
+
+70.04 Kaca tarik dan kaca tiup, dalam lembaran, mempunyai lapisan
+penyerap, pemantul atau bukan pemantul maupun tidak, tetapi
+tidak dikerjakan secara lain.
+
+7004.20 - Kaca, diwarnai keseluruhannya (body tinted), diburamkan,
+dikilaukan atau mempunyai lapisan penyerap, pemantul atau bukan
+pemantul :
+
+792 | 7004.20.20 - - Lain-lain, dalam bentuk bujur sangkar atau empat persegi panjang,
+satu atau lebih sudutnya telah terpotong maupun tidak
+793 | 7004.20.90 - - Lain-lain
+7004.90 - Kaca lainnya :
+794 | 7004.90.20 - - Lain-lain, dalam bentuk bujur sangkar atau empat persegi panjang,
+satu atau lebih sudutnya telah terpotong maupun tidak
+795 | 7004.90.90 - - Lain-lain
+70.05 Kaca apung dan kaca yang permukaannya digosok atau dipoles,
+
+dalam lembaran, mempunyai lapisan penyerap, pemantul atau
+bukan pemantul maupun tidak, tetapi tidak dikerjakan secara
+
+lain.
+7005.10 - Kaca tidak berkawat, mempunyai lapisan penyerap, pemantul atau
+bukan pemantul :
+796 | 7005.10.90 - - Lain-lain
+- Kaca tidak berkawat lainnya :
+7005.21 - - Diwarnai keseluruhannya (body tinted), diburamkan, dikilaukan
+atau semata-mata digosok permukaannya :
+797 | 7005.21.20 - - - Lain-lain, dalam bentuk bujur sangkar atau empat persegi
+panjang, satu atau lebih sudutnya telah terpotong maupun tidak
+798 | 7005.21.90 - - - Lain-lain
+7005.29 - - Lain-lain :
+799 | 7005.29.20 - - - Lain-lain, dalam bentuk bujur sangkar atau empat persegi
+panjang, satu atau lebih sudutnya telah terpotong maupun tidak
+800 | 7005.29.90 - - - Lain-lain
+70.06 Kaca dari pos 70.03, 70.04 atau 70.05, dibengkokkan, tepinya
+
+dikerjakan, diukir, dibor, dilapisi atau dikerjakan secara lain,
+tetapi tidak dibingkai atau dipasang dengan barang lain.
+
+801 | 7006.00.90 - Lain-lain
+70.09 Cermin kaca, dibingkai maupun tidak, termasuk kaca spion.
+- Lain-lain :
+802 7009.91.00 - - Tidak dibingkai
+803 | 7009.92.00 - - Dibingkai
+70.13 Barang kaca dari jenis yang digunakan untuk meja, dapur, toilet,
+
+kantor, dekorasi dalam ruangan atau keperluan semacam itu
+(selain yang disebut dalam pos 70.10 atau 70.18).
+
+804 7013.10.00 - Dari keramik kaca
+
+- Gelas minum stemware, selain keramik kaca :
+805 | 7013.28.00 - - Lain-lain
+
+- Gelas minum lainnya, selain keramik kaca :
+806 | 7013.37.00 - - Lain-lain
+
+- Barang kaca dari jenis yang digunakan untuk meja (selain gelas
+minum) atau keperluan dapur selain keramik kaca :
+
+807 7013.42.00 - - Dari kaca yang mempunyai koefisien linier perluasan tidak melebihi
+5 x 10° per Kelvindalam suhu antara 0 °C sampai 300 °C
+
+808 | 7013.49.00 - - Lain-lain
+- Barang kaca lainnya :
+
+809 | 7013.99.00 - - Lain-lain
+
+rntrraranths df

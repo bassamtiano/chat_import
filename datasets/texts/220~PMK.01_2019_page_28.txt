@@ -1,0 +1,46 @@
+- 28 -
+
+tahapan Implementasi Tahap Kesatu ini diperluas
+meliputi seluruh perusahan Importir Jalur
+Prioritas (MITA Prioritas) yang berjumlah 102
+(seratus dua) perusahaan.
+
+d) Cakupan Sistem:
+Cakupan sistem yang dilibatkan untuk integrasi
+data melalui Portal Indonesia National Single
+Window mencakup' sistem National Single
+Window-Impor, yaitu) meliputi inhouse-system
+SAP-Impor di Kantor Pelayanan Utama Bea dan
+Cukai Tanjung Priok (DJBC) dan inhouse-system
+layanan perizinan di Badan POM (e-BPOM), Ditjen
+Perdagangan Luar Negeri (InaTrade), Badan
+Karantina Pertanian (Sikawan dan Sipusra) dan
+Pusat Karantina Ikan (Sister Karoline).
+
+e) Lokasi Penerapan:
+Pada tahapan Implementasi Tahap Kesatu ini,
+sistem National Single Window -Impor yang sudah
+digabungkan dengan Portal Indonesia National
+Single Window hanya diberlakukan di Pelabuhan
+Tanjung Priok, Jakarta.
+
+3) Implementasi Tahap Kedua
+
+a) Target Waktu:
+Penerapan sistem National Single Window pada
+tahapan Implementasi Tahap Kedua ini,
+ditargetkan sudah harus diselesaikan paling
+lambat pada akhir Juni 2008, sehingga memasuki
+bulan Juli 2008 sudah dilakukan perluasan
+sistem National Single Window-Impor yang
+digabungkan ke dalam Portal Indonesia National
+Single Window.
+Pemenuhan target waktu tahapan ini telah
+berhasil dilakukan oleh Tim Persiapan National
+Single Window, dimana per tanggal 1 Juli 2008
+telah dilakukan perluasan cakupan sistem yang
+melalui Portal Indonesia National Single Window.
+
+Namun demikian, acara resmi Peluncuran
+
+iad i

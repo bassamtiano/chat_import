@@ -1,0 +1,47 @@
+- 197 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+
+Muraenolepididae
+1568.| 0304.45.00 -- Todak (Xiphias gladius) V V
+1569.| 0304.46.00 -- Toothfish (Dissostichus spp.) V V
+1570.| 0304.47.00 -- Dogfish dan hiu lainnya V V
+1571.| 0304.48.00 -- Pari dan skates (Rajidae) V V
+1572.) 0304.49.00 -- Lain-lain Y V
+
+- Lain-lain, segar atau dingin:
+1573.| 0304.51.00 -- Tilapia (Oreochromis spp.), catfish (Pangasius V V
+
+spp., Silurus spp., Clarias spp., Ictalurus spp.),
+
+ikan mas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama spp.), sidat
+
+(Anguilla spp.), Nile perch (Lates niloticus) dan
+
+gabus (Channa spp.)
+1574.| 0304.52.00 -- Salmon (salmonidae) V V
+1575.| 0304.53.00 -- Ikan dari keluarga Bregmacerotidae, V V
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae dan
+
+Muraenolepididae
+1576.| 0304.54.00 -- Todak (Xiphias gladius) v V
+1577.| 0304.55.00 -- Toothfish (Dissostichus spp.) V V
+1578.| 0304.56.00 -- Dogfish dan hiu lainnya V V
+1579.| 0304.57.00 -- Pari dan skates (Rajidae) V V
+1580. | 0304.59.00 -- Lain-lain V J
+
+- Fillet beku dari tilapia (Oreochromis spp.), catfish
+(Pangasius spp., Silurus spp., Clarias spp.,
+Ictalurus spp.), ikan mas (Cyprinus spp.,
+

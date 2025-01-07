@@ -1,0 +1,46 @@
+-16-
+
+Prasyarat teknis penerapan sistem National Single Window
+Untuk dapat melakukan penerapan sistem National Single
+Window sesuai dengan target yang telah ditetapkan, diperlukan
+prasyarat teknis:
+
+a. Ketersediaan jaringan (Network Availability), sistem
+cadangan (Redundancy System) dan sistem penanggulangan
+bencana (Disaster Recovery System);
+
+b. Ketersediaan perangkat pengaman jaringan (Network
+Security);
+
+c. Jaminan atas kehandalan jaringan (Network Reliability);
+
+d. Otomasi seluas mungkin, proses kepabeanan, perizinan
+ekspor-impor, kepelabuhanan, kebandarudaraan dan
+proses lain yang mendukung sistem National Single Window
+(payment, logistic di); dan «
+
+e. Integrasi data lintas sistem aplikasi (Web-services) sehingga
+memudahkan pertukaran data dan ketersediaan informasi
+untuk mendukung pengambilan keputusan dalam proses
+customs clearance dan cargo release.
+
+Pokok-pokok Kegiatan dan Model Pembangunan sistem National
+Single Window
+Pembangunan sistem National Single Window merupakan suatu
+proses dengan skala besar dan kompleksitas yang sangat tinggi,
+sehingga memerlukan upaya besar untuk melakukan
+serangkaian kegiatan secara paralel dalam waktu yang sangat
+terbatas. Namun demikian, dalam pelaksanaannya tetap harus
+mengikuti standar dalam proses system-development, sehingga
+memudahkan kontrol dan penilaian atas capaian kegiatan dalam
+pembangunan sistem National Single Window.
+
+Secara umum kegiatan pembangunan ini dapat dikelompokkan
+
+ke dalam dua kelompok, yaitu kegiatan Teknis (terkait dengan
+
+pekerjaan teknis kesisteman dan IT-System) dan kegiatan Non-
+
+teknis (terkait dengan proses bisnis, aspek legal dll).
+
+www. jdih.kemenkeu.gofid if

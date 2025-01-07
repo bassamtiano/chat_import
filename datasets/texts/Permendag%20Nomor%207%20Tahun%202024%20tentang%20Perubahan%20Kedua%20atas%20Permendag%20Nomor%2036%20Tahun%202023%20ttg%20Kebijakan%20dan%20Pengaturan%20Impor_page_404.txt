@@ -1,0 +1,53 @@
+- 389 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+
+-- Dalam kemasan kedap udara untuk
+penjualan eceran:
+
+1880. | 1605.10.11 --- Swimming Crab (kepiting dari keluarga V V
+Portunidae)
+
+1881. | 1605.10.12 --- King Crab (kepiting dari keluarga V V
+Lithodidae)
+
+1882. | 1605.10.13 --- Snow Crab (kepiting dari keluarga V V
+Oregoniidae)
+
+1883. | 1605.10.14 --- Lain-lain V V
+
+1884. | 1605.10.90 -- Lain-lain V V
+- Udang dan udang besar:
+
+1885. | 1605.21.00 -- Tidak dalam kemasan kedap udara V V
+
+1605.29 -- Lain-lain:
+
+1886. | 1605.29.20 --- Bakso udang V V
+
+1887. | 1605.29.30 --- Udang diberi tepung V V
+
+1888. | 1605.29.90 --- Lain-lain V V
+
+1889. | 1605.30.00 - Lobster V V
+
+1890. | 1605.40.00 - Krustasea lainnya V V
+- Moluska:
+
+1891. | 1605.51.00 -- Tiram V V
+
+1892. | 1605.52.00 -- Kerang kipas, termasuk kerang ratu V V
+
+1893. | 1605.53.00 -- Remis V V
+
+1605.54 -- Sotong dan cumi-cumi:
+
+1894. | 1605.54.10 --- Dalam kemasan kedap udara untuk V V
+penjualan eceran
+
+1895. | 1605.54.90 --- Lain-lain V V
+
+1896. | 1605.55.00 -- Gurita v v
+
+1897. | 1605.56.00 -- Kerang, tiram dan arkshells V V
+

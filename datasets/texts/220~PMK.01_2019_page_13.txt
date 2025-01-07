@@ -1,0 +1,58 @@
+-13-
+
+Ketentuan dan Kesepakatan Dasar
+
+Untuk melakukan pengembangan sistem National Single Window
+
+di Indonesia, selain komitmen dari semua Entitas yang akan
+
+dilibatkan, juga diperlukan kejelasan dan kesepakatan dasar
+
+yang terkait dengan interkoneksi dan interoperabilitas antar
+sistem, yang dituangkan dalam kebijakan dasar pengembangan
+sistem National Single Window:
+
+a. Kewenangan setiap Entitas (GA) dalam proses layanan
+publik, dilaksanakan dan dipenuhi oleh masing-masing
+Entitas sesuai dengan service-level yang disepakati.
+
+b. Perubahan kebijakan internal, dilaksanakan masing-masing
+Entitas (GA) dan diluar koordinasi Tim Persiapan National
+Single Window, namun harus selaras dan sejalan dengan
+kebijakan pengembangan sistem National Single Window.
+
+c. Tim Persiapan National Single Window akan menyiapkan
+aplikasi antar-muka (interface) antar Entitas dalam otomasi
+alur proses (automated worlflow) sistem National Single
+Window, melalui Portal National Single Window.
+
+d. Entitas yang belum memiliki sistem, akan disediakan
+fasilitas entry sesuai standar dan kebutuhan sistem
+National Single Window.
+
+e. Guna penerapan sistem National Single Window, dilakukan
+perubahan, penyesuaian dan penyempurnaan ketentuan
+dan prosedur yang tidak sejalan.
+
+f. Penjadwalan dan tahapan kegiatan dalam penerapan sistem
+National Single Window didasarkan pada jadwal integrasi
+dengan sistem ASEAN Single Window,
+
+g. Tim Persiapan National Single Window atau badan yang
+akan ditunjuk, bertanggung jawab atas kebijakan standar
+dan prosedur pengoperasian sistem dan Portal National
+Single Window.
+
+Kebijakan Umum Pembangunan sistem National Single Window
+
+Pengembangan sistem National Single Window di Indonesia
+
+secara umum mendasarkan pada ASEAN Single Window
+
+Technical Guidance dan beberapa standar referensi internasional
+
+dalam pengembangan sistem National Single Window.
+
+Namun demikian, mendasarkan pada kepentingan nasional
+
+wedcn Kemenkou oP ey

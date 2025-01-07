@@ -1,0 +1,26 @@
+- 299 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+motif batik
+- Ensemble:
+6203.22 -- Dari kapas:
+2541. | ex 6203.22.90 | --- Lain-lain Selain motif Vv |v V
+batik
+2542. | 6203.23.00 -- Dari serat sintetik vv V
+6203.29 -- Dari bahan tekstil lainnya:
+2543. | 6203.29.10 --- Dari wol atau bulu hewan halus V V
+2544. | 6203.29.90 --- Lain-lain V 7V
+- Jas dan blazer:
+6203.32 -- Dari kapas:
+2545. | ex 6203.32.90 | --- Lain-lain Selain motif Vv |v V
+batik
+2546. | 6203.33.00 -- Dari serat sintetik
+2547. | 6203.39.00 -- Dari bahan tekstil lainnya
+- Celana panjang, pakaian terusan berpenutup di
+depan dan bertali, celana panjang sampai lutut
+dan celana pendek:
+6203.42 -- Dari kapas:
+2548. | 6203.42.10 --- Pakaian terusan berpenutup di depan dan V V V
+bertali
+2549. | 6203.42.90 --- Lain-lain v/v V
+

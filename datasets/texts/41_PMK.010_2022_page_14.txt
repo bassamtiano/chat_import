@@ -1,0 +1,70 @@
+= fA
+
+191 | 8418.50.19 - - - Lain-lain
+- - Lain-lain :
+192 | 8418.50.99 - - - Lain-lain
+- Perlengkapan pendingin atau pembeku lainnya; pompa panas :
+8418.69 - - Lain-lain :
+193 | 8418.69.10 - - - Pendingin minuman
+194 | 8418.69.30 - - - Dispenser air dingin
+84.19 Perlengkapan mesin, pabrik atau laboratorium, dipanaskan
+
+secara elektrik maupun tidak (tidak termasuk tanur, oven dan
+perlengkapan lain-nya dari pos 85.14), untuk mengolah bahan
+dengan proses yang memerlukan perubahan suhu seperti
+memanaskan, memasak, memanggang, menyuling, rektifikasi,
+mensterilkan, mempasteurisasi, menguapkan, mengeringkan,
+mengevaporasi, menguapkan, mengkondensasi atau
+mendinginkan, selain mesin atau instalasi dari jenis yang
+digunakan untuk keperluan rumah tangga; pemanas air instant
+atau pemanas air dengan tempat penyimpanan, bukan listrik.
+
+- Pemanas air instant atau pemanas air dengan tempat
+penyimpanan, bukan listrik :
+
+8419.11 - - Pemanas air instan dengan gas :
+195 8419.11.10 - - - Tipe rumah tangga
+8419.19 - - Lain-lain :
+196 | 8419.19.10 - - - Tipe rumah tangga
+84.22 Mesin pencuci piring; mesin untuk membersihkan atau
+
+mengeringkan botol atau kemasan lainnya; mesin untuk mengisi,
+menutup, menyegel atau memasang label pada botol, kaleng,
+kotak, kantong atau kemasan lainnya; mesin untuk menutup
+dengan selaput pada botol, guci, tabung dan kemasan semacam
+itu; mesin pengepak atau pembungkus lainnya (termasuk mesin
+pembungkus heatshrink); mesin untuk mengaerasi minuman.
+
+- Mesin pencuci piring :
+
+197 | 8422.11.00 - - Dari tipe rumah tangga
+84.50 Mesin cuci tipe rumah tangga atau binatu, termasuk mesin yang
+dapat digunakan untuk mencuci dan mengeringkan.
+198 | 8450.20.00 - Mesin, dengan kapasitas linen kering melebihi 10 kg
+84.51 Mesin (selain mesin dari pos 84.50) untuk mencuci,
+membersihkan, memeras, mengeringkan, menyetrika,
+
+mengepres (termasuk pengepres fusi), mengelantang, mencelup,
+menata, merampungkan, melapisi atau meresapi benang tekstil,
+kain atau barang tekstil sudah jadi dan mesin untuk memberi
+pasta pada kain dasar atau kain dasar lainnya yang digunakan
+dalam pembuatan penutup lantai seperti linoleum; mesin untuk
+menggulung, melepas gulungan, melipat, memotong atau
+memotong bergerigi kain tekstil.
+
+- Mesin pengering :
+
+199 | 8451.21.00 - - Dengan kapasitas linen kering tidak melebihi 10 kg
+
+84.71 Mesin pengolah data otomatis dan unitnya; pembaca magnetik
+atau optik, mesin untuk menyalin data pada media data dalam
+bentuk kode dan mesin untuk mengolah data tersebut, tidak
+dirinci atau termasuk dalam pos lainnya.
+
+8471.30 - Mesin pengolah data otomatis digital portabel, dengan berat tidak
+lebih dari 10 kg, terdiri dari paling tidak satu unit pengolah pusat,
+keyboard dan display :
+
+200 | 8471.30.20 - - Laptop termasuk notebook dan subnotebook
+
+wen aren i

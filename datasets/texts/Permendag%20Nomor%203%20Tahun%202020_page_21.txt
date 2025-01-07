@@ -1,0 +1,40 @@
+1. 2020, No.80
+
+7210.49.13 - - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+7210.61.12 - - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+~= = Lain-lain
+
+7210.69.12 - - - - Dengan ketebalan melebihi 1,2 mm tetapi tidak
+melebihi 1,5 mm
+
+7210.69.19
+7210.69.91 - -- - Dengan ketebalan tidak melebihi 1,2 mm
+7210.69.99
+7210.70.19
+
+7210.70.99 - -- Lain-lain
+
+~ - Mengandung karbon kurang dari 0,6 % menurut
+beratnya dan dengan ketebalan 1,5 mm atau kurang
+
+= = = = Lain-lain
+
+7211.14.14 - - - - Bergelombang
+
+- ~~~ Simpai dan strip; universal plate
+
+- - - - Simpai dan strip; universal plate
+
+7211.19.93 ~~~ - Gulungan untuk re-rolling
+7211.19.99 ----Lain-lain
+
+7211.23.10
+
+- - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+www.peraturan.go.id

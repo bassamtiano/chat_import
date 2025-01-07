@@ -1,0 +1,35 @@
+- 270 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+1272. | 7321.19.90 --- Lain-lain PCE; Vv |v
+TNE;
+KGM
+1273. | 7321.81.00 -- Dengan bahan bakar gas atau PCE; V V
+gabungan gas dan bahan bakar TNE;
+lainnya KGM
+1274. | 7321.89.00 -- Lain-lain, termasuk peralatan PCE; V V
+dengan bahan bakar padat TNE;
+KGM
+1275. | 7323.93.10 --- Perangkat dapur PCE; V [Vv
+TNE;
+KGM
+1276. | 7323.93.90 --- Lain-lain PCE; Vv |v
+TNE;
+KGM
+1277. | 7323.94.00 -- Dari besi (selain besi tuang) atau. | PCE; V V
+baja, dienamel TNE;
+KGM
+1278. | 7323.99.10 --- Perangkat dapur PCE; V [Vv
+TNE;
+KGM
+1279. | 7323.99.90 --- Lain-lain PCE; Vv |v
+TNE;
+KGM
+XI. BAN
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+40.11 Ban bertekanan, baru, dari karet. PI BARU KETENTUAN
+1280. | 4011.10.00 - Dari jenis yang digunakan untuk kendaraan PENERBITAN PI V V V
+bermotor (termasuk station wagon dan mobil PI Ban (API-P): .
+balap) Dalam hal Neraca Ban dapat diimpor oleh
+

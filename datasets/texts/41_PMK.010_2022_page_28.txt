@@ -1,0 +1,59 @@
+- 28 -
+
+543 | 8703.70.82 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+544 | 8703.70.83 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+545 | 8703.70.84 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+546 | 8703.70.85 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+547 | 8703.70.86 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+548 | 8703.70.87 - - - - Dengan kapasitas silinder melebihi 3.000 cc
+- - - Lain-lain :
+549 | 8703.70.91 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+550 | 8703.70.92 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+551 | 8703.70.93 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+552 | 8703.70.94 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+553 | 8703.70.95 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+554 | 8703.70.96 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+555 | 8703.70.97 - - - - Dengan kapasitas silinder melebihi 3.000 cc
+8703.80 - Kendaraan lainnya, hanya dengan motor listrik untuk penggerak :
+- - Lain-lain :
+556 | 8703.80.91 - - - Gokart
+557 | 8703.80.92 - - - All-Terrain Vehicles (ATV)
+558 | 8703.80.93 - - - Ambulan
+559 | 8703.80.94 - - - Mobil jenazah
+560 | 8703.80.95 --- Van tahanan
+561 | 8703.80.96 --- Karavan
+562 | 8703.80.97 - -- Sedan
+563 | 8703.80.98 - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van)
+564 | 8703.80.99 - - - Lain-lain
+8703.90 - Lain-lain :
+- - Lain-lain :
+565 | 8703.90.91 - - - Gokart
+566 | 8703.90.92 - - - All-Terrain Vehicles (ATV)
+567 | 8703.90.93 - - - Ambulan
+568 | 8703.90.94 - - - Mobil jenazah
+569 | 8703.90.95 - -- Van tahanan
+570 | 8703.90.96 - - - Karavan
+571 | 8703.90.97 - - - Sedan
+572 | 8703.90.98 - - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van)
+573 | 8703.90.99 - - - Lain-lain
+87.11 Sepeda motor (termasuk moped) dan sepeda yang dilengkapi
+dengan motor bantu, dengan atau tanpa kereta samping; kereta
+samping.
+8711.10 - Dengan mesin piston pembakaran dalam dengan kapasitas silinder
+tidak melebihi 50 cc :
+- - Lain-lain :
+574 | 8711.10.92 - - - Moped atau sepeda roda dua bermotor
+
+www.jdih.kemenkeugo.id

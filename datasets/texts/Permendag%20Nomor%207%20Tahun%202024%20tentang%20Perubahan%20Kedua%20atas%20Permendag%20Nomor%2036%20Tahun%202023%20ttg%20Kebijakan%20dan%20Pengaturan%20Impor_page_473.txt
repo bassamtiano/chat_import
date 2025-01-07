@@ -1,0 +1,35 @@
+- 458 -
+
+No Pos Tarif/HS Uraian Barang Barang Persyaratan Keterangan IT | IP | PI | LS Bose
+2619. | 5208.22.00 -- Tenunan polos, beratnya lebih MTR uraian barang, jumlah, Dalam hal Neraca V V
+dari 100 g/m? satuan, negara asal, Komoditas telah
+2620. | 5208.23.00 -- Kepar 3-benang atau 4-benang, | MTR negara muat, pelabuhan ditetapkan atau Neraca V V
+termasuk kepar silang muat, pelabuhan tujuan Komoditas belum
+2621. | 5208.29.00 -- Kain lainnya MTR Impor, dan/atau ditetapkan, masa berlaku V V
+- Dicelup: keterangan/spesifikasi PI TPT (API-P atau API-U),
+5208.31 -- Tenunan polos, beratnya tidak barang. paling lama 1 (satu) tahun
+lebih dari 100 g/m?: takwim.
+2622. | 5208.31.10 --- Voile MTR Dalam hal Neraca vy {iv
+2623. | 5208.31.90 --- Lain-lain MTR Komoditas telah Dalam hal Neraca V V
+2624. | 5208.32.00 -- Tenunan polos, beratnya lebih MTR ditetapkan: Komoditas telah Vv
+dari 100 g/m? 1. PI TPT (API-P) yang ditetapkan atau Neraca
+2625. | 5208.33.00 -- Kepar 3-benang atau 4-benang, | MTR masih berlaku; dan Komoditas belum V V
+termasuk kepar silang 2. Perubahan Neraca ditetapkan, masa berlaku
+2626. | 5208.39.00 -- Kain lainnya MTR Komoditas. perubahan PI TPT (API-P v4
+- Dari benang aneka warna: atau API-U) selama sisa
+5208.41 -- Tenunan polos, beratnya tidak Dalam hal Neraca masa berlaku PI
+lebih dari 100 g/m?: Komoditas belum induknya.
+2627. | 5208.41.10 --- Tenun ikat MTR ditetapkan: KETENTUAN Vy
+— 30082 -- t enunan polos, beratnya lebih —_ Dalam hal perubahan PERPANJANGAN PI - :
+dari 100 g/m?: 1 PL TPT (PLP) yang Dalam hal Neraca
+2629. | 5208.42.10 — Tenun ikat MTR masih berlaku; dan Komoditas telah V V
+2630. | 5208.42.90 ~-- Lain-lain MTR 2. Perubahan laporan ditetapkan atau Neraca V v
+2631. | 5208.43.00 -- Kepar 3-benang atau 4-benang, | MTR hasil verifikasi, Komoditas belum V V
+termasuk kepar silang rekomendasi, atau ditetapkan, perpanjangan
+2632. | 5208.49.00 --_Kain lainnya MTR pertimbangan teknis Masa berlaku PI TPT (API- Viv
+- Dicetak: - kementerian yang P atau API-U) hanya dapat
+5208.51 -- Tenunan polos, beratnya tidak menyelenggarakan dilakukan 1 (satu) kali
+lebih dari 100 g/m?: urusan pemerintahan | dengan masa berlaku
+2633. | 5208.51.90 --- Lain-lain MTR di bidang perpanjangan PI paling Viv
+5208.52 -- Tenunan polos, beratnya lebih
+

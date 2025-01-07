@@ -1,0 +1,35 @@
+- 239 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+933. 7214.91.19 ---- Lain-lain TNE; Vv |v
+KGM
+934. 7214.91.20 --- Mengandung karbon 0,6 % atau _| TNE; V V
+lebih menurut beratnya KGM
+935. 7214.99.11 ---- Mengandung mangan kurang TNE; V V
+dari 1,15 % menurut beratnya KGM
+936. 7214.99.19 ---- Lain-lain TNE; Vv |v
+KGM
+937. 7214.99.91 ---- Mengandung karbon kurang TNE; V V
+dari 0,38 %, fosfor tidak lebih dari KGM
+0,05 % dan sulfur tidak lebih dari
+0,05 % menurut beratnya
+938. 7214.99.92 ---- Mengandung karbon 0,38 % TNE; Vv |v
+atau lebih dan mangan kurang dari | KGM
+1,15 % menurut beratnya
+939. 7214.99.93 ---- Mengandung karbon 0,17 % TNE; Vv |v
+atau lebih tetapi kurang dari 0,46 KGM
+% dan mangan 1,2 % atau lebih
+tetapi kurang dari 1,65 % menurut
+beratnya
+940. 7214.99.99 ---- Lain-lain TNE; Vv |v
+KGM
+941. 7215.10.10 -- Dengan penampang silang TNE; V V
+lingkaran KGM
+942. 7215.10.90 -- Lain-lain TNE; Vv |v
+KGM
+943. 7215.50.10 -- Mengandung karbon 0,6 % atau. | TNE; V V
+lebih menurut beratnya, selain KGM
+penampang silang lingkaran
+944. 7215.50.91 --- Dari jenis yang digunakan TNE; V V
+

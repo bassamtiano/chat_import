@@ -1,0 +1,69 @@
+2020, No.80 -30-
+
+7226.91.10 - - - Simpai dan strip, dengan lebar tidak melebihi 400
+mm
+
+7226.91.90
+
+mm
+
+7226.99.91 - - - - Disepuh atau dilapisi den
+
+7220.99.99
+7227.10.00
+7227.20.00
+7227.90.00
+7228.10.10
+7228.10.90
+
+7228.20.11 - - - Tidak dikerjakan lebih lanjut selain dicanai panas,
+ditarik panas atau diekstrusi
+7228.20.19 - -- Lain-lain
+
+2 - - - Tidak dikerjakan lebih lanjut selain dicanai panas,
+ditarik panas atau diekstrusi
+
+7228.20.99
+7228.30.10
+
+I
+7228.30.90
+
+7228.40.10
+
+7228.40.90
+
+~I
+to
+Ne
+ad
+M2
+o
+
+7228.60.90
+
+7228.70.10 - - Tidak dikerjakan lebih lanjut selain dicanai panas,
+ditarik panas atau diekstrusi
+
+~~~ Dengan penampang silang ling
+
+7229.20.00
+
+7229.90.20 2 : ng silang
+
+7229.90.30
+
+7229.90.91 - - - Mengandung kromium 0,5 % atau lebih menurut
+beratnya
+
+7229,90.20 - - Dengan penampang silang tidak melebihi 5,5 mm
+7229.90.99
+
+7313.00.00 Kawat berduri dari besi atau baja; simpai dipuntir atau
+kawat pipih tunggal, berduri atau tidak, dan kawat
+rangkap dipilin secara longgar, dari jenis yang
+digunakan untuk pagar, dari besi atau baja.
+
+7314.14.00 - - Kain tenun lainnya, dari baja stainless
+
+www.peraturan.go.id

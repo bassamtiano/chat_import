@@ -1,0 +1,33 @@
+- 276 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+dengan mikrofon maupun tidak dan set yang
+terdiri dari satu mikrofon dan satu atau lebih
+pengeras suara; amplifier listrik audio-
+frequency; set amplifier suara listrik.
+8518.10 - Mikrofon dan penyangganya:
+-- Mikrofon:
+2310. | 8518.10.19 --- Mikrofon lainnya, dengan penyangga maupun V V
+tidak
+- Pengeras suara, dipasang pada rumahnya
+maupun tidak:
+8518.21 -- Pengeras suara tunggal, dipasang pada
+rumahnya:
+2311. | 8518.21.10 --- Tipe box speaker J J
+2312. | 8518.21.90 --- Lain-lain V V
+8518.22 -- Pengeras suara multipel, dipasang pada
+rumah yang sama:
+2313. | 8518.22.10 --- Tipe box speaker V V
+2314. | 8518.22.90 --- Lain-lain V V
+8518.29 -- Lain-lain:
+2315. | 8518.29.90 --- Lain-lain V V
+8518.40 - Amplifier listrik audio-frekuensi:
+2316. | 8518.40.90 -- Lain-lain V V
+8518.50 - Set amplifier suara listrik:
+2317. | 8518.50.10 -- Mempunyai tingkat kekuatan 240 W atau V V
+lebih
+2318. | 8518.50.20 -- Lainnya, dengan pengeras suara,dari jenis yang V V
+
+cocok untuk penyiaran, mempunyai voltage rating
+50 V atau lebih tetapi tidak melebihi 100 V
+

@@ -1,0 +1,61 @@
+- 38 -
+
+107 1905.90.70 - - Wafer komuni, sealing wafer, rice paper dan produk semacam itu
+108 1905.90.80 - - Produk makanan garing lainnya
+109 1905.90.90 - - Lain-lain
+110 | 2006.00.00 Sayuran, buah, kacang, kulit buah dan bagian lain dari tanaman,
+diawetkan dengan gula (dikeringkan, dilapisi atau dikristalisasi).
+21.01 Ekstrak, esens dan konsentrat, dari kopi, teh atau mate dan
+
+olahan dengan dasar produk ini atau dengan dasar kopi, teh atau
+mate; chicory digongseng dan pengganti kopi yang digongseng
+lainnya, dan ekstrak, esens dan konsentratnya.
+
+- Ekstrak, esens dan konsentrat, dari kopi, serta olahan dengan dasar
+ekstrak, esens atau konsentrat kopi atau olahan dengan dasar kopi :
+
+2101.11 - - Ekstrak, esens dan konsentrat :
+- - - Kopi instan :
+111 210111 - - - - Dalam kemasan dengan berat bersih tidak kurang dari 20 kg
+122 | 2101.11.19 ---- Lain-lain
+113 | 2101.11.90 - - - Lain-lain
+2101.12 - - Olahan dengan dasar ekstrak, esens atau konsentrat atau olahan
+dengan dasar kopi :
+114 | 2101.12.10 - - - Campuran dalam bentuk pasta dengan bahan kopi gongseng
+ditumbuk, mengandung lemak sayuran
+- - - Lain-lain :
+115 2101.12.91 - - - - Olahan kopi dengan dasar ekstrak, esens atau konsentrat
+
+mengandung tambahan gula, mengandung krimer maupun tidak
+
+116 | 2101.12.92 - --- Olahan kopi dengan dasar kopi gongseng ditumbuk mengandung
+tambahan gula, mengandung krimer maupun tidak
+117 | 2101.12.99 - - -- Lain-lain
+2101.20 - Ekstrak, esens dan konsentrat, dari teh atau mate dan olahan
+
+dengan dasar ekstrak, esens atau konsentrat ini atau olahan dengan
+dasar teh atau mate :
+
+118 2101.20.20 - - Ekstrak teh untuk produksi olahan teh, dalam bentuk bubuk
+119 | 2101.20.30 - - Olahan teh terdiri dari campuran teh, bubuk susu dan gula
+120 | 2101.20.90 - - Lain-lain
+121 | 2101.30.00 - Chicory digongseng dan pengganti kopi digongseng lainnya, dan
+ekstrak, esens dan konsentratnya
+21.03 Saus dan olahannya; campuran bahan penyedap dan campuran
+bumbu; tepung mustar dan tepung kasar mustar serta mustar
+olahan.
+122 2103.10.00 - Kecap
+123 | 2103.20.00 - Tomato ketchup dan saus tomat lainnya
+2103.90 - Lain-lain :
+- - Saus dan olahan daripadanya :
+124 | 2103.90.11 - - - Saus cabe
+125 | 2105.00.00 Es krim dan es lainnya yang dapat dimakan, mengandung kakao
+maupun tidak.
+21.06 Olahan makanan yang tidak dirinci atau termasuk dalam pos
+lainnya.
+2106.90 - Lain-lain :
+126 | 2106.90.97 - - - Tempe
+
+Y
+
+www.jdih.kemenkey.go.id

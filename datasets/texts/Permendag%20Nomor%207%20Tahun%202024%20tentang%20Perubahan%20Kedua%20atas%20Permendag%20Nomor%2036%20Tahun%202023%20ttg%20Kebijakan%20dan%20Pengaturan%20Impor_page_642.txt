@@ -1,0 +1,35 @@
+- 627 -
+
+: : : CAS Satuan Post
+No Pos Tarif/HS Uraian Barang | Jenis Barang Number | _Barang Persyaratan Keterangan IT | IP | PI | LS Border
+R-235 134237- | KGM . Perubahan laporan | 2. Tanjung Priok di V V
+41-5 hasil verifikasi, Jakarta
+R-241 134190- | KGM rekomendasi, atau | 3. Merak di Cilegon; viv
+49-1 pertimbangan 4. Tanjung Emas di
+R-242 134237- | KGM teknis dari Semarang; v v
+42-6 kementerian yang : 8 .
+menyelenggarakan | 5. Tanjung Perak di
+R-243 134237- | KGM urusan Surabaya; vy Vv
+43-7 pemerintahan di dan/atau
+R-244 134190- | KGM bidang lingkungan | 6. Soekarno Hatta di V V
+50-4 hidup dan Makassar.
+R-251 134190- | KGM kehutanan, untuk V V
+51-5 perubahan data —_| KET ENTUAN LAIN-
+R252 134190- | KGM dan informasi yang LAIN V V
+52-6 tercantum dalam —
+R-253 134237- | KGM (aporan pas Perubahan satuan V V
+44-8 a. barang dan/atau Pos
+rekomendasi, atau Tarif /HS terhadap
+R261 134237- | KGM pertimbangan suatu nomor seri Vy y
+45-9 teknis dari Barang dalam PI BPO
+R-262 eo | KOM Kementerian Yang | Metil Bromida API-P vy
+- yerengs atau API-U) atau PI
+R-271 134190- | KGM urusan . | BPO Non Metil v |
+54-8 Pemerintahan di Bromida (API-P atau
+idang angsungan API-U) hanya dapat
+hidup dan dilakukan selama:
+kehutanan. P :
+a. belum dilakukan
+ii. SENYAWA CAMPURAN (BLEND) YANG MENGANDUNG realisasi Impor
+HCFC
+

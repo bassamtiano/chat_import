@@ -1,0 +1,27 @@
+Nomor (24)
+Nomor (25)
+Nomor (26)
+
+Nomor (27)
+Nomor (28)
+
+Nomor (29)
+
+-25-
+
+diisi jumlah barang.
+
+diisi satuan barang sesuai ketentuan.
+
+diisi perkiraan harga barang dalam mata uang asing. dengan
+incoterm Cost and Freight (C&F) atau Cost Insurance Freight
+(CIF).
+
+diisi nama negara tempat barang berasal/diproduksi.
+
+diisi nama pelabuhan/bandar udara tempat pemasukan atau
+pembongkaran barang.
+
+diisi peruntukan barang bagi Kepentingan Umum.
+
+www.jdih.kemenkeu.go.id és

@@ -1,0 +1,59 @@
+- 332 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI| LS Boose
+1478. | 0302.46.00 -- Cobia (Rachycentron canadum) Industri yang masih V V
+1479. | 0302.47.00 -- Todak (Xiphias gladius) PeRDBAnANY 4 peri, dalam 1 (satu) v v
+
+: : erubahan asi periode.
+1480. | 0302.49.00 -- Lain-lain Perikanan (API-P atau V V
+- Ikan dari keluarga Bregmacerotidae, API-U): PI Hasil Perikanan (API-P)
+Euclichthyidae, Gadidae, Macrouridae, dalam rangka Bahan
+Melanonidae, Merlucctidae, Moridae dan Perubahan PI Hasil Baku/Penolong Industri
+Mur aenolepididae, tidak termasuk sisa ikan Perikanan (API-P atau API- | dan PI Hasil Perikanan
+yang dapat dimakan dari subpos 0302.91 U) dapat dilakukan dalam | (API-P atau API-U) dalam
+sampai dengan 0302.99: hal perubahan identitas rangka Selain Bahan
+1481. | 0302.51.00 -- Cod (Gadus morhua, Gadus ogac, Gadus Importir, uraian barang, Baku/Penolong Industri V V
+macrocephalus) pos tarif/HS, jumlah, berlaku untuk 1 (satu)
+1482. | 0302.52.00 -- Haddock (Melanogrammus aeglefinus) satuan, negara asal, atau lebih penyampaian V V
+- - pelabuhan muat, Pemberitahuan Pabean 7 T
+1483. | 0302.53.00 -- Coalfish (Pollachius virens) pelabuhan tujuan Impor.
+1484. | 0302.54.00 -- Hake (Merluccius spp., Urophycis spp.) dan/atau keterangan/ V V
+1485. | 0302.55.00 -- Alaska Pollock (Theragra chalcogramma) spesifikasi: Perubahan satuan barang V V
+1486. | 0302.56.00 -- Blue whitings (Micromesistius poutassou, dan/atau Pos Tarif/HS . V V
+Micromesistius australis) Dalam hal Neraca terhadap suatu nomor seri
+Komoditas telah Barang dalam PI Hasil
+1487. | 0302.59.00 -- Lain-lain V V
+
+- Tilapia (Oreochromis spp.), catfish (Pangasius
+spp., Silurus spp., Clarias spp., Ictalurus spp.),
+ikan mas (Cyprinus spp., Carassius spp,
+Ctenopharyngodon idellus, Hypophthalmichthys
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+Catla catla, Labeo spp., Osteochilus hasselti,
+Leptobarbus hoeveni, Megalobrama spp.), sidat
+(Anguilla spp.), Nile perch (Lates niloticus) dan
+gabus (Channa spp.), tidak termasuk sisa ikan
+yang dapat dimakan dari subpos 0302.91
+sampai dengan 0302.99:
+
+ditetapkan:
+
+1. PI Hasil Perikanan
+(API-P atau API-U)
+yang masih berlaku;
+dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Perikanan (API-P atau API-
+U) hanya dapat dilakukan
+selama belum dilakukan
+realisasi Impor atau tidak
+sedang dilakukan realisasi
+Impor.
+

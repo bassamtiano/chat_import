@@ -1,0 +1,33 @@
+- 204 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bee
+spp., Silurus spp., Clarias spp., Ictalurus spp.),
+ikan mas (Cyprinus spp., Carassius spp.,
+Ctenopharyngodon idellus, Hypophthalmichthys
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+Catla Catla, Labeo spp., Osteochilus hasselti,
+Leptobarbus hoeveni, Megalobrama spp.), sidat
+(Anguilla spp.), Nile perch (Lates niloticus) dan
+gabus (Channa spp.)
+0305.69 -- Lain-lain:
+1636.| 0305.69.10 --- Ikan laut V J
+1637.| 0305.69.90 --- Lain-lain J J
+- Sirip ikan, kepala, ekor, perut, dan sisa ikan
+lainnya yang dapat dimakan:
+0305.71 - - Sirip ikan hiu :
+1638.] 0305.71.10 --- Dikeringkan atau diasapi V V
+1639. 0305.71.90 --- Lain-lain V V
+0305.72 -- Kepala ikan, ekor dan perut:
+--- Perut ikan:
+1640.| 0305.72.11 ---- Cod V V
+1641.} 0305.72.19 ---- Lain-lain VJ J
+--- Lain-lain:
+1642.| 0305.72.91 ---- Cod V V
+1643. | 0305.72.99 ---- Lain-lain V V
+0305.79 -- Lain-lain:
+1644.| 0305.79.10 --- Cod V V
+1645.| 0305.79.90 --- Lain-lain V V
+03.06 Krustasea, bercangkang maupun tidak, hidup,
+
+segar, dingin, beku, dikeringkan, diasinkan
+

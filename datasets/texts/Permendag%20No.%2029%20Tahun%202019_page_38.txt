@@ -1,0 +1,69 @@
+POS TARIF /
+a aan URAIAN BARANG KETERANGAN
+
+__(3)_ | 4
+Sisa yang dapat dimakan dari binatang jenis lembu, babi, biri-
+biri, kambing, kuda, keledai, bagal atau hinnie, segar, dingin
+atau beku.
+
+0206.49.00
+0206.80.00
+0206.90.00
+
+22. ex,
+0207.11.00
+
+23. | ex. --Tidak dipotong menjadi bagian-
+0207.12.00
+
+- Lain-lain, beku
+Daging dan sisanya yang dapat dimakan, dari unggas dari pos
+01.05, segar, dingin atau beku
+
+- Dari ayam spesies Gallus
+domesticus :
+
+--Tidak dipotong menjadi bagian-
+bagian, segar atau dingin
+
+Ne)
+
+bagian, beku
+02.07.13.00 | --Potongan dan sisanya, segar atau
+dingin
+
+|__| 0207.14 --Potongan dan sisanya, beku a
+aera
+Po
+PO
+
+26.
+27.
+Pf lain-lain:
+
+28. | 0207.14.91 ---daging yang dihilangkan tulangnya
+atau dipisahkan dengan mesin
+
+| “Dari kalkun :
+29; |'ex: --Tidak dipotong menjadi bagian- Karkas Kalkun utuh
+0207.24.00 bagian, segar atau dingin segar dingin
+30; | ex: --Tidak dipotong menjadi bagian- Karkas Kalkun utuh
+0207.25.00 bagian, beku beku
+31. | 0207.26.00 --Potongan dan sisanya, segar atau
+dingin
+0207.27 --Potongan dan sisanya, beku
+0207.27.10 ---hati
+---lain-lain :
+0207.27.91 ----daging yang dihilangkan
+tulangnya atau dipisahkan dengan
+mesin
+._| 0207.27.99 ---- Lain-lain
+| | i -Darri bebe:
+39. |x, --Tidak dipotong menjadi bagian- Karkas Itik utuh segar
+0207.41.00 bagian, segar atau dingin dingin
+36. | ex. --Tidak dipotong menjadi bagian- Karkas Itik utuh beku
+--Hati berlemak, segar atau dingin
+--Lain-lain, beku
+- Dari angsa :
+39. |0207.51.00 | -- Tidak dipotong menjadi bagian-
+bagian, segar atau dingin

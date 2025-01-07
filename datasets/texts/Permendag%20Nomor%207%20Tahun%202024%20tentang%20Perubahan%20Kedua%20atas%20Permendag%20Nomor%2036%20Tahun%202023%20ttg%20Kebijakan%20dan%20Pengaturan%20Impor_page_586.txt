@@ -1,0 +1,49 @@
+- 571 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT/IP PI | LS Post
+Barang Border
+
+LTR 2. Rekomendasi dari Farmasi (API-U);
+
+3593. | 2807.00.90 - Lain-lain TNE; Kepala BNN. 2. IP Prekursor Non v V |v
+KGM; Farmasi (API-P);
+LTR Perubahan IT Prekursor | 3. PI Prekursor Non
+
+3594. | 2841.61.00 -- Kalium Permanganat TNE; Non Farmasi (API-U) Farmasi (API-U); dan V V |v
+KGM; 4. PI Prekursor Non
+LTR Dalam hal perubahan Farmasi (API-P).
+
+3595. | 2902.30.00 - Toluena TNE; identitas Importir: v v/v
+KGM; 1. IT Prekursor Non
+LTR Farmasi yang masih KETENTUAN IMPOR
+
+3596. | 2909.11.00 -- Dietil eter TNE; berlaku; v vv
+KGM; 2. Perubahan Prekursor Non Farmasi
+LTR Rekomendasi dari dapat diimpor oleh pelaku
+
+3597. | 2914.11.00 -- Aseton TNE; Kabareskrim POLRI; usaha pemilik API-P atau V Bl Bl
+KGM; dan API-U.
+LTR 3. Perubahan
+
+3598. | 2914.12.00 -- Butanon (metil etil keton) KGM; Rekomendasi dari Perusahaan yang telah V viv
+TNE; Kepala BNN. mendapat penunjukan
+LTR sebagai IT Prekursor Non
+
+3599. | 2914.31.00 -- Fenilaseton (fenilpropan-2- one) | TNE; IP Prekursor Non Farmasi hanya dapat V Vv |v
+KGM; Farmasi (API-P): menglImpor prekursor
+LTR untuk didistribusikan
+
+3600. | 2915.24.00 _| -- Asetat Anhidrida TNE; Rekomendasi dari secara langsung tanpa v Viv
+KGM: Kementerian yang perantara kepada industri
+LTR , menyelenggarakan urusan | pengguna akhir.
+
+3601. | 2916.34.00 -- Asam fenilasetat dan garamnya_ | TNE; pemerintahan di bidang V V |v
+KGM; Perindustrian. MASA BERLAKU IP/IT
+LTR
+
+3602. | 2922.43.00 -- Asam antranilat dan garamnya TNE; Perubahan IP Prekursor Masa berlaku IT Prekursor V V V
+KGM: Non Farmasi (API-P) Non Farmasi (API-U)
+LTR paling lama 3 (tiga) Tahun
+
+3603. | 2924.23.00 ~- Asam 2- Asetamidobenzoat (asam | TNE; Dalam hal perubahan Takwim. 1 v4
+

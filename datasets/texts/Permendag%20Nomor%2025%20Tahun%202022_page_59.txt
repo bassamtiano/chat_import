@@ -1,0 +1,36 @@
+-30-
+
+No_ | Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bess
+dibentuk, beku atau diawetkan secara lain,
+mengandung tambahan gula atau bahan
+pemanis lainnya maupun tidak.
+- Kuning telur:
+149. | 0408.11.00 _| -- Dikeringkan V V
+150. | 0408.19.00 _| -- Lain-lain V V
+- Lain-lain:
+151. | 0408.91.00 _| -- Dikeringkan V V
+152. | 0408.99.00 _| -- Lain-lain V V
+153. | 0409.00.00 [| Madu alam V V
+16.01 Sosis dan produk semacamnya, dari daging, sisa
+daging, darah atau serangga; olahan makanan
+berasal dari produk ini.
+154. ex. 1601.00.10 | - Dalam kemasan kedap udara Selain yang V V
+untuk penjualan eceran mengandung
+155. __| ex. 1601.00.90 | - Lain-lain serangga V v
+16.02 Daging, sisa daging, darah atau serangga lainnya
+yang diolah atau diawetkan.
+1602.10 - Olahan homogen:
+156. ex. 1602.10.10 | -- Mengandung babi, dalam Selain yang V V
+kemasan kedap udara untuk mengandung
+penjualan eceran serangga
+157. | ex. 1602.10.90 | -- Lain-lain V V
+158. | 1602.20.00 __| - Dari hati binatang V V
+- Dari unggas dari pos 01.05:
+1602.31 -- Dari kalkun:
+159. 1602.31.10 --- Dalam kemasan kedap udara untuk penjualan V V
+eceran
+--- Lain-lain:
+160. 1602.31.91 ---- Daging yang dihilangkan tulangnya atau V V
+
+dipisahkan dengan mesin
+

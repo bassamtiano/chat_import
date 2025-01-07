@@ -1,0 +1,25 @@
+Nomor (23)
+Nomor (24)
+Nomor (25)
+Nomor (26)
+Nomor (27)
+
++~31-
+
+b. diisi jenis, merek, tipe, nomor mesin, nomor rangka,
+kapasitas mesin, dan tahun pembuatan, dalam hal
+barang berupa kendaraan. bermotor.
+
+diisi jumlah barang.
+
+diisi satuan barang.
+
+diisi_perkiraan harga barang.
+
+diisi negara asal barang.
+
+diisi nama pelabuhan/bandar udara tempat pemasukan atau
+
+pembongkaran barang.
+
+www.jdih.kemenkeu.go.id r

@@ -1,0 +1,48 @@
+-55-
+
+2) Nama dan Alamat
+
+Diisi pada kolom yang disediakan dengan nama dan alamat
+
+importir.
+
+Contoh:
+
+NPWP : 01.061.747.0-092.000
+Nama : Sumber Makmur, PT
+
+Alamat : Jalan Samudera 1 No. 15, Jakarta Utara.
+Lokasi Barang
+Diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan, berupa data tempat/lokasi pengeluaran barang impor
+dari kawasan pabean.
+Contoh:
+Barang impor dikeluarkan dari Kawasan Pabean pada wilayah
+pengawasan KPU BC Tanjung Priok melalui gate out TPS Graha
+Segara.
+Lokasi Barang : TPS Graha Segara
+No dan Tanggal B/L atau AWB
+Diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+disediakan, berupa data nomor, tanggal, bulan dan tahun dokumen
+pengangkutan barang impor dari tempat pemuatan barang di Luar
+Pabean ke tempat/pelabuhan tujuan akhir pengangkutan barang
+impor di dalam Daerah Pabean. Dokumen pengangkutan barang
+dapat berupa Bill of Lading (B/L), Airway Bill (AWB) atau dokumen
+pengangkutan barang lainnya sesuai moda transportasi yang
+digunakan.
+Dalam hal terdapat House BL/AWB dan Master BL/AWB, maka yang
+wajib diisi adalah nomor dan tanggal House BL/AWB.
+Contoh:
+SPPB diterbitkan atas barang impor yang diangkut ke dalam daerah
+pabean melalui AWB Nippon Cargo Airlines Nomor V 1131-417
+tanggal 24 November 2020.
+No. B/L atau AWB > V 1131-417
+Tanggal > 24-11-2020
+Nomor dan Tanggal serta Pos BC 1.1.
+Diisi pada kolom yang disediakan dengan nomor, tanggal, bulan dan
+tahun BC 1.1 serta nomor Pos BC 1.1., dimana barang impor
+terdaftar sesuai manifes kedatangan sarana pengangkut yang
+
+disampaikan oleh pengangkut ke Kantor Pabean.
+
+sew jainemenkeu go\e {

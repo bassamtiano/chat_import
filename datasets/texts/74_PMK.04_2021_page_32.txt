@@ -1,0 +1,66 @@
+-~ 32-
+
+PETUNJUK PENGISIAN
+
+Kop Nota diisi dengan identitas nama Kantor Pabean yang menerbitkan
+Nota Persetujuan/Penolakan Izin Pelayanan Segera (Rush Handling).
+Untuk Kantor Pabean yang merupakan satuan kerja Kantor Pelayanan
+Utama hanya mengisi identitas nama satuan kerja Eselon II dan untuk
+Kantor Pabean yang merupakan satuan kerja Kantor Pengawasan dan
+Pelayanan Bea dan Cukai mengisi identitas nama satuan kerja Eselon II
+dan Eselon II.
+
+Kantor Pabean mencoret salah satu “Persetujuan/Penolakan” sesuai
+tujuan penerbitan Nota.
+
+Pengisian kolom dalam Nota Persetujuan/Penolakan Izin Pelayanan
+Segera (Rush Handling) adalah sebagai berikut:
+
+a. Nomor Nota Persetujuan/Penolakan Izin Pelayanan Segera (Rush
+
+Handling}
+
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai pada kolom yang
+
+disediakan.
+
+Nomor
+
+Diisi dengan data berupa nomor urutan administrasi Nota
+
+Persetujuan/Penolakan Izin Pelayanan Segera (Rush Handling)
+
+dimasing-masing kantor pabean, yang terdiri dari 14 (empat belas)
+
+digit angka, berupa:
+
+1) 6 (enam) digit pertama diisi dengan angka urutan administrasi
+Nota Persetujuan/Penolakan Izin Pelayanan Segera (Rush
+Handling).
+
+2) 1 (satu) digit selanjutnya diisi dengan tanda hubung (hypen) “oe
+
+3) 2 (dua) digit selanjutnya diisi dengan  identitas Nota
+
+Persetujuan/Penolakan Izin Pelayanan Segera (Rush Handling)
+
+dengan mencantumkan “RH”.
+
+4) 4 (empat) digit selanjutnya diisi dengan tahun penerbitan Nota
+
+Persetujuan/Penolakan Izin Pelayanan Segera (Rush Handling).
+
+5) 1 (satu) digit selanjutnya diisi dengan tanda hubung (hypen) “-*.
+6) 6 (enam) digit terakhir diisi dengan kode Kantor Pabean tempat
+penerbitan Nota Persetujuan/Penolakan Izin Pelayanan Segera
+
+(Rush Handling).
+
+Contoh:
+
+Nota Persetujuan/Penolakan Izin Pelayanan Segera (Rush Handling)
+urutan ke-106 di KPU BC Tanjung Priok.
+
+Nomor: 000106-RH2021-040300
+
+soz jain kemenkeu go ef

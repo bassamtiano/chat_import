@@ -1,0 +1,67 @@
+~13-
+
+bahan pengikat, dan tanpa pelapis lainnya,
+diwarnai, dihias atau dicetak permukaannya
+maupun tidak, dalam gulungan atau lembaran
+empat persegi panjang (termasuk bujur
+sangkar) dari berbagai ukuran.
+
+- Kertas dan kertas karton dari jenis yang
+digunakan untuk menulis, mencetak atau
+keperluan grafik lainnya, tidak mengandung
+serat yang diperoleh melalui proses mekanik atau
+kimia mekanik mengandung serat tersebut tidak
+lebih dari 10% menurut berat keseluruhan
+kandungan seratnya:
+
+--- Dicetak, dari jenis yang digunakan untuk
+aparatus yang merekam sendiri, dengan lebar
+
+150 mm atau kurang:
+- - - ~ Kertas elektrokardiografi, ultrasonografi,
+spirometer, elektroensepalografi dan pemantau
+janin, dengan lebar 15 cm atau kurang
+
+232. | 4810.13.11.00
+
+4810.13.19.00
+|__| 4810.13.91
+_[asio.1s99
+= [-----Laindain
+
+4810. 14 -~ Dalam lembaran dengan satu sisinya tidak
+melebihi 435 mm dan sisi lainnya tidak
+melebihi 297 mm dan tidak dilipat:
+
+- ~ - Dicetak, dari jenis yang digunakan untuk
+aparatus yang merekam sendiri, dengan sisi
+tidak melebihi 360 mm:
+
+ee - - - ~ Kertas elektrokardiografi, ultrasonografi,
+spirometer, elektroensepalografi dan pemantau
+janin
+
+~~~ - Lain-lain
+
+— 4810.14.91 -- ~~ Dengan sisi tidak melebihi 360 mm:
+
+4810.14.91.10 | ----- Kertas uang
+
+ott: Lain-lain
+
+|_| 4810.14.99 ---~ Lain-lain:
+
+4810.14.99.10 | ----- Kertas uang
+
+| 243. |4810.14.99.90 _| ----- Lain-lain
+
+| «| 4810.19 - - Lain-lain:
+
+- - - Dicetak, dari jenis yang digunakan untuk
+aparatus yang merekam sendiri, dengan sisi
+tidak melebihi 360 mm dalam keadaan tidak
+
+| dilipat:
+
+4810.19,11.00 - ~~ - Kertas elektrokardiografi, ultrasonografi,
+

@@ -1,0 +1,45 @@
+- 133 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+
+maupun tidak.
+- Papan fiber dengan kepadatan sedang (MDF):
+
+352. | 4411.12.00 -- Dengan ketebalan tidak melebihi 5 mm V V
+
+353. | 4411.13.00 -- Dengan ketebalan melebihi 5 mm tapi tidak V V
+melebihi 9 mm
+
+354. | 4411.14.00 -- Dengan ketebalan melebihi 9 mm V V
+- Lain-lain:
+
+355. | 4411.92.00 -- Dengan kepadatan melebihi 0,8 g/cm’ V V
+
+356. | 4411.93.00 -- Dengan kepadatan melebihi 0,5 g/cm tapi V V
+tidak melebihi 0,8 g/cm
+
+357. | 4411.94.00 -- Dengan kepadatan tidak melebihi 0,5 g/cm? V V
+
+44.12 Kayu lapis, panel veneer dan kayu
+
+dilaminasi semacam itu.
+- Kayu lapis lainnya yang terdiri semata-mata
+dari lembaran kayu, (selain bambu) dengan
+ketebalan setiap lapisan tidak melebihi 6 mm:
+
+358. | 4412.31.00 -- Dengan paling tidak satu lapisan luar Dari V V
+kayu tropis
+
+359. | 4412.33.00 -- Lain-lain, paling tidak dengan satu lapisan V V
+
+luar dari kayu pohon selain jenis konifera dari
+spesies alder (Alnus spp.), ash (Fraxinus spp.),
+beech (Fagus spp.), birch (Betula spp.), cherry
+(Prunus spp.), chestnut (Castanea spp.), elm
+(Ulmus spp.), eucalyptus (Eucalyptus spp.),
+hickory (Carya spp.), horse chestnut (Aesculus
+spp.), lime (Tilia spp.), maple (Acer spp.), ek
+(Quercus spp.), plane tree (Platanus spp.),
+poplar dan aspen (Populus spp.), robinia
+(Robinia spp.), tulipwood (Liriodendron spp.)
+

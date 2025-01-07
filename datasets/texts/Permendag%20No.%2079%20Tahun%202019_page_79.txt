@@ -1,0 +1,78 @@
+9. |Korek Api Gas
+
+10. |Korek Api Kayu
+
+Keterangan :
+
+a. embos;
+
+b. tercetak;
+
+c. melekat secara utuh;
+
+d, disertakan atau dimasukkan ke dalam.
+
+-75-
+
+- Barang piroteknik berupa korek api gas.
+
+Korek api, selain dari barang piroteknik dari pos 36.04
+
+Pengukur kWh.
+
+KETERANGAN/PENJELASAN
+
+PENEMPATAN
+
+a.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang
+
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+Keterangan untuk penggunaan dan pemeliharaan
+(jika diperlukan) sesuai karakteristik barang;
+
+Simbol bahaya dan/atau tanda peringatan yang jelas;
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+Peringatan mudah terbakar;
+
+Kode produksi;
+
+Negara Pembuat atau Made in.
+
+Nama barang;
+
+Merek barang;
+
+Nama dan alamat produsen untuk barang
+produksi dalam negeri; atau
+
+Nama dan alamat importir untuk barang impor;
+Frekuensi Pengenal (Hz);
+
+Tegangan acuan, Arus Dasar, dan Maksimum;
+Negara Pembuat atau Made in;
+
+Nomor seri dan tahun pembuatan.
+
+LAB!
+
+E
+
+L
+

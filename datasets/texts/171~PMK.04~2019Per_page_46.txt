@@ -1,0 +1,61 @@
+- 46 -
+
+Nomor (10) .: .diisi nomor dan judul Keputusan Menteri Keuangan mengenai.
+
+pemberian pembebasan. bea masuk kepada _instansi/
+kementerian/ lembaga /pihak yang akan menerima
+pemindahtanganan barang.
+
+Nomor (11) : diisi daftar jenis dokumen, nomor, dan tanggal dokumen yang
+perlu dicantumkan apabila diperlukan.
+
+Nomor (12) °:. diisi Nomor Pokok Wajib Pajak instansi Pemerintah Pusat atau
+Pemerintah Daerah yang bersangkutan. .
+
+Nomor (13) ‘: diisi nama tempat domisili instansi Pemerintah Pusat. atau
+Pemerintah Daerah yang bersangkutan.
+
+Nomor (14) =: diisi Nomor Pokok . Wajib. Pajak instansi/kementerian/
+lembaga/pihak ang akan menerima pemindahtanganan
+barang.
+
+Nomor (15) _: diisi nama tempat domisili instansi/kementerian/lembaga/
+pihak yang akan menerima pemindahtanganan barang.
+
+Nomor (16) ~: diisi: para pihak yang perlu diberikan salinan Keputusan
+Menteri Keuangan. .
+
+Nomor (17) : diisi kota.tempat ditetapkannya Keputusan Menteri Keuangan.
+
+Nomor (18) : diisi tanggal, ‘tiles, dan tahun ditetapkannya Keputusan
+
+Menteri Keuangan.
+
+Nomor (19) : diisi nama Kantor Wilayah Direktorat Jenderal Bea dan Cukai
+
+atau Kantor Pelayanan Utama Bea dan Cukai yang
+
+menerbitkan Keputusan Menteri Keuangan.
+
+Nomor (20) =: diisi nama pejabat yang menandatangani Keputusan Menteri
+Keuangan.
+
+Nomor (21) ©: diisi nomor urut barang.
+
+Nomor (22) : a. diisi uraian jenis barang dan spesifikasi teknis barang .
+
+(merk, tipe, dimensi, kapasitas, dll), dalam hal barang
+selain kendaraan bermotor; atau ;
+
+b. diisi jenis, merek, tipe, nomor mesin, nomor rangka,
+kapasitas. mesin, dan tahun pembuatan,. dalam hal
+
+barang berupa kendaraan bermotor.
+
+Nomor (23) =: diisi jumlah barang.
+Nomor (24) .: diisi satuan barang.
+Nomor (25) .: diisi perkiraan harga barang.
+
+Nomor (26) |: diisi nomor pos tarif/HS.
+
+www.jdih.kemenkeu.go.id f

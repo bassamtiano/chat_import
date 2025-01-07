@@ -1,0 +1,67 @@
+- 43 -
+
+3405.90 - Lain-lain :
+21.1 3405.90.10 - - Poles logam
+212 3405.90.90 - - Lain-lain
+213 | 3406.00.00 Lilin, taper dan sejenisnya.
+35.06 Lem olahan dan perekat olahan lainnya, tidak dirinci atau
+
+termasuk dalam pos lain; produk yang cocok digunakan sebagai
+lem atau perekat, disiapkan untuk penjualan eceran sebagai lem
+atau perekat, dengan berat bersih tidak melebihi 1 kg.
+
+214 | 3506.10.00 - Produk yang cocok digunakan sebagai lem atau perekat, disiapkan
+untuk penjualan eceran sebagai lem atau perekat, dengan berat bersih
+tidak melebihi 1 kg
+
+215 | 3605.00.00 Korek api, selain barang piroteknik dari pos 36.04.
+
+36.06 Ferro-cerium dan paduan piroforik lainnya dalam segala bentuk;
+barang dari bahan mudah terbakar sebagaimana dirinci dalam
+Catatan 2 Bab ini.
+
+216 3606.10.00 - Bahan bakar cair atau gas dicairkan dalam kemasan dari jenis yang
+digunakan untuk pengisian atau pengisian ulang pemantik gas untuk
+sigaret atau pemantik semacam itu dan dengan kapasitas tidak
+melebihi 300 cm
+
+39.24 Perangkat makan, perangkat dapur, peralatan rumah tangga
+lainnya dan peralatan toilet atau higienis, dari plastik.
+3924.10 - Perangkat makan dan perangkat dapur :
+217 | 3924.10.10 - - Dari melamin
+- - Lain-lain :
+218 | 3924.10.91 - - - Botol makan bayi
+219 3924.10.99 - - - Lain-lain
+3924.90 - Lain-lain :
+220 | 3924.90.10 - - Bed pan, pispot (jenis portabel) atau chamber-pot
+221 3924.90.20 - - Nipple former, breastshells, nipple shields, hand expression funnel
+222 | 3924.90.30 - - Perangkat tambahan untuk menyusui bayi
+223 3924.90.90 - - Lain-lain
+39.26 Barang lain dari plastik dan barang dari bahan lain yang dimaksud
+dalam pos 39.01 sampai dengan 39.14.
+224 | 3926.40.00 - Patung dan barang pajangan lainnya
+3926.90 - Lain-lain :
+
+- - Kartu untuk perhiasan atau barang perhiasan pribadi kecil; manik-
+manik; tali sepatu :
+
+225 | 3926.90.81 - - - Tali sepatu
+226 | 3926.90.89 - - - Lain-lain
+- - Lain-lain :
+227 | 3926.90.91 - - - Dari jenis yang digunakan untuk menyimpan biji-bijian
+228 | 3926.90.93 - - - Gesper, ring jalan, kait dan stopper kabel
+229 | 3926.90.99 - - - Lain-lain
+40.11 Ban bertekanan, baru, dari karet.
+230 | 4011.10.00 - Dari jenis yang digunakan pada kendaraan bermotor (termasuk
+station wagon dan mobil balap)
+4011.20 - Dari jenis yang digunakan pada bus atau lori :
+- - Dengan lebar tidak melebihi 450 mm :
+231 4011.20.11 - - - Memiliki lebar tidak melebihi 230 mm, dan cocok untuk pelek
+dengan diameter tidak melebihi 16 inchi
+232 | 4011.20.12 - - - Memiliki lebar tidak melebihi 230 mm, dan cocok untuk pelek
+dengan diameter melebihi 16 inchi
+233 | 4011.20.13 - - - Memiliki lebar melebihi 230 mm tetapi tidak melebihi 385 mm
+234 | 4011.20.19 - - - Lain-lain
+235 | 4011.20.90 - - Lain-lain
+
+sn tonal gt

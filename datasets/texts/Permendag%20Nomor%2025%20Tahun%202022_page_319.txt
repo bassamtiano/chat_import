@@ -1,0 +1,25 @@
+- 290 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bese
+2449. | 6108.22.00 -- Dari serat buatan
+2450. | 6108.29.00 -- Dari bahan tekstil lainnya V
+- Gaun tidur dan piyama:
+2451. | 6108.31.00 -- Dari kapas V |v
+2452. | 6108.32.00 -- Dari serat buatan V V
+2453. | 6108.39.00 -- Dari bahan tekstil lainnya v [Vv
+- Lain-lain:
+2454. | 6108.91.00 -- Dari kapas V |v
+2455. | 6108.92.00 -- Dari serat buatan v/v
+2456. | 6108.99.00 -- Dari bahan tekstil lainnya v [Vv
+61.09 T-shirt, singlet dan kaus kutang lainnya,
+rajutan atau kaitan.
+6109.10 - Dari kapas:
+2457. | 6109.10.10 -- Untuk pria atau anak laki-laki V V
+2458. | 6109.10.20 -- Untuk wanita atau anak perempuan V V
+6109.90 - Dari bahan tekstil lainnya:
+2459. | 6109.90.10 -- Untuk pria atau anak laki-laki, dari rami, linen V V V
+atau sutra
+2460. | 6109.90.20 -- Untuk pria atau anak laki-laki, dari bahan V V V
+tekstil lainnya
+2461. | 6109.90.30 -- Untuk wanita atau anak perempuan v |v V
+

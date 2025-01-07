@@ -1,0 +1,86 @@
+- 34 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+berpalut, tulle, renda, bordir,
+perapih, jalinan atau jaring dan
+mesin pembuat rumbai.
+
+- Mesin rajut bundar:
+
+84.
+
+ex 8447.11.00
+
+-- Dengan garis Dioperasikan
+tengah silinder secara elektrik
+tidak melebihi
+165 mm
+
+85.
+
+ex 8447.12.00
+
+-- Dengan garis Dioperasikan
+tengah silinder secara elektrik
+melebihi 165 mm
+
+8447.20
+
+- Mesin rajut datar; mesin tusuk ikat:
+
+86.
+
+8447.20.10
+
+-- Dioperasikan secara elektrik
+
+84.48
+
+Mesin pembantu untuk digunakan
+dengan mesin dari pos 84.44,
+84.45, 84.46 atau 84.47 (misalnya,
+dobi, jacquard, penghenti gerak
+otomatis, mekanisme pengubah
+puntalan); bagian dan aksesori yang
+cocok digunakan semata-mata atau
+terutama dengan mesin dalam pos
+ini atau dari pos 84.44, 84.45,
+84.46 atau 84.47 (misalnya, spindel
+dan spindel flyer, card clothing,
+sisir, extruding nipple, puntalan,
+heald dan heald-frame, jarum rajut).
+
+- Mesin pembantu untuk mesin dari
+pos 84.44, 84.45, 84.46 atau 84.47:
+
+8448.11
+
+-- Dobi dan jacquard; reduksi kartu,
+mesin pengganda, pelubang atau
+perakit mesin untuk digunakan
+sesuai dengan mesinnya:
+
+87.
+
+8448.11.10
+
+--- Dioperasikan secara elektrik
+

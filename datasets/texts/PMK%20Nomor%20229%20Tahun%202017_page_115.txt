@@ -1,0 +1,59 @@
+II.
+
+-115-
+
+6) Nilai dari Bahan Non-Originating adalah nilai CIF pada saat
+importasi atau harga terawal yang dibayarkan (earliest
+ascertain price paid) untuk seluruh Bahan Non-Originating,
+bagian, atau barang yang diperoleh oleh produsen untuk
+produksi barang. Bahan Non-Originating termasuk bahan
+yang asalnya tidak diketahui, namun tidak termasuk bahan
+yang di produksi sendiri (self produced).
+
+4. Change in Tariff Heading (CTH), yaitu perubahan pada pos (4
+
+(empat) digit pertama pada HS).
+
+5.  Kriteria asal barang dalam daftar PSR Annex 2 AANZFTA terdiri
+dari:
+
+a.  tunggal, yaitu suatu subpos tarif hanya memiliki 1 (satu)
+kriteria asal barang.
+
+Contoh : 5205.11 (CTH);
+
+b. alternatif, yaitu suatu subpos tarif yang memiliki lebih dari
+1 (satu) kriteria asal barang yang harus dipilih salah satu.
+Contoh : 2401.10 ((RVC (40) or CC));
+
+c.  alternatif dan kombinasi, yaitu suatu subpos tarif yang
+memiliki lebih dari satu kriteria asal barang, yang
+merupakan gabungan dari alternatif dan kombinasi.
+
+Contoh : 8422.11 ((RVC(40) or CTH or RVC(35) + CTSH)).
+6. Produced Exclusively
+
+barang yang diproduksi di Negara Anggota dengan hanya
+
+menggunakan Bahan Originating yang berasal dari 1 (satu) atau
+
+lebih Negara Anggota lain.
+
+KRITERIA PENGIRIMAN LANGSUNG
+
+Dalam hal pengiriman barang impor melalui transit atau
+
+transshipment di negara bukan anggota, kriteria pengiriman langsung
+
+dapat dibuktikan dengan dokumen sebagai berikut:
+
+1. Through Bill of Lading atau Airway Bill atau dokumen
+pengangkutan lainnya yang diterbitkan di Negara Anggota
+pengekspor yang menunjukkan keseluruhan rute perjalanan
+dari Negara Anggota pengekspor, termasuk kegiatan transit atau
+transshipment sampai ke Daerah Pabean;
+
+2. SKA Form AANZ yang diterbitkan oleh Instansi Penerbit SKA di
+Negara Anggota pengekspor;
+
+www jdih.kemenkep.go.id

@@ -1,0 +1,86 @@
+- 140 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+peka listrik:
+
+431.
+
+ex 4802.20.10
+
+-- Dalam bentuk
+gulungan dengan
+lebar tidak lebih
+dari 15 cm atau
+lembaran empat
+persegi panjang
+(termasuk bujur
+sangkar) yang
+sisinya tidak ada
+yang melebihi 36
+cm dalam
+keadaan tidak
+dilipat
+
+Berasal dari kayu
+
+432.
+
+ex 4802.20.90
+
+-- Lain-lain
+
+Berasal dari kayu
+
+4802.40
+
+- Wallpaper base:
+
+433.
+
+ex 4802.40.10
+
+-- Dalam
+gulungan dengan
+lebar tidak lebih
+dari 15 cm atau
+dalam lembaran
+empat persegi
+panjang
+(termasuk bujur
+sangkar) yang
+sisinya tidak ada
+yang melebihi 36
+cm dalam
+keadaan tidak
+dilipat
+
+Berasal dari kayu
+
+434.
+
+ex 4802.40.90
+
+-- Lain-lain
+
+Berasal dari kayu
+
+V
+

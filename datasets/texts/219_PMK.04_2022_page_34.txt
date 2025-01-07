@@ -1,0 +1,51 @@
+- 834 -
+
+Origin Criterion Insert in box 8
+
+(c) Goods satisfying the Product
+Specific Rules
+
+- Change in Tariff Classification
+
+“CC” / “CTH” / “CTSH”
+
+- Regional / Qualifying Value Content “RVC/QVC40”
+A F “CC” / “CTH” / “CTSH” or
+- Change in Tariff Classification or “RVC/QVC40"
+
+Regional / Qualifying Value Content
+
+- Others
+
+“CC ex” / “CTH ex” / “CTSH ex” or
+“RVC/QVC40”
+
+Le
+(d) Goods satisfying Article
+(Treatment for Certain Goods)
+
+3.5
+
+“Article 3.5”
+
+When the good is subject to a Regional/Qualifying Value Content (RVC/QVC)
+requirement, indicate “BD” if the RVC/QVC is calculated according to the build down
+method or “BU” if the RVC/QVC is calculated according to the build-up method.
+
+Box9 : Gross weight in Kilos should be shown here. Other units of measurement e.g.
+volume which would indicate exact quantities may be used when customary.
+
+Box 10: Invoice number and date of invoice should be shown here. In case where a good is
+invoiced by a non-Party operator and the number and date of the commercial invoice
+is unknown, the number and date of the original commercial invoice, issued in the
+exporting Party, shall be indicated in this box.
+
+Box 11: This box shall be completed, signed and, dated by the exporter or producer.
+
+Box 12: This box shall be completed, signed, dated, and stamped by the authorized person of
+the competent authority or issuing body.
+
+Note: The instructions hereon are only used for purposes of reference to complete the Certificate
+of Origin, and thus do not have to be reproduced or printed in the overleaf page.
+
+jdih.kemenkeu.go.id

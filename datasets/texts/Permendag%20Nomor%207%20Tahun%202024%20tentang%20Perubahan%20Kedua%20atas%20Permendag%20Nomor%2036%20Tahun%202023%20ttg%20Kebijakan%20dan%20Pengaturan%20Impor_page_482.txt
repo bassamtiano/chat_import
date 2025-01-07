@@ -1,0 +1,151 @@
+- 467 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+2740.
+
+5509.12.00
+
+-- Benang rangkap (dilipat) atau
+dibentuk kabel
+
+KGM
+
+- Mengandung serat stapel dari
+poliester 85 % atau lebih menurut
+beratnya :
+
+2741.
+
+5509.21.00
+
+-- Benang tunggal
+
+KGM
+
+2742.
+
+5509.22.00
+
+-- Benang rangkap (dilipat) atau
+dibentuk kabel
+
+KGM
+
+- Mengandung serat stapel dari
+akrilik atau modakrilik 85 % atau
+lebih menurut beratnya :
+
+2743.
+
+5509.31.00
+
+-- Benang tunggal
+
+KGM
+
+2744.
+
+5509.32.00
+
+-- Benang rangkap (dilipat) atau
+dibentuk kabel
+
+KGM
+
+- Benang lainnya, mengandung
+serat stapel sintetik 85 % atau
+lebih menurut beratnya :
+
+2745.
+
+5509.41.00
+
+-- Benang tunggal
+
+KGM
+
+2746.
+
+5509.42.00
+
+-- Benang rangkap (dilipat) atau
+dibentuk kabel
+
+KGM
+
+- Benang lainnya, dari serat stapel
+poliester :
+
+2747.
+
+5509.51.00
+
+-- Dicampur terutama atau semata-
+mata dengan serat stapel artifisial
+
+KGM
+
+5509.52
+
+-- Dicampur terutama atau semata-
+mata dengan wol atau bulu hewan
+halus :
+
+2748.
+
+5509.52.10
+
+--- Benang tunggal
+
+KGM
+
+2749.
+
+5509.52.90
+
+--- Lain-lain
+
+KGM
+
+2750.
+
+5509.53.00
+
+-- Dicampur terutama atau semata-
+mata dengan kapas
+
+KGM
+
+2751.
+
+5509.59.00
+
+-- Lain-lain
+
+KGM
+
+<2 2<{<}a]
+
+<a <af<}e)
+

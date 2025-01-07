@@ -1,0 +1,34 @@
+- 636 -
+
+No Pos Tarif/HS Uraian Barang Keterangan IT | IP | PI | LS Post
+Border
+3716. | ex 8418.10.91 | --- Konter display, peti panjang dan sejenisnya, V
+dilengkapi dengan perlengkapan pendingin,
+dengan kapasitas melebihi 200 1
+8717. | ex 8418.10.99 | --- Lain-lain V V
+8418.50 - Perabotan lainnya (peti, kabinet, etalase, peti
+pajang dan sejenisnya) untuk menyimpan dan
+display, dilengkapi dengan perlengkapan
+pendingin atau pembeku:
+-- Konter display, peti pajang dan sejenisnya,
+dilengkapi dengan perlengkapan pendingin,
+dengan kapasitas melebihi 200 1:
+3718. | ex 8418.50.11 | --- Dari jenis yang cocok untuk penggunaan V V
+medis, bedah atau laboratorium
+-- Lain-lain:
+3719. | ex 8418.50.91 | --- Dari jenis yang cocok untuk penggunaan V V
+medis, bedah atau laboratorium
+- Perlengkapan pendingin atau pembeku
+lainnya; pompa panas:
+3720. | ex 8418.61.00 | -- Pompa panas selain mesin pengatur suhu V V
+udara dari pos 84.15
+8418.69 -- Lain-lain:
+3721. | ex 8418.69.10 | --- Pendingin minuman V V
+3722. | ex 8418.69.30 | --- Dispenser air dingin V V
+--- Water chiller dengan kapasitas pendinginan
+melebihi 21,10 kW:
+3723. | ex 8418.69.41 | ---- Untuk mesin pengatur suhu V V
+8724. | ex 8418.69.49 | ---- Lain-lain V V
+3725. | ex 8418.69.50 | --- Scale ice-maker unit V V
+3726. | ex 8418.69.90 | --- Lain-lain V V
+

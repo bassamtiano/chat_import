@@ -1,0 +1,40 @@
+- 27 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Bec
+160-250 hp
+40. ex 8429.19.00 | -- Lain-lain Tidak termasuk V V V
+buldoser yang
+memiliki daya
+160-250 hp
+41. ex 8429.20.00 | - Grader dan Tidak termasuk V V V
+mesin perata motor grader yang
+memiliki kapasitas
+125-135 hp
+8429.40 - Mesin pemadat dan mesin gilas
+jalan:
+42. ex 8429.40.30 | -- Mesin pemadat | Tidak termasuk V V V
+Road roller yang
+memiliki berat
+8.5-15 ton
+43. ex 8429.40.40 | -- Vibratory Tidak termasuk V V V
+smooth drum Road roller yang
+roller, dengan memiliki berat
+gaya sentrifugal 8.5-15 ton
+drum tidak
+melebihi 20 t
+berdasarkan
+berat
+44. ex 8429.40.50 | -- Vibratory Road | Tidak termasuk V V V
+roller lainnya Road roller yang
+memiliki berat
+8.5-15 ton
+45. ex 8429.40.90 | -- Lain-lain Tidak termasuk V V V
+
+Road roller yang
+memiliki berat
+8.5-15 ton
+
+- Sekop mekanik, ekskavator dan
+
+shovel loader:
+

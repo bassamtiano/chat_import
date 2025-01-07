@@ -1,0 +1,36 @@
+- 333 -
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boose
+5804.10 - Kain tule dan kain jaring lainnya:
+-- Dari sutra:
+2994. | 5804.10.11 --- Diresapi, dilapisi, ditutupi atau dilaminasi V V
+2995. | 5804.10.19 --- Lain-lain Vv [Vv
+--_ Dari kapas:
+2996. | 5804.10.21 --- Diresapi, dilapisi, ditutupi atau dilaminasi V V
+2997. | 5804.10.29 --- Lain-lain Vv [Vv
+--_Lain-lain:
+2998. | 5804.10.91 --- Diresapi, dilapisi, ditutupi atau dilaminasi V V
+2999. | 5804.10.99 --- Lain-lain Vv [Vv
+- Renda dibuat secara mekanik:
+5804.21 -- Dari serat buatan:
+3000. | 5804.21.10 --- Diresapi, dilapisi, ditutupi atau dilaminasi V V
+3001. | 5804.21.90 --- Lain-lain Viv
+5804.29 --_Dari bahan tekstil lainnya:
+3002. | 5804.29.10 --- Diresapi, dilapisi, ditutupi atau dilaminasi V V
+3003. | 5804.29.90 --- Lain-lain v [Vv
+3004. | 5804.30.00 - Renda buatan tangan V V
+58.05 Permadani dinding tenunan tangan dari tipe
+Gobelin, Flander, Aubusson, Beauvais dan
+sejenisnya, dan permadani dinding dikerjakan
+dengan jarum (misalnya, bintik kecil, jeratan
+silang), sudah jadi maupun belum.
+3005. | 5805.00.10 - Dari kapas viv
+3006. | 5805.00.90 - Lain-lain Vv {ov
+58.06 Kain pita tenunan, selain barang dari pos
+58.07; kain pita terdiri dari benang lusi tanpa
+benang pakan yang disatukan dengan perekat
+(bolduc).
+5806.10 - Kain tenunan berbulu (termasuk terry towelling
+dan kain terry semacam itu) dan kain chenille:
+3007. | 5806.10.10 -- Dari sutra Vv [Vv
+

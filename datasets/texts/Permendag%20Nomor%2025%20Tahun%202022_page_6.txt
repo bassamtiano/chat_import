@@ -1,0 +1,65 @@
+(3)
+
+(4)
+
+(5)
+
+-6-
+
+dilakukan penerbitan Perizinan Berusaha di
+bidang Impor secara otomatis melalui Sistem
+INATRADE yang diteruskan ke SINSW.
+Apabila permohonan’ Perizinan Berusaha_ di
+bidang Impor sebagaimana dimaksud dalam
+Pasal 7 ayat (1) dinyatakan tidak lengkap terkait
+dengan kesesuaian persyaratan, dilakukan
+penolakan secara elektronik melalui SINSW paling
+lama 5 (lima) hari kerja terhitung sejak tanggal
+permohonan diterima.
+Perizinan Berusaha di bidang Impor sebagaimana
+dimaksud pada ayat (1) dan ayat (2) berupa
+Importir Terdaftar atau Importir Produsen
+memuat data atau keterangan paling  sedikit
+mengenai:
+a. NIB dan identitas Importir;
+b. alamat perusahaan; dan
+c. masa berlaku.
+Perizinan Berusaha di bidang Impor sebagaimana
+dimaksud pada ayat (1) dan ayat (2) memuat data
+atau keterangan paling sedikit mengenai:
+a. untuk semua Barang Impor selain Minuman
+
+Beralkohol:
+
+. NIB dan identitas Importir;
+
+. pos tarif/HS;
+
+. jenis/uraian Barang;
+
+. jumlah barang dan satuan Barang;
+
+1
+
+2
+
+3
+
+4
+
+5. negara asal;
+
+6. pelabuhan tujuan;
+
+7. tanggal berlaku; dan
+
+8. tanggal berakhir.
+
+b. untuk Barang Impor  berupa’  minuman
+beralkohol kena pajak (Duty Paid) dan
+minuman beralkohol tidak kena pajak (Duty
+Not Paid):
+
+1. NIB dan identitas Importir;
+
+2. pos tarif/HS;

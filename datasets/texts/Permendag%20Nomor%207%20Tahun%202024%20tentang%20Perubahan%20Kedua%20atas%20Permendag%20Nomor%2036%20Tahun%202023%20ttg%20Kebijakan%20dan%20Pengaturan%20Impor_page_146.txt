@@ -1,0 +1,32 @@
+- 131-
+
+No Pos Tarif/HS Uraian Barang Persyaratan Keterangan IT | IP | PI | LS Boos
+331. | 4407.96.10 --- Diketam, diampelas atau end-jointed V
+332. | 4407.96.90 --- Lain-lain V V
+4407.97 -- Dari poplar dan aspen (Populus spp.):
+333. | 4407.97.10 --- Diketam, diampelas atau end-jointed V V
+334. | 4407.97.90 --- Lain-lain V V
+4407.99 -- Lain-lain:
+335. | 4407.99.10 --- Diketam, diampelas atau end-jointed V V
+336. | 4407.99.90 --- Lain-lain v v
+44.08 Lembaran untuk veneering (termasuk yang
+diperoleh dengan cara mengiris kayu yang
+dilaminasi), untuk kayu lapis atau kayu yang
+dilaminasi semacam itu dan kayu lainnya,
+digergaji memanjang, diiris atau dikuliti,
+diketam, diampelas, disambung atau end-
+jointed maupun tidak, dengan ketebalan
+tidak melebihi 6 mm.
+4408.10 - Pohon jenis konifera:
+337. | 4408.10.10 -- Slat kayu cedar untuk pensil; pohon pinus V V
+radiata dari jenis untuk pembuatan blockboard
+338. | 4408.10.30 -- Lembaran veneer bagian permukaan V V
+339. | 4408.10.90 -- Lain-lain V V
+- Dari kayu tropis:
+340. 4408.31.00 -- Meranti Merah Tua, Meranti Merah Muda V V
+dan Meranti Bakau
+4408.39 -- Lain-lain:
+341. | 4408.39.10 --- Slat Pensil Dari kayu jelutung V V
+342. | 4408.39.20 --- Lembaran veneer bagian permukaan V V
+343. | 4408.39.90 --- Lain-lain V V
+

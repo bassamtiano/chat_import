@@ -1,0 +1,54 @@
+[Sd Kapur (Dryobalanops spp:
+ae ee ee
+ia [#0738 5.00 Dikeam, dampelas atau endo’
+
+ss
+
+4407.29.41.00 - - - ~- Diketam, diampelas atau end-jointed
+Das. | 4407.29.49.00 ---- Lain-lain
+
+/ - - - Ramin (Gonystylus spp.):
+
+4407.29.59.00
+Lo - - ati (Tectona spp):
+
+4407.29.61.00 - ~~~ Diketam, diampelas atau end-jointed
+| 49. | 4407.29.69.00
+| | CO - - - Balla (Shorea spp.
+
+4407.29.71.00 - --~- Diketam, diampelas atau end-jointed
+a aaa 29.79.00
+
+——EEE 29.81.00 ---- Diketam, diampelas atau end jointed
+(53. |4407.29.89.00
+TE taincain:
+
+54. 4407.29.91.00 ----Jongkong (Dactylocladus spp.) dan Merbau
+{Intsia spp.), diketam, diampelas atau end-jointed
+
+om 4407.29.92.00 - ---Jongkong (Dactylocladus spp.) dan Merbau
+(Intsia spp.), lain-lain
+
+4407.29.93.00 - - - - Lain-lain, diketam, diampelas atau end-
+jointed
+
+4407.29.99 -- ~~ Lain-lain:
+22. 4407.29.99.10 = |----- Albisia (Parenserianthes falcataria)
+
+intel Karet (Hevea brasiliensis)
+
+= Lain-lain
+tain:
+
+|__|4407.91 | - - Dari mye ek (Quercus spp.}:
+
+| 60.__|4407.91.10.00__| - - - Diketam, diampelas atau end-jointed |
+|.61._|4407.91.90.00 [---Laindain
+|___|4407.92 ss --Darikayubeech (Fagus spp): |
+| 62. | 4407.92.10.00 __| -- - Diketam, diampelas atau end-jointed
+| ____|4407.93 [== Darikayu maple (Acer spp):
+| 65. _|4407.93.90.00  |---Lainlain
+| 4407.94 | -- Darikayucherry (Prunus spp);
+| 66. | 4407.94.10.00 | - - - Diketam, diampelas atauend-jointed
+|__ 4407.95 | -- Darikayuash (Fraxinus spp):
+

@@ -1,0 +1,39 @@
+- 246 -
+
+No Pos Tarif/HS Uraian Barang Satuan Persyaratan Keterangan IT | IP | PI | LS Post
+Barang Border
+1021. | 7305.20.00 - Casing dari jenis yang digunakan | TNE; V V
+dalam pengeboran minyak atau gas | KGM
+1022. | 7305.31.10 --- Pipa dan pembuluh dari baja TNE; V [Vv
+stainless KGM
+1023. | 7305.31.90 --- Lain-lain TNE; Vv |v
+KGM
+1024. | 7305.39.10 --- Pipa tekanan tinggi mampu TNE; V V
+menahan tekanan tidak kurang KGM
+dari 42.000 psi
+1025. | 7305.39.90 --- Lain-lain TNE; Vv |v
+KGM
+1026. | 7305.90.00 - Lain-lain TNE; Vv |v
+KGM
+1027. | 7306.11.10 --- Longitudinally electric resistance | TNE; V V
+welded (ERW) KGM
+1028. | 7306.11.90 --- Lain-lain TNE; Vv |v
+KGM
+1029. | 7306.19.10 --- Longitudinally electric resistance | TNE; V V
+welded (ERW) KGM
+1030. | 7306.19.20 --- Spiral or helical submerged arc | TNE; V V
+welded KGM
+1031. | 7306.19.90 --- Lain-lain TNE; Viv
+KGM
+1032. | 7306.21.00 -- Dilas, dari baja stainless TNE; V [Vv
+KGM
+1033. | 7306.29.00 -- Lain-lain TNE; Vv |v
+KGM
+1034. | 7306.30.11 --- Dengan diameter luar kurang TNE; V V
+dari 12,5 mm KGM
+1035. | 7306.30.19 --- Lain-lain TNE; Vv |v
+
+val
+Q
+gE
+

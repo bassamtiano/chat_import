@@ -1,0 +1,86 @@
+7a 0 9 8
+
+ct
+
+&
+
+NS“ * € s
+
+-74-
+
+Pajak Pertambahan Nilai (PPN);
+
+Pajak Penjualan Barang Mewah (PPnBM); dan
+Pajak Penghasilan (PPh);
+
+pos tarif / HS Code barang;
+
+uraian jenis barang, merk, tipe, spesifikasi wajib;
+negara asal barang;
+
+fasilitas (jenis, nomor, dan tanggal dokumen);
+persyaratan larangan atau pembatasan (jenis, nomor, dan
+tanggal dokumen);
+
+tarif dan fasilitas;
+
+jumlah dan jenis satuan;
+
+berat bersih (Kg);
+
+jumlah/jenis kemasan;
+
+nilai pabean;
+
+aa. jumlah barang impor eksep; dan
+
+bb. tanggal rencana kedatangan barang impor eksep,
+
+dengan menggunakan format surat permohonan yang tercantum
+
+dalam Lampiran huruf A Peraturan Menteri ini.
+
+Dalam pengajuan permohonan sebagaimana dimaksud pada
+
+angka 2, Importir melampirkan Dokumen Pelengkap Pabean
+
+paling sedikit berupa:
+
+a.
+
+b.
+
+Cc.
+
+invoice;
+
+packing list,
+
+airway bill/bill of lading/dokumen pengangkutan barang
+lainnya;
+
+dokumen persyaratan impor, dalam hal merupakan barang
+yang dibatasi impornya; dan/atau
+
+keputusan mengenai pemberian fasilitas impor terkait bea
+masuk, cukai, Pajak Pertambahan Nilai, Pajak Penjualan
+Barang Mewah, dan/atau Pajak Penghasilan Pasal 22.
+
+Dalam hal permohonan disampaikan sebelum kedatangan
+
+barang impor di Kawasan Pabean atau tempat lain yang
+
+diperlakukan sama dengan TPS:
+
+a.
+
+Importir:
+
+1) mengganti kolom “nomor, tanggal, pos, dan subpos
+dokumen inward manifest (BC 1.1)” sebagaimana
+dimaksud pada angka 2, dengan “tanggal perkiraan
+
+kedatangan barang impor” pada permohonan dan diisi
+
+/
+smu jein kemenkeu:o /

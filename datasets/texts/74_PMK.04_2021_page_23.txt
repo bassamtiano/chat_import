@@ -1,0 +1,57 @@
+- 23 -
+
+moda transportasi yang digunakan. Dalam hal terdapat House
+BL/AWB dan Master BL/AWB, maka yang wajib diisi adalah nomor
+dan tanggal House BL/AWB.
+
+Contoh:
+
+Barang impor diangkut ke dalam daerah pabean melalui AWB Nippon
+Cargo Airlines Nomor V 1131-417 tanggal 24 November 2020.
+
+Nomor dan Tanggal Airway Bill: V 1131-417 / 24-11-2020.
+
+Nomor, Tanggal, Pos. dan Sub Pos. Inward Manifest
+
+Diisi pada kolom yang disediakan dengan nomor BC 1.1, tanggal,
+bulan tahun BC 1.1, nomor Pos BC 1.1 dan nomor Sub Pos BC 1.1.
+dimana barang impor terdaftar sesuai manifes kedatangan sarana
+pengangkut yang disampaikan oleh pengangkut ke Kantor Pabean.
+Dalam hal Permohonan Pelayanan Segera (Rush Handling) diajukan
+sebelum pengangkut menyampaikan manifes kedatangan sarana
+pengangkut (inward manifest) ke Kantor Pabean, kolom ini dapat diisi
+setelah pengangkut menyampaikan inward manifest.
+
+Contoh:
+
+Permohonan Pelayanan Segera (Rush Handling) diajukan untuk
+barang yang terdaftar dalam BC 1.1 nomor 001029 tanggal 11 Mei
+2021 pada pos 03 dan subpos 0301
+
+Nomor dan Tanggal Inward Manifest
+
+(BC 1.1): No. 001029 Tgl. 11-05-2021 Pos. 03 Sub Pos. 0301
+Valuta
+
+Diisi pada kolom yang disediakan dengan jenis valuta asing yang
+digunakan dalam transaksi barang impor dan kode valuta. Dalam hal
+terdapat dua atau lebih jenis valuta, dipilih salah satu valuta yang
+menggambarkan seluruh nilai transaksi dengan cara
+mengkonversikan mata uang tersebut ke jenis mata uang yang dipilih
+berdasarkan kurs yang berlaku.
+
+Contoh:
+
+Valuta : United State Dollar (USD)
+
+NDPBM
+
+Diisi pada kolom yang disediakan dengan Nilai Dasar Perhitungan
+Bea Masuk (NDPBM), yaitu nilai tukar yang dipergunakan sebagai
+dasar perhitungan bea masuk.
+
+Contoh:
+
+NDPBM : 14.100,00
+
+wwwjdih.kemenkeu.g) io?

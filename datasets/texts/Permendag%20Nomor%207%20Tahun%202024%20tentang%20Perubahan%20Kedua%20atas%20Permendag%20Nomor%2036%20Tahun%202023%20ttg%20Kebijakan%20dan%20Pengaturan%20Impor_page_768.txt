@@ -1,0 +1,80 @@
+-~ 48 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+selain kombinasi
+mesin pelubang
+dan penggunting,
+dan tidak
+termasuk Mesin
+Press (Pressing
+Machine) dengan
+Max bending
+plates 3 mm x
+1.200 mm.
+
+--- Lain-lain:
+
+160.
+
+ex 8462.61.99
+
+---- Lain-lain
+
+Dioperasikan
+secara elektrik,
+Tidak termasuk
+Mesin
+pembengkok,
+pelipat, pelurus
+atau pemipih, dan
+tidak termasuk
+Mesin Press
+(Pressing Machine)
+dengan max
+bending plates 3
+mm x 1.200 mm
+
+8462.62
+
+-- Pengepres mekanik:
+
+--- Dikontrol secara numerik
+
+161.
+
+8462.62.11
+
+---- Mesin penempa atau pengecap
+
+dengan cetakan
+
+162.
+
+ex 8462.62.19
+
+---- Lain-lain
+
+Tidak termasuk
+Mesin Tekuk
+(Bending Machine)
+dengan
+Kapasitas:
+

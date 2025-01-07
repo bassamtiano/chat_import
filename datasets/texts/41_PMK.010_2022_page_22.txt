@@ -1,0 +1,92 @@
+-~22 -
+
+374 | 8703.40.56 - - - - Dengan kapasitas silinder tidak melebihi 1.500 cc
+
+375 | 8703.40.57 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 2.000 cc
+
+376 | 8703.40.58 - --- Dengan kapasitas silinder melebihi 2.000 cc
+--- Sedan :
+
+377 | 8703.40.61 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+378 | 8703.40.62 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+379 | 8703.40.63 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+380 | 8703.40.64 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+381 8703.40.65 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+382 | 8703.40.66 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+383 | 8703.40.67 - - - - Dengan kapasitas silinder melebihi 3.000 cc, berpenggerak
+empat roda
+
+384 | 8703.40.68 - - - - Dengan kapasitas silinder melebihi 3.000 cc, bukan
+
+berpenggerak empat roda
+
+- - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), berpenggerak empat roda :
+
+385 | 8703.40.71 - - -- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+386 | 8703.40.72 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+387 | 8703.40.73 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+388 | 8703.40.74 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+389 | 8703.40.75 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+390 | 8703.40.76 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+391 8703.40.77 - - - - Dengan kapasitas silinder melebihi 3.000 cc
+
+- - - Mobil lainnya (termasuk station wagon dan mobil sport, tetapi
+tidak termasuk van), bukan berpenggerak empat roda :
+
+392 | 8703.40.81 - - - - Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+393 | 8703.40.82 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+394 | 8703.40.83 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+395 | 8703.40.84 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+melebihi 2.000 cc
+
+396 | 8703.40.85 - - - - Dengan kapasitas silinder melebihi 2.000 cc tetapi tidak
+melebihi 2.500 cc
+
+397 | 8703.40.86 - - - - Dengan kapasitas silinder melebihi 2.500 cc tetapi tidak
+melebihi 3.000 cc
+
+398 | 8703.40.87 - - - - Dengan kapasitas silinder melebihi 3.000 cc
+- - - Lain-lain :
+
+399 | 8703.40.91 - - -- Dengan kapasitas silinder tidak melebihi 1.000 cc
+
+400 | 8703.40.92 - - - - Dengan kapasitas silinder melebihi 1.000 cc tetapi tidak
+melebihi 1.500 cc
+
+401 8703.40.93 - - - - Dengan kapasitas silinder melebihi 1.500 cc tetapi tidak
+melebihi 1.800 cc
+
+402 | 8703.40.94 - - - - Dengan kapasitas silinder melebihi 1.800 cc tetapi tidak
+
+melebihi 2.000 cc
+
+ron amestipi

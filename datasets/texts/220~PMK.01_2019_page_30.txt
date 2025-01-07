@@ -1,0 +1,61 @@
+- 30-
+
+d) Cakupan Sistem:
+
+Cakupan sistem yang dilibatkan untuk integrasi
+
+data melalui Protal Indonesia National Single
+
+Window mencakup:
+
+i. Sistem NSW-Impor :
+
+Meliputi inhouse-system SAP-Impor di KPU
+Tanjung Priok (DJBC) dan inhouse-system
+layanan perizinan di 15 (lima belas) GA.
+
+ii. Sistem National Single Window-SeaPort:
+Merupakan uji coba awal penggabungan
+sistem layanan di komunitas pelabuhan laut
+Tanjung Priok (sistem InaPortNet) ke dalam
+Portal Indonesia National Single Window,
+untuk dilakukan integrasi data dengan SAP-
+Manifes dan SAP-Impor di KPU Tanjung Priok
+(DJBC).
+
+e) Lokasi Penerapan:
+
+Penerapan sistem National Single Window-Impor
+
+dan uji coba sistem National Single Window-
+
+SeaPort sampai dengan Implementasi Tahap
+
+Kedua ini, masih dibatasi pemberlakuannya di
+
+pelabuhan Tanjung Priok, Jakarta.
+
+4) Implementasi Tahap Ketiga
+a) Target Waktu:
+
+Penerapan sistem National Single Window pada
+tahapan Implementasi Tahap_ Ketiga ini,
+ditargetkan sudah harus diselesaikan paling
+lambat pada akhir Desember 2008, sehingga
+memasuki tahun 2009 sudah mulai dilakukan
+persiapan untuk penggabungan ke dalam sistem
+dan Portal ASEAN Single Window.
+
+Pemenuhan target waktu pada tahapan ini sangat
+
+penting untuk dipenuhi karena pada tahapan
+
+inilah ditargetkan semua komponen sistem
+
+National Single Window (Impor, Ekspor, Seaport
+
+dan Airport} sudah mulai digabungkan ke Portal
+
+Indonesia National Single Window, dan juga telah
+
+wn nsamenkeu se

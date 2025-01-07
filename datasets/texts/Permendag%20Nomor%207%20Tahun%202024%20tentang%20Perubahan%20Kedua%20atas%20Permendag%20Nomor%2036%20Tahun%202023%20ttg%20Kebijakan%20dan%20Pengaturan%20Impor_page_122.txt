@@ -1,0 +1,95 @@
+- 107 -
+
+Pos Tarif/HS
+
+Uraian Barang
+
+Satuan
+Barang
+
+Persyaratan
+
+Keterangan
+
+IT
+
+IP
+
+PI
+
+LS
+
+Post
+Border
+
+pos tarif/HS, jumlah,
+satuan, negara asal,
+pelabuhan muat,
+pelabuhan tujuan,
+dan/atau
+spesifikasi/keterangan:
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan:
+
+1. PI Gula Kristal Mentah
+(API-P dengan fasilitas
+KITE atau API-P di
+Kawasan Berikat) yang
+masih berlaku; dan
+
+2. Perubahan Neraca
+Komoditas.
+
+Dalam hal Neraca
+Komoditas belum
+ditetapkan:
+
+Dalam hal perubahan
+
+identitas Importir:
+
+1. PI Gula Kristal Mentah
+(API-P dengan fasilitas
+KITE atau API-P di
+Kawasan Berikat) yang
+masih berlaku; dan
+
+2. Data elektronik dalam
+NIB, terkait dengan
+identitas Importir.
+
+Perpanjangan PI Gula
+Kristal Mentah (API-P
+dengan fasilitas KITE atau
+API-P di Kawasan Berikat)
+hanya dapat diajukan
+dalam hal:
+a. Barang telah dimuat
+pada alat angkut; dan
+b. Terjadi keterlambatan
+kedatangan Barang
+yang diakibatkan oleh
+keadaan tertentu
+berupa: keadaan
+kahar, bencana
+kemanusiaan, bencana
+alam, gangguan teknis
+alat angkut, dan/atau
+keadaan lain yang
+mengakibatkan
+keterlambatan
+kedatangan.
+
+KETENTUAN LAIN-LAIN
+
+Dalam hal Neraca
+Komoditas telah
+ditetapkan Importir dapat
+memiliki 1 (satu) atau
+lebih PI Gula Kristal
+Mentah (API-P dengan
+fasilitas KITE atau API-P
+di Kawasan Berikat) yang
+

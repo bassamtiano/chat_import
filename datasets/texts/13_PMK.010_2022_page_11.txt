@@ -1,0 +1,69 @@
+-1l1l-
+
+Bea
+Pos Tarif/ Masuk/
+No. HS Code Uraian Barang Description Import
+Duty
+(1) (2) (3) (4) (5)
+10817 9801.70.10 | - - Dengan g.v.w. tidak lebih dari 5 - - Of a g.v.w. not exceeding 5 7.5%
+ton tonnes “ee
+10817a | 9801.70.20 | - - Dengan g.v.w. lebih dari 5 ton - - Of ag.v.w. exceeding 5 tonnes 0%
+tetapi tidak lebih dari 24 ton but not exceeding 24 tonnes
+10817b | 9801.70.30 | - - Dengan g.v.w. lebih dari 24 ton - - Ofag.v.w. exceeding 24 tonnes 0%
+9801.80 - Sasis dilengkapi dengan mesin, - Chassis fitted with engines, for the
+untuk kendaraan dari Pos 87.02 jenis | bus vehicles of headings 87.02
+bus selain dari barang pada subpos other than those of subheading
+9801.90 : 9801.90 :
+10818 9801.80.10 | - - Dari pos tarif 8706.00.22 dengan - - Of subheading 8706.00.22 with 0%
+g.v.w. lebih dari 5 ton tetapi tidak a g.v.w. exceeding 5 tonnes but not
+lebih dari 24 ton exceeding 24 tonnes
+10818a | 9801.80.20 | - - Dari pos tarif 8706.00.23 dengan - - Of subheading 8706.00.23 with 0%
+g.v.w. lebih dari 24 ton a g.v.w. exceeding 24 tonnes
+9801.90 - Kendaraan bermotor listrik roda - Four-wheeled or more electric
+empat atau lebih, hanya dengan motor vehicle, only with battery
+motor listrik berbasis baterai untuk electric motor for propulsion:
+penggerak:
+10819a | 9801.90.10 | - - Traktor jalan untuk semi-trailer - - Road tractors for semi-trailers of 0%
+dari subpos 8701.20 subheading 8701.20 °
+10819b | 9801.90.20 | - - Kendaraan bermotor untuk - - Motor vehicles for transport of
+pengangkutan sepuluh orang atau ten or more persons including the 0%
+lebih termasuk pengemudi dari driver of subheading 8702.40 °
+subpos 8702.40
+10819c | 9801.90.30 | - - Kendaraan bermotor untuk - - Motor vehicles for transport of
+pengangkutan orang lainnya dari other persons of subheading 0%
+subpos 8703.80 8703.80
+10819d | 9801.90.40 | - - Kendaraan pengangkutan barang - - Motor vehicles for transport of 0%
+dari subpos 8704.90 goods of subheading 8704.90 °
+10819e | 9801.90.50 | - - Sasis dilengkapi dengan motor - - Chassis fitted with electric motor
+listrik sebagai penggerak, dari pos for propulsion, of heading 87.06 0%
+87.06
+98.02 Komponen kendaraan bermotor Components of incompletely
+dalam keadaan terurai tidak knocked down motor vehicle.
+lengkap.
+10820 9802.10.00 | - Mesin piston pembakaran dalam - Rotary internal combustion piston
+bolak balik berputar atau cetus api engine or reciprocating spark-
+atau mesin piston pembakaran dalam | ignition combustion piston engine 2.5%
+nyala kompresi (diesel/semi diesel) or compression-ignition piston
+engine (diesel/semi diesel)
+10821 9802.20.00 | - Gear box - Gear boxes 2.5%
+10822 9802.30.00 | - Poros penggerak - Drive-axles 2.5%
+
+MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+ttd.
+
+SRI MULYANI INDRAWATI
+
+Salinan sesuai dengan aslinya
+Kepala Biro Umum
+
+Pit. Kepala Bagian
+
+u.b.
+
+Administrasi Kementerian
+
+www.jdih.kemenkeu.go.id
+
+2
+

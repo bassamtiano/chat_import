@@ -1,0 +1,56 @@
+-~ 47 -
+
+PETUNJUK PENGISIAN
+
+Kop Surat diisi dengan identitas nama Kantor Pabean yang menerbitkan
+
+Surat Permintaan Jaminan Pelayanan Segera (Rush Handling). Untuk
+
+Kantor Pabean yang merupakan satuan kerja Kantor Pelayanan Utama
+
+hanya mengisi identitas nama satuan kerja Eselon I] dan untuk Kantor
+
+Pabean yang merupakan satuan kerja Kantor Pengawasan dan Pelayanan
+
+Bea dan Cukai mengisi identitas nama satuan kerja Eselon II dan
+
+Eselon III.
+
+Pengisian kolom dalam Surat Permintaan Jaminan Pelayanan Segera
+
+(Rush Handling) adalah sebagai berikut:
+
+a. Nomor Surat Permintaan Jaminan Pelayanan Segera (Rush Handling)
+Diisi dengan nomor urutan administrasi penerbitan Surat
+Permintaan Jaminan Pelayanan Segera (Rush Handling)
+
+Contoh:
+
+Nota Surat Permintaan Jaminan Pelayanan Segera (Rush Handling)
+diterbitkan pada urutan ke-761.
+
+Nomor : 000761
+
+b. Importir
+Wajib diisi oleh SKP atau Pejabat Bea dan Cukai berupa data importir
+yaitu pihak yang bertindak sebagai penerima barang (consignee)
+dalam dokumen pengangkutan barang (bill of lading, airway bill, atau
+dokumen pengangkutan barang lainnya).
+
+1) NPWP
+
+Diisi pada kolom yang disediakan dengan data Nomor Pokok
+Wajib Pajak (NPWP) Importir berdasarkan data yang diberikan
+oleh kantor pajak kepada wajib pajak sebagai sarana dalam
+administrasi perpajakan yang dipergunakan sebagai tanda
+pengenal diri atau identitas wajib pajak dalam melaksanakan
+hak dan kewajiban perpajakannya.
+
+Dalam hal importir tidak memiliki NPWP, importir dapat
+mengisikan data KTP atau Paspor atau identitas lainnya yang
+merupakan tanda pengenal importir yang memuat nomor
+identitas, nama, jenis kelamin, umur/tanggal dan tempat lahir,
+
+dan alamat jelas Importir.
+
+smuncihkemenkeoucsiaf
