@@ -4,7 +4,12 @@ import pytesseract
 from tqdm import tqdm  # Import tqdm untuk progress bar
 
 def pdf_to_images_with_ocr(pdf_path, image_folder, text_folder):
-    images = convert_from_path(pdf_path)
+    try:
+        images = convert_from_path(pdf_path)
+    except Exception as e:
+        print(f"Error processing {pdf_path}: {e}")
+        return  # Skip this PDF if there's an error
+
 
     # Menggunakan tqdm untuk progress bar dalam memproses halaman PDF
     for page_number, image in tqdm(enumerate(images), desc=f"Processing {os.path.basename(pdf_path)}", total=len(images)):
@@ -26,7 +31,7 @@ def process_pdf_folder(pdf_folder, image_folder, text_folder):
     # Membuat folder tujuan jika belum ada
     if not os.path.exists(image_folder):
         os.makedirs(image_folder)
-    
+
     if not os.path.exists(text_folder):
         os.makedirs(text_folder)
 
@@ -37,8 +42,8 @@ def process_pdf_folder(pdf_folder, image_folder, text_folder):
         pdf_to_images_with_ocr(pdf_path, image_folder, text_folder)
 
 if __name__ == "__main__":
-    pdf_folder = "references"  # Folder PDF yang akan diproses
-    image_folder = "images"  # Folder untuk menyimpan gambar
-    text_folder = "texts"    # Folder untuk menyimpan teks hasil OCR
+    pdf_folder = "pdf_files"  # Folder PDF yang akan diproses
+    image_folder = "datasets/dataset_images"  # Folder untuk menyimpan gambar
+    text_folder = "datasets/dataset_texts"    # Folder untuk menyimpan teks hasil OCR
     
     process_pdf_folder(pdf_folder, image_folder, text_folder)
